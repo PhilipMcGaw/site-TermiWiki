@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gemma",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,9 +204,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e2926824bc5bb3b4",
+  "active": "5cfe9c05203c7afa",
   "lastOpenFiles": [
-    "gem.jpg",
+    "Media/gem.jpg",
     "TermiPeople/ben_a_lee.md",
     "area51_website.md",
     "zaphod.md",
