@@ -16,6 +16,12 @@ Essentially, this is a part-strewn battleground of things that have happened in 
 
 The ¿new? WikiHistory will only really work with your help if you can add pages about past and long-forgotten events, members and servers. TermiSoc has a long (if not proud) history during which many members and servers have been and gone.
 
+## TermiSoc today: CompSoc
+
+The historical TermiSoc has closed down. The University of Plymouth **Computer Society (CompSoc)** is today’s student computing community: a new society with a closely related purpose of bringing together students interested in computing, technology, projects, workshops, events and social life.
+
+This site is an archive of historical TermiSoc and a place to record the newer CompSoc story alongside it. Historical pages retain their original names and context; current society information, activities and committee records are collected in the CompSoc section below. The details and date of TermiSoc's closure are not yet known.
+
 # About
 
 Everything you might want to know, and probably a lot you don't, will be like taking a trip down a broken EEPROM.
@@ -23,10 +29,10 @@ Everything you might want to know, and probably a lot you don't, will be like ta
 - were TermiSoc? - About the Society
 - [Abridged History](the_abridged_history.md) - The story of TermiSoc (1991-2004)
 - [Prehistory](prehistory.md) - History before the Wiki's existence.
-- [Posthistory](posthistory.md) - History since TermiSoc's death
+- [Posthistory](posthistory.md) - Later history and revivals after TermiSoc closed
 
-- [termiexec](Glossary/termiexec.md) - The ~~current~~ executive committee
-- [termimember](Glossary/termimember.md) - The ~~current~~ cattle
+- [termiexec](Glossary/termiexec.md) - Historical executive committees
+- [termimember](Glossary/termimember.md) - Historical membership
 - [People](people.md) - Never-members that affected our lives 
 - [Glossary](glossary.md) - Terms and phrases created by TermiSoc
 
@@ -44,12 +50,12 @@ https://robosoc.org/ -- Welcome to the Official website of the robotics society,
 
 ![[Media/robotsoc.png]]
 
-# CompSoc
+# CompSoc — today’s computing community
 
 https://www.upsu.com/societies/compsoc/ 
 ## The Computer Society is a dynamic community dedicated to inspiring innovation, collaboration, and creativity among students.
 
-The Computer Society is back, and we're excited to kick things off again!
+CompSoc is the current University of Plymouth computing society, with its own committee and current programme of activity.
 
 We're a fun and motivated group of students passionate about tech, creativity, and building a welcoming community for everyone.
 
