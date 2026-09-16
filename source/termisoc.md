@@ -45,7 +45,11 @@ See [[geek_society]] for the subsequent history.
 
 Robotics Society, historically referred to as **RoboSoc**, was a separate society from TermiSoc. Contemporary University of Plymouth student records from 2012–2016 independently list membership of both societies.[^3][^4]
 
-See [[robotics_society]] for its history and relationship with the university's robotics activities.
+Later evidence shows the name **RoboSoc** still being used at Plymouth: a 2020 Students' Union honours listing names a student as a member of Techsoc and Robosoc, and a 2021 University publication describes RoboSoc reviving the humanoid robot Scott.[^5][^6] A 2022 Students' Union societies listing uses the form **Robotics (RoboSoc)**.[^7]
+
+These sources provide evidence of the same RoboSoc/Robotics Society name being used across the period, but they do **not by themselves establish uninterrupted organisational continuity** between the earlier society and the current society. The continuity question should therefore remain open unless further documentary evidence is found.
+
+See [[robotics_society]] for the evidence and current status.
 
 ## Sources
 
@@ -53,3 +57,6 @@ See [[robotics_society]] for its history and relationship with the university's 
 [^2]: University of Plymouth, *MedSoc 2018 Fresher's Booklet*, society listing, 2018, <https://www.readkong.com/page/medsoc-2018-fresher-s-booklet-7259962>.
 [^3]: Milutin Manojlovic, University of Plymouth profile, 2012–2016, listing "RoboSoc - Robotics Society (Treasurer)" and TermiSoc, <https://uk.linkedin.com/in/milutinmanojlovic>.
 [^4]: Elly Kensington, University of Plymouth profile, 2012–2016, describing membership of TermiSoc and RoboSoc and later service as TermiSoc treasurer, <https://uk.linkedin.com/in/ellykensington>.
+[^5]: University of Plymouth Students' Union, *Half Colours 2020*, listing Noah Harvey under "Techsoc and Robosoc", 15 May 2020, <https://www.upsu.com/news/article/upsu/Half-Colours-2020/>.
+[^6]: University of Plymouth, *Humanoid robot development: undergraduate viability study between CoppeliaSim and WeBots*, 2021, <https://web.socem.plymouth.ac.uk/secam/assets/posters/2021/10634586.pdf>.
+[^7]: University of Plymouth Students' Union, *Freshers Week 22: Societies Fair*, 2022, listing "Robotics (RoboSoc)", <https://www.upsu.com/ents/event/14716/>.
