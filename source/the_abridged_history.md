@@ -190,7 +190,7 @@ The election brought forth:
 - [Callaghan](TermiPeople/rob_callaghan.md) - Secretary
 - [Hatton](TermiPeople/pete_hatton.md) - Treasurer
 - [Langmead](TermiPeople/keith_langmead.md) - Technical Officer
-- [Marner](tiley_marner.md) - PR Officer
+- [Marner](TermiPeople/tiley_marner.md) - PR Officer
 - [Charrett](TermiPeople/alex.md) - Projects Officer
 
 The CS open-access staff usage of flux disappeared again after the summer of 1998, possibly due to the departure of some of the CS staff. (allegedly)
@@ -242,7 +242,7 @@ As far as I can remember, lots of socials, decent running machines, a TermiLan a
 The AGM of 2001 brought forward a new exec:
 - [Ward](TermiPeople/adam_ward.md) - President
 - [Pithouse](TermiPeople/david_pithouse.md) - PR Officer
-- [Swainsbury](james_swainsbury.md) - Treasurer
+- [Swainsbury](TermiPeople/james_swainsbury.md) - Treasurer
 - [Burrage](TermiPeople/sam_burrage.md) - Head Technical Officer 
 
 ## 2001
@@ -253,14 +253,14 @@ After lowering the membership to Â£1 and a good 40 members joining up, a few g
 ## 2002
 Everything kinda died, I left for my placement and lucky Ian 'pookey' Christian took over the running of the TermiSoc Boxes. In 2002 the exec stood as (without an AGM)
 - [Christian](TermiPeople/ian_christian.md) - President
-- [Z](theo_z.md) - Secretary 
+- [Z](TermiPeople/theo_z.md) - Secretary 
 
 Area51 and Esra died in this time, brought back to life by Pookey and Theo. Not much really happened, people got signed up a few pounds was made, some pints were drunk and a few websites were created.
 
 Now heres where it starts to get interesting again. Chap called Ryan Smith signed up in the first year and saw the 'potential' of TermiSoc. So during 2002 a new exec was formed
 - [Smith](TermiPeople/ryan_smith.md) - President
 - [Christian](TermiPeople/ian_christian.md) - Head Technical Officer
-- [Z](theo_z.md) - Secretary 
+- [Z](TermiPeople/theo_z.md) - Secretary 
 
 ## 2003
 Not much more happened, the server kept ticking over until September 2003 which bought in a new exec (without an AGM once again!)

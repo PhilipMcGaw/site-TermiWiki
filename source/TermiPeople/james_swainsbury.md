@@ -1,11 +1,11 @@
 ---
-title: "Tiley \"Rip\" Marner"
+title: "James \"geepster\" Swainsbury"
 source: dokuwiki
-source_path: "sites:termiwiki:tiley_marner"
+source_path: "sites:termiwiki:james_swainsbury"
 created: 2023-01-09
 tags:
+  - termimember
   - "termisoc"
-  - "pr_officer"
   - "relation"
   - "references"
 ---

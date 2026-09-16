@@ -224,7 +224,7 @@ tags:
 - [Treasurer](../treasurer.md) - [Hatton](../TermiPeople/pete_hatton.md)
 - [Secretary](../secretary.md) - [Callaghan](../TermiPeople/robert_callaghan.md)
 - [officer|Head Technical Officer](../tech_officer.md) - [Langmead](../TermiPeople/keith_langmead.md)
-- [Officer](../misc_exec.md) - [Marner](../tiley_marner.md)
+- [Officer](../misc_exec.md) - [Marner](../TermiPeople/tiley_marner.md)
 - [Officer](../misc_exec.md) - [Charrett](../TermiPeople/alex.md)
 
 ## 1997 - 1998
