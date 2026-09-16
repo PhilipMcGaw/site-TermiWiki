@@ -9,7 +9,7 @@ The repository is an **Obsidian vault used as the source for a Quartz static sit
 ## Repository structure
 
 - `source/` — canonical Obsidian vault and Markdown content.
-- `source/Media/` — referenced images and other media.
+- `source/media/` — referenced images and other media. **All media MUST be placed here.**
 - `source/TermiPeople/` — individual people profiles.
 - `source/Glossary/` — glossary and terminology pages.
 - `source/.obsidian/` — Obsidian configuration; change only when the vault configuration genuinely needs changing.
@@ -50,7 +50,8 @@ Rules:
 - Use ISO-style dates (`YYYY-MM-DD`) for dates in front matter.
 - Keep `tags` as a YAML list and avoid duplicate tags.
 - Do not invent `created` dates. Use the documented source date where known; otherwise leave the existing value alone.
-- Use Obsidian wikilinks for local media and content where that is already the repository convention, e.g. `![[Media/example.jpg]]`.
+- Use Obsidian wikilinks for local media and content where that is already the repository convention, e.g. `![[media/example.jpg]]`.
+- All newly added media MUST be stored under `source/media/`.
 - Use ordinary Markdown links for external websites and archived sources.
 - Do not introduce DokuWiki syntax into newly written content unless preserving an explicit historical source fragment.
 - If migrating old DokuWiki content, preserve useful provenance and normalise syntax only as far as necessary for Obsidian/Quartz.
@@ -60,7 +61,7 @@ Rules:
 - Follow existing filenames and directory conventions before introducing a new convention.
 - People belong in `source/TermiPeople/` when they are individual profile pages.
 - Glossary entries belong in `source/Glossary/` when they are terminology definitions or established glossary material.
-- Media belongs in `source/Media/`.
+- Media belongs in `source/media/`. **Do not create new `Media/` directories or place new media elsewhere.**
 - Do not create duplicate pages merely because a historical source used a different spelling or filename. Prefer aliases or redirects when appropriate.
 - Be conservative about renaming existing pages because filenames can affect incoming links, generated URLs, and historical references.
 
@@ -83,6 +84,7 @@ This is primarily a historical archive. Apply source criticism:
 - Preserve external archive links when they are evidence for historical claims.
 - Do not remove media merely because it appears old or unused without checking references.
 - Do not change media filenames casually; existing Markdown and historical references may depend on them.
+- New local media references MUST use the `source/media/` location and its corresponding Obsidian path, e.g. `![[media/example.jpg]]`.
 
 ## Scripts and build system
 
