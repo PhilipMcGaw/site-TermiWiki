@@ -14,9 +14,11 @@ Welcome to the [TermiSoc](termisoc.md): A WikiHistory, the site devoted to the p
 
 Essentially, this is a part-strewn battleground of things that have happened in the history of this society. it is being rebuilt from half-remembered memories… and what the internet archive managed to get.
 
-The ¿new? WikiHistory will only really work with your help if you can add pages about past and long-forgotten events, members and servers. TermiSoc has a long (if not proud) history during which many members and servers have been and gone.
+The ¿new? WikiHistory will only really work with your help if you can add pages about past and long-forgotten events, members and servers. TermiSoc has a long (if not proud) history during which many members and servers have been and gone. This TermiWiki is an [Obsidian](https://obsidian.md/) Vault on [GitHub](https://github.com/philipMcGaw/site-termiwiki), Please do the pull request thing.
 
 ## TermiSoc today: CompSoc
+
+![[Media/compsoc.jpg]]
 
 The historical TermiSoc has closed down. The University of Plymouth **Computer Society (CompSoc)** is today’s student computing community: a new society with a closely related purpose of bringing together students interested in computing, technology, projects, workshops, events and social life.
 
@@ -60,8 +62,6 @@ CompSoc is the current University of Plymouth computing society, with its own co
 We're a fun and motivated group of students passionate about tech, creativity, and building a welcoming community for everyone.
 
 Whether you're into coding, games, problem-solving, or just curious to learn something new, you're more than welcome — the society is open to all skill levels and all courses, not just computer science.
-
-![[Media/compsoc.jpg]]
 
 I have joined the Discord Server to see if I can get some more details for this site and fill in the gaps in the history
 

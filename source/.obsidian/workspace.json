@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "time.md",
+                "file": "upsu_webcam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "time"
+              "title": "upsu_webcam"
             }
           }
         ]
@@ -166,8 +166,21 @@
               "icon": "lucide-list",
               "title": "Outline of TO-1552.F"
             }
+          },
+          {
+            "id": "6d27223384f7ba7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "upsu_webcam.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -193,6 +206,12 @@
   },
   "active": "e2926824bc5bb3b4",
   "lastOpenFiles": [
+    "kevin_w.md",
+    "kev_tsang.md",
+    "glossary.md",
+    "james_swainsbury.md",
+    "start.md",
+    "time.md",
     "tiley_marner.md",
     "things_to_consider.md",
     "theo_z.md",
@@ -213,12 +232,6 @@
     "prehistory.md",
     "posthistory.md",
     "plymouth_geeks.md",
-    "people.md",
-    "old_members.md",
-    "notes.md",
-    "myths_legends.md",
-    "misc_exec.md",
-    "member_noticesupdate-08-12-2006_15-30.md",
     "Glossary",
     "TermiPeople",
     "Media/ziggy.png",
