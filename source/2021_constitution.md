@@ -43,7 +43,7 @@ A. The officers of the society shall be:
 - [President](president.md)
 - [Secretary](secretary.md)
 - [Treasurer](treasurer.md)
-- [officer|Technical Officer](tech_officer.md)
+- [Technical Officer](tech_officer.md)
 - [exec#PR Officer](misc_exec.md)
 
 B. These shall constitute the committee. The committee shall be elected annually at the Annual General Meeting held in the spring term.
@@ -52,7 +52,7 @@ C. Only the officers of the society may be signatories, one of which must be the
 
 D. The names and contact points of the committee must be lodged with the Sports & Societies officer and kept up-to-date.
 
-E. The [President](president.md), [Secretary](secretary.md), [Treasurer](treasurer.md) and [officer|Technical Officer](tech_officer.md) (these are the key officers of the society) are able to create and dissolve non-key positions as the need arises. These decisions must be agreed upon by all key officers.
+E. The [President](president.md), [Secretary](secretary.md), [Treasurer](treasurer.md) and [Technical Officer](tech_officer.md) (these are the key officers of the society) are able to create and dissolve non-key positions as the need arises. These decisions must be agreed upon by all key officers.
 
 # 6 - Management
 A. This section shall hereafter be referred to as 'de Management'

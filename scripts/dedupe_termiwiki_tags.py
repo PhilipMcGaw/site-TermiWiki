@@ -57,6 +57,12 @@ def rewrite_media_paths(text: str) -> tuple[str, int]:
     return text.replace("Media/sites/termiwiki/", "Media/"), text.count("Media/sites/termiwiki/")
 
 
+def normalise_imported_link_labels(text: str) -> tuple[str, int]:
+    """Keep the display label from ``[legacy alias|display](target)`` links."""
+    pattern = re.compile(r"\[([^\]\n|]+)\|([^\]\n]+)\](\([^\n)]+\))")
+    return pattern.subn(r"[\2]\3", text)
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--write", action="store_true", help="apply changes")
@@ -70,6 +76,11 @@ def main() -> int:
         action="store_true",
         help="replace legacy Media/sites/termiwiki paths with Media paths",
     )
+    parser.add_argument(
+        "--normalise-link-labels",
+        action="store_true",
+        help="keep the display text after pipes in imported Markdown link labels",
+    )
     default_root = Path(__file__).resolve().parent.parent / "source"
     parser.add_argument("root", nargs="?", default=default_root)
     args = parser.parse_args()
@@ -81,11 +92,14 @@ def main() -> int:
         updated, removed = dedupe_tags(original)
         heading_changes = 0
         media_path_changes = 0
+        link_label_changes = 0
         if args.normalise_headings:
             updated, heading_changes = normalise_markdown_headings(updated)
         if args.rewrite_media_paths:
             updated, media_path_changes = rewrite_media_paths(updated)
-        if not removed and not heading_changes and not media_path_changes:
+        if args.normalise_link_labels:
+            updated, link_label_changes = normalise_imported_link_labels(updated)
+        if not removed and not heading_changes and not media_path_changes and not link_label_changes:
             continue
         changed_files += 1
         removed_tags += removed
@@ -96,6 +110,8 @@ def main() -> int:
             details.append(f"{heading_changes} heading(s)")
         if media_path_changes:
             details.append(f"{media_path_changes} media path(s)")
+        if link_label_changes:
+            details.append(f"{link_label_changes} link label(s)")
         print(f"{path}: {', '.join(details)}")
         if args.write:
             path.write_text(updated)

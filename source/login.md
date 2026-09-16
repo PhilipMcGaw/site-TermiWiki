@@ -26,7 +26,7 @@ It was intended to fortnightly show recorded every other Thursday. It is then us
 ## The Concept
 The concept behind the podcast was simple enough - get some geeks in a room and get ranting!
 
-Not to be confused with [mcgaw|Skippy's](TermiPeople/philip_mcgaw.md) 'VodCast' idea (dismissed on the grounds of not owning a video camera, and 'VodCast' being dismissed as a 'silly name' by [A'Lee|Ben A'Lee](TermiPeople/ben_a_lee.md), this idea was spawned whilst [A'Lee|Ben](TermiPeople/ben_a_lee.md), [Jeffery|Rich](TermiPeople/rich_jeffery.md) and [Cosser|Dan](TermiPeople/dan_cosser.md) were trying to sort out the society paperwork the day before it was meant to be handed in. Talk about procrastination!
+Not to be confused with [Skippy's](TermiPeople/philip_mcgaw.md) 'VodCast' idea (dismissed on the grounds of not owning a video camera, and 'VodCast' being dismissed as a 'silly name' by [Ben A'Lee](TermiPeople/ben_a_lee.md), this idea was spawned whilst [Ben](TermiPeople/ben_a_lee.md), [Rich](TermiPeople/rich_jeffery.md) and [Dan](TermiPeople/dan_cosser.md) were trying to sort out the society paperwork the day before it was meant to be handed in. Talk about procrastination!
 
 The podcast revolved around 3 areas:
 - The current things the show's cast were loving and hating;
@@ -35,10 +35,10 @@ The podcast revolved around 3 areas:
 
 Later segments included 'What are we using as a mic stand this week?' and 'Who's pretending to be Dan whilst he's off galavanting about the country?'. There were also one-off segments.
 
-Also, guests are freely invited to join in on the discussion, which included [Morris|Chris Morris](TermiPeople/chris_morris.md) and [Peter|Gemma Peter](TermiPeople/gemma_peter.md). Alas, no-one was interested enough in the podcast to ask to be a guest from outside TermiSoc.
+Also, guests are freely invited to join in on the discussion, which included [Chris Morris](TermiPeople/chris_morris.md) and [Gemma Peter](TermiPeople/gemma_peter.md). Alas, no-one was interested enough in the podcast to ask to be a guest from outside TermiSoc.
 
 # The Podcast
-The first LOGin podcast was recorded on Thursday the 24th of May 2007 in Rich's flat. Apart from hiccups from a low volume and plenty of 'umms' and 'errs' in regard to content, it went rather smoothly. It was presented by [Cosser|Dan Cosser](TermiPeople/dan_cosser.md), [Jeffery|Rich Jeffery](TermiPeople/rich_jeffery.md) and [A'Lee|Ben A'Lee](TermiPeople/ben_a_lee.md). [Harrison|Christine Harrison](TermiPeople/christine_harrison.md) also lent a hand.
+The first LOGin podcast was recorded on Thursday the 24th of May 2007 in Rich's flat. Apart from hiccups from a low volume and plenty of 'umms' and 'errs' in regard to content, it went rather smoothly. It was presented by [Dan Cosser](TermiPeople/dan_cosser.md), [Rich Jeffery](TermiPeople/rich_jeffery.md) and [Ben A'Lee](TermiPeople/ben_a_lee.md). [Christine Harrison](TermiPeople/christine_harrison.md) also lent a hand.
 
 Its intended release was on the weekend of the 25th, but due to a nasty flu that was going around and Rich wandering off somewhere for the weekend, it wasn't released until the 3rd of June. On the same day, the Podcast's website went online, but due to an error with the DNS wasn't widely available until a few days later.
 

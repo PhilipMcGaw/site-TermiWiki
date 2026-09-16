@@ -49,9 +49,9 @@ none added... check back soon!
 - Tutor : [Jeffery](TermiPeople/rich_jeffery.md)
 
 #### What's it about?
-[Jeffery|Rich](TermiPeople/rich_jeffery.md) did a practical presentation on how to edit in iMovie using the Mac labs in Babbage.
+[Rich](TermiPeople/rich_jeffery.md) did a practical presentation on how to edit in iMovie using the Mac labs in Babbage.
 
-As far as I remember, we had a game getting in due to us booking the room but not actually being allowed in because we didn't have the keycode. Luckily, [peter|Gem](TermiPeople/gemma_peter.md) had dated somebody who used the rooms and got us in.
+As far as I remember, we had a game getting in due to us booking the room but not actually being allowed in because we didn't have the keycode. Luckily, [Gem](TermiPeople/gemma_peter.md) had dated somebody who used the rooms and got us in.
 
 On a side note, we also gained about 4 extra members that night.
 

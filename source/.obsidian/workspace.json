@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zaphod.md",
+                "file": "TermiPeople/gemma_peter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zaphod"
+              "title": "gemma_peter"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gemma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,6 +207,10 @@
   },
   "active": "e2926824bc5bb3b4",
   "lastOpenFiles": [
+    "gem.jpg",
+    "TermiPeople/ben_a_lee.md",
+    "area51_website.md",
+    "zaphod.md",
     "tiley_marner.md",
     "tiley_marner.md.sb-00e1bca4-2dYQPk",
     "theo_z.md",
@@ -237,10 +242,6 @@
     "james_swainsbury.md",
     "james_swainsbury.md.sb-00e1bca4-muL89q",
     "how_and_why_to_encrypt_your_email.md",
-    "history.md",
-    "help.md",
-    "arthur.md",
-    "TermiPeople/adam_ward.md",
     "Glossary",
     "Media/ziggy.png",
     "Media/theo.jpg",

@@ -20,7 +20,7 @@ aka "sertorius", aka "the sober irishman", aka "get your hands off my girlfriend
 
 Positions held
 - 2008 - present - [Member](../member_noticesupdate-08-12-2006_15-30.md)
-- 2007 - 2008 - [Officer|Assistant Technical Officer](../tech_officer.md)
+- 2007 - 2008 - [Assistant Technical Officer](../tech_officer.md)
 - 2006 - 2007 - [Officer](../misc_exec.md)
 - keeper of the holy subway sign
 - Chief of the only-one-who-can-do-a-pullup division

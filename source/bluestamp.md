@@ -29,7 +29,7 @@ Yep, several members went off and tried starting up a company in which to do all
 After several abortive meetings to decide what BlueStamp would do (with unnamed people trying to add ridiculous ideas, people trying to take the discussions way, way ahead of where it should have been and more than one person lumping their company's assets in with ours), 2 years where nothing happened, and over £500 accrued in debts due to an issue involving who was filling in the tax return that year, the company was closed down in late 2008.
 
 ## Who was involved?
-The company was the brainchild of [Jeffery|Rich](TermiPeople/rich_jeffery.md) and [A'Lee|Ben](TermiPeople/ben_a_lee.md), with [peter|Gemma](TermiPeople/gemma_peter.md) chipping in from the start.
+The company was the brainchild of [Rich](TermiPeople/rich_jeffery.md) and [Ben](TermiPeople/ben_a_lee.md), with [Gemma](TermiPeople/gemma_peter.md) chipping in from the start.
 
 The company also had input from:
 - [McCaughan](TermiPeople/edward_mccaughan.md)

@@ -15,7 +15,7 @@ tags:
 A breeze block from Plymouth that was lost in the Great London Trip in January 2005. It was destined to have a promotional Morris|NanoHead (http://www.nanohead.tk) EP attached to it, along with biog, covered in stamps and shipped to [BreezeBlock](http://www.bbc.co.uk/radio1/dance/breezeblock/|The), a radio show on [Radio 1](http://www.bbc.co.uk/radio1/|BBC).
 
 ## What is the tale of The Breezeblock?
-Well, a long time ago, me ([Jeffery|Rich Jeffery](TermiPeople/rich_jeffery.md)) and [Morris|Chris Morris](TermiPeople/chris_morris.md), who calls himself Morris|NanoHead for musical reasons, decided to send a copy of his new EP 'Imperfect' to The Breezeblock attached to just that, a breezeblock. The idea was initially scrapped due to the overall weight and handling costs.
+Well, a long time ago, me ([Rich Jeffery](TermiPeople/rich_jeffery.md)) and [Chris Morris](TermiPeople/chris_morris.md), who calls himself Morris|NanoHead for musical reasons, decided to send a copy of his new EP 'Imperfect' to The Breezeblock attached to just that, a breezeblock. The idea was initially scrapped due to the overall weight and handling costs.
 
 However, a few weeks ago, I found I had to travel to London to see some exhibits for an art project, and invited him along. He, just finishing his EP in time for this, thought it would be oppertune to try and get a breezeblock to Radio 1. 
 

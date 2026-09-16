@@ -36,9 +36,9 @@ tags:
 
 I started in 2005 in Foundation Pathways in Technology: Computing and made a good start, however, brain cooties got to me around March and I dropped out. Thanks to extenuating circumstances I did manage to pass the majority of modules on the course, with the exception of Maths and the Project Module. 
 
-I had a difficult summer but stayed in Plymouth and decided not to return to studies, instead working for Orange as a call centre agent. In 2007 [A'Lee|Ben](ben_a_lee.md), [McCaughan|Ed](edward_mccaughan.md), [Cosser|Dan](dan_cosser.md) and myself decided to move in together, forming [termihouse2](../Glossary/termihouse2.md) at 5 Sea View Avenue. 
+I had a difficult summer but stayed in Plymouth and decided not to return to studies, instead working for Orange as a call centre agent. In 2007 [Ben](ben_a_lee.md), [Ed](edward_mccaughan.md), [Dan](dan_cosser.md) and myself decided to move in together, forming [termihouse2](../Glossary/termihouse2.md) at 5 Sea View Avenue. 
 
-This arrangement worked very well, even after Dan and Ed Moved out, replaced by [Peter|Gemma](gemma_peter.md) and [Bearman|Ross](ross_bearman.md), and later again replaced by Ed moving back to Plymouth! I did attempt to finish my course in 2007, however, personal issues again got the better of me.
+This arrangement worked very well, even after Dan and Ed Moved out, replaced by [Gemma](gemma_peter.md) and [Ross](ross_bearman.md), and later again replaced by Ed moving back to Plymouth! I did attempt to finish my course in 2007, however, personal issues again got the better of me.
 
 In November 2008 I an offer of a job in Preston, Lancashire from an old friend of mine, so I took this up, however, I only lasted there until May 2009. 
 

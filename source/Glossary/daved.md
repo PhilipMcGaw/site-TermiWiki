@@ -21,4 +21,4 @@ adjective:
 
 > having been daved by pithouse|Dave.
 
-Something that has been broken by [Pithouse|David Pithouse](../TermiPeople/david_pithouse.md) in an unique and special way, see also [linux](daved.md)
+Something that has been broken by [David Pithouse](../TermiPeople/david_pithouse.md) in an unique and special way, see also [linux](daved.md)

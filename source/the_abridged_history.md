@@ -82,7 +82,7 @@ In the beginning, there was darkness.
 ### Then, sometime in 1991…
 …the original Group Of Three formed the Terminal Society. Who were these people?
 - [james hickman](TermiPeople/james_hickman.md) - [President](president.md)
-- [marcus adams](TermiPeople/marcus_adams.md) - [officer|Technical Officer](tech_officer.md)
+- [marcus adams](TermiPeople/marcus_adams.md) - [Technical Officer](tech_officer.md)
 - [paul fletcher](TermiPeople/paul_fletcher.md) - [Treasurer](treasurer.md) / Bloke Who Was There?
 
 Details of this time are vague and have taken on almost mystical significance. Tales abound of a great processing engine, known only as The Cadmus which had been acquired by the Society. Rumoured to sound 'similar to Concorde taking off' due to its German engineering background, it was never successfully repaired (see - the Radio Shack, The Cadmus, [Simpkins](TermiPeople/andy_simpkins.md)).
@@ -99,14 +99,14 @@ From Freshers Faire 1992, there were a grand total of 12 members, many of whom w
 The Exec. now stood as follows:
 - [Hickman](TermiPeople/james_hickman.md) - [President](president.md) (2 years running? Blimey!)
 - [robert dymond](TermiPeople/robert_dymond.md) - [Secretary](secretary.md)
-- [Adams](TermiPeople/marcus_adams.md) - [officer|Technical Officer](tech_officer.md)
+- [Adams](TermiPeople/marcus_adams.md) - [Technical Officer](tech_officer.md)
 - [jon care](TermiPeople/jon_care.md) - [President](president.md)
 - [burridge](TermiPeople/andrew_burridge.md) - [exec#Social Secretary](misc_exec.md)
 
 Through various promotions, the society was able to push its membership into the low twenties, and thus survive being expunged from existence under Union rules.
 
 ### 1993
-Freshers Faire 1993 was an abject failure. Nothing happened - no one actually went to the Fair representing Society. Strangely, word got around that a [bbs|BBS](flux_bbs.md) existed here in Plymouth and a small group of users formed.
+Freshers Faire 1993 was an abject failure. Nothing happened - no one actually went to the Fair representing Society. Strangely, word got around that a [BBS](flux_bbs.md) existed here in Plymouth and a small group of users formed.
 - [Burridge](TermiPeople/andrew_burridge.md) - [President](president.md), [Secretary](secretary.md), [Treasurer](treasurer.md)
 - [Adams](TermiPeople/marcus_adams.md) - Technical Officer
 
@@ -116,14 +116,14 @@ Through a little coercion, some of the Hades users were convinced to join TermiS
 - [Burridge](TermiPeople/andrew_burridge.md) - [President](president.md)
 - [Bland](TermiPeople/paul_bland.md) - [Secretary](secretary.md)
 - [McLean](TermiPeople/alex.md) - [Treasurer](treasurer.md)
-- [Adams](TermiPeople/marcus_adams.md) - [officer|Technical Officer](tech_officer.md)
+- [Adams](TermiPeople/marcus_adams.md) - [Technical Officer](tech_officer.md)
 
 However, all was not well within the new exec. and factions were formed. Things came to a head and, unfortunately, there were changes.
 
 1993 Exec. (revised revision)
-- [Burridge](TermiPeople/andrew_burridge.md) - [President](president.md), [officer|Technical Officer](tech_officer.md)
-- [Bland](TermiPeople/paul_bland.md) - [Secretary](secretary.md), [officer|Technical Officer](tech_officer.md)
-- [McLean](TermiPeople/alex.md) - [Treasurer](treasurer.md), [officer|Technical Officer](tech_officer.md)
+- [Burridge](TermiPeople/andrew_burridge.md) - [President](president.md), [Technical Officer](tech_officer.md)
+- [Bland](TermiPeople/paul_bland.md) - [Secretary](secretary.md), [Technical Officer](tech_officer.md)
+- [McLean](TermiPeople/alex.md) - [Treasurer](treasurer.md), [Technical Officer](tech_officer.md)
 
 For the first time in recorded history, TermiSoc entered a budget request form, with which to buy its own machine. Plans were made for Freshers Faire 1994, and membership again exceeded 20 people. 
 
@@ -132,7 +132,7 @@ Freshers Faire 1994 was the first big Termisoc push to get members. There were s
 
 On the back of this mammoth success (over 30 members by the end of the evening) the Society was set for the year. Notable joiners included [alex allmont](TermiPeople/alex_allmont.md), [ashley pomeroy](TermiPeople/ashley_pomeroy.md) and some other people. 
 
-The Exec. attended its first Budget Review and convinced the Union to part with sufficient cash to buy a machine of its own. Within months, Termisoc's first machine, [Server|Area51](area51_server.md) was born. a massive 486 DX50 with 8MB of memory, it was a powerful machine (see Falling RAM Prices, Hardware Costs in 1994). Through a strange quirk of fate, the society was never billed for the components, a fact that to this day has never been explained.
+The Exec. attended its first Budget Review and convinced the Union to part with sufficient cash to buy a machine of its own. Within months, Termisoc's first machine, [Area51](area51_server.md) was born. a massive 486 DX50 with 8MB of memory, it was a powerful machine (see Falling RAM Prices, Hardware Costs in 1994). Through a strange quirk of fate, the society was never billed for the components, a fact that to this day has never been explained.
 
 The BBS software was changed as was the name: [BBS](flux_bbs.md) was born!
 
@@ -144,7 +144,7 @@ We don't talk about 1995… I don't know why
 1996 Exec.
 - Gould - [President](president.md)
 - [alex stanley](TermiPeople/alex_stanley.md) - [Secretary](secretary.md)
-- [McLean](TermiPeople/alex.md) - [officer|Technical Officer](tech_officer.md)
+- [McLean](TermiPeople/alex.md) - [Technical Officer](tech_officer.md)
 
 The above were the stable elements of the 1996 exec, however, the other positions did see a time of change.
 
@@ -176,7 +176,7 @@ The 1997 AGM yielded a new exec:
 And later another role was created:
 - [Childs](TermiPeople/ross_childs.md) - Projects Officer
 
-This new exec put in a budget again and got the money together for a third machine - Esra. [server|Area51](area51_server.md) was swapped to a new, more powerful machine, Prot became what was Area51 and Esra was to become the newly upgraded Prot.
+This new exec put in a budget again and got the money together for a third machine - Esra. [Area51](area51_server.md) was swapped to a new, more powerful machine, Prot became what was Area51 and Esra was to become the newly upgraded Prot.
 
 The 1997 Freshers Fayre was a storming success and 60ish members joined up on that evening alone. The following week a meeting was held in one of the Babbage lecture theatres where members were given booklets on how to use TermiSoc's services and disks containing shareware internet utilities.
 
@@ -208,11 +208,11 @@ At some time through the year, Tiley left the University, never to be seen again
 
 Freshers this year was marginally farcical. The plan was to have some exhibition scaffolding for our stand and have monitors hanging from it. However, due to our stand being moved, this became impossible due to a lack of ceiling clearance. Poor turnout on the day did not help matters.
 
-[server|Area51](area51_server.md) was upgraded to an enormous 20GB with 196 MB of memory!
+[Area51](area51_server.md) was upgraded to an enormous 20GB with 196 MB of memory!
 
 The most notable success of this exec was the purchase and setting up of the termisoc.org domain, finally removing/reducing our reliance on the planned demise plym.ac.uk domain (but that still hasn't happened). And it's most groovy too.
 
-The & Cornwall Linux Users' Group was founded in November 1999 ([https://www.dcglug.org.uk](https://www.dcglug.org.uk)) and hosted on [server|Area51](area51_server.md)). Always community-minded that we are.
+The & Cornwall Linux Users' Group was founded in November 1999 ([https://www.dcglug.org.uk](https://www.dcglug.org.uk)) and hosted on [Area51](area51_server.md)). Always community-minded that we are.
 
 The two notable changes in the exec during this time was the resignation of Jock, to be replaced by John 'Blindio' Murtha. And the departing of the University by Scott. It was decided that the projects role should be demised and the training and PR roles combined. Thus for the rest of the term, Marc was the PR & Training Officer.
 

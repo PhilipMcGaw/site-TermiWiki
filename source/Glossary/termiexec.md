@@ -98,9 +98,9 @@ tags:
 - [President](../president.md) -- [Woods](../TermiPeople/jamie_woods.md)
 - [Treasurer](../treasurer.md) -- [Akers](../TermiPeople/phil_akers.md)
 - [Secretary](../secretary.md) -- [Milner](../TermiPeople/eleanor_milner.md)
-- [Officer|Health and Safety](../safety_officer.md) -- [Eldred](../TermiPeople/harriet_eldred.md)
+- [Health and Safety](../safety_officer.md) -- [Eldred](../TermiPeople/harriet_eldred.md)
 - [Secretary](../misc_exec.md) -- [Burgess](../TermiPeople/michael_burgess.md)
-- [Officer|Technical Officer](../tech_officer.md) -- [trounce](../TermiPeople/callum_trounce.md)
+- [Technical Officer](../tech_officer.md) -- [trounce](../TermiPeople/callum_trounce.md)
 
 ### 2014 - 2015
 ### 2013 - 2014
@@ -111,7 +111,7 @@ tags:
 - [Treasurer](../treasurer.md) - [Tucker](../TermiPeople/roy_tucker.md)
 - [Secretary](../secretary.md) - [Aggett](../TermiPeople/georgie_aggett.md)
 - [Officer](../safety_officer.md) - [Charlton](../TermiPeople/nick_charlton.md)
-- [Officer|Head Technical Officer](../tech_officer.md) - [Starbuck](../TermiPeople/stewart_starbuck.md)
+- [Head Technical Officer](../tech_officer.md) - [Starbuck](../TermiPeople/stewart_starbuck.md)
 - [Officer#Assistant Technical Officer](../tech_officer.md) - [Bearman](../TermiPeople/ross_bearman.md)
 - [Officer#Assistant Technical Officer](../tech_officer.md) - [Van Gardingen](../TermiPeople/iain_van_gardingen.md)
 - [Secretary](../misc_exec.md) - [Aggett](../TermiPeople/georgie_aggett.md)
@@ -122,7 +122,7 @@ tags:
 - [Treasurer](../treasurer.md) - [Mcphee](../TermiPeople/sarah_mcphee.md)
 - [Secretary](../secretary.md) - [Tucker](../TermiPeople/roy_tucker.md)
 - [Officer](../safety_officer.md) - [Hunt](../TermiPeople/chris_hunt.md)
-- [Officer|Head Technical Officer](../tech_officer.md) - [Webber](../TermiPeople/gareth_webber.md)
+- [Head Technical Officer](../tech_officer.md) - [Webber](../TermiPeople/gareth_webber.md)
 - [Officer#Assistant Technical Officer](../tech_officer.md) - [Tucker](../TermiPeople/roy_tucker.md)
 - [Officer#Assistant Technical Officer](../tech_officer.md) - [A'Lee](../TermiPeople/ben_a_lee.md)
 - [Secretary](../misc_exec.md) - [Mcphee](../TermiPeople/sarah_mcphee.md)
@@ -133,7 +133,7 @@ tags:
 - [Secretary](../secretary.md) - [Pridham](../TermiPeople/sean_pridham.md)
 - [Secretary](../secretary.md) - [Jenkins](../TermiPeople/chris_jenkins.md)
 - [Officer](../safety_officer.md) - [Hunt](../TermiPeople/chris_hunt.md)
-- [Officer|Head Technical Officer](../tech_officer.md) - [Webber](../TermiPeople/gareth_webber.md)
+- [Head Technical Officer](../tech_officer.md) - [Webber](../TermiPeople/gareth_webber.md)
 - [Officer#Assistant Technical Officer](../tech_officer.md) - [Tucker](../TermiPeople/roy_tucker.md)
 - [Secretary](../misc_exec.md) - [Mcphee](../TermiPeople/sarah_mcphee.md) 
 
@@ -142,7 +142,7 @@ tags:
 - [Treasurer](../treasurer.md) - [Tucker](../TermiPeople/roy_tucker.md)
 - [Secretary](../secretary.md) - [A'Lee](../TermiPeople/ben_a_lee.md)
 - [Officer](../safety_officer.md) - [Notman](../TermiPeople/carl_notman.md)
-- [officer|Head Technical Officer](../tech_officer.md) - [A'Lee](../TermiPeople/ben_a_lee.md)
+- [Head Technical Officer](../tech_officer.md) - [A'Lee](../TermiPeople/ben_a_lee.md)
 - [Officer#Assistant Technical Officer](../tech_officer.md) - [McCaughan](../TermiPeople/edward_mccaughan.md)
 - [Secretary](../misc_exec.md) - [Hopton](../TermiPeople/damien_hopton.md) 
 
@@ -151,7 +151,7 @@ tags:
 - [Treasurer](../treasurer.md) - [Notman](../TermiPeople/carl_notman.md)
 - [Secretary](../secretary.md) - [A'Lee](../TermiPeople/ben_a_lee.md)
 - [Officer](../safety_officer.md) - [Kneller](../TermiPeople/seth_kneller.md)
-- [officer|Head Technical Officer](../tech_officer.md) - [A'Lee](../TermiPeople/ben_a_lee.md)
+- [Head Technical Officer](../tech_officer.md) - [A'Lee](../TermiPeople/ben_a_lee.md)
 - [Officer#Assistant Technical Officer](../tech_officer.md) - [Cosser](../TermiPeople/dan_cosser.md)
 - [Secretary](../misc_exec.md) - [Hopton](../TermiPeople/damien_hopton.md)
 - [Officer](../misc_exec.md) - [McGaw](../TermiPeople/philip_mcgaw.md)
@@ -163,7 +163,7 @@ tags:
 - [Secretary](../secretary.md) - [McGaw](../TermiPeople/philip_mcgaw.md)
 - [Officer](../safety_officer.md) - [Rainaldi](../TermiPeople/augusto_rainaldi.md)
 - [Officer](../safety_officer.md) - [Kneller](../TermiPeople/seth_kneller.md)
-- [officer|Head Technical Officer](../tech_officer.md) - [A'Lee](../TermiPeople/ben_a_lee.md)
+- [Head Technical Officer](../tech_officer.md) - [A'Lee](../TermiPeople/ben_a_lee.md)
 - [Officer#Assistant Technical Officer](../tech_officer.md) - [Cosser](../TermiPeople/dan_cosser.md) 
 
 ## 2004 - 2005
@@ -173,7 +173,7 @@ tags:
 - [Secretary](../secretary.md) - [Carter](../TermiPeople/dan_carter.md)
 - [Secretary](../secretary.md) - [A'Lee](../TermiPeople/ben_a_lee.md)
 - [Officer](../safety_officer.md) - [McGaw](../TermiPeople/philip_mcgaw.md)
-- [officer|Head Technical Officer](../tech_officer.md) - [Peter](../TermiPeople/gemma_peter.md)
+- [Head Technical Officer](../tech_officer.md) - [Peter](../TermiPeople/gemma_peter.md)
 - [Officer#Assistant Technical Officer](../tech_officer.md)- [Smith](../TermiPeople/ryan_smith.md) 
 
 ## 2003 - 2004
@@ -182,7 +182,7 @@ tags:
 - [Treasurer](../treasurer.md) - [Pearce](../TermiPeople/andrew_pearce.md)
 - [Secretary](../secretary.md) - [Pithouse](../TermiPeople/david_pithouse.md)
 - [Officer](../safety_officer.md) - [Jeffery](../TermiPeople/rich_jeffery.md)
-- [officer|Head Technical Officer](../tech_officer.md) - [Pithouse](../TermiPeople/david_pithouse.md) 
+- [Head Technical Officer](../tech_officer.md) - [Pithouse](../TermiPeople/david_pithouse.md) 
 
 ## 2002 - 2003
 - [President](../president.md) - [Christian](../TermiPeople/ian_christian.md)
@@ -190,22 +190,22 @@ tags:
 - [Secretary](../secretary.md) - theo zourzouvilly
 - [Officer](../safety_officer.md) - [Alex](../TermiPeople/alex.md) 
 - [Officer](../safety_officer.md) - [Jeffery](../TermiPeople/rich_jeffery.md)
-- [officer|Head Technical Officer](../tech_officer.md) - [Zourzouvillys](../TermiPeople/theo_zourzouvillys.md) 
+- [Head Technical Officer](../tech_officer.md) - [Zourzouvillys](../TermiPeople/theo_zourzouvillys.md) 
 
 ## 2001 - 2002
 - [President](../president.md) - [Ward](../TermiPeople/adam_ward.md)
 - [Treasurer](../treasurer.md) - [Swainsbury](../TermiPeople/sebastian_swainsbury.md)
 - [Treasurer](../treasurer.md) - [Pithouse](../TermiPeople/david_pithouse.md)
 - [Secretary](../secretary.md) - [Pithouse](../TermiPeople/david_pithouse.md)
-- [officer|Head Technical Officer](../tech_officer.md) - [Burrage](../TermiPeople/sam_burrage.md)
-- [officer|Head Technical Officer](../tech_officer.md) - [Pithouse](../TermiPeople/david_pithouse.md)
+- [Head Technical Officer](../tech_officer.md) - [Burrage](../TermiPeople/sam_burrage.md)
+- [Head Technical Officer](../tech_officer.md) - [Pithouse](../TermiPeople/david_pithouse.md)
 - [Officer](../misc_exec.md) - [Pithouse](../TermiPeople/david_pithouse.md)
 
 ## 2000 - 2001
 - [President](../president.md) - [Cowan](../TermiPeople/alistair_cowan.md)
 - [Treasurer](../treasurer.md) - [Kelly](../TermiPeople/malcolm_kelly.md)
 - [Secretary](../secretary.md) - [Ward](../TermiPeople/adam_ward.md)
-- [officer|Head Technical Officer](../tech_officer.md) - [Still](../TermiPeople/jon_still.md)
+- [Head Technical Officer](../tech_officer.md) - [Still](../TermiPeople/jon_still.md)
 - [Officer](../misc_exec.md) - [Hatton](../TermiPeople/pete_hatton.md)
 - [Officer](../misc_exec.md) - [Hatton](../TermiPeople/pete_hatton.md)
 
@@ -214,7 +214,7 @@ tags:
 - [Treasurer](../treasurer.md) - [Ellams](../TermiPeople/david_ellams.md)
 - [Secretary](../secretary.md) - [Murtha](../TermiPeople/john_murtha.md)
 - [Secretary](../secretary.md) - [Pettigrew](../TermiPeople/richard_pettigrew.md)
-- [officer|Head Technical Officer](../tech_officer.md) - [Charrett](../TermiPeople/alex.md)
+- [Head Technical Officer](../tech_officer.md) - [Charrett](../TermiPeople/alex.md)
 - [Officer](../misc_exec.md) - [Grenny](../TermiPeople/scott_grenny.md) / [Ashworth](../TermiPeople/marc_ashworth.md)
 - [Officer](../misc_exec.md) - [Ashworth](../TermiPeople/marc_ashworth.md)
 - [Officer](../misc_exec.md) - [Ashworth](../TermiPeople/marc_ashworth.md) 
@@ -223,7 +223,7 @@ tags:
 - [President](../president.md) - [Still](../TermiPeople/jon_still.md)
 - [Treasurer](../treasurer.md) - [Hatton](../TermiPeople/pete_hatton.md)
 - [Secretary](../secretary.md) - [Callaghan](../TermiPeople/robert_callaghan.md)
-- [officer|Head Technical Officer](../tech_officer.md) - [Langmead](../TermiPeople/keith_langmead.md)
+- [Head Technical Officer](../tech_officer.md) - [Langmead](../TermiPeople/keith_langmead.md)
 - [Officer](../misc_exec.md) - [Marner](../TermiPeople/tiley_marner.md)
 - [Officer](../misc_exec.md) - [Charrett](../TermiPeople/alex.md)
 
@@ -231,7 +231,7 @@ tags:
 - [President](../president.md) - [Powell](../TermiPeople/jeff_powell.md)
 - [Treasurer](../treasurer.md) - [Trevena](../TermiPeople/aaron_trevena.md)
 - [Secretary](../secretary.md) - [Charrett](../TermiPeople/alex.md)
-- [officer|Head Technical Officer](../tech_officer.md) - [Langmead](../TermiPeople/keith_langmead.md)
+- [Head Technical Officer](../tech_officer.md) - [Langmead](../TermiPeople/keith_langmead.md)
 - [Officer](../misc_exec.md) - [Alden](../TermiPeople/gareth_alden.md)
 - [Officer](../misc_exec.md) - [Childs](../TermiPeople/ross_childs.md)
 
@@ -239,20 +239,20 @@ tags:
 - [President](../president.md) - Gould
 - [Treasurer](../treasurer.md) - [Sloggett](../TermiPeople/steve_sloggett.md)
 - [Secretary](../secretary.md) - [Stanley](../TermiPeople/alex.md)
-- [officer|Head Technical Officer](../tech_officer.md) - [McLean](../TermiPeople/alex.md)
+- [Head Technical Officer](../tech_officer.md) - [McLean](../TermiPeople/alex.md)
 - [Officer](../misc_exec.md) - [Kidney](../TermiPeople/louise_kidney.md)
 
 ## 1995 - 1996
 - [President](../president.md) - Unknown
 - [Treasurer](../treasurer.md) - [Sloggett](../TermiPeople/steve_sloggett.md)
 - [Secretary](../secretary.md) - [Bland](../TermiPeople/paul_bland.md)
-- [officer|Head Technical Officer](../tech_officer.md) - [McLean](../TermiPeople/alex.md)
+- [Head Technical Officer](../tech_officer.md) - [McLean](../TermiPeople/alex.md)
 
 ## 1994 - 1995
 - [President](../president.md) - [Burridge](../TermiPeople/andrew_burridge.md)
 - [Treasurer](../treasurer.md) - [McLean](../TermiPeople/alex.md)
 - [Secretary](../secretary.md) - [Bland](../TermiPeople/paul_bland.md)
-- [officer|Head Technical Officer](../tech_officer.md) - [Burridge](../TermiPeople/andrew_burridge.md)/[Bland](../TermiPeople/paul_bland.md)/[McLean](../TermiPeople/alex.md) 
+- [Head Technical Officer](../tech_officer.md) - [Burridge](../TermiPeople/andrew_burridge.md)/[Bland](../TermiPeople/paul_bland.md)/[McLean](../TermiPeople/alex.md) 
 
 ## 1993 - 1994
 - [President](../president.md) - [Burridge](../TermiPeople/andrew_burridge.md)
@@ -260,19 +260,19 @@ tags:
 - [Treasurer](../treasurer.md) - [McLean](../TermiPeople/alex.md)
 - [Secretary](../secretary.md) - [Burridge](../TermiPeople/andrew_burridge.md)
 - [Secretary](../secretary.md) - [Bland](../TermiPeople/paul_bland.md)
-- [officer|Head Technical Officer](../tech_officer.md) - [Burridge](../TermiPeople/andrew_burridge.md)/[Bland](../TermiPeople/paul_bland.md)/[McLean](../TermiPeople/alex.md)
+- [Head Technical Officer](../tech_officer.md) - [Burridge](../TermiPeople/andrew_burridge.md)/[Bland](../TermiPeople/paul_bland.md)/[McLean](../TermiPeople/alex.md)
 
 ## 1992 - 1993
 - [President](../president.md) - [Hickman](../TermiPeople/james_hickman.md)
 - [Presidents](../president.md) - [Care](../TermiPeople/jon_care.md)
 - [Secretary](../secretary.md) - [Dymond](../TermiPeople/robert_dymond.md)
-- [officer|Head Technical Officer](../tech_officer.md) - [Adams](../TermiPeople/marcus_adams.md)
+- [Head Technical Officer](../tech_officer.md) - [Adams](../TermiPeople/marcus_adams.md)
 - [Secretary](../misc_exec.md) - [Burridge](../TermiPeople/andrew_burridge.md) 
 
 ## 1991 - 1992
 - [President](../president.md) - [Hickman](../TermiPeople/james_hickman.md)
 - [Treasurer](../treasurer.md) - [Fletcher](../TermiPeople/paul_fletcher.md)
-- [officer|Head Technical Officer](../tech_officer.md) - [Adams](../TermiPeople/marcus_adams.md)
+- [Head Technical Officer](../tech_officer.md) - [Adams](../TermiPeople/marcus_adams.md)
 
 ## TermiExec in Alphabetical order
 <!-- DokuWiki macro preserved: {{topic>sites:termiwiki:termiexec}} -->
