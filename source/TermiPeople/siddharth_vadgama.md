@@ -28,3 +28,7 @@ video games, board games, cards (poker mainly), music, movies, mechanical things
 Last Sighting
 
 Last seen saving the planet. 
+
+## On the internet
+
+- [LinkedIn — Siddharth "siddv" Vadgama](https://uk.linkedin.com/in/siddv)
