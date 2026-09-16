@@ -1,0 +1,150 @@
+# TermiWiki working rules
+
+## Purpose
+
+`site-TermiWiki` is the source and build repository for the historical TermiSoc Wiki, now extended to record the present-day University of Plymouth Computer Society (CompSoc) and related robotics-society material.
+
+The repository is an **Obsidian vault used as the source for a Quartz static site**. Treat the Markdown in `source/` as the authoritative content. `site/` is generated output and MUST NOT be edited by hand.
+
+## Repository structure
+
+- `source/` — canonical Obsidian vault and Markdown content.
+- `source/Media/` — referenced images and other media.
+- `source/TermiPeople/` — individual people profiles.
+- `source/Glossary/` — glossary and terminology pages.
+- `source/.obsidian/` — Obsidian configuration; change only when the vault configuration genuinely needs changing.
+- `scripts/` — build/deployment scripts, Quartz configuration templates, Apache configuration, and content-maintenance utilities.
+- `site/` — generated Quartz static site. Regenerate rather than editing directly.
+- `README.md` — repository-level orientation and deployment warning.
+
+## Source-of-truth rules
+
+1. MUST edit content in `source/`, not `site/`.
+2. MUST preserve existing historical material unless the task explicitly requests correction, removal, or restructuring.
+3. MUST distinguish historical evidence from later recollection, inference, and modern information.
+4. MUST NOT silently turn an uncertain historical claim into a fact.
+5. When adding factual historical material, preserve or add provenance where practical: source, date, archive URL, document, quotation, or other evidence.
+6. MUST keep historical TermiSoc and current CompSoc clearly distinguished. Do not imply that the current society is the same legal or organisational entity unless the evidence establishes that.
+7. Treat the existing content as a reconstruction/archives project. Gaps and uncertainty are legitimate information and should be recorded rather than invented away.
+
+## Markdown and front matter
+
+Use Markdown compatible with Obsidian and Quartz.
+
+Normal content pages SHOULD use YAML front matter where appropriate, following the existing pattern, for example:
+
+```yaml
+---
+title: "Page title"
+source: dokuwiki
+source_path: "sites:termiwiki:example"
+created: 2024-01-01
+tags:
+  - "termisoc"
+---
+```
+
+Rules:
+
+- Preserve existing front matter when editing a page unless there is a specific reason to change it.
+- Use ISO-style dates (`YYYY-MM-DD`) for dates in front matter.
+- Keep `tags` as a YAML list and avoid duplicate tags.
+- Do not invent `created` dates. Use the documented source date where known; otherwise leave the existing value alone.
+- Use Obsidian wikilinks for local media and content where that is already the repository convention, e.g. `![[Media/example.jpg]]`.
+- Use ordinary Markdown links for external websites and archived sources.
+- Do not introduce DokuWiki syntax into newly written content unless preserving an explicit historical source fragment.
+- If migrating old DokuWiki content, preserve useful provenance and normalise syntax only as far as necessary for Obsidian/Quartz.
+
+## Naming and organisation
+
+- Follow existing filenames and directory conventions before introducing a new convention.
+- People belong in `source/TermiPeople/` when they are individual profile pages.
+- Glossary entries belong in `source/Glossary/` when they are terminology definitions or established glossary material.
+- Media belongs in `source/Media/`.
+- Do not create duplicate pages merely because a historical source used a different spelling or filename. Prefer aliases or redirects when appropriate.
+- Be conservative about renaming existing pages because filenames can affect incoming links, generated URLs, and historical references.
+
+## Historical accuracy
+
+This is primarily a historical archive. Apply source criticism:
+
+- Separate contemporary evidence from retrospective recollection.
+- Record dates and provenance when available.
+- Attribute claims to their source when the claim is disputed, uncertain, or based on recollection.
+- Do not fabricate people, dates, committee positions, events, technical details, quotations, or organisational relationships.
+- If evidence conflicts, retain the conflict and explain it rather than choosing an unsupported answer.
+- When using web/archive evidence, prefer primary or contemporary sources where available.
+- For current society information, include a checked/retrieved date when useful because committee membership, URLs, events, and contact details can change.
+
+## Links and media
+
+- Check that new internal links point to actual pages.
+- Prefer stable local links over copied legacy URLs when the target exists in the vault.
+- Preserve external archive links when they are evidence for historical claims.
+- Do not remove media merely because it appears old or unused without checking references.
+- Do not change media filenames casually; existing Markdown and historical references may depend on them.
+
+## Scripts and build system
+
+The deployment script builds a temporary Quartz tree from `source/`, writes the result to `site/`, and then deploys it. It also uses `rsync --delete` against the production web root.
+
+Therefore:
+
+- MUST inspect the relevant script before changing build/deployment behaviour.
+- MUST NOT run or recommend the production deployment merely to test a content change.
+- MUST NOT add credentials, private keys, tokens, passwords, or other secrets to the repository.
+- Maintenance scripts SHOULD be deterministic, narrowly scoped, and safe to run in report/dry-run mode before writing where practical.
+- Existing migration/normalisation scripts deliberately handle legacy DokuWiki material. Extend them rather than creating competing one-off transformations when the operation is general and repeatable.
+- If changing a script, preserve its command-line behaviour unless the change explicitly requires an interface change.
+
+## Generated output
+
+`site/` is build output. It may be committed because this repository currently keeps source and generated output together, but:
+
+- Never hand-edit generated HTML, CSS, JavaScript, search indexes, or other Quartz output.
+- Regenerate `site/` from `source/` using the established build process when generated output needs updating.
+- If a change only affects source content, do not manually patch the generated result.
+- Be alert to stale generated output when reviewing commits.
+
+## Quartz configuration
+
+Quartz configuration is maintained in `scripts/termiwiki.quartz.config.ts` and `scripts/termiwiki.quartz.layout.ts` as templates for the build process.
+
+- Keep the site locale as `en-GB` unless there is an explicit reason to change it.
+- Preserve the existing Quartz plugin architecture unless a change is required.
+- Do not modify the shared Quartz installation in another repository as part of a TermiWiki content change.
+- If a Quartz change is required, make the TermiWiki-specific change in the repository template first and document any dependency on the external Quartz checkout.
+
+## Editing workflow for AI agents
+
+Before making changes:
+
+1. Inspect the relevant existing files and surrounding conventions.
+2. Determine whether the requested change belongs in `source/`, `scripts/`, `README.md`, or generated output.
+3. Check existing links, front matter, tags, aliases, and provenance before changing them.
+4. Prefer the smallest coherent change that solves the task.
+
+After making changes:
+
+1. Check Markdown/front matter syntax.
+2. Check internal links and media references affected by the change.
+3. Run an appropriate local validation/build if available and safe.
+4. Do not deploy to production unless deployment is explicitly requested.
+5. Summarise what changed, what was validated, and any remaining uncertainty.
+
+## Git workflow
+
+- Default branch is `main`.
+- Use focused commits with clear messages.
+- Do not rewrite history or force-push unless explicitly requested.
+- Avoid unrelated formatting churn.
+- When a task calls for a pull request, use a dedicated branch and keep the PR limited to the requested work.
+- Before updating an existing GitHub file, obtain its current blob SHA and update from that version to avoid overwriting concurrent changes.
+
+## Content style
+
+Use clear British English. Prefer concise factual prose over promotional language. For historical pages, retain distinctive original wording where it is part of the historical record, but distinguish quotations or preserved source text from newly authored commentary.
+
+## Important safety rule
+
+The deployment script contains production paths and performs a destructive `rsync --delete`. Treat deployment as a production operation, not as a build/test command. Building and validating the site locally MUST be separated from publishing it.
