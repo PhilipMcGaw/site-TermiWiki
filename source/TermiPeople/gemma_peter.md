@@ -22,7 +22,6 @@ tags:
 
 Gem's Instant Red Dwarf costume
 
-
 ![[gem.jpg]]Ickle Gem. Proof you should never let [Skippy](philip_mcgaw.md) in your home!
 ## Positions Held
 - 2006 - present - [Member](../member_noticesupdate-08-12-2006_15-30.md)
@@ -45,9 +44,9 @@ Gem on Google Streetview
 
 File:Gem_on_streetview.png
 ## On the Internets
-- Personal site
-- Twitter
-- [Facebook — Gemma Peter (HexDoll)](https://www.facebook.com/gemma.peter/)
+- [Personal site — currently unavailable](http://blog.gemmapeter.co.uk/)
+- [LinkedIn — Gemma Peter](https://www.linkedin.com/in/gemma-peter-2259498/)
+- [Facebook — Gemma Peter (HexDoll)](https://www.facebook.com/share/19Zh6KpJZm/?mibextid=wwXIfr)
 
 ## Quotes
 > (19:28:52) [hex42](gemma_peter.md) (to bearman|Sayyan): can you give us all TNT?
