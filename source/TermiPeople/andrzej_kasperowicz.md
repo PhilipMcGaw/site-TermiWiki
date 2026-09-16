@@ -1,0 +1,12 @@
+---
+title: "Andrzej Kasperowicz"
+source: dokuwiki
+source_path: "sites:termiwiki:andrzej_kasperowicz"
+created: 2023-01-04
+tags:
+  - "members"
+  - "termisoc"
+  - "relation"
+  - "references"
+---
+# Andrzej Kasperowicz

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ed3c8470ad8bf003",
+        "id": "f6810a491f66e1c2",
         "type": "tabs",
         "children": [
           {
-            "id": "986b9713e3d05736",
+            "id": "e2926824bc5bb3b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "babbage_building.md",
+                "file": "time.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "babbage_building"
+              "title": "time"
             }
           }
         ]
@@ -191,34 +191,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "986b9713e3d05736",
+  "active": "e2926824bc5bb3b4",
   "lastOpenFiles": [
-    "TermiPeople/thomas_sturges-allard.md",
-    "TermiPeople/theo_zourzouvillys.md",
-    "TermiPeople/stuart_wyatt.md",
-    "TermiPeople/stewart_starbuck.md",
-    "TermiPeople/steve_sloggett.md",
-    "TermiPeople/steve_renouf.md",
-    "TermiPeople/stephen_owen-jones.md",
-    "TermiPeople/siddharth_vadgama.md",
-    "TermiPeople/seth_kneller.md",
-    "TermiPeople/sebastian_swainsbury.md",
-    "TermiPeople/scott_grenny.md",
-    "TermiPeople/samayek_thapa.md",
-    "TermiPeople/sam_vincent.md",
-    "TermiPeople/sam_burrage.md",
-    "TermiPeople/ryan_smith.md",
-    "TermiPeople/ryan_chamberlain.md",
-    "TermiPeople/ruth_rouse.md",
-    "TermiPeople/roy_tucker.md",
-    "TermiPeople/ross_childs.md",
-    "TermiPeople/ross_bearman.md",
-    "TermiPeople/robert_engelfield.md",
-    "TermiPeople/robert_dymond.md",
-    "TermiPeople/robert_callaghan.md",
-    "TermiPeople/rob_callaghan.md",
-    "TermiPeople/richard_pettigrew.md",
-    "TermiPeople/rich_jeffery.md",
+    "tiley_marner.md",
+    "things_to_consider.md",
+    "theo_z.md",
+    "rob_stanton.md",
+    "quotes_database.md",
+    "systems.md",
+    "treasurer.md",
+    "tsnips.md",
+    "termichat.md",
+    "termiblog.md",
+    "tech_officer.md",
+    "sphere_vs.md",
+    "sinisteros.md",
+    "sidebar.md",
+    "secretary.md",
+    "safety_officer.md",
+    "president.md",
+    "prehistory.md",
+    "posthistory.md",
+    "plymouth_geeks.md",
+    "people.md",
+    "old_members.md",
+    "notes.md",
+    "myths_legends.md",
+    "misc_exec.md",
+    "member_noticesupdate-08-12-2006_15-30.md",
+    "Glossary",
     "TermiPeople",
     "Media/ziggy.png",
     "Media/theo.jpg",
@@ -237,7 +238,6 @@
     "Media/termihouse2.jpg",
     "Media/termi_coding_1.zip",
     "Media/security_policy.pdf",
-    "Media/security_policy.doc",
-    "Media/patw_-_2013.pdf"
+    "Media/security_policy.doc"
   ]
 }
