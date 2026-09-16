@@ -17,3 +17,7 @@ tags:
 ![[Media/alistair_cowan.jpg]]
 
 This page is just a stub, please expand it.
+
+## On the Internet
+
+- [LinkedIn — Alistair Cowan](https://uk.linkedin.com/in/alistaircowan)
