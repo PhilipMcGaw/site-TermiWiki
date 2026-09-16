@@ -18,3 +18,7 @@ tags:
 ![[Media/sebastian_swainsbury.gif]]
 
 This page is just a stub, please expand it.
+
+## On the Internet
+
+- [LinkedIn — Sebastian Swainsbury](https://uk.linkedin.com/in/sebastian-swainsbury)
