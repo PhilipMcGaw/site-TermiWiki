@@ -53,6 +53,8 @@ Rules:
 - Use Obsidian wikilinks for local media and content where that is already the repository convention, e.g. `![[media/example.jpg]]`.
 - All newly added media MUST be stored under `source/media/`.
 - Use ordinary Markdown links for external websites and archived sources.
+- Use **Markdown footnotes for references and citations**. Keep source URLs inside the footnotes rather than using inline reference URLs in the prose. Footnotes SHOULD identify the source, date, and document or page title sufficiently for historical source criticism.
+- Ordinary internal navigation links and local media links MAY use Obsidian wikilinks; these are not source citations.
 - Do not introduce DokuWiki syntax into newly written content unless preserving an explicit historical source fragment.
 - If migrating old DokuWiki content, preserve useful provenance and normalise syntax only as far as necessary for Obsidian/Quartz.
 
