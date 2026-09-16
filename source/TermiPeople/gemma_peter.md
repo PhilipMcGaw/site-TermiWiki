@@ -47,6 +47,7 @@ File:Gem_on_streetview.png
 - [Personal site — currently unavailable](http://blog.gemmapeter.co.uk/)
 - [LinkedIn — Gemma Peter](https://www.linkedin.com/in/gemma-peter-2259498/)
 - [Facebook — Gemma Peter (HexDoll)](https://www.facebook.com/share/19Zh6KpJZm/?mibextid=wwXIfr)
+- [X — @HexDoll](https://x.com/hexdoll)
 
 ## Quotes
 > (19:28:52) [hex42](gemma_peter.md) (to bearman|Sayyan): can you give us all TNT?
