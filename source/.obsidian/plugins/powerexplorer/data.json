@@ -1,0 +1,59 @@
+{
+  "orders": {
+    "/": [
+      "Media",
+      "start.md",
+      "2001_agm_mins.md"
+    ]
+  },
+  "unranked": "bottom",
+  "dragEnabled": true,
+  "sectionsLayout": false,
+  "desktopPane": "tree",
+  "sectionWidth": 240,
+  "lastSection": null,
+  "hidden": [],
+  "hideAttachments": false,
+  "collapsedGroups": [],
+  "expandedNbs": [],
+  "colors": {},
+  "pins": {
+    "/": [
+      "Home.md"
+    ]
+  },
+  "folderSort": {},
+  "icons": {},
+  "autoNotebookColors": true,
+  "phoneWideNav": true,
+  "alwaysEdit": false,
+  "rememberSettingsWindow": true,
+  "actionsInExplorerBar": false,
+  "explorerBarHidden": [],
+  "explorerBarCommands": [],
+  "explorerBarIcons": {},
+  "explorerBarOrder": [],
+  "phoneTopActions": false,
+  "phoneDrawerMenu": false,
+  "drawerMenuHidden": [],
+  "drawerMenuCommands": [],
+  "folderNoteGroups": true,
+  "showRecent": true,
+  "hidePhoneActions": true,
+  "searchEnabled": true,
+  "searchPdfs": true,
+  "searchImages": true,
+  "searchExclude": "",
+  "searchScope": "vault",
+  "searchCompact": true,
+  "pageTemplates": {},
+  "folderTemplates": {},
+  "templatesFolder": "",
+  "filenamePattern": "",
+  "askForAnswers": true,
+  "templateSeed": "",
+  "launcherFavorites": [],
+  "launcherOrder": {},
+  "welcomed": true,
+  "showNotifications": true
+}

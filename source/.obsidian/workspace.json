@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "ee7f504afbcebe38",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed3c8470ad8bf003",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "986b9713e3d05736",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "babbage_building.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "babbage_building"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d98debc1b3fe0b76",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eea07e8469c457f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cfe9c05203c7afa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ce828c378462b479",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0189184522cdf996",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f934a2af5fc2691f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffeaacb337038d19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "906c288be39515b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sites/termiwiki/back_to_pong.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a2f9df705236d956",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TO-1552 - ELEC - T264 Fuse Test/TO-1552.F.MP4",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TO-1552.F"
+            }
+          },
+          {
+            "id": "ccedab60885f0c68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d38e8626fc9fe2aa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "dc4647269debe5f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TO-1552 - ELEC - T264 Fuse Test/TO-1552.F.MP4",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TO-1552.F"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "powerexplorer:Power Explorer: Search everywhere": false,
+      "powerexplorer:Power Explorer: New page from template": false,
+      "powerexplorer:Power Explorer: Power apps launcher": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "986b9713e3d05736",
+  "lastOpenFiles": [
+    "TermiPeople/thomas_sturges-allard.md",
+    "TermiPeople/theo_zourzouvillys.md",
+    "TermiPeople/stuart_wyatt.md",
+    "TermiPeople/stewart_starbuck.md",
+    "TermiPeople/steve_sloggett.md",
+    "TermiPeople/steve_renouf.md",
+    "TermiPeople/stephen_owen-jones.md",
+    "TermiPeople/siddharth_vadgama.md",
+    "TermiPeople/seth_kneller.md",
+    "TermiPeople/sebastian_swainsbury.md",
+    "TermiPeople/scott_grenny.md",
+    "TermiPeople/samayek_thapa.md",
+    "TermiPeople/sam_vincent.md",
+    "TermiPeople/sam_burrage.md",
+    "TermiPeople/ryan_smith.md",
+    "TermiPeople/ryan_chamberlain.md",
+    "TermiPeople/ruth_rouse.md",
+    "TermiPeople/roy_tucker.md",
+    "TermiPeople/ross_childs.md",
+    "TermiPeople/ross_bearman.md",
+    "TermiPeople/robert_engelfield.md",
+    "TermiPeople/robert_dymond.md",
+    "TermiPeople/robert_callaghan.md",
+    "TermiPeople/rob_callaghan.md",
+    "TermiPeople/richard_pettigrew.md",
+    "TermiPeople/rich_jeffery.md",
+    "TermiPeople",
+    "Media/ziggy.png",
+    "Media/theo.jpg",
+    "Media/termisoc2015.jpg",
+    "Media/termisoc-logo.jpg",
+    "Media/termisoc-logo-small.jpg",
+    "Media/termisoc_login_05.mp3",
+    "Media/termisoc_login_04.mp3",
+    "Media/termisoc_login_03.mp3",
+    "Media/termisoc_login_02.mp3",
+    "Media/termisoc_login_01.mp3",
+    "Media/termisoc_lan.jpg",
+    "Media/termisoc_flyer2.jpg",
+    "Media/termisoc_flyer.jpg",
+    "Media/termisoc_carrot.jpg",
+    "Media/termihouse2.jpg",
+    "Media/termi_coding_1.zip",
+    "Media/security_policy.pdf",
+    "Media/security_policy.doc",
+    "Media/patw_-_2013.pdf"
+  ]
+}
