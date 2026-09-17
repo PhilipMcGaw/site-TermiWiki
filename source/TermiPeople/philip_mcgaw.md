@@ -46,6 +46,6 @@ His wider engineering interests include embedded systems, electronics, test auto
 Publicly documented as of September 2026: based in Banbury, UK, and working in EMC test engineering at Fortescue Zero.
 
 ## External Links
-- [PhilipMcGaw.com](https://PhilipMcGaw.com) - Personal website
+- [PhilipMcGaw.com](https://philipmcgaw.com) - Personal website`n- [Skippy.org.uk](https://skippy.org.uk) - Project site (currently redirects to PhilipMcGaw.com)
 - [LinkedIn](https://uk.linkedin.com/in/philipmcgaw) - Professional profile
 - [GitHub](https://github.com/PhilipMcGaw) - Open-source projects
