@@ -49,6 +49,11 @@ Running Windows Mobile 5. Works OK, but ends up full of bugs if left on for seve
 
 - [LinkedIn — Rich Jeffery](https://uk.linkedin.com/in/rich-jeffery-0a238b130)
 
+## Additional source
+
+The SlideServe presentation [*The Future of Video Gaming*](https://www.slideserve.com/quincy/the-future-of-video-gaming-powerpoint-ppt-presentation) identifies “Rich Jeffery President of TermiSoc” on its first slide.[^1] The 28 March 2019 SlideServe upload date is not treated as the original presentation date.
+
+[^1]: SlideServe, *The Future of Video Gaming*, retrieved 17 September 2026.
 ## Last Sighting
 
 Moved to Cardiff to seek out his fortune. A year later, he still had not found it.
