@@ -1,74 +1,73 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"files.exclude": {
-		},
-		"files.watcherExclude": {
-		},
-		"search.exclude": {
-		},
-		"editor.rulers": [88, 120],
-		"editor.trimAutoWhitespace": true,
-		"files.trimTrailingWhitespace": true,
-		"editor.wordWrap": "on",
-		"chat.tools.terminal.autoApprove": {
-			"mkdir": true,
-			"cp": true,
-			"true": true
-		},
-		"better-todo-tree.tree.hideCompletedItems": false,
-		"better-todo-tree.tree.defaultExpandedFolders": ["/"],
-		"better-todo-tree.highlights.highlightDelay": 500,
-		"better-todo-tree.regex": {
-			"default": "([^\\w\\s]|^)\\s*(TODO|FIXME|NOTE|HACK|BUG|XXX|ROADMAP)\\s*:?\\s*(.*)$"
-		},
-		"better-todo-tree.highlights": {
-			"TODO": {
-				"foreground": "#A6E3A1",
-				"type": "text"
-			},
-			"FIXME": {
-				"foreground": "#F38BA8",
-				"type": "text"
-			},
-			"BUG": {
-				"foreground": "#EBA0AC",
-				"type": "text"
-			},
-			"HACK": {
-				"foreground": "#F9E2AF",
-				"type": "text"
-			},
-			"NOTE": {
-				"foreground": "#89B4FA",
-				"type": "text"
-			},
-			"XXX": {
-				"foreground": "#EBA0AC",
-				"fontStyle": "bold",
-				"type": "text"
-			},
-			"ROADMAP": {
-				"foreground": "#CBA6F7",
-				"type": "text"
-			}
-		},
-		"better-todo-tree.tree.excludeFolders": [
-			"site",
-		]
-	},
-	"launch": {
-		"version": "0.2.0",
-		"configurations": []
-	},
-	"extensions": {
-		"recommendations": [
-			"openai.chatgpt",
-			"FanaticPythoner.better-todo-tree"
-		]
-	}
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {},
+    "files.watcherExclude": {},
+    "search.exclude": {},
+    "editor.rulers": [88, 120],
+    "editor.trimAutoWhitespace": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.wordWrap": "on",
+    "chat.tools.terminal.autoApprove": {
+      "mkdir": true,
+      "cp": true,
+      "true": true
+    },
+    "better-todo-tree.tree.hideCompletedItems": false,
+    "better-todo-tree.tree.defaultExpandedFolders": [
+      "/"
+    ],
+    "better-todo-tree.highlights.highlightDelay": 500,
+    "better-todo-tree.regex": {
+      "default": "([^\\w\\s]|^)\\s*(TODO|FIXME|NOTE|HACK|BUG|XXX|ROADMAP)\\s*:?\\s*(.*)$"
+    },
+    "better-todo-tree.highlights": {
+      "TODO": {
+        "foreground": "#A6E3A1",
+        "type": "text"
+      },
+      "FIXME": {
+        "foreground": "#F38BA8",
+        "type": "text"
+      },
+      "BUG": {
+        "foreground": "#EBA0AC",
+        "type": "text"
+      },
+      "HACK": {
+        "foreground": "#F9E2AF",
+        "type": "text"
+      },
+      "NOTE": {
+        "foreground": "#89B4FA",
+        "type": "text"
+      },
+      "XXX": {
+        "foreground": "#EBA0AC",
+        "fontStyle": "bold",
+        "type": "text"
+      },
+      "ROADMAP": {
+        "foreground": "#CBA6F7",
+        "type": "text"
+      }
+    },
+    "better-todo-tree.tree.excludeFolders": [
+      "site"
+    ]
+  },
+  "launch": {
+    "version": "0.2.0",
+    "configurations": []
+  },
+  "extensions": {
+    "recommendations": [
+      "openai.chatgpt",
+      "FanaticPythoner.better-todo-tree"
+    ]
+  }
 }
