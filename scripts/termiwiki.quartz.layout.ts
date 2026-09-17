@@ -16,20 +16,21 @@ TermiWikiStyles.css = `
     --retro-page-width: 960px;
     --retro-border: #b7b7b7;
     --retro-border-dark: #808080;
-    --retro-panel: #eeeeee;
-    --retro-panel-light: #f7f7f7;
-    --retro-link: #0000ee;
-    --retro-visited: #551a8b;
-    --retro-heading: #003366;
-    --retro-text: #222222;
+    /* Use Quartz's palette for surfaces and text so dark mode remains legible. */
+    --retro-panel: var(--lightgray);
+    --retro-panel-light: var(--light);
+    --retro-link: var(--secondary);
+    --retro-visited: var(--tertiary);
+    --retro-heading: var(--secondary);
+    --retro-text: var(--darkgray);
   }
 
   html {
-    background: #d6d6d6;
+    background: var(--lightgray);
   }
 
   body {
-    background: #d6d6d6;
+    background: var(--lightgray);
     color: var(--retro-text);
     font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 13px;
@@ -39,7 +40,7 @@ TermiWikiStyles.css = `
   #quartz-root {
     max-width: var(--retro-page-width);
     margin: 0 auto;
-    background: #ffffff;
+    background: var(--light);
     border-left: 1px solid var(--retro-border-dark);
     border-right: 1px solid var(--retro-border-dark);
     min-height: 100vh;
@@ -171,7 +172,7 @@ TermiWikiStyles.css = `
 
   blockquote {
     border-left: 3px solid var(--retro-border-dark);
-    background: #f5f5f5;
+    background: var(--retro-panel-light);
     margin-left: 0;
     padding: 0.4rem 0.8rem;
   }
@@ -198,7 +199,7 @@ TermiWikiStyles.css = `
   @media (max-width: 700px) {
     html,
     body {
-      background: #ffffff;
+      background: var(--light);
     }
 
     #quartz-root {
