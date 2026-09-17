@@ -1,8 +1,15 @@
-import { h } from "preact"
 import type { QuartzTransformerPlugin } from "./quartz/plugins/types"
 import type { QuartzPluginData } from "./quartz/plugins/vfile"
 
 type JsonLd = Record<string, unknown>
+
+type HastNode = {
+  type?: string
+  tagName?: string
+  properties?: Record<string, unknown>
+  children?: HastNode[]
+  value?: string
+}
 
 const PROFILE_HOSTS = new Set([
   "github.com",
@@ -110,7 +117,12 @@ function schemaForPage(fileData: QuartzPluginData, baseUrl: string): JsonLd | un
 
 /**
  * Captures external Markdown links after Quartz has rendered them, then emits
- * conservative per-page Schema.org JSON-LD through Quartz's supported head hook.
+ * conservative per-page Schema.org JSON-LD directly into the transformed HTML.
+ *
+ * Quartz's `externalResources().additionalHead` is for static head resources;
+ * it is not a per-page callback. Injecting the JSON-LD into the transformed
+ * HAST tree keeps the data page-specific while avoiding an invalid resource hook.
+ * JSON-LD script elements are valid in the document body as well as the head.
  */
 export const TermiWikiJsonLd: QuartzTransformerPlugin = () => ({
   name: "TermiWikiJsonLd",
@@ -120,12 +132,7 @@ export const TermiWikiJsonLd: QuartzTransformerPlugin = () => ({
         const links = new Set<string>()
         const visit = (node: unknown): void => {
           if (typeof node !== "object" || node === null) return
-          const element = node as {
-            type?: string
-            tagName?: string
-            properties?: { href?: unknown }
-            children?: unknown[]
-          }
+          const element = node as HastNode
           if (element.type === "element" && element.tagName === "a" && typeof element.properties?.href === "string") {
             const href = element.properties.href
             if (/^https?:\/\//.test(href)) links.add(href)
@@ -134,25 +141,23 @@ export const TermiWikiJsonLd: QuartzTransformerPlugin = () => ({
         }
         visit(tree)
         file.data.externalLinks = [...links]
+
+        const baseUrl = file.data.cfg?.configuration?.baseUrl
+        if (!baseUrl) return
+
+        const schema = schemaForPage(file.data, baseUrl)
+        if (!schema) return
+
+        const root = tree as HastNode
+        root.children ??= []
+        root.children.push({
+          type: "element",
+          tagName: "script",
+          properties: { type: "application/ld+json" },
+          children: [{ type: "text", value: serialise(schema) }],
+        })
       },
     ]
-  },
-  externalResources(ctx) {
-    const baseUrl = ctx.cfg.configuration.baseUrl
-    if (!baseUrl) return undefined
-    return {
-      additionalHead: [
-        (fileData) => {
-          const schema = schemaForPage(fileData, baseUrl)
-          return schema
-            ? h("script", {
-                type: "application/ld+json",
-                dangerouslySetInnerHTML: { __html: serialise(schema) },
-              })
-            : h("template", {})
-        },
-      ],
-    }
   },
 })
 
