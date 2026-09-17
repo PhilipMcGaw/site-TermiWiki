@@ -17,7 +17,9 @@ Retrieval date: 2026-09-17.
 - The same history records McLean and Ward's collaboration under the name **slub**, including their September 2000 performance at the Institute of Contemporary Arts and the development of the Generative Manifesto. Source: https://livecodingbook.toplap.org/book/
 - A 2000 paper, *The Aesthetics of Generative Code*, lists **Alex McLean, BSc**, with State51, London, alongside Geoff Cox of the University of Plymouth School of Computing and Adrian Ward. Source: https://studylib.net/doc/8062012/the-aesthetics-of-generative-code
 - McLean's own 2009 retrospective says that in 2000 he formed slub with Adrian Ward and worked as a Perl hacker; it also says he left guideguide for State51 in 2001. Source: https://slab.org/2009/12/31/2000-to-2009/
-- Searches specifically combining the name with `TermiSoc`, `termisoc.org`, `lug.termisoc.org`, `lists.termisoc.org`, Plymouth Linux, and Devon & Cornwall Linux User Group did **not** return an independent source connecting the live-coding Alex McLean to TermiSoc.
+- CPAN's historical author index identifies **FOOCHRE** and **YAXU** as Alex McLean, providing useful alias/identity continuity for searches of old Perl material. Source: https://ppm.activestate.com/CPAN/authors/00whois.html
+- A 2001 YAPC::Europe programme lists **“organizing sound with Perl by Alex McLean”**, confirming his participation in the Perl community during the relevant period. Source: https://www.yapceurope.org/2001/talks.html
+- McLean's archived site identifies him as the author of later live-coding work, including Tidal and forkbomb.pl. These later technical activities are identity-continuity evidence, not evidence of TermiSoc membership.
 
 ## Identity caution
 
@@ -36,6 +38,8 @@ Do not merge these identities without a further bridge.
 
 No independent web source found in this pass explicitly states that **Alex McLean was a TermiSoc member, officer, or organiser**.
 
+Additional searches using his historical Perl aliases **FOOCHRE** and **YAXU**, as well as known TermiSoc/D&C LUG infrastructure names (`termisoc.org`, `lug.termisoc.org`, `lists.termisoc.org`, `area51.termisoc.org`), produced no indexed match connecting him to TermiSoc or the surviving D&C LUG archive.
+
 The Facebook URL supplied by the user is therefore retained only as an identity lead. It is not treated as evidence of historical TermiSoc membership.
 
 The Plymouth Computing connection makes the live-coding Alex McLean historically relevant to the wider computing environment around TermiSoc, but it must not be upgraded into a TermiSoc relationship without further evidence.
@@ -44,6 +48,8 @@ The Plymouth Computing connection makes the live-coding Alex McLean historically
 
 The live-coding Alex McLean is a potentially important Plymouth computing alumnus from the same broad period as early TermiSoc and the Devon & Cornwall Linux User Group. His documented work with Perl and the Plymouth School of Computing's generative-code community makes him a plausible person to investigate further, but there is no direct TermiSoc evidence yet.
 
+The historical Perl aliases are particularly useful because a future archive search can now look for **FOOCHRE** and **YAXU**, rather than relying only on his real name.
+
 The absence of TermiSoc hits in this search is **not evidence that he was not a member**. It is an evidence gap only.
 
 ## Corroboration
@@ -51,6 +57,8 @@ The absence of TermiSoc hits in this search is **not evidence that he was not a 
 - University of Plymouth BSc Computing connection: later scholarly historical account.
 - 2000 *Aesthetics of Generative Code* paper: contemporary publication identifying McLean as BSc and placing the collaboration alongside Plymouth School of Computing staff.
 - McLean's own 2009 retrospective: first-person chronology of his 2000–2001 work.
+- CPAN author index: historical aliases FOOCHRE and YAXU.
+- YAPC::Europe 2001 programme: contemporary Perl-community participation.
 - Current Greater Plymouth Area LinkedIn result: useful only as a separate identity lead until a historical bridge is found.
 
 ## Open questions
@@ -61,6 +69,7 @@ The absence of TermiSoc hits in this search is **not evidence that he was not a 
 - Is there a connection between McLean and the Devon & Cornwall Linux User Group?
 - Can his Plymouth course dates and contemporaneous student material be established independently?
 - Does the user-supplied Facebook profile correspond to the live-coding Alex McLean, the current Greater Plymouth Area Alex McLean, or another person of the same name?
+- Can **FOOCHRE** or **YAXU** be recovered from the October 1999–October 2000 or November 2000–May 2001 D&C LUG archives through the archive's own search mechanism or an archived copy of its search results?
 
 ## Publication impact
 
