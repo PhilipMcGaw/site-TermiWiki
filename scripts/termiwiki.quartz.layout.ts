@@ -4,15 +4,212 @@ import type { QuartzComponent } from "./quartz/components/types"
 
 const TermiWikiStyles: QuartzComponent = () => null
 TermiWikiStyles.css = `
+  /*
+   * TermiSoc c.2006 visual reconstruction.
+   *
+   * This is deliberately an evidence-led period style rather than an exact
+   * reproduction of the original stylesheet. It uses the compact, fixed-width
+   * university/society web conventions common in the mid-2000s while retaining
+   * Quartz's responsive behaviour and accessibility.
+   */
+  :root {
+    --retro-page-width: 960px;
+    --retro-border: #b7b7b7;
+    --retro-border-dark: #808080;
+    --retro-panel: #eeeeee;
+    --retro-panel-light: #f7f7f7;
+    --retro-link: #0000ee;
+    --retro-visited: #551a8b;
+    --retro-heading: #003366;
+    --retro-text: #222222;
+  }
+
+  html {
+    background: #d6d6d6;
+  }
+
+  body {
+    background: #d6d6d6;
+    color: var(--retro-text);
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 1.45;
+  }
+
+  #quartz-root {
+    max-width: var(--retro-page-width);
+    margin: 0 auto;
+    background: #ffffff;
+    border-left: 1px solid var(--retro-border-dark);
+    border-right: 1px solid var(--retro-border-dark);
+    min-height: 100vh;
+  }
+
+  #quartz-body {
+    gap: 0.75rem;
+    padding: 0.75rem 1rem 1.5rem;
+  }
+
+  .page-header {
+    margin: 0 0 0.75rem;
+    padding-bottom: 0.45rem;
+    border-bottom: 1px solid var(--retro-border-dark);
+  }
+
+  .popover-hint {
+    max-width: none;
+  }
+
+  .popover-hint h1,
+  .popover-hint h2,
+  .popover-hint h3,
+  .popover-hint h4,
+  .popover-hint h5,
+  .popover-hint h6 {
+    color: var(--retro-heading);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 1.2;
+  }
+
+  .popover-hint h1 {
+    font-size: 1.55rem;
+    margin: 0.3rem 0 0.8rem;
+  }
+
+  .popover-hint h2 {
+    font-size: 1.25rem;
+    border-bottom: 1px solid var(--retro-border);
+    padding-bottom: 0.15rem;
+  }
+
+  .popover-hint h3 {
+    font-size: 1.05rem;
+  }
+
+  a {
+    color: var(--retro-link);
+    text-decoration: underline;
+  }
+
+  a:visited {
+    color: var(--retro-visited);
+  }
+
+  a:hover,
+  a:focus {
+    text-decoration: underline;
+  }
+
+  /* Keep navigation compact and rectangular rather than card-like. */
+  .sidebar,
+  .explorer,
+  .search,
+  .backlinks,
+  .graph {
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  .explorer {
+    border: 1px solid var(--retro-border);
+    background: var(--retro-panel-light);
+  }
+
+  .explorer .explorer-content {
+    font-size: 0.9rem;
+  }
+
+  .search-button,
+  button,
+  input,
+  textarea,
+  select {
+    border-radius: 0;
+  }
+
+  .search-button {
+    border: 1px solid var(--retro-border-dark);
+    background: var(--retro-panel);
+  }
+
+  .page-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+
+  .tags,
+  .tag-link {
+    border-radius: 0;
+  }
+
+  .tag-link {
+    border: 1px solid var(--retro-border);
+    background: var(--retro-panel);
+    padding: 0.1rem 0.3rem;
+    font-size: 0.8rem;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 0.92rem;
+  }
+
+  th,
+  td {
+    border: 1px solid var(--retro-border);
+    padding: 0.3rem 0.45rem;
+    vertical-align: top;
+  }
+
+  th {
+    background: var(--retro-panel);
+    text-align: left;
+  }
+
+  blockquote {
+    border-left: 3px solid var(--retro-border-dark);
+    background: #f5f5f5;
+    margin-left: 0;
+    padding: 0.4rem 0.8rem;
+  }
+
+  code,
+  pre {
+    border-radius: 0;
+  }
+
+  pre {
+    border: 1px solid var(--retro-border);
+  }
+
+  /* Historical person portraits retain the established TermiWiki treatment. */
   body[data-slug^="TermiPeople/"] .popover-hint img {
     float: right;
     width: 280px;
     max-width: 40%;
     height: auto;
     margin: 0 0 1rem 1.5rem;
+    border: 1px solid var(--retro-border);
   }
 
   @media (max-width: 700px) {
+    html,
+    body {
+      background: #ffffff;
+    }
+
+    #quartz-root {
+      width: 100%;
+      border: 0;
+    }
+
+    #quartz-body {
+      padding: 0.5rem;
+    }
+
     body[data-slug^="TermiPeople/"] .popover-hint img {
       float: none;
       display: block;
