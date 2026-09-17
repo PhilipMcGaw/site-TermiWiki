@@ -38,6 +38,9 @@ An April 2001 Linux Day announcement independently preserves the TermiSoc hostna
 
 A 2006 April Fools Day On The Web listing refers to TermiSoc moving three Linux servers to Windows Server 2003. This is secondary and humorous material and is **not** evidence of an actual migration, but it is consistent with the otherwise independently documented recollection that TermiSoc had three servers.
 
+## New image clue
+
+The 1997-98 executive page includes a portrait asset named Media/penf.gif in the executive image strip. Given Keith Langmead's documented "Penfold" alias, this is a strong contextual lead that the image is associated with him, but the filename alone does not prove the visual identification: **Low to Medium** confidence.
 ## Open questions
 
 - Establish Keith Langmead's University of Plymouth course and attendance dates.

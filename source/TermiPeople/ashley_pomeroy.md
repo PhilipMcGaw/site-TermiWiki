@@ -9,3 +9,5 @@ tags:
   - "references"
 ---
 # Ashley "Arp" Pomeroy
+
+The surviving historical material uses **Pomeroy** as the surname. The separate [[TermiPeople/ashley_pomery|Ashley Pomery]] page appears to be a misspelling or duplicate stub; see that page for the research note.
