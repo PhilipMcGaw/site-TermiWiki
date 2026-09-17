@@ -60,6 +60,7 @@ Agents MUST:
 - use Git history as the audit trail for substantive research changes;
 - avoid overwriting another contributor's work and obtain the current file version before updating a shared file;
 - prefer small, reviewable commits.
+- When a suitable remote and the required authority are available, push focused commits with helpful, specific messages after validating the changes. Do not force-push, rewrite history, or expose credentials. If pushing is unavailable, leave the local commit intact and report that limitation.
 
 No agent is authoritative merely because it produced a statement. Claims require evidence appropriate to the claim.
 
@@ -78,6 +79,12 @@ A research record SHOULD make it possible for another human or model to continue
 - links to related research records and published pages.
 
 Do not record hidden model reasoning. Record the evidence, conclusions, uncertainty, and reproducible research trail.
+
+At the end of every research lookup, save a concise record in the appropriate `research/` directory before reporting completion. The record MUST include the source and retrieval details, what the source directly establishes, interpretation, unresolved questions, and an explicit confidence level for each material conclusion. Use `High`, `Medium`, `Low`, or `Unverified`; confidence MUST reflect the quality and corroboration of the evidence, not the agent's subjective certainty.
+
+## Action tracking
+
+When recording future work, follow-up research, unresolved mapping, or other actionable items, use the TODO Tree markers configured in `termiwiki.code-workspace`: `TODO`, `ROADMAP`, `FIXME`, `BUG`, `HACK`, `XXX`, or `NOTE`, as appropriate. Prefer Markdown task checkboxes, for example `- [ ] TODO: verify this source` and `- [x] TODO: verify this source` when complete. Keep actionable items in the appropriate research or project-tracking page, rather than embedding them in historical source text. Do not use an unconfigured synonym such as `ACTION` when a TODO Tree marker is suitable.
 
 ## Markdown and front matter
 

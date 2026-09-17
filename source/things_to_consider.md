@@ -13,6 +13,8 @@ This document is part of the legacy of BlueStamp Technologies, and we believe it
 
 Aside from some formatting changes, as much of the original text and wild youthful enthusiasm has been preserved, for better or worse.
 
+> NOTE: The task list below is preserved historical material from 2006. Current TermiWiki actions are tracked in [research/TODO.md](../research/TODO.md) using the workspace TODO Tree markers.
+
 ---
 
 **Legend:**

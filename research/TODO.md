@@ -24,8 +24,11 @@ Use the `TODO` and `ROADMAP` markers below for open preservation and verificatio
 
 - [ ] ROADMAP: Preserve repository history and metadata for the TermiSoc GitHub organisation, beginning with `Nominations-Site`, `mailman-theme`, `termibot`, and `capturetheflag`. See [GitHub organisation research record](sources/2010-2018_termisoc_github_organisation.md).
 - [ ] TODO: Inspect the `SkyPi` repository through an alternate retrieval method; the GitHub API tree was unavailable during the initial review.
+- [ ] TODO: Map the GitHub account [`Fortnox`](https://github.com/Fortnox) to a person only if reliable evidence identifies the account owner.
+- [ ] TODO: Map the GitHub account [`Lonney`](https://github.com/Lonney) to a person only if reliable evidence identifies the account owner.
 
 ## Publication checks
 
 - [ ] TODO: Review research records with established evidence for possible promotion into `source/`, preserving footnote provenance and uncertainty.
 - [ ] TODO: Keep modern personal and social-profile links separate from historical claims, and review them periodically because they can change.
+- [ ] TODO: Check Wayback and historical domain records for `loupie.co.uk` to corroborate Ruth Rouse's former personal domain.

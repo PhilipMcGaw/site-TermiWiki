@@ -13,6 +13,8 @@ tags:
 This document appears to be the agenda to one of the first [BlueStamp](bluestamp.md) meetings we had towards the middle of our concept and doodlings.
 
 Not sure who's handiwork this is, but it may be McCaughan's.
+
+> NOTE: The action list below is preserved historical material from the 2006 meeting agenda. Current TermiWiki actions are tracked in [research/TODO.md](../research/TODO.md) using the workspace TODO Tree markers.
 ## blustamp meeting
 ### agenda
     actions

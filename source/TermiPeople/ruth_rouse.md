@@ -17,3 +17,4 @@ This page is just a stub, please expand it.
 
 - [Facebook — Loupie](https://www.facebook.com/Loupie)
 - [LinkedIn — Ruth Rouse](https://www.linkedin.com/in/ruth-rouse-039b30b/)
+- [Loupie.co.uk](http://loupie.co.uk) - Former personal domain
