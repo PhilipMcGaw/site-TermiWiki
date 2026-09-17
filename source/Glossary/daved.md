@@ -15,10 +15,10 @@ tags:
 
 verb
 
-> past participle of pithouse|Dave.
+> past participle of Dave.
 
-adjective: 
+adjective:
 
-> having been daved by pithouse|Dave.
+> having been daved by Dave.
 
-Something that has been broken by [David Pithouse](../TermiPeople/david_pithouse.md) in an unique and special way, see also [linux](daved.md)
+Something that has been broken by [David Pithouse](../TermiPeople/david_pithouse.md) in an unique and special way, see also [linux](daved_linux.md)

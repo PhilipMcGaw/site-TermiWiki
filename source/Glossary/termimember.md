@@ -20,3 +20,7 @@ New members are affectionately known as TermiNoobs, normally once they are less 
 Below is a list of those ex-members, who were more than just [people](../people.md).
 
 <!-- DokuWiki macro preserved: {{topic>sites:Termiwiki:termimember}} -->
+
+```query
+tag:#termimember
+```

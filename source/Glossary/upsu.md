@@ -10,4 +10,7 @@ tags:
   - "relation"
   - "references"
 ---
-The less we say about UPSU (University of Plymouth Students Union) the better…
+
+UP:SU is The University of Plymouth Students Union, however pronouncation is informaly up-su.
+
+The less we say about UPSU the better…

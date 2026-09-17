@@ -15,7 +15,6 @@ tags:
   - "seth_kneller"
   - "gemma_peter"
   - "ross_bearman"
-  - "termihouse3"
   - "media"
   - "termihouse2.jpg"
 ---
@@ -26,11 +25,11 @@ In 2007, following the not complete failure of [Termihouse](termihouse.md), Term
 The initial installation was:
 - [A'Lee](../TermiPeople/ben_a_lee.md)
 - [McCaughan](../TermiPeople/edward_mccaughan.md)
-- [Cosser](../TermiPeople/dan_cosser.md) 
+- [Cosser](../TermiPeople/dan_cosser.md)
 - [Kneller](../TermiPeople/seth_kneller.md)
 
-After a while [McCaughan](../TermiPeople/edward_mccaughan.md) and [Cosser](../TermiPeople/dan_cosser.md) Moved out, These people were replaced by 
+After a while [McCaughan](../TermiPeople/edward_mccaughan.md) and [Cosser](../TermiPeople/dan_cosser.md) Moved out, These people were replaced by
 - [Peter](../TermiPeople/gemma_peter.md)
 - [Bearman](../TermiPeople/ross_bearman.md)
 
-There are hints that there may have even been a TermiHouse3
+There is currently no identified evidence of a TermiHouse3.
