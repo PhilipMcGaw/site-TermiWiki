@@ -24,12 +24,28 @@ tags:
 - 2004 – 2004 - [Secretary](../secretary.md)
 - 2003 – 2004 - [Member](../Glossary/termimember.md)
 
-Random Jobless person; who likes cheese a bit too much
 ## Degree Undertaken
-- 2003–unfinished — BSc (Hons) Electrical and Electronic Systems Engineering 
+- 2003–unfinished — BSc (Hons) Electrical and Electronic Systems Engineering
+
+## Professional Career
+Philip McGaw is a British EMC and embedded systems engineer. His formal engineering experience has primarily focused on electromagnetic compatibility (EMC), including automotive and battery systems, EMC test engineering, regulatory compliance, facility design, test automation, and instrumentation.
+
+He currently works as **Lead Engineer – EMC Test (Batteries)** at **Fortescue Zero** in Banbury, UK.
+
+His wider engineering interests include embedded systems, electronics, test automation, robotics, open-source hardware and software, and remotely operated vehicles (ROVs). Personal projects have included Raspberry Pi and Arduino-based systems, robotics, and an experimental ROV platform.
+
+## Current Projects and Interests
+- Automotive and battery EMC testing, including CISPR 25 and ISO 11452.
+- EMC facility design and test automation.
+- Embedded electronics and instrumentation.
+- Open-source robotics and remotely operated vehicles.
+- Python, TypeScript, Vue, FastAPI, NATS, WebSockets, and ROS 2.
+- Engineering applications of artificial intelligence and large language models as productivity tools.
 
 ## Last Sighting
-Skippy was last seen in Yorkshire being given a Section 44 notice.
+Publicly documented as of September 2026: based in Banbury, UK, and working in EMC test engineering at Fortescue Zero.
+
 ## External Links
-- [https://Skippy.org.uk](https://Skippy.org.uk) - My Weblog site
-- [https://PhilipMcGaw.com](https://PhilipMcGaw.com) - My Weblog Site
+- [PhilipMcGaw.com](https://PhilipMcGaw.com) - Personal website
+- [LinkedIn](https://uk.linkedin.com/in/philipmcgaw) - Professional profile
+- [GitHub](https://github.com/PhilipMcGaw) - Open-source projects
