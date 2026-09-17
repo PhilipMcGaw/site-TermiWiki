@@ -36,18 +36,44 @@ Historical claims should retain their provenance. Sources are normally recorded 
 
 Person pages and other reconstructed material may therefore remain explicitly marked **DRAFT** while the research is incomplete. A missing date or uncertain committee role is preferable to an invented certainty.
 
+## Research corpus and collaboration
+
+The repository deliberately separates the **research corpus** from the **published Obsidian vault** so that people using different tools and LLMs can collaborate without making any particular model or conversation the project's source of truth.
+
+- `source/` — the curated Obsidian vault and published historical knowledge base.
+- `research/` — the shared archaeological evidence, source records, investigations, leads, and research logs.
+- `working/` — optional disposable scratch space for agents; it is not evidence and is not authoritative.
+- `AGENTS.md` — repository-wide rules for human and AI contributors.
+- `research/AGENTS.md` — rules specific to archaeological research.
+- `source/AGENTS.md` — rules specific to the curated Obsidian vault.
+
+Contributors MAY use Codex, ChatGPT, Claude, Gemini, local models, other agents, or no LLM at all. The repository and its Git history provide the shared project memory. Agents are expected to leave concise, reproducible research records rather than relying on private conversation history or unpublished model reasoning.
+
+A discovery should normally enter `research/` first. Once appropriately corroborated, it can be reflected in `source/`. This separation allows one contributor or model to investigate a claim while another challenges it, finds additional evidence, or decides that the published page should remain marked `DRAFT`.
+
+See [`research/README.md`](research/README.md) and the applicable `AGENTS.md` for the working method.
+
 ## Repository structure
 
-This repository is an **Obsidian vault published as a Quartz static site**.
+This repository is an **Obsidian vault published as a Quartz static site**, with a separate research corpus.
 
-- `source/` — the canonical Obsidian vault and historical research material.
+- `source/` — the canonical Obsidian vault and curated historical content.
 - `source/media/` — all referenced images and other media. New media MUST be placed here.
 - `source/TermiPeople/` — individual people profiles.
 - `source/Glossary/` — glossary and terminology pages.
+- `research/evidence/` — individual documentary evidence records.
+- `research/sources/` — source and archive records.
+- `research/people/` — person identification and association research.
+- `research/organisations/` — organisation and relationship research.
+- `research/infrastructure/` — domains, servers, hosting, mailing lists, BBSes, and technical systems.
+- `research/events/` — dated events and activities.
+- `research/leads/` — unresolved hypotheses and research targets.
+- `research/timelines/` — reconstructed chronology supported by evidence.
+- `research/decisions/` — documented research and editorial decisions.
 - `scripts/` — Quartz configuration, maintenance tools, and deployment configuration.
 - `site/` — generated static-site output. It MUST NOT be edited by hand.
 
-The `source/` vault is the source of truth. Quartz provides the published presentation and navigation layer; it does not replace the underlying research archive.
+The `source/` vault is the source of truth for published content. The `research/` corpus is the source of truth for the current state of the investigation. Quartz provides the published presentation and navigation layer; it does not replace either underlying layer.
 
 ## Visual reconstruction
 
