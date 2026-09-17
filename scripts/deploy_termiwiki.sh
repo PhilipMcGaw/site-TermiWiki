@@ -10,6 +10,7 @@ SITE_DIR="${SITE_DIR:-$PROJECT_DIR/site}"
 QUARTZ_DIR="${QUARTZ_DIR:-/Users/skippy/Git/robot-ChartRoom/quartz}"
 CONFIG_TEMPLATE="${CONFIG_TEMPLATE:-$SCRIPT_DIR/termiwiki.quartz.config.ts}"
 LAYOUT_TEMPLATE="${LAYOUT_TEMPLATE:-$SCRIPT_DIR/termiwiki.quartz.layout.ts}"
+JSONLD_TEMPLATE="${JSONLD_TEMPLATE:-$SCRIPT_DIR/termiwiki.jsonld.ts}"
 HTACCESS_TEMPLATE="${HTACCESS_TEMPLATE:-$SCRIPT_DIR/termiwiki.htaccess}"
 
 STAGE_DIR="$(mktemp -d "${TMPDIR:-/private/tmp}/termiwiki-stage.XXXXXX")"
@@ -21,7 +22,7 @@ trap cleanup EXIT
 
 echo "==> Building standalone TermiWiki"
 
-for required in "$NAMESPACE_DIR" "$MEDIA_DIR" "$QUARTZ_DIR" "$CONFIG_TEMPLATE" "$LAYOUT_TEMPLATE" "$HTACCESS_TEMPLATE"; do
+for required in "$NAMESPACE_DIR" "$MEDIA_DIR" "$QUARTZ_DIR" "$CONFIG_TEMPLATE" "$LAYOUT_TEMPLATE" "$JSONLD_TEMPLATE" "$HTACCESS_TEMPLATE"; do
     if [ ! -e "$required" ]; then
         echo "ERROR: Required path not found: $required" >&2
         exit 1
@@ -54,6 +55,7 @@ ln -s "$QUARTZ_DIR/node_modules" "$QUARTZ_BUILD_DIR/node_modules"
 cp "$QUARTZ_DIR/package.json" "$QUARTZ_BUILD_DIR/package.json"
 cp "$CONFIG_TEMPLATE" "$QUARTZ_BUILD_DIR/quartz.config.ts"
 cp "$LAYOUT_TEMPLATE" "$QUARTZ_BUILD_DIR/quartz.layout.ts"
+cp "$JSONLD_TEMPLATE" "$QUARTZ_BUILD_DIR/termiwiki.jsonld.ts"
 
 echo "==> Generating static site"
 rm -rf "$SITE_DIR"

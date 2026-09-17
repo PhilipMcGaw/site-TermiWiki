@@ -87,6 +87,12 @@ The site is built from the Obsidian vault using Quartz. Changes to the historica
 
 The repository also contains generated `site/` output because the current deployment arrangement keeps source and generated material together. Generated files should be regenerated from the source rather than edited directly.
 
+### Structured data
+
+`scripts/termiwiki.jsonld.ts` emits conservative Schema.org JSON-LD for every published page. It derives titles, descriptions, tags, and explicit frontmatter values from the source note; it also records external citations for articles and recognised public-profile links for people pages. Supported page types are `WebSite` for the home page, `Person` for `TermiPeople/`, `Article` for notes, and `CollectionPage` for tag and folder indexes.
+
+For a person’s personal website or profile on an unrecognised service, add a `sameAs` YAML list to that person’s frontmatter. This is intentionally explicit: ordinary citations and links are not automatically asserted to be the subject’s own profile.
+
 ### Publishing warning
 
 `scripts/deploy_termiwiki.sh` builds and publishes the site using `rsync --delete` against the production TermiSoc web root. **Do not run the deployment script merely to test a change.** Build and validate locally before publishing.
