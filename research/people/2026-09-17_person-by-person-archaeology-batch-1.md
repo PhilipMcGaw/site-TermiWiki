@@ -24,21 +24,31 @@ Source: FreeBSD questions mailing list, 18 February 2006.
 
 URL: https://lists.freebsd.org/pipermail/freebsd-questions/2006-February/113401.html
 
-Confidence: **High** for TermiSoc association and Tech Officer role in 2006.
+A separate 20 March 2005 Debian bug-mail archive result contains a message signed by `Ben` as `Termisoc Secretary: http://www.termisoc.org/`, with the same `benalee.co.uk` homepage. This provides earlier contemporaneous evidence that Ben A'Lee held the Secretary role in 2005.
+
+Source: Debian bug-mail archive, 20 March 2005.
+
+URL: https://www.mail-archive.com/search?f=1&l=debian-bugs-dist%40lists.debian.org&o=newest&q=date%3A20050320
+
+Confidence: **High** for TermiSoc association and for Ben A'Lee holding Secretary in 2005 and Tech Officer in 2006, subject to identity continuity being based on the matching homepage/signature.
 
 ### David Pithouse
 
-A current LinkedIn profile for David Pithouse states that he studied Computing and Informatics at Plymouth University from 2000–2004, specialising in query optimisation and data modelling outside relational models. This is useful identity/education corroboration for the David Pithouse named by the project owner, but the retrieved profile does not itself mention TermiSoc.
+A current LinkedIn profile for David Pithouse states that he studied Computing and Informatics at Plymouth University from 2000–2004, specialising in query optimisation and data modelling outside relational models. This is useful identity/education corroboration for the David Pithouse named by the project owner.
 
 Source: David Pithouse LinkedIn profile.
 
 URL: https://uk.linkedin.com/in/davidpithouse
 
-A separate people-directory result identifies a `David I Pithouse` in Plymouth, PL4, with an electoral-registration date of 2002. This is supporting identity context only and should not be treated as evidence of TermiSoc membership.
+A separately preserved copy of a PHP/MySQL tutorial presentation is explicitly titled `Comprehensive PHP and MySQL Tutorial for Beginners by David Pithouse` and describes the presenter as `David Pithouse Termisoc Secretary`. The transcript includes links into the historical TermiSoc infrastructure, including `phpmyadmin.termisoc.org` and `termisoc.org/~moose/tutorials`, and identifies the TermiSoc email address as `termisoc@termisoc.org`.
 
-URL: https://www.192.com/atoz/people/pithouse/
+Source: SlideServe, preserved presentation transcript.
 
-Confidence: **Medium** for identity/University of Plymouth chronology; **Unverified** for TermiSoc membership from independent public evidence in this pass.
+URL: https://www.slideserve.com/matteo/mysql-and-php-tutorial-powerpoint-ppt-presentation
+
+This is materially stronger than the current LinkedIn evidence because it is a preserved artefact of TermiSoc activity and explicitly names David Pithouse as Secretary. The current SlideServe publication date is not the historical presentation date, so the presentation itself should be treated as an undated historical artefact rather than dated 2025.
+
+Confidence: **High** for David Pithouse's TermiSoc association and Secretary role; **Medium** for the precise date of the tutorial artefact.
 
 ### Ross Bearman
 
@@ -73,6 +83,12 @@ Sources:
 - https://nickcharlton.net/posts/the-digital-peninsulas-first-web-unconference
 - https://nickcharlton.net/posts/termisoc-hack-weekend-2011
 
+Nick's site archive also retains both posts under a `termisoc` tag.
+
+Source: Nick Charlton, site tags.
+
+URL: https://nickcharlton.net/tags
+
 Confidence: **High** for TermiSoc association, offices, dates and first-person documentation of TermiSoc activities.
 
 ### Joe Earlam
@@ -93,13 +109,11 @@ Source: Siddharth Vadgama LinkedIn profile.
 
 URL: https://uk.linkedin.com/in/siddv
 
-A second LinkedIn result for the same named person gives the same University of Plymouth identity and later technical career context.
-
 Confidence: **High** for TermiSoc association, chairman role and 2009–2014 chronology.
 
 ### Sarah McPhee
 
-A current LinkedIn profile for Sarah McPhee states that she attended the University of Plymouth from 2006–2012 and has subsequent employment history in Plymouth and Nottinghamshire. The retrieved profile does not explicitly mention TermiSoc.
+A current LinkedIn profile for Sarah McPhee states that she attended the University of Plymouth from 2006–2012. The retrieved profile does not explicitly mention TermiSoc.
 
 Source: Sarah McPhee LinkedIn profile.
 
@@ -109,35 +123,33 @@ Confidence: **Medium** for University of Plymouth identity/chronology; **Unverif
 
 ### Gemma Peter
 
-A current LinkedIn result for Gemma Peter identifies a person in Plymouth working for NHBS, but the retrieved result does not expose University of Plymouth or TermiSoc information. A people-directory result lists a Gemma Peter in Plymouth with an electoral-registration range of 2002–2011, but this is not sufficient to establish identity or TermiSoc membership.
+A current LinkedIn result for Gemma Peter identifies a person in Plymouth working for NHBS, but the retrieved result does not expose University of Plymouth or TermiSoc information. A people-directory result was insufficient to establish identity or TermiSoc membership.
 
-Sources:
-- https://uk.linkedin.com/in/gemma-peter-a6788b169
-- https://www.192.com/atoz/people/outcodes/pl5/292/
+Source: https://uk.linkedin.com/in/gemma-peter-a6788b169
 
 Confidence: **Low/Unverified** for any TermiSoc-specific documentary claim from this pass.
 
 ### Dan Cosser
 
-A Stack Overflow profile for Dan Cosser identifies a Python web developer in Nottingham and shows activity dating from 2009 onward. A separate LinkedIn search result contains a recommendation explicitly naming `Dan Cosser` and references prior work in Plymouth, but the retrieved material does not independently connect him to TermiSoc.
+A Stack Overflow profile for Dan Cosser identifies a Python web developer in Nottingham and shows activity dating from 2009 onward. A separate LinkedIn result references prior work in Plymouth, but the retrieved material does not independently connect him to TermiSoc.
 
 Sources:
 - https://stackoverflow.com/users/128157/dan-cosser
 - https://uk.linkedin.com/in/danbjorn
 
-Confidence: **Low/Unverified** for TermiSoc association from independent public evidence in this pass. The name match is not by itself sufficient to disambiguate the person.
+Confidence: **Low/Unverified** for TermiSoc association from independent public evidence in this pass.
 
 ## Negative / unresolved searches
 
 The following names were searched in this batch without finding reliable TermiSoc-specific public evidence in the retrieved results: Ed McCaghan, Georgie Aggett, Stewart Starbuck, Chris Morris, and Chris Hunt. Some searches returned modern or unrelated people with the same names and were rejected as insufficiently discriminating.
 
-In particular, Stewart Starbuck has a strong current University of Plymouth professional presence as a Senior Technician in Digital Art & Technology, but the retrieved sources are modern and do not establish historical TermiSoc involvement. They should not be back-projected into the TermiSoc history without additional evidence.
+In particular, Stewart Starbuck has a strong current University of Plymouth professional presence, but the retrieved sources are modern and do not establish historical TermiSoc involvement. They should not be back-projected into the TermiSoc history without additional evidence.
 
 ## Interpretation
 
-This pass materially strengthens the documentary people register. The strongest independent evidence currently found is for Ben A'Lee, Ross Bearman, Nick Charlton, Joe Earlam and Siddharth Vadgama. Nick Charlton's personal website is particularly valuable because it preserves contemporaneous first-person descriptions of TermiSoc activities rather than merely listing membership retrospectively.
+This pass materially strengthens the documentary people register. The strongest independent evidence currently found is for Ben A'Lee, David Pithouse, Ross Bearman, Nick Charlton, Joe Earlam and Siddharth Vadgama. David Pithouse is particularly important because the preserved tutorial artefact connects a named officer directly to historical TermiSoc infrastructure. Nick Charlton's personal website is also particularly valuable because it preserves contemporaneous first-person descriptions of TermiSoc activities.
 
-The search also demonstrates that current professional profiles can preserve useful society membership and office information, but they vary considerably in evidential value. A current profile should be treated as a retrospective source unless it preserves a contemporaneous dated statement.
+Current professional profiles can preserve useful society membership and office information, but should generally be treated as retrospective sources unless they preserve contemporaneous dated material.
 
 The absence of public results for a person is not evidence that the person was not involved with TermiSoc. It is recorded only as an unresolved documentary gap.
 
@@ -161,12 +173,12 @@ These findings should feed the people register and individual person pages where
 
 ## Confidence summary
 
-- Ben A'Lee — **High**: contemporaneous TermiSoc Tech Officer signature.
+- Ben A'Lee — **High**: contemporaneous TermiSoc Secretary signature in 2005 and Tech Officer signature in 2006.
+- David Pithouse — **High**: preserved historical PHP/MySQL tutorial explicitly identifies him as TermiSoc Secretary and references TermiSoc infrastructure; exact presentation date remains unresolved.
 - Ross Bearman — **High**: explicit TermiSoc activity in University of Plymouth profile.
 - Nick Charlton — **High**: explicit office history plus contemporaneous first-person TermiSoc posts.
 - Joe Earlam — **High**: explicit TermiSoc activity in University of Plymouth profile.
 - Siddharth Vadgama — **High**: explicit chairman role in University of Plymouth profile.
-- David Pithouse — **Medium** for identity/University chronology; **Unverified** for independent TermiSoc evidence.
 - Sarah McPhee — **Medium** for University chronology; **Unverified** for independent TermiSoc evidence.
 - Gemma Peter — **Low/Unverified** for TermiSoc evidence.
 - Dan Cosser — **Low/Unverified** for TermiSoc evidence.
