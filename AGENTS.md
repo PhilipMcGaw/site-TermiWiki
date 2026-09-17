@@ -2,30 +2,82 @@
 
 ## Purpose
 
-`site-TermiWiki` is the source and build repository for the historical TermiSoc Wiki, now extended to record the present-day University of Plymouth Computer Society (CompSoc) and related robotics-society material.
+`site-TermiWiki` is a digital archaeology and preservation project documenting the history of TermiSoc, the University of Plymouth computing society, and the technical and social communities connected with it. It also records the later University of Plymouth computing-society landscape, including CompSoc, where relevant.
 
-The repository is an **Obsidian vault used as the source for a Quartz static site**. Treat the Markdown in `source/` as the authoritative content. `site/` is generated output and MUST NOT be edited by hand.
+The repository contains a canonical Obsidian vault, a separate research corpus, and generated Quartz output. Treat these as distinct layers. The Obsidian material in `source/` is the curated historical knowledge base. The material in `research/` is the shared evidence and investigation corpus. `site/` is generated output and MUST NOT be edited by hand.
 
 ## Repository structure
 
-- `source/` — canonical Obsidian vault and Markdown content.
+- `source/` — canonical Obsidian vault and curated historical content.
 - `source/media/` — referenced images and other media. **All media MUST be placed here.**
 - `source/TermiPeople/` — individual people profiles.
 - `source/Glossary/` — glossary and terminology pages.
-- `source/.obsidian/` — Obsidian configuration; change only when the vault configuration genuinely needs changing.
+- `research/` — shared research corpus, evidence, source records, investigations, leads, and research logs. This is deliberately separate from the Obsidian vault.
+- `research/evidence/` — individual documentary evidence records.
+- `research/sources/` — source and archive records, including provenance and access information.
+- `research/people/` — person identification and association research before or alongside publication.
+- `research/organisations/` — organisations, societies, groups, and their relationships.
+- `research/infrastructure/` — domains, servers, hosting, mailing lists, BBSes, software, and other technical infrastructure.
+- `research/events/` — events, AGMs, hack weekends, talks, competitions, and other dated activities.
+- `research/leads/` — unresolved hypotheses and investigation targets. A lead is NOT an established fact.
+- `research/timelines/` — reconstructed chronology supported by references to evidence records.
+- `research/decisions/` — research and editorial decisions, including the rationale for resolving or retaining uncertainty.
+- `working/` — optional disposable agent scratch space. It MUST NOT be treated as evidence or authoritative project knowledge.
 - `scripts/` — build/deployment scripts, Quartz configuration templates, Apache configuration, and content-maintenance utilities.
 - `site/` — generated Quartz static site. Regenerate rather than editing directly.
-- `README.md` — repository-level orientation and deployment warning.
+- `README.md` — repository-level orientation and contribution guidance.
 
 ## Source-of-truth rules
 
-1. MUST edit content in `source/`, not `site/`.
-2. MUST preserve existing historical material unless the task explicitly requests correction, removal, or restructuring.
-3. MUST distinguish historical evidence from later recollection, inference, and modern information.
-4. MUST NOT silently turn an uncertain historical claim into a fact.
-5. When adding factual historical material, preserve or add provenance where practical: source, date, archive URL, document, quotation, or other evidence.
-6. MUST keep historical TermiSoc and current CompSoc clearly distinguished. Do not imply that the current society is the same legal or organisational entity unless the evidence establishes that.
-7. Treat the existing content as a reconstruction/archives project. Gaps and uncertainty are legitimate information and should be recorded rather than invented away.
+1. `source/` is the canonical curated Obsidian knowledge base.
+2. `research/` is the shared archaeological evidence and investigation corpus.
+3. Research discoveries MUST normally be recorded in `research/` before being promoted into `source/`.
+4. Agents MUST NOT place unverified research directly into `source/` merely because it appears plausible.
+5. Agents MAY propose or make a corresponding `source/` update when the evidence is sufficiently established, but MUST preserve provenance and uncertainty where appropriate.
+6. `site/` is generated output and MUST NOT be hand-edited.
+7. `working/` is disposable scratch space and MUST NOT be cited as evidence or treated as project knowledge.
+8. MUST preserve existing historical material unless the task explicitly requests correction, removal, or restructuring.
+9. MUST distinguish historical evidence from later recollection, inference, and modern information.
+10. MUST NOT silently turn an uncertain historical claim into a fact.
+11. When adding factual historical material, preserve or add provenance where practical: source, date, archive URL, document, quotation, or other evidence.
+12. MUST keep historical TermiSoc and current CompSoc clearly distinguished. Do not imply that the current society is the same legal or organisational entity unless the evidence establishes that.
+13. Gaps and uncertainty are legitimate information and should be recorded rather than invented away.
+
+## Multi-agent and multi-LLM collaboration
+
+The repository is deliberately model-agnostic. Contributors MAY use Codex, ChatGPT, Claude, Gemini, local models, other agents, or no LLM at all. The repository, not any particular model or conversation, is the shared project memory.
+
+Agents MUST follow the applicable `AGENTS.md` files when working in a directory. Directory-specific rules refine these root rules; they MUST NOT contradict the source-of-truth rules above.
+
+Agents MUST:
+
+- read the relevant instructions before editing;
+- treat existing research records as evidence to inspect, not as unquestionable conclusions;
+- preserve provenance and distinguish direct evidence from interpretation;
+- record important new discoveries in `research/` so that other contributors and models can continue the investigation;
+- avoid putting transient chain-of-thought, private conversation context, credentials, or personal data into the repository;
+- record concise research conclusions, source references, unresolved questions, and useful next actions rather than private reasoning traces;
+- use Git history as the audit trail for substantive research changes;
+- avoid overwriting another contributor's work and obtain the current file version before updating a shared file;
+- prefer small, reviewable commits.
+
+No agent is authoritative merely because it produced a statement. Claims require evidence appropriate to the claim.
+
+## Research records
+
+A research record SHOULD make it possible for another human or model to continue the work without access to the original conversation. Where practical, record:
+
+- what was investigated;
+- the relevant person, organisation, event, or infrastructure;
+- the source and stable URL or archive reference;
+- source date and retrieval date where useful;
+- what the source directly establishes;
+- what is inferred rather than directly stated;
+- confidence or corroboration status where useful;
+- unresolved questions and useful next searches;
+- links to related research records and published pages.
+
+Do not record hidden model reasoning. Record the evidence, conclusions, uncertainty, and reproducible research trail.
 
 ## Markdown and front matter
 
@@ -57,15 +109,6 @@ Rules:
 - Ordinary internal navigation links and local media links MAY use Obsidian wikilinks; these are not source citations.
 - Do not introduce DokuWiki syntax into newly written content unless preserving an explicit historical source fragment.
 - If migrating old DokuWiki content, preserve useful provenance and normalise syntax only as far as necessary for Obsidian/Quartz.
-
-## Naming and organisation
-
-- Follow existing filenames and directory conventions before introducing a new convention.
-- People belong in `source/TermiPeople/` when they are individual profile pages.
-- Glossary entries belong in `source/Glossary/` when they are terminology definitions or established glossary material.
-- Media belongs in `source/media/`. **Do not create new `Media/` directories or place new media elsewhere.**
-- Do not create duplicate pages merely because a historical source used a different spelling or filename. Prefer aliases or redirects when appropriate.
-- Be conservative about renaming existing pages because filenames can affect incoming links, generated URLs, and historical references.
 
 ## Historical accuracy
 
@@ -148,7 +191,7 @@ When editing existing pages, correct incidental spelling, grammar, typography, c
 Before making changes:
 
 1. Inspect the relevant existing files and surrounding conventions.
-2. Determine whether the requested change belongs in `source/`, `scripts/`, `README.md`, or generated output.
+2. Determine whether the requested change belongs in `source/`, `research/`, `scripts/`, `README.md`, or generated output.
 3. Check existing links, front matter, tags, aliases, and provenance before changing them.
 4. Apply the language and house-style rules above to newly authored or materially edited prose.
 5. Prefer the smallest coherent change that solves the task.
