@@ -20,6 +20,8 @@ A good research record answers:
 
 The research corpus is intended to be usable by humans and by different LLM agents. Do not rely on any one model's conversation history as the project's memory.
 
+Open preservation and verification actions are tracked in [research/TODO.md](TODO.md) using the `TODO` and `ROADMAP` markers recognised by the workspace's Better TODO Tree extension.
+
 ## Evidence hierarchy
 
 Use source criticism rather than a numerical scoring system. Contemporary primary evidence is generally more direct than later recollection, while secondary directories and search results can still be useful leads. Record the nature and limitations of each source.

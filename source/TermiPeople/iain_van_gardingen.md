@@ -18,3 +18,4 @@ Iain van Gardingen, known as **Æon**, was a TermiSoc member and executive commi
 ## On the internet
 
 - [LinkedIn: Æon van Gardingen](https://www.linkedin.com/in/giantkiwi/)
+- [GitHub: Æon van Gardingen](https://github.com/GiantKiwi)

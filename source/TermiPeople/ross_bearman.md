@@ -23,8 +23,9 @@ tags:
 The historical TermiWiki record above is retained as archive material. Ross Bearman's public LinkedIn profile independently records Computer Science at the University of Plymouth from 2008 to 2011 and involvement with TermiSoc.[^1]
 
 ## Errata
-- Personal "Site" - http://rossbearman.co.uk
+- Personal site - https://rossbearman.co.uk
 - Twitter - http://twitter.com/rossbearman
+- GitHub - [Ross Bearman](https://github.com/rossbearman)
 - gpg: 0x79B6714F
 
 ## Source
