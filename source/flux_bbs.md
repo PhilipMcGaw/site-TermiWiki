@@ -15,6 +15,8 @@ The header image is preserved from the archived FluxBBS site. [^flux-header]
 
 # Flux BBS "If anyone wants to write about the worldwide project that was termisoc's high point, and the events that lead to it's departure from the termisoc servers, then please do."
 
+The recorded Flux BBS address is [https://www.fluxbbs.org/](https://www.fluxbbs.org/).[^flux-address]
+
 ## Alex McLean's memories
 Well, it's hard to talk about [BBS](flux_bbs.md), it was a meeting and discussion place for people, and most of those people no longer meet there anymore, and the memory of what they discussed has now faded. I really don't want to reduce its history to a list of software that it ran upon, and don't want to show up some romantic idea about what it was.
 
@@ -42,6 +44,8 @@ Flux was much loved and it was a sad day for both parties when it had to move aw
 
 ## More info
 If you want to learn more or see Flux for yourself, visit its new home over on [https://flux.a-squared.co.uk/](https://flux.a-squared.co.uk/). You can meet some ex-members and their kind. These people know a lot about computers and will even help you out with interesting problems if you're polite about the asking. Please don't feed the sysops, and make sure you're wearing shoes. 
+
+[^flux-address]: Flux BBS address supplied by the project maintainer, 17 September 2026. This identifies the recorded address; it does not assert that the service is currently reachable.
 
 ## Hades
 the Forerunner to Flux

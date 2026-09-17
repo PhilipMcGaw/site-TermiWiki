@@ -32,7 +32,7 @@ Internet Presences
 
 Website: http://zig13.termisoc.org
 Twitter: http://twitter.com/zig131
-Facebook: http://www.facebook.com/tsturgesallard
+Facebook: https://www.facebook.com/tsturgesallard/
 Steam: http://steamcommunity.com/id/Zig131
 
 # Computers

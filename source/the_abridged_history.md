@@ -2,6 +2,7 @@
 title: "The Abridged History"
 source: dokuwiki
 source_path: "sites:termiwiki:the_abridged_history"
+source_url: "https://web.archive.org/web/20101102190349/http://termisoc.org:80/wiki/The_Abridged_History"
 created: 2023-01-01
 tags:
   - "termisoc"

@@ -1,0 +1,10 @@
+{
+  "schema": "termiwiki-media-sidecar/v1",
+  "asset": "compsoc_committee_2026-27.pdf",
+  "sha256": "ee10bc9c5ab7c92fa71184a932109448ab5c1319e928c88904c8c02e4b6e0d33",
+  "mime_type": "application/pdf",
+  "pages": 7,
+  "source": { "platform": "LinkedIn", "publisher": "UoP Computer Society", "post_url": "https://www.linkedin.com/posts/uop-computer-society_meet-the-compsoc-committee-202627-activity-7505195194296844288-6vfV", "retrieved": "2026-09-15" },
+  "source_page": "compsoc_committee_2026-27.md",
+  "description": "Seven-page 2026/27 CompSoc committee announcement document."
+}

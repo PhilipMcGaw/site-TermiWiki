@@ -15,7 +15,7 @@ tags:
   - "misc_exec"
 ---
 # 1 - Name
-The name of the Society shall be "The Terminal Society (TermiSoc)" which shall hereafter be referred to as 'the society'.
+The name of the Society shall be "The Terminal Society (TermiSoc)" which shall hereafter be referred to as 'the society'. The text below is transcribed from an archived UPSU-hosted constitution.[^upsu-constitution]
 
 # 2 - Objects
 The object of the society is to provide a webspace and an e-mail service to the members, to provide technical help and support service. 
@@ -54,6 +54,10 @@ D. The names and contact points of the committee must be lodged with the Sports 
 
 E. The [President](president.md), [Secretary](secretary.md), [Treasurer](treasurer.md) and [Technical Officer](tech_officer.md) (these are the key officers of the society) are able to create and dissolve non-key positions as the need arises. These decisions must be agreed upon by all key officers.
 
+## Source
+
+[^upsu-constitution]: University of Plymouth Students’ Union, “The TermiSoc Constitution”, archived 2 March 1999. [Wayback Machine](https://web.archive.org/web/19990302050249id_/http://upsu.plym.ac.uk:80/termisoc/const.html)
+
 # 6 - Management
 A. This section shall hereafter be referred to as 'de Management'
 
@@ -86,4 +90,4 @@ This constitution is applicable only to the society and operates within the cons
 The society must abide by the relevant financial procedures of UPSU Constitution Ch.p. Sch.3.
 
 # 11 - Safety Police Statement
-The society must abide by the clubs & societies safety police statement and must produce a Code of Conduct for the society. 
+The society must abide by the clubs & societies safety police statement and must produce a Code of Conduct for the society.

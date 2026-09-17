@@ -1,0 +1,10 @@
+{
+  "schema": "termiwiki-media-sidecar/v1",
+  "asset": "compsoc_freshers_fair_2026.jpg",
+  "sha256": "352cee7327a94aa110a5e193f76cf004d68fb4d18a5fe23409e6c65a6bbd5503",
+  "mime_type": "image/jpeg",
+  "dimensions": { "width": 800, "height": 1134 },
+  "source": { "platform": "LinkedIn", "publisher": "UoP Computer Society", "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7505198696519647232/", "retrieved": "2026-09-15" },
+  "source_page": "compsoc_freshers_fair_2026.md",
+  "description": "Freshers' Fair invitation for 24 September 2026 in the Rolle Marquee."
+}

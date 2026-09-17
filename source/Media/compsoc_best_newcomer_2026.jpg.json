@@ -1,0 +1,11 @@
+{
+  "schema": "termiwiki-media-sidecar/v1",
+  "asset": "compsoc_best_newcomer_2026.jpg",
+  "sha256": "81d9ba4477088d45e773e00fc57caebd3d5721eb827c84bc9cdf7e3fb97e23d6",
+  "mime_type": "image/jpeg",
+  "dimensions": { "width": 800, "height": 600 },
+  "source": { "platform": "LinkedIn", "publisher": "UoP Computer Society", "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7462478674894733313/", "retrieved": "2026-09-15" },
+  "source_page": "compsoc_best_newcomer_2026.md",
+  "asset_index": 1,
+  "description": "First image from CompSoc's Best Newcomer of the Year announcement."
+}

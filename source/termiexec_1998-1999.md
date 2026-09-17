@@ -25,4 +25,8 @@ Alex is TermiSoc's Projects Officer. He's currently messing around with DNS and 
 Tiley is our Public Relations Officer. He can't think of anything to say right now - so much for PR… :)
 
 [Pete Hatton](TermiPeople/pete_hatton.md)
-Pete's our Treasurer so he spends most of his day wearing red braces and shouting "BUY" and "SELL" at people in a loud voice. Possibly.
+Pete's our Treasurer so he spends most of his day wearing red braces and shouting "BUY" and "SELL" at people in a loud voice. Possibly. The names and role descriptions on this page are transcribed from an archived UPSU TermiSoc page.[^upsu-1998-99]
+
+## Source
+
+[^upsu-1998-99]: University of Plymouth Students’ Union, “Who is TermiExec?”, archived 2 March 1999. [Wayback Machine](https://web.archive.org/web/19990302041416id_/http://www.upsu.plym.ac.uk:80/termisoc/9899exec.htm)

@@ -28,6 +28,8 @@ Gem's Instant Red Dwarf costume
 - 2005 - 2006 - [Liason Officer](../misc_exec.md) and Defiler of Virgins
 - 2004 - 2005 - Technical Officer and Webmistress
 
+An archived personal blog provides contemporary evidence of Gemma’s TermiSoc connection. In January 2005, she wrote that she had missed the “Termisoc guys” over Christmas; in February 2006, she wrote that she was preparing a TermiSoc Blender tutorial.[^gem-blog]
+
 Found lurking at a [DCLUG](../Glossary/dclug.md) meeting in February 2004 (touting her PlayStation 2 Linux Box), she was immediately grabbed as an Officer of TermiSoc without a second thought. Currently in the process of thinking about opening up a venue for TermiSoc members to lurk in at night. Bless.
 
 Is known to be randomly useful and often carries stuff such as duct tape and a multi-tool in her handbag. Fear the duct tape… (anyone still got that pic of [Seth](seth_kneller.md)?)
@@ -46,8 +48,12 @@ File:Gem_on_streetview.png
 ## On the Internets
 - [Personal site — currently unavailable](http://blog.gemmapeter.co.uk/)
 - [LinkedIn — Gemma Peter](https://www.linkedin.com/in/gemma-peter-2259498/)
-- [Facebook — Gemma Peter (HexDoll)](https://www.facebook.com/share/19Zh6KpJZm/?mibextid=wwXIfr)
+- [Facebook — Gemma Peter (HexDoll)](https://www.facebook.com/gemma.peter)
 - [X — @HexDoll](https://x.com/hexdoll)
+
+## Sources
+
+[^gem-blog]: Gemma Peter, [blog archive](https://web.archive.org/web/20060217214913id_/http://blog.gemmapeter.co.uk/), including “Back to Uni”, 9 January 2005, and “Pepsi Can”, 4 February 2006; accessed 17 September 2026.
 
 ## Quotes
 > (19:28:52) [hex42](gemma_peter.md) (to bearman|Sayyan): can you give us all TNT?

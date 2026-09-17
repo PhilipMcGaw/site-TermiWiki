@@ -38,6 +38,7 @@ Now our young traveller has moved on out into the big, wide world. Or Derriford,
 ## Public profile lead
 
 - [LinkedIn — Danbjorn](https://www.linkedin.com/in/danbjorn/)[^1]
+- [Facebook — Danbjorn](https://www.facebook.com/danbjorn)
 
 The supplied profile URL is retained as a later identity lead for Danbjorn. The existing TermiSoc profile and historical material remain the primary evidence for his TermiSoc roles; the LinkedIn page was not independently fetchable in this lookup.
 

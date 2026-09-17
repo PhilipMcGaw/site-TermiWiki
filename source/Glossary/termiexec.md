@@ -94,13 +94,19 @@ tags:
 
 ## Executive Committees Past
 ### 2015 - 2016
-![[Media/10313991_10206080068981128_2167474084051737465_n.jpg]]![[Media/termisoc2015.jpg]]
-- [President](../president.md) -- [Woods](../TermiPeople/jamie_woods.md)
-- [Treasurer](../treasurer.md) -- [Akers](../TermiPeople/phil_akers.md)
-- [Secretary](../secretary.md) -- [Milner](../TermiPeople/eleanor_milner.md)
-- [Health and Safety](../safety_officer.md) -- [Eldred](../TermiPeople/harriet_eldred.md)
-- [Secretary](../misc_exec.md) -- [Burgess](../TermiPeople/michael_burgess.md)
-- [Technical Officer](../tech_officer.md) -- [trounce](../TermiPeople/callum_trounce.md)
+![[media/10313991_10206080068981128_2167474084051737465_n.jpg]]
+
+*TermiSoc's 2015 executive committee, from a “Meet your Execs!” graphic posted on 22 March 2015.[^termiexec-2015-photo]*
+
+- Chairman — [Jamie Woods](../TermiPeople/jamie_woods.md)
+- Treasurer — [Phil Akers](../TermiPeople/phil_akers.md)
+- Secretary — [Eleanor “Elle” Milner](../TermiPeople/eleanor_milner.md)
+- Health and Safety — [Harriet Eldred](../TermiPeople/harriet_eldred.md)
+- BCS Liaison — Mike Jones
+- Technical Officer — [Callum Trounce](../TermiPeople/callum_trounce.md)
+- Events Secretary — [Michael “Ducky” Burgess](../TermiPeople/michael_burgess.md)
+
+[^termiexec-2015-photo]: TermiSoc, “Meet your Execs!” graphic, posted by Jamie Woods to the TermiSoc Facebook group, 22 March 2015. Image supplied by the project maintainer and published with permission.
 
 ### 2014 - 2015
 ### 2013 - 2014

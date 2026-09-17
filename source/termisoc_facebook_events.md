@@ -15,7 +15,7 @@ The Facebook group has no upcoming events. The following six past events were li
 
 | Date | Event | Group attribution |
 | --- | --- | --- |
-| 17 December 2016 | [Christmas 24hour LAN & Gaming Party](https://www.facebook.com/events/211941039245279/) | Shared by Matt Farrell |
+| 17 December 2016 | [[christmas_24hour_lan_2016\|Christmas 24hour LAN & Gaming Party]] | Shared by Matt Farrell |
 | 28 November 2015 | [Tasty Beat Shop - Free Party - Voodoo Lounge](https://www.facebook.com/events/1653931318214533/) | Shared by Harvey James Love |
 | 30 October 2015 | [Voodoo People - Halloween Party](https://www.facebook.com/events/1494604054183222/) | Shared by Harvey James Love |
 | 12 October 2015 | [BCS Student Chapter Talk](https://www.facebook.com/events/1495903150736160/) | Shared by Eleanor Milner |

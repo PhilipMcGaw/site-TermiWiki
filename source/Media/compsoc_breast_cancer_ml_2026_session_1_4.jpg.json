@@ -1,0 +1,5 @@
+{
+  "schema": "termiwiki-media-sidecar/v1", "asset": "compsoc_breast_cancer_ml_2026_session_1_4.jpg", "sha256": "6b47ab1636b5696d72788ed6d473d8fb3dd8bc935994e5576fab2f220154829b", "mime_type": "image/jpeg", "dimensions": { "width": 800, "height": 1066 },
+  "source": { "platform": "LinkedIn", "publisher": "UoP Computer Society", "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7458547272381849600/", "retrieved": "2026-09-15" }, "source_page": "compsoc_breast_cancer_ml_workshop_2026.md", "asset_index": 4,
+  "description": "Fourth image from the breast-cancer machine-learning workshop session-one report."
+}

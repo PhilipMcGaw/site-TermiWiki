@@ -35,4 +35,8 @@ Ross is the Projects Officer and as such is responsible for co-ordinating new an
 [Aaron Trevena](TermiPeople/aaron_trevena.md)
 Aaron is the treasurer and spends all our money for us (is that a good idea? - Alex?)
 
-See who else helped run TermiSoc…
+See who else helped run TermiSoc… The names and role descriptions on this page are transcribed from an archived UPSU TermiSoc page.[^upsu-1997-98]
+
+## Source
+
+[^upsu-1997-98]: University of Plymouth Students’ Union, “Who is TermiExec?”, archived 5 December 1998. [Wayback Machine](https://web.archive.org/web/19981205011627id_/http://upsu.plym.ac.uk:80/termisoc/9798exec.htm)

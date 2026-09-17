@@ -1,0 +1,5 @@
+{
+  "schema": "termiwiki-media-sidecar/v1", "asset": "compsoc_breast_cancer_ml_2026_session_2_announcement.jpg", "sha256": "3de9a88fc8af5caf1469a4379ccac3ffe7c734d7401e62c3cfa727c2eeef179c", "mime_type": "image/jpeg", "dimensions": { "width": 800, "height": 1000 },
+  "source": { "platform": "LinkedIn", "publisher": "UoP Computer Society", "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7459772456044498945/", "retrieved": "2026-09-15" }, "source_page": "compsoc_breast_cancer_ml_workshop_2026.md",
+  "description": "Announcement image for workshop session two, scheduled for 13 May 2026 in Rolle 114."
+}

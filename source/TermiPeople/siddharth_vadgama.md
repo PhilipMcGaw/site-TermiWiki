@@ -23,6 +23,7 @@ An older TermiWiki/DokuWiki page recorded him as Chairman from 2011 onwards, but
 
 - [GitHub - Siddharth Vadgama](https://github.com/siddv) - Public code profile
 - [Siddv.net](https://siddv.net) - Personal website
+- [Facebook — Siddharth Vadgama](https://www.facebook.com/siddv91)
 
 ## Sources
 

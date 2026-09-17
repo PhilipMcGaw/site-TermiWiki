@@ -94,6 +94,12 @@ Use one of:
 - `P2` — useful corroboration or likely identity resolution.
 - `P3` — exploratory / lower-yield search.
 
+## Latest crawl pass
+
+The public queue was reviewed on 17 September 2026. Existing records already cover the public username, asset, D&C LUG, forum, and committee-role work; the targeted role search produced no additional independently evidenced person or office date. See [public crawl pass — 17 September 2026](2026-09-17_public-crawl-pass.md).
+
+Authenticated Facebook and LinkedIn items remain `needs_manual_review`; they were not accessed in this pass. Historical asset recovery for `~j` and unresolved username identities remains `recheck`, pending a genuinely new archive, local backup, or contemporaneous lead.
+
 ---
 
 # Queue A — historical username space
@@ -293,6 +299,10 @@ mooseblaster
 
 The user is a member of the historical TermiSoc Facebook group. This access must be performed through an authorised browser/session when available.
 
+## Related specialist group
+
+- **TermiCraft** — <https://www.facebook.com/groups/termicraft/>. User identifies this as the Minecraft group. Treat it as a separate, authenticated source: first inventory its About, Files, Events, Media and targeted historical posts before downloading any material.
+
 ## Group searches
 
 ```text
@@ -335,6 +345,25 @@ Alex McLean
 Marc Flamank
 Keith Langmead
 ```
+
+## Current dated-committee leads
+
+Prioritise these people because supplied 2014–15 committee descriptions or executive graphics establish a dated TermiSoc role, but their historical pages are absent or incomplete. Search only for material that can corroborate the role, add a date, recover an event or service record, or identify a public profile with a clear bridge.
+
+```text
+Robbie Rowe — Secretary, September 2014
+George Coveney — Safety Officer, September 2014
+Lucy Farrell — 2014 fair-promotion post author
+Phil Akers — Treasurer, March and October 2015
+Eleanor Kate Milner / Elle Milner — Secretary, March and October 2015
+Harriet Eldred — Health and Safety, March and October 2015
+Callum Trounce — Technical Officer, March 2015
+Mike Jones — BCS Liaison, March 2015
+Michael "Ducky" Burgess — Events Secretary, March 2015
+Babatunde Benjamin — 2015 Gaming Society LAN-promotion post author
+```
+
+Do not use private membership alone to create public biographies. Keep uncorroborated identity bridges and Facebook routes in `research/`.
 
 Prioritise old posts, photographs, event announcements, committee discussions, website/server references, screenshots and posts/comments containing historical usernames or URLs.
 

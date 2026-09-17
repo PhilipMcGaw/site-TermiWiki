@@ -44,6 +44,12 @@ The group and related profiles are useful leads for identifying later members an
 - [TermiSoc LinkedIn group](https://www.linkedin.com/groups/5101011/)
 - [Mattsi Jansky](https://www.linkedin.com/in/mjjansky/)
 - [Danbjorn](https://www.linkedin.com/in/danbjorn/)
+
+## Computing & Gaming Society re-brand
+
+By 26 October 2016, the official TermiSoc Facebook group described itself as the group for the **Computing & Gaming Society (CGS), formerly TermiSoc**. It listed [[TermiPeople/jacob_gathercole|Jacob Gathercole]] as Chairman, [[TermiPeople/rachael_tordoff|Rachael Tordoff]] as Secretary, [[TermiPeople/matt_farrell|Matt Farrell]] as Treasurer, and Chris Brown as Safety Officer.[^9]
+
+This is direct evidence that CGS was the operating name at that point. The formal process and exact date of the re-brand remain unconfirmed. A later November 2016 group post and the December 2016 LAN event also use the CGS name.[^9]
 ## TermiSoc and Geek Society
 
 TermiSoc and Geek Society were separate societies until the final period of TermiSoc's history. On 22 February 2017, TermiSoc chairman Matt Farrell announced that TermiSoc was merging into Geek Soc. The announcement directed members to the Geek Soc annual general meeting and to the Students' Union arrangements for joining the society.[^1]
@@ -72,3 +78,4 @@ See [[robotics_society]] for the evidence and current status.
 [^6]: University of Plymouth, *Humanoid robot development: undergraduate viability study between CoppeliaSim and WeBots*, 2021, <https://web.socem.plymouth.ac.uk/secam/assets/posters/2021/10634586.pdf>.
 [^7]: University of Plymouth Students' Union, *Freshers Week 22: Societies Fair*, 2022, listing "Robotics (RoboSoc)", <https://www.upsu.com/ents/event/14716/>.
 [^8]: TermiSoc LinkedIn group description, retrieved 17 September 2026. The public description states that TermiSoc was the Plymouth University Computing and Technology Society, formerly the Computing Society, established in 1991, and offered member facilities. [LinkedIn group](https://www.linkedin.com/groups/5101011/)
+[^9]: TermiSoc Facebook-group description, 26 October 2016, transcription supplied by the project maintainer on 17 September 2026; and Matt Farrell, “Computing & Gaming Society”, TermiSoc Facebook group, 11 November 2016, transcription supplied by the project maintainer on 17 September 2026.

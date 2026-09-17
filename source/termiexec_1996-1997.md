@@ -26,4 +26,8 @@ Alex copy number one (with the eyebrows) is the secretary of Termisoc, and as su
 [Alex McLean](TermiPeople/alex_mclean.md)
 Alex copy number two is usually found surgically glued to a terminal somewhere in Babbage, fulfilling his role as Technical Officer, which is a good excuse to make sure [Area51](area51_server.md) and [Flux BBS](flux_bbs.md) run smoothly.
 
-See who else helped run TermiSoc…
+See who else helped run TermiSoc… The names and role descriptions on this page are transcribed from an archived UPSU TermiSoc page.[^upsu-1996-97]
+
+## Source
+
+[^upsu-1996-97]: University of Plymouth Students’ Union, “Who is TermiSoc?”, archived 9 February 1999. [Wayback Machine](https://web.archive.org/web/19990209200623id_/http://upsu.plym.ac.uk:80/termisoc/9697exec.htm)

@@ -20,6 +20,7 @@ This page is just a stub, please expand it.
 - [https://thisisthechris.co.uk](https://thisisthechris.co.uk) - Emails only
 - [https://controlledfrenzy.co.uk](https://controlledfrenzy.co.uk)
 - [GitHub - Chris Hunt](https://github.com/thisisthechris) - Public code profile
+- [Facebook — Christopher Hunt](https://www.facebook.com/thisisthechris)
  
 Positions Held
 - 2010–present — President

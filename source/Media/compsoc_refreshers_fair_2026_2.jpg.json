@@ -1,0 +1,11 @@
+{
+  "schema": "termiwiki-media-sidecar/v1",
+  "asset": "compsoc_refreshers_fair_2026_2.jpg",
+  "sha256": "d183ad4458e1c8569251a7b6a851358a21db78995dfcca346d5b8ef283bcb88c",
+  "mime_type": "image/jpeg",
+  "dimensions": { "width": 800, "height": 1067 },
+  "source": { "platform": "LinkedIn", "publisher": "UoP Computer Society", "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7421915989149319168/", "retrieved": "2026-09-15" },
+  "source_page": "compsoc_refreshers_fair_2026.md",
+  "asset_index": 2,
+  "description": "Second image from CompSoc's Refreshers' Fair report."
+}
