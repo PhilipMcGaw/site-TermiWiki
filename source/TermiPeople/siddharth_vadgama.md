@@ -1,34 +1,24 @@
 ---
 title: "Siddharth \"siddv\" Vadgama"
-source: dokuwiki
-source_path: "sites:termiwiki:siddharth_vadgama"
-created: 2023-01-02
+source: web
 tags:
   - "termimember"
+  - "termiexec"
   - "termisoc"
-  - "relation"
+  - "president"
+  - "draft"
   - "references"
 ---
 # Siddharth "siddv" Vadgama
 
-Positions Held
-- 2011–present — Chairman 
+> **DRAFT — historical profile requiring further corroboration**
 
-Degree Undertaken
-- 2009–2010 — BSc (Hons) Mechanical Design and Manufacture
-- 2010–2014 — BSc (Hons) Digital Art and Technology 
+## TermiSoc
 
-About Sidd
+Siddharth Vadgama studied at the University of Plymouth from 2009 to 2014. His public LinkedIn profile identifies **TermiSoc: Computing Society** among his university activities and gives his role as **Chairman**. [^1]
 
-Siddv was born in 1991 in London and lived in Ilford, Essex for 18 years until he miraculously didn't fail his A Levels and got into Plymouth University. He also doesn't write about himself in the third person very often.
-Likes
+An older TermiWiki/DokuWiki page recorded him as Chairman from 2011 onwards, but that date range is not currently supported by the contemporary source located in this research pass. It is therefore retained here only as a research lead, not as an established date range.
 
-video games, board games, cards (poker mainly), music, movies, mechanical things, the internet, bridges, playing the guitar, pretty much anything physical that can be tinkered with, and a bunch of other crap that I cannot be bothered to think of.
+## Sources
 
-Last Sighting
-
-Last seen saving the planet. 
-
-## On the internet
-
-- [LinkedIn — Siddharth "siddv" Vadgama](https://uk.linkedin.com/in/siddv)
+[^1]: Siddharth Vadgama, LinkedIn profile, University of Plymouth education entry, retrieved 2026-09-17. [LinkedIn profile](https://uk.linkedin.com/in/siddv)
