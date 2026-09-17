@@ -59,3 +59,13 @@ The current issue with TermiSoc Time is the 4th digit (ie: the 1) is only used f
     float bytes = seconds/84.375; 
     return(bytes);
   }
+
+## External references
+
+The following independent sources corroborate the existence and broad description of TermiSoc Time. They are secondary/reference sources rather than contemporaneous TermiSoc primary sources, so they should not be treated as independent evidence for the more specific details above, such as attribution to Ben and Rich or the implementation code.
+
+- [fr-academic.com — Heure Internet](https://fr-academic.com/dic.nsf/frwiki/777130/) — describes TermiSoc Time as devised by the University of Plymouth computing society and distinguishes its use of UTC and 1,024 units from Swatch Internet Time.
+- [Techno-Science — Heure Internet](https://www.techno-science.net/definition/3889.html) — independently preserves the same description of TermiSoc Time, including the UTC basis and 1,024-byte division of the day.
+- [New Country Projects Wiki — Swatch Internet Time](https://new-country-projects.fandom.com/wiki/Swatch_Internet_Time) — describes TermiSoc Time as a University of Plymouth Computing Society alternative using UTC rather than Biel Time and 1,024 'bytes' rather than 1,000 '.beats'.
+
+These references were checked during the 2026-09-17 external-source archaeology and are retained here as corroborating references, not as primary evidence.
