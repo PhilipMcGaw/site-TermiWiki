@@ -1,9 +1,10 @@
 ---
 type: evidence
-status: working
+status: active
 subject: "TermiSoc person-by-person archaeology — batch 2"
 date: 2026-09-17
 source_type: mixed-public-web
+confidence: "High for explicit alumni/role statements; Medium where only an alumni activity listing was found"
 ---
 
 # TermiSoc person-by-person archaeology — batch 2
@@ -81,9 +82,20 @@ Source:
 Source:
 - https://uk.linkedin.com/in/ellykensington
 
+### Siddharth Vadgama
+
+**Confidence: High** for chairman role; **Medium** for exact academic-year mapping.
+
+- Public LinkedIn profile states University of Plymouth, 2009–2014.
+- Activities and societies explicitly list `TermiSoc: Computing Society - Chairman`.
+- The profile does not state the exact year of the chairmanship.
+
+Source:
+- https://uk.linkedin.com/in/siddv
+
 ## Additional member identifications
 
-The following profiles explicitly list TermiSoc among University of Plymouth activities. These are useful for the people register and for future reverse-archaeology searches, but no TermiSoc-specific historical web artefact was located for them in this sweep.
+The following profiles explicitly list TermiSoc among University of Plymouth activities. These are useful for the people register and for future reverse-archaeology searches, but no TermiSoc-specific historical web artefact was located for each person in this sweep.
 
 | Person | Plymouth period | Evidence |
 |---|---|---|
@@ -108,26 +120,111 @@ The following profiles explicitly list TermiSoc among University of Plymouth act
 | Richard Gibson | 2013–2017 | Termisoc (Computing and Technology Society) |
 | Daryl Ladd | 2013–2016 | Member of TermiSoc; November Hackathon participation |
 | Harriet Eldred | 2014–2016 | Termisoc (Computing Society) |
+| Ant Robinson | 2013–2018 | Termisoc - Technology Society |
+
+## Newly corroborated profiles from the current pass
+
+### Christopher Jenkins
+
+Source: https://www.linkedin.com/in/chrisjenx
+
+The profile records University of Plymouth, 2007–2011, with `Termisoc (Computing Society)` explicitly listed under activities and societies. This is a strong association record, although it is retrospective rather than contemporaneous.
+
+**Confidence:** High.
+
+### Matthew Peter Weikert
+
+Source: https://uk.linkedin.com/in/mpweikert
+
+The profile records University of Plymouth, 2009–2012, and explicitly lists `TermiSoc (University of Plymouth Computing Society)` among activities and societies.
+
+**Confidence:** High.
+
+### Joshua von Eicken
+
+Source: https://uk.linkedin.com/in/joshua-von-eicken
+
+The profile records University of Plymouth, 2008–2012, with `Termisoc (Computing society)` listed under activities and societies. His final-year software-plagiarism project is recorded on the same profile, but there is no evidence here that it was a TermiSoc project.
+
+**Confidence:** High for association; Unverified for any society connection to the project.
+
+### Dominic Norton
+
+Source: https://uk.linkedin.com/in/dominic-norton-786371131
+
+The profile records University of Plymouth, 1997–2001, and explicitly lists `Computing Society (TermiSoc)` under activities and societies. This is useful late-1990s/early-2000s evidence and supports the use of `Computing Society` as a descriptor of TermiSoc during this period.
+
+**Confidence:** High for association; Medium for any role, since none was found.
+
+### Richard Gibson
+
+Source: https://uk.linkedin.com/in/richard-gibson-a75a38117
+
+The profile records University of Plymouth, 2013–2017, and explicitly lists `Termisoc (Computing and Technology Society)` under activities and societies.
+
+**Confidence:** High.
+
+### Leigh Brooks
+
+Source: https://uk.linkedin.com/in/leighcb
+
+The profile records University of Plymouth, 2012–2016, and explicitly lists `Termisoc (Plymouth University Computing and Technology Society)`.
+
+**Confidence:** High.
+
+### Florian Brett
+
+Source: https://uk.linkedin.com/in/florianbrett
+
+The profile records University of Plymouth, 2012–2016, and explicitly lists `TermiSoc (Computing)`.
+
+**Confidence:** High for association; Medium for interpreting the shorter name as merely abbreviated rather than a distinct formal name.
+
+### Chris Tandy
+
+Source: https://uk.linkedin.com/in/christophertandy
+
+The profile records University of Plymouth, 2010–2014, and explicitly lists `TermiSoc - Computer Society`.
+
+**Confidence:** High.
+
+### Daryl Ladd
+
+Source: https://uk.linkedin.com/in/daryl-ladd-16229b95
+
+The profile records University of Plymouth, 2013–2016, and states `Member of TermiSoc (Computer and Technology Society of Plymouth University)`. It also records participation in the November Hackathon with Exeter University. The source does not establish that TermiSoc organised the hackathon.
+
+**Confidence:** High for membership; Medium for the relationship between TermiSoc and the hackathon.
+
+### Ant Robinson
+
+Source: https://uk.linkedin.com/in/antrobinson
+
+The profile records University of Plymouth, 2013–2018, and explicitly lists `Termisoc - Technology Society`.
+
+**Confidence:** High.
 
 ## Interpretation
 
-This batch materially extends the leadership chronology. Current evidence now supports at least the following overlapping role records:
+This batch materially extends the leadership chronology. Current evidence supports at least the following role records:
 
 - Aaron Trevena — Treasurer and organiser, 1995–2000 study period.
 - Rich Jeffery — President, directly evidenced in May 2004.
+- Siddharth Vadgama — Chairman, within the 2009–2014 Plymouth period; exact year unresolved.
 - Edward Knapp — Treasurer, 2012–2013.
 - Jacob Gathercole — Treasurer/Technical Officer in second year; Chairman in final year; 2012–2017 study period.
 - Elly Kensington — Treasurer in second year; 2012–2016 study period.
 - Matt Farrell — Chairman September 2014–July 2017; later Treasurer.
-- Jamie Woods — Chairman role during 2013–2016 study period, exact dates unresolved.
+- Jamie Woods — Chairman role during 2013–2016 study period; exact dates unresolved.
 - Nick Charlton — Safety Officer 2010–2011 and Tech Officer 2011–2013.
-- Siddharth Vadgama — Chairman, 2009–2014 study period.
 
 These records should not yet be converted into a single continuous succession table because several roles overlap and the exact academic-year boundaries are not all established.
 
+The large number of independent alumni descriptions also strengthens the conclusion that `Computing Society`, `Computing and Technology Society`, `Computer Society`, and `Technology Society` were all used as historical descriptions of TermiSoc. They do not, on their own, establish formal renaming dates.
+
 ## Negative / unresolved search results
 
-No new public `termisoc.org/~username` mapping was established for the people in this batch during the search. This is a search limitation, not evidence that no personal web space existed.
+No new `termisoc.org/~username` mapping was established for the people in this batch during the search. This is a search limitation, not evidence that no personal web space existed.
 
 No useful direct University of Plymouth or UPSU historical society page was returned by the targeted public-web searches in this sweep. This remains a priority archive lead.
 
@@ -138,3 +235,8 @@ No useful direct University of Plymouth or UPSU historical society page was retu
 3. Search for committee/AGM records around 2004, 2010–2014, and 2014–2017 to test the emerging leadership chronology.
 4. Search student newspapers, student handbooks and UPSU archives independently of the TermiSoc keyword.
 5. Search image indexes for names plus `TermiSoc`, particularly for 2004 and 2010–2017.
+6. Test the emerging 2012–2017 committee overlap against contemporaneous event announcements and BCS/UPSU records before publication.
+
+## Retrieval date
+
+2026-09-17
