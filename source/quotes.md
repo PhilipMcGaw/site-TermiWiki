@@ -6,7 +6,7 @@ created: 2023-01-03
 ---
 Here lies the list of advice, nonsense, and general weirdness uttered by TermiSoc members once and a while. Say something stupid, and it's likely to end up here.
 
-Ben: 'Mayonnaise isn't kosher...
+Ben: 'Mayonnaise isn't kosher…
        maybe that's why you never see a jar of mayonnaise as a rabbi.'
 
 Respect the 'Hoff.
@@ -24,7 +24,7 @@ Tom: I'm jamming with my mind
 
 All TV is now adverts for other channels (seen on the DCLUG mailing list)
 
-bma: Ah, all decent projects start with a question. Like, "Who wants to go to London?". Or, "Where can we get our hands on industrial welding equipment at this time of night?"...
+bma: Ah, all decent projects start with a question. Like, "Who wants to go to London?". Or, "Where can we get our hands on industrial welding equipment at this time of night?"…
 
 from http://developers.slashdot.org/article.pl?sid=06/06/15/2229221
 > As a developer on a gnome project, I can tell you bluntly that additional
@@ -64,7 +64,7 @@ bma: Neither do I, as long as it comes in the post.
 
 danbjorn: Is the internet working?
 bma: The internet is broken. The internet *connection* is fine, but the internet itself is broken.
-danbjorn: ...Just thought you'd throw in a bit of social commentary there, then?
+danbjorn: …Just thought you'd throw in a bit of social commentary there, then?
 
 Dan: Give me root!
 Seth: What kind of root?
@@ -76,7 +76,7 @@ Seth: There's something wrong with the physics in here
 bma: I think localisation would be getting ahead of myself a bit.
 I don't *have* any strings to localise. I don't even have a user interface.
 
-Ed: hmm...IP over trebuchet....sneakernet, only faster and more lethal
+Ed: hmm…IP over trebuchet…sneakernet, only faster and more lethal
 
 chris: man, I need to date hobos more often
 
@@ -120,7 +120,7 @@ David: I like my coffee like I like my women, hot, sweet and courtesy of the hot
 Ed: Damn you, sock!
 
 danbjorn: Dammit, start making sense or I'll put you in a home!
-bma: It doesn't help your case that you're talking to yourself there...
+bma: It doesn't help your case that you're talking to yourself there…
 
 Rich: Java sucks. Deal with it.
 

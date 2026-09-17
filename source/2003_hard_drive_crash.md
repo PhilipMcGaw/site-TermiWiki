@@ -36,7 +36,7 @@ The lovely people at Fat Chilli (http://www.fatchilli.net) have offered Termisoc
 
 [TIME](time.md) Project Under Way
 
-A group of second year Computing students have had the go-ahead from the TermiSoc committee to start work on a dedicated online meeting/messaging environment for you - TermiSoc's members... (http://www.termisoc.org/termisoc/timeproject.php)
+A group of second year Computing students have had the go-ahead from the TermiSoc committee to start work on a dedicated online meeting/messaging environment for you - TermiSoc's members… (http://www.termisoc.org/termisoc/timeproject.php)
 
 ---
 

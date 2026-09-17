@@ -31,7 +31,7 @@ tags:
  <Sayyan> Everything i learnt about relationships, I learnt from Jack Bauer
  <LeFishy> Everything I learnt about relationships I learnt from Pokemon
  <LeFishy> which I why I keep Anya in a tiny ball
- <bma> Everything I know about relationships...no. 
+ <bma> Everything I know about relationships…no. 
 
  <LeFishy> OPA!
  <Sayyan> OPA!
@@ -51,7 +51,7 @@ tags:
 - Laces nose is cold
  * bma hands Laces a small blanket.
 
- <LeFishy> I have some gender fluid for you...
+ <LeFishy> I have some gender fluid for you…
  <bma> LeFishy: :<
 
 When Georgina managed to lock herself out of Laces' and Sayyan's bedroom, she connected to bma's IRC connection via screen. Much hilarity ensued.
@@ -79,7 +79,7 @@ When Georgina managed to lock herself out of Laces' and Sayyan's bedroom, she co
  <bma> Hm, I think that's how I'd've translated it, and I learned like three words ten years ago. google just sucks. ¬_¬
  <bma> Also that makes me feel really old. :<
  <Laces> the tilde like thing is what teenages use to emphasise the cuteness or joyfullness of a written phrase, and like it is being said in a sing song voice ^_^
- <Laces> the full stop isn'tnessecary... but I like the japanese full stop
+ <Laces> the full stop isn'tnessecary… but I like the japanese full stop
  <bma> Oh god, they have punctuation to mark cuteness? D:
  <Laces> ???? ??? ?? ^_^
  <bma> Clearly the perfect language for laces. Now I just need to find a language with punctuation to mark bitter despair at humanity.
@@ -120,9 +120,9 @@ When Georgina managed to lock herself out of Laces' and Sayyan's bedroom, she co
 
  <Fortnox> i am a fairy and want to kiss all the boys
 
- <Sayyani> Afternoon sex42...
- <Sayyani> Er...
- <bma> ...
+ <Sayyani> Afternoon sex42…
+ <Sayyani> Er…
+ <bma> …
 
  <Skippy> what are peoples recomendations on phones at the moment?
  <Leovinus> Speak into the bottom end at a normal speaking volume, await response
@@ -194,7 +194,7 @@ Laces' and Sayyan express their love for one another.
 ## Analog Communication
  Roy: now to glue windmill and pussycat to the terrain and stop the dragon flying through hills [1]
 
- Sidd: "This bread isn't fried..."
+ Sidd: "This bread isn't fried…"
  Gemma: "It has some grease on it." 
 
  Ben: "Someone should write a version control system called Victor."
@@ -228,7 +228,7 @@ Laces' and Sayyan express their love for one another.
  <bma> Sayyan: do it.
  <bma> Do it now.
  * bma needs to resurrect the patch that made termibot sing Rush songs.
- <Sayyan> Well if bma is going to absolve me of responsibility for my actions...
+ <Sayyan> Well if bma is going to absolve me of responsibility for my actions…
  <nerd> hmmm
  <madscientist> I'm reasonably sure "bma said I could" wouldn't hold up in court
  <Sayyan> Clearly depends on the court.

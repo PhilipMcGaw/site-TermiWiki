@@ -46,7 +46,7 @@ where to put it
 business school to give students experience at running it. they might be more open to helping us.
 
     termihouse
-        if all else fails, stuff it in the living room... 
+        if all else fails, stuff it in the living room… 
     freshers fair
         we can also drag it along to freshers fair to show off 
 

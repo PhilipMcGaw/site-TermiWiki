@@ -18,6 +18,6 @@ tags:
 ## Positions Held
 2002 - 2003 - Secretary
 ## About Theo
-Ermmm... The Crazy Greek
+Ermmm… The Crazy Greek
 ## Last Sighting
-Became a father in 2003, erm... *shrug* 
+Became a father in 2003, erm… *shrug* 

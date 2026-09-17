@@ -26,16 +26,16 @@ tags:
 - [Charrett](TermiPeople/alex.md) ran a HTML tutorial 
 
 ## Tutorials in 1998/99
-none added... check back soon! 
+none added… check back soon! 
 
 ## Tutorials in 1999/2000
-none added... check back soon! 
+none added… check back soon! 
 
 ## Tutorials in 2000/01
-none added... check back soon! 
+none added… check back soon! 
 
 ## Tutorials in 2002/03
-none added... check back soon! 
+none added… check back soon! 
 
 ## Tutorials 2003-04
 2003-10-?? - Introduction to Linux
@@ -264,10 +264,10 @@ Dan is going to cut through this and show you how to build structured, manageabl
 Part 2 will be in January 2008, where he will be delving into cross-browser coding (or 'How to build useful CSS fixes for poorly-coded browsers like Internet Explorer).
 Download the Presentation
 
-Coming soon...
+Coming soon…
 Resources
 
-Coming soon... 
+Coming soon… 
 
 ### 2008-03-10 - Introduction to Scheme
  About this tutorial
@@ -281,7 +281,7 @@ Resources
 
     Media:Schemetutorial08.odp - The OpenOffice Impress file 
 
-    Media:Schemetutorial08.pdf - The slides in PDF form (not much use without the notes...) 
+    Media:Schemetutorial08.pdf - The slides in PDF form (not much use without the notes…) 
 
     Media:Schemetutorial08notes.zip - PDF with slides and extra notes 
 

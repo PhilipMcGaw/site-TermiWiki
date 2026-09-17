@@ -8,7 +8,6 @@ tags:
   - "relation"
   - "references"
 ---
-# Termiexec 1999-2000
 
 [Ross Childs](TermiPeople/ross_childs.md)
 Ross is the Ex Projects Officer President of the esteemed entity that is TermiSoc and a self-confessed megalomaniac. God help us all.
@@ -28,4 +27,4 @@ Dave is the Treasurer and is supposed to control our money. In fact, mail him no
 [Scott Grenney](TermiPeople/scott_grenny.md)
 Scott's the PR officer, so he's in control of socials and outings and things. Mail him and say "We want to go to the pub" cos that'd be a good plan. And he's going to be helping with the upkeep of the [Area51 webpages](area51_website.md). With a [carrot](Glossary/think_carrot.md).
 
-See who else helped run TermiSoc...
+See who else helped run TermiSoc…

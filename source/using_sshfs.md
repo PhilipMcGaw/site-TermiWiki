@@ -17,7 +17,7 @@ As of September 2009 it's only possible to connect to the SSH port from within t
 
 For this tutorial I will be using Ubuntu 7.10 Gutsy Gibbon, but it should work on any Linux system that supports FUSE. No Windows I'm afraid.
 
-Installing SSHFS
+## Installing SSHFS
 Install the sshfs package using your preferred method. I use the graphical Synaptic front-end, but
 
     $ sudo apt-get install sshfs
@@ -29,7 +29,7 @@ The tricky part of using sshfs is getting the permissions right. For this I'm go
 Firstly, you'll need to create a mount point. Pop open a terminal and use sudo to become root:
 
     $ sudo -i
-    # 
+    #
 
 (just enter your regular password when prompted) and then navigate to the /mnt directory:
 
@@ -64,7 +64,7 @@ If prompted to approve the key, just type 'yes' and hit enter. Assuming no error
 
     $ cd /mnt/zaphod
     $ ls
-    mail   public_html   ....
+    mail   public_html   …
 
 Wow! Isn't that cool? You can read, write and screw around with files as if they were on your hard-drive, albeit a bit slower.
 Disconnecting/Un-Mounting

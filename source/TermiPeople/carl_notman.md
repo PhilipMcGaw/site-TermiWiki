@@ -29,7 +29,7 @@ Age: 29
 ### Course: BSc Computing
 Seems I'm the imposter in Termisoc as although I can use a computer I don't actually know that much about computing (which is why I'm on a computing course - to learn about it). I joined the society more for the social aspect - to meet fellow geeks who have similar interests.
 
-A note from his good friends: Olorin once expressed a desire to have a fanny and t_ts. Go figure. (Hmmm... don't remember ever saying that. I was probably referring to a desire to have a woman with them on. I was probably also very drunk at the time. - Carl)
+A note from his good friends: Olorin once expressed a desire to have a fanny and t_ts. Go figure. (Hmmm… don't remember ever saying that. I was probably referring to a desire to have a woman with them on. I was probably also very drunk at the time. - Carl)
 
 Favourite Things
 

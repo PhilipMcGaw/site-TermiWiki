@@ -47,5 +47,5 @@ We've proved that LittleBigPlanet and Pong are one and the same, give or take 30
 
 He's been Chris, he's been CJ, and I've been Rich. So until we play again, Goodbye!
 ## Where is the pilot now?
-A copy is lying somewhere. One day it will be found, and maybe one day Back To Pong can be resurrected. Until then, it's all in the cloud... 
+A copy is lying somewhere. One day it will be found, and maybe one day Back To Pong can be resurrected. Until then, it's all in the cloud… 
 

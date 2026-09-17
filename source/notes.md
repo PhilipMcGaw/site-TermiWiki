@@ -15,7 +15,7 @@ As well as that, we have many, many socials, from trips down the pub to bowling,
 
 We hold the occasional special event, including LAN parties (that's 3D shooty games to non-techies); we also try and organise groups to visit trade shows and expos, such as the Linux World expo and the London Perl Workshop.
 
-We also have links with the Devon and Cornwall LUG, and attend various events organised them (for example the ever-popular annual barbecue), and our ex-members provide a wide support base to our members. Do not ask us about the Exeter 2600, we know nothing of its existence and strongly deny any connection with it...
+We also have links with the Devon and Cornwall LUG, and attend various events organised them (for example the ever-popular annual barbecue), and our ex-members provide a wide support base to our members. Do not ask us about the Exeter 2600, we know nothing of its existence and strongly deny any connection with it…
 
 If you would like to join Termisoc please drop us an email at termisoc@termisoc.org, or if all the social goodness isn't enough for you check out the services that we provide to members.
 Meet the exec
@@ -43,7 +43,7 @@ The gothic broomstick Secretary/Head Tech Officer, in eternal war with Skippy.
 	Chris Morris [him](how_and_why_to_encrypt_your_email.md)
 Our combo down-to-earth and psychotic serial killer of a treasurer.
 	Ed McCaughan [him](how_and_why_to_encrypt_your_email.md)
-Our Assistant Tech Officer a.k.a. "The Mad Scientist" a.k.a. "The Sober Irishman", a.k.a. "Get your hands of my Girlfriend"...
+Our Assistant Tech Officer a.k.a. "The Mad Scientist" a.k.a. "The Sober Irishman", a.k.a. "Get your hands of my Girlfriend"…
 	Carl Notman [him](how_and_why_to_encrypt_your_email.md)
 Safety Officer with a keen eye for shooting peoples' legs off at LAN Parties.
 	Damien Hopton [him](how_and_why_to_encrypt_your_email.md)

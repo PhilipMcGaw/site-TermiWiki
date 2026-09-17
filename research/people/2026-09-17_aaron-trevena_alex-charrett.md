@@ -122,7 +122,7 @@ Aaron's 2001 TermiSoc-domain account (`termisoc.org/~betty`) also suggests that 
 4. Search archived TermiSoc pages for `betty`, `Aaron`, `Alex`, and `Charrett`.
 5. Investigate whether `lug.termisoc.org` exposed a historical membership, events, or committee page.
 6. Look for contemporary University of Plymouth / UPSU material from 1995–2000 to establish the society's formal name, committee structure and relationship to the LUG.
-7. Search for other people using `termisoc.org/~...` accounts; these may provide a particularly productive route to early TermiSoc membership.
+7. Search for other people using `termisoc.org/~…` accounts; these may provide a particularly productive route to early TermiSoc membership.
 
 ## Open questions
 

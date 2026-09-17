@@ -66,3 +66,8 @@ Bytemark virtual machine (User-Mode Linux) running Debian GNU/Linux; 80MB RAM, 4
 - [Personal site — Eskola](https://eskola.uk/)
 - [Facebook — Ben Alee](https://www.facebook.com/profile.php?id=100009333953416)
 - [Historical personal site](http://bmalee.eu/~bma/)
+- [Historical personal site - Subvert Technologies](http://subvert.org.uk/~bma/)[^1]
+- [Historical wiki - Subvert](http://wiki.subvert.org.uk/)[^1]
+
+[^1]: Debian Sources, *Ikiwiki users*, which lists Ben A'Lee's homepage and wiki at these addresses, retrieved 17 September 2026. https://sources.debian.org/src/ikiwiki/3.20130904.1~bpo70%2B1/doc/ikiwikiusers.mdwn
+

@@ -51,12 +51,12 @@ In this one:
 - Ubuntu on Dell!
 - Firefox 3!
 - Crazy GPL authors!
-- Intel vs. OLPC...
-- A Greener Apple...
-- The Downfall of Society...
+- Intel vs. OLPC…
+- A Greener Apple…
+- The Downfall of Society…
 - and Tea!
 
-All this and more in this first ever... LOGin!
+All this and more in this first ever… LOGin!
 ## Episode 2
 ![[Media/termisoc_login_02.mp3]]
 ## Episode 3
@@ -74,13 +74,13 @@ In this episode:
 - Loves & Hates!
 - and Satan's Armpit!
 ## Episode 6 - 18th of October
-Episode 6 was released (after a few technical troubles), featuring just Rich and Dan... Ben's in Bangor.
+Episode 6 was released (after a few technical troubles), featuring just Rich and Dan… Ben's in Bangor.
 
  In this episode:
 - Apple vs. the third party (and the Zune 2, and Apple themselves)!
 - Unicode domains vs. the phishers! (plus Starbucks is an ancient tourist attraction and a Chinese clone of the Wii!)
 - Radiohead album giveaway (plus BluRay, HD-DVD and a general lack of trust)!
-- Foreign Hard Drives vs. the FCC (... and... um... stuff)
+- Foreign Hard Drives vs. the FCC (… and… um… stuff)
 - Loves & Hates!
 - and the British standard for making tea!
 ## Episode 7

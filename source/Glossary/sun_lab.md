@@ -23,7 +23,7 @@ All of the machines in the Sun Lab were named after greek gods (does anyone reme
 
 The Sun Lab was a SOC lab equipped with old Sun machines:
 - SPARCStation SLC (most of them - Dionysus, Pollux etc) - https://web.archive.org/web/20101103232414/http://sunstuff.org/hardware/systems/sun4/sun4c/SPARCstationSLC/
-- SPARCStation ELC (3 - Flora, Hades, ....) - https://web.archive.org/web/20101103232414/http://sunstuff.org/hardware/systems/sun4/sun4c/SPARCstationELC/
+- SPARCStation ELC (3 - Flora, Hades, …) - https://web.archive.org/web/20101103232414/http://sunstuff.org/hardware/systems/sun4/sun4c/SPARCstationELC/
 - SPARCStation 1 (2 - Aphrodite, Callisto) - https://web.archive.org/web/20101103232414/http://sunstuff.org/hardware/systems/sun4/sun4c/SPARCstation1/
 
 The Sun Lab was run by School Of Compting tech Flamank|Mabs, and he has a **proper** Unix Beard! 

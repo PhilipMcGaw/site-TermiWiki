@@ -52,6 +52,6 @@ In a word, why not?
 Seriously, the members voted for the best name out of the choices and it came out first (well, actually it came second. Sinister Technologies as a name will be used for an offshoot of BlueStamp).
 
 # Is there any salvage from the wreckage?
-Through the magic of the internet, we can present two previously lost documents for your enjoyment. Maybe someone at some point can explain what went wrong...
+Through the magic of the internet, we can present two previously lost documents for your enjoyment. Maybe someone at some point can explain what went wrong…
 - "[To Consider](things_to_consider.md)", dated 1st June 2006
 - [- Meeting Notes](2006-06-01_-_meeting_notes.md) 

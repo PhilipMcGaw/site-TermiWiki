@@ -21,4 +21,4 @@ However, due to a combination of stupid amounts of 'red tape', bickering between
 Before this occurred, a couple of self-perpetuated things happened (as in, off our own back away from the stupidness with [UPSU](Glossary/upsu.md)):
 - [Morris](TermiPeople/chris_morris.md) did a radio interview with Annie Mac (listen here: part one | part two)
 - [Jeffery](TermiPeople/rich_jeffery.md) and [Morris](TermiPeople/chris_morris.md) recorded the UPSU Open Mic Night (which, sadly, is not allowed to be included here, due to copyright issues)
-- Some logo designs were made (somewhere...) 
+- Some logo designs were made (somewhere…) 
