@@ -9,6 +9,10 @@ tags:
 ---
 ![[Media/flux-bbs.jpg| ]]
 
+The header image is preserved from the archived FluxBBS site. [^flux-header]
+
+[^flux-header]: Internet Archive, 8 March 2005, [Flux BBS](https://web.archive.org/web/20050308151943/http://fluxbbs.org/), image images/flux-bbs.jpg, retrieved 17 September 2026.
+
 # Flux BBS "If anyone wants to write about the worldwide project that was termisoc's high point, and the events that lead to it's departure from the termisoc servers, then please do."
 
 ## Alex McLean's memories
