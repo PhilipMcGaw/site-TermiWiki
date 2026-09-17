@@ -2,43 +2,31 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import type { QuartzComponent } from "./quartz/components/types"
 
-const TermiWikiHead: QuartzComponent = (props) => {
-  const Head = Component.Head()
+const TermiWikiStyles: QuartzComponent = () => null
+TermiWikiStyles.css = `
+  body[data-slug^="TermiPeople/"] .popover-hint img {
+    float: right;
+    width: 280px;
+    max-width: 40%;
+    height: auto;
+    margin: 0 0 1rem 1.5rem;
+  }
 
-  return (
-    <>
-      <Head {...props} />
-      <style
-        dangerouslySetInnerHTML={{
-          __html: `
-            body[data-slug^="TermiPeople/"] .popover-hint img {
-              float: right;
-              width: 280px;
-              max-width: 40%;
-              height: auto;
-              margin: 0 0 1rem 1.5rem;
-            }
-
-            @media (max-width: 700px) {
-              body[data-slug^="TermiPeople/"] .popover-hint img {
-                float: none;
-                display: block;
-                width: auto;
-                max-width: 100%;
-                margin: 1rem auto;
-              }
-            }
-          `,
-        }}
-      />
-    </>
-  )
-}
+  @media (max-width: 700px) {
+    body[data-slug^="TermiPeople/"] .popover-hint img {
+      float: none;
+      display: block;
+      width: auto;
+      max-width: 100%;
+      margin: 1rem auto;
+    }
+  }
+`
 
 export const sharedPageComponents: SharedLayout = {
-  head: TermiWikiHead,
+  head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [TermiWikiStyles],
   footer: Component.Footer(),
 }
 
