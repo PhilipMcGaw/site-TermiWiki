@@ -124,7 +124,7 @@ function schemaForPage(fileData: QuartzPluginData, baseUrl: string): JsonLd | un
  * HAST tree keeps the data page-specific while avoiding an invalid resource hook.
  * JSON-LD script elements are valid in the document body as well as the head.
  */
-export const TermiWikiJsonLd: QuartzTransformerPlugin = () => ({
+export const TermiWikiJsonLd = (baseUrl: string): QuartzTransformerPlugin => () => ({
   name: "TermiWikiJsonLd",
   htmlPlugins() {
     return [
@@ -141,9 +141,6 @@ export const TermiWikiJsonLd: QuartzTransformerPlugin = () => ({
         }
         visit(tree)
         file.data.externalLinks = [...links]
-
-        const baseUrl = file.data.cfg?.configuration?.baseUrl
-        if (!baseUrl) return
 
         const schema = schemaForPage(file.data, baseUrl)
         if (!schema) return
