@@ -35,5 +35,13 @@ The Council, that's what. As his second year of CANDI drew to a close a placemen
 Eventually the long and arduous year that was the placement drew to close, and our protegee had to move on to better things. Alternatively he was to return to University, which he did with an apprehensive heart. He found that £3 millon had been spent on removing stairs and adding a couple of sofas, and he was most displeased. Yet he fought on regardless at Termisoc, guiding a new wave of fresh blood into the world as he battled with the final year of his course.
 
 Now our young traveller has moved on out into the big, wide world. Or Derriford, as it's more widely known. Yes! Our intrepid student is no longer, and a bitter, cynical developer has taken his place. His snake is now placid, his wallet slightly fuller, but he is no longer the student we knew and loved. But have no fear! His involvement with Termisoc continues until this day.
+## Public profile lead
+
+- [LinkedIn — Danbjorn](https://www.linkedin.com/in/danbjorn/)[^1]
+
+The supplied profile URL is retained as a later identity lead for Danbjorn. The existing TermiSoc profile and historical material remain the primary evidence for his TermiSoc roles; the LinkedIn page was not independently fetchable in this lookup.
+
+[^1]: Danbjorn, [LinkedIn profile](https://www.linkedin.com/in/danbjorn/), retrieved 17 September 2026. Profile identity and historical details remain to be corroborated from accessible public content.
+
 ## Last Sighting
 At his desk, cursing the existence of Java, ColdFusion, CSS and Internet Explorer. 

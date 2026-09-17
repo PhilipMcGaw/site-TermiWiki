@@ -125,6 +125,20 @@ Targeted web searches were performed on 17 September 2026 for:
 No direct indexed result was found that links TermiSoc to a specific ILS IP allocation or to a named JANET backhaul service. The searches did produce contextual results: University of Plymouth material identifies ILS as providing university IT services, and current University network guidance refers to the JANET Acceptable Use Policy.[^plymouth-ils-context][^plymouth-janet-context]
 
 The result is therefore a **negative search finding**, not evidence that the reported arrangement did not exist. The strongest evidence remains the contributor's infrastructure recollection, existing TermiSoc server material, and any future archived configuration or institutional records.
+## 2005–2006 named server inventory
+
+The `2006_notice_to_members.md` page provides a dated, changing inventory of TermiSoc machines:
+
+- **Apple** — suffered catastrophic hard-drive failure on 28 May 2005 and was described as dead; the TermiSoc Wiki was reinstalled following Apple's demise.[^notice-2006]
+- **Arthur** — the replacement server announced in June 2005; later described as a projects, backup, mail, and DNS server, though it was repeatedly rebuilt or unavailable.[^notice-2006]
+- **Ford** — was backing up to Arthur in August 2005, indicating an active backup relationship at that point.[^notice-2006]
+- **Zaphod** — installed by 3 May 2006 and described in the status section as handling web, mail, and databases.[^notice-2006]
+- **Trillian** — explicitly listed in the status section as the DNS server, and described as working fine in November 2006.[^notice-2006]
+- **Joplin** — a temporary Sun backup machine used while Arthur was unavailable in November 2006; the notice describes it as the Sun box on top of Ben and Dan's fridge.[^notice-2006]
+
+This confirms Trillian as an additional named server, but the page records a sequence of changing roles and temporary replacements rather than a single fixed four-server configuration. The strongest interpretation is that Apple, Arthur, Ford, Zaphod, Trillian, and Joplin belonged to the wider 2005–2006 TermiSoc infrastructure at different points or in changing roles.
+
+**Confidence: High** for the names and stated roles as reported by the notice; Medium for the exact periods of overlap, because the page combines updates and repeated historical material.
 ## Open questions
 
 - Is `217.144.94.204` a shared or dedicated address?
@@ -163,3 +177,5 @@ The result is therefore a **negative search finding**, not evidence that the rep
 [^current-it-services]: University of Plymouth, [IT services](https://www.plymouth.ac.uk/about-us/university-structure/service-areas/it-services), retrieved 17 September 2026.
 [^current-library-services]: University of Plymouth, [Library and Learning Services](https://www.plymouth.ac.uk/services/library-services), retrieved 17 September 2026.
 [^current-technology-services]: University of Plymouth, [Adrian Jane staff profile](https://www.plymouth.ac.uk/staff/adrian-jane), retrieved 17 September 2026. The profile identifies his service area as Technology and Information Services.
+
+[^notice-2006]: [[../../source/2006_notice_to_members.md|2006 Notice to Members]], existing TermiWiki source page containing updates dated 2005–2006, retrieved 17 September 2026.

@@ -33,6 +33,17 @@ TermiSoc has the academic backing of Brooke|Dr Phil Brooke who believes "it is a
 
 We also have links with the and Cornwall LUG and our ex-members to provide a wide support base to our members.
 
+## LinkedIn group description
+
+A LinkedIn group description presents TermiSoc as the **Plymouth University Computing and Technology Society**, formerly the **Computing Society**. It describes the society as established in 1991 and as offering members a range of facilities, with a separate services page for details.[^8]
+
+This is a later self-description by the society or its group administrators, rather than contemporary evidence from 1991. It is useful corroboration for the historical name variation, the claimed foundation date, and the existence of member facilities, but those claims should remain attributed to the LinkedIn group.[^8]
+
+The group and related profiles are useful leads for identifying later members and tracing the society's public-facing history:
+
+- [TermiSoc LinkedIn group](https://www.linkedin.com/groups/5101011/)
+- [Mattsi Jansky](https://www.linkedin.com/in/mjjansky/)
+- [Danbjorn](https://www.linkedin.com/in/danbjorn/)
 ## TermiSoc and Geek Society
 
 TermiSoc and Geek Society were separate societies until the final period of TermiSoc's history. On 22 February 2017, TermiSoc chairman Matt Farrell announced that TermiSoc was merging into Geek Soc. The announcement directed members to the Geek Soc annual general meeting and to the Students' Union arrangements for joining the society.[^1]
@@ -60,3 +71,4 @@ See [[robotics_society]] for the evidence and current status.
 [^5]: University of Plymouth Students' Union, *Half Colours 2020*, listing Noah Harvey under "Techsoc and Robosoc", 15 May 2020, <https://www.upsu.com/news/article/upsu/Half-Colours-2020/>.
 [^6]: University of Plymouth, *Humanoid robot development: undergraduate viability study between CoppeliaSim and WeBots*, 2021, <https://web.socem.plymouth.ac.uk/secam/assets/posters/2021/10634586.pdf>.
 [^7]: University of Plymouth Students' Union, *Freshers Week 22: Societies Fair*, 2022, listing "Robotics (RoboSoc)", <https://www.upsu.com/ents/event/14716/>.
+[^8]: TermiSoc LinkedIn group description, retrieved 17 September 2026. The public description states that TermiSoc was the Plymouth University Computing and Technology Society, formerly the Computing Society, established in 1991, and offered member facilities. [LinkedIn group](https://www.linkedin.com/groups/5101011/)

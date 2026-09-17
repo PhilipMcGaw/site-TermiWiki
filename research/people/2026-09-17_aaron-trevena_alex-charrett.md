@@ -24,10 +24,11 @@ Aaron Trevena's current LinkedIn profile states that he attended the University 
 - `Termisoc - UPSU Computing and Internet Society : Treasurer and organiser`
 - `Student Representative for BSc Hons Computer Systems and Networks`
 - `Devon and Cornwall Linux User Group : Co-Founded the LUG with termisoc colleague Alex Charrett`
+- `16 month Industrial Placement with MSAS Global Logistics - implemented web integration, intranet development, document management system.`
 
 Source: Aaron Trevena LinkedIn profile.
 
-URL: https://uk.linkedin.com/in/aarontrevena
+URL: https://www.linkedin.com/in/aarontrevena
 
 Aaron's personal website provides an independent retrospective account. Its open-source section says that the Devon & Cornwall Linux User Group was co-founded with Alex Charrett in 1999, as part of running the University of Plymouth Computing & Internet Society. The education section also records his BSc (Hons) Computer Systems & Networks at the University of Plymouth, 1995–2000, and identifies him as Treasurer of the computing society.
 
@@ -55,15 +56,19 @@ The personal website's statement that the Devon & Cornwall Linux User Group was 
 
 Confidence: **High** for Aaron Trevena's TermiSoc association and Treasurer/organiser role. **High** for his historical use of TermiSoc web infrastructure. **Medium–High** for the precise 1999 LUG founding date because the date is supplied retrospectively by Aaron rather than by a contemporaneous founding document.
 
+## Alex Charrett — link confirmation
+
+The project contributor supplied the canonical LinkedIn URL [https://www.linkedin.com/in/alexcharrett/](https://www.linkedin.com/in/alexcharrett/) and confirmed that Alex attended Plymouth. A search-indexed result for the same profile identifies the University of Plymouth (1996–2000) and lists TermiSoc under activities and societies. Retrieved 17 September 2026. This corroborates the existing profile entry; it does not by itself add new evidence about Alex’s historical committee roles beyond the already documented contemporary and retrospective sources.
+
 ## Alex Charrett
 
 ### Direct evidence
 
-Alex Charrett's current LinkedIn profile states that he attended the University of Plymouth from 1996–2000 and explicitly lists `TermiSoc` under activities and societies.
+Alex Charrett's current LinkedIn profile states that he studied BSc Computing, IT at the University of Plymouth from September 1996 to June 2000 and explicitly lists `TermiSoc` under activities and societies.
 
 Source: Alex Charrett LinkedIn profile.
 
-URL: https://uk.linkedin.com/in/alexcharrett
+URL: https://www.linkedin.com/in/alexcharrett
 
 A contemporaneous Linux Format directory provides substantially stronger historical corroboration. The May 2000 issue lists:
 
@@ -91,7 +96,7 @@ Aaron's current LinkedIn profile likewise explicitly describes Alex Charrett as 
 
 Source: Aaron Trevena LinkedIn profile.
 
-URL: https://uk.linkedin.com/in/aarontrevena
+URL: https://www.linkedin.com/in/aarontrevena
 
 ### Interpretation
 

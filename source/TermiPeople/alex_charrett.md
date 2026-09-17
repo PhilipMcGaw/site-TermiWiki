@@ -26,16 +26,16 @@ tags:
 
 # About Alex
 
-The existing TermiWiki record identifies Alex as a TermiSoc member and records his committee positions. His public LinkedIn profile independently records **TermiSoc** among his University of Plymouth activities for 1996–2000.[^1]
+The existing TermiWiki record identifies Alex as a TermiSoc member and records his committee positions. His public LinkedIn profile records **BSc Computing, IT** at the University of Plymouth from **September 1996 to June 2000**, with **TermiSoc** listed under activities and societies.[^1]
 
 The existing archive also records that Alex formed the [DCLUG](../Glossary/dclug.md) with [[aaron_trevena|Aaron Trevena]]. Aaron's public LinkedIn profile independently describes Alex as his "termisoc colleague" and states that they co-founded the Devon and Cornwall Linux User Group.[^2]
 
-The original TermiWiki record states that Alex set up the `termisoc.org` domain. This remains an archival claim from the earlier wiki material; it has not been independently verified here.[^3]
+The project contributor reports that Alex is an administrator of the later TermiSoc Facebook group.[^4]`n`nThe original TermiWiki record states that Alex set up the `termisoc.org` domain. This remains an archival claim from the earlier wiki material; it has not been independently verified here.[^3]
 
 ## On the Internets
 
 - [Personal site](https://alex.charrett.com)
-- [LinkedIn — Alex Charrett](https://uk.linkedin.com/in/alexcharrett)[^1]
+- [LinkedIn — Alex Charrett](https://www.linkedin.com/in/alexcharrett)[^1]
 
 ## Last Sighting
 
@@ -44,6 +44,6 @@ The original TermiWiki record states that Alex was working at MessageLabs in Glo
 ## Alex Number
 'Chas' was Alex 4
 
-[^1]: Alex Charrett, *LinkedIn profile*, accessed 2026-09-17. The profile records University of Plymouth, 1996–2000, with TermiSoc listed under activities and societies. https://uk.linkedin.com/in/alexcharrett
+[^1]: Alex Charrett, *LinkedIn profile*, accessed 2026-09-17. The profile records University of Plymouth, 1996–2000, with TermiSoc listed under activities and societies. https://www.linkedin.com/in/alexcharrett
 [^2]: Aaron Trevena, *LinkedIn profile*, accessed 2026-09-17. The profile records TermiSoc at the University of Plymouth and states that DCLUG was co-founded with his "termisoc colleague" Alex Charrett. https://uk.linkedin.com/in/aarontrevena
-[^3]: Earlier TermiWiki/DokuWiki material preserved in this page; historical claims should be distinguished from independently verified sources.
+[^3]: Earlier TermiWiki/DokuWiki material preserved in this page; historical claims should be distinguished from independently verified sources.`n[^4]: Administrator relationship in the [TermiSoc Facebook group](https://www.facebook.com/groups/termisoc), supplied by the project contributor and retrieved 17 September 2026. Facebook administrator details were not independently fetchable in this environment.

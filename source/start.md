@@ -76,6 +76,7 @@ These links point to the current University of Plymouth Computer Society, rather
 - [CompSoc Committee 2026/27](compsoc_committee_2026-27.md) — the current committee and society recognition.
 - [CompSoc Best Newcomer of the Year 2026](compsoc_best_newcomer_2026.md) — award announcement and preserved public preview image.
 - [CompSoc Activity in 2026](compsoc_activity_2026.md) — archived event posts, workshop records and images.
+- [University of Plymouth Games Society](games_society.md) — current tabletop-gaming society and public UPSU record.
 
 ## Current Robotics Society resources
 

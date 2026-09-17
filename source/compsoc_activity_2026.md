@@ -21,6 +21,7 @@ This page indexes the public UoP Computer Society activity recovered from Linked
 - [Breast cancer machine-learning workshop 2026](compsoc_breast_cancer_ml_workshop_2026.md)
 - [Best Newcomer of the Year 2026](compsoc_best_newcomer_2026.md)
 - [Committee 2026/27](compsoc_committee_2026-27.md)
+- [Prompts and Pizzas: Build with AI](compsoc_prompts_and_pizzas_2026-10-03.md)
 
 ## Source
 

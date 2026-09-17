@@ -4,7 +4,6 @@ source: linkedin
 source_url: "https://www.linkedin.com/posts/uop-computer-society_meet-the-compsoc-committee-202627-activity-7505195194296844288-6vfV"
 created: 2026-09-15
 tags:
-  - "termisoc"
   - "compsoc"
   - "committee"
   - "2026-2027"
@@ -31,6 +30,18 @@ See the individual member pages in the [CompSoc Executive Committee 2026/27 dire
 - **Safety Officer / Health & Safety Secretary:** [Joshua Hutchinson](TermiPeople/joshua_hutchinson.md)
 - **Social Media Secretary:** [Samayek Thapa](TermiPeople/samayek_thapa.md)
 - **Events:** [James](TermiPeople/james_compsoc_2026-27.md)
+
+## Current UPSU roster
+
+The current UPSU page lists the committee as follows:
+
+- **Chair:** Otitechukwa Oseji
+- **Other Committee Roles:** James Ispas-Hellyar; Sam Thapa
+- **Safety Officer:** Joshua Hutchinson
+- **Secretary:** Aspasia Theodorou
+- **Treasurer:** Sam Vincent
+
+The UPSU page also publishes CompsocPlymouth@gmail.com, the [PlyCompSoc Instagram account](https://www.instagram.com/plycompsoc/), and [CompSoc Discord](https://discord.gg/CKw8gVmJ6q).
 
 ## Recognition
 

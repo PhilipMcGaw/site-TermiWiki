@@ -1,0 +1,171 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "sameAs": "schema:sameAs",
+    "memberOf": "schema:memberOf",
+    "affiliation": "schema:affiliation",
+    "startDate": "schema:startDate",
+    "endDate": "schema:endDate",
+    "organization": "schema:Organization",
+    "Person": "schema:Person",
+    "confidence": "https://termisoc.org/vocab/confidence",
+    "evidenceType": "https://termisoc.org/vocab/evidenceType",
+    "supports": "https://termisoc.org/vocab/supports",
+    "doesNotEstablish": "https://termisoc.org/vocab/doesNotEstablish",
+    "retrieved": "https://termisoc.org/vocab/retrieved",
+    "source": "schema:citation",
+    "relatedTo": "schema:isRelatedTo",
+    "hasPart": "schema:hasPart"
+  },
+  "@graph": [
+    {
+      "@id": "https://termisoc.org/research/termisoc-social-societies",
+      "@type": "schema:Dataset",
+      "name": "TermiSoc and related University of Plymouth societies evidence map",
+      "description": "Structured research export covering TermiSoc, CompSoc, Games Society, Magic: The Gathering activities, Robotics Society/RoboSoc, Geek Society, and evidence of membership overlap.",
+      "retrieved": "2026-09-17",
+      "source": [
+        "research/leads/2026-09-17_magic_the_gathering_group.md",
+        "research/leads/2026-09-17_compsoc_robsoc_geek_society_social_search.md"
+      ],
+      "hasPart": [
+        {"@id": "#termisoc"},
+        {"@id": "#compsoc-current"},
+        {"@id": "#games-society"},
+        {"@id": "#mtg-group"},
+        {"@id": "#robotics-society"},
+        {"@id": "#geek-society"},
+        {"@id": "#matt-farrell-games-overlap"},
+        {"@id": "#mikey-legg-games-overlap"},
+        {"@id": "#christopher-jenkins-societies"}
+      ]
+    },
+    {
+      "@id": "#termisoc",
+      "@type": "organization",
+      "name": "TermiSoc",
+      "description": "Historical University of Plymouth computing society, also described in some alumni records as the Computing and Technology Society.",
+      "sameAs": [
+        "https://nickcharlton.net/posts/termisoc-hack-weekend-2011"
+      ],
+      "confidence": "High"
+    },
+    {
+      "@id": "#compsoc-current",
+      "@type": "organization",
+      "name": "UoP Computer Society",
+      "description": "Current University of Plymouth Computer Society presence identified on LinkedIn and UPSU.",
+      "url": "https://www.upsu.com/societies/compsoc/",
+      "sameAs": [
+        "https://uk.linkedin.com/company/uop-computer-society"
+      ],
+      "confidence": "High",
+      "doesNotEstablish": "#termisoc"
+    },
+    {
+      "@id": "#games-society",
+      "@type": "organization",
+      "name": "Games Society",
+      "description": "University of Plymouth Students' Union society covering tabletop games, trading card games, board games, wargaming, and role-playing games.",
+      "url": "https://www.upsu.com/societies/GamesSociety/",
+      "confidence": "High",
+      "source": [
+        "https://www.upsu.com/societies/GamesSociety/",
+        "https://www.readkong.com/page/medsoc-2018-fresher-s-booklet-7259962"
+      ]
+    },
+    {
+      "@id": "#mtg-group",
+      "@type": "organization",
+      "name": "Magic: The Gathering group within Games Society",
+      "description": "Trading Card Games activity within Games Society, including drafts, tournaments, themed challenges, Commander/EDH, cEDH, Pauper, and taster events.",
+      "memberOf": "#games-society",
+      "confidence": "High",
+      "source": [
+        "https://www.upsu.com/societies/GamesSociety/",
+        "https://www.upsu.com/ents/event/27390/"
+      ],
+      "doesNotEstablish": "#termisoc"
+    },
+    {
+      "@id": "#robotics-society",
+      "@type": "organization",
+      "name": "Robotics Society",
+      "description": "University of Plymouth Robotics Society; one alumni record uses the name RoboSoc.",
+      "url": "https://www.upsu.com/societies/robotics/",
+      "confidence": "High",
+      "source": [
+        "https://www.upsu.com/societies/robotics/",
+        "https://fr.linkedin.com/in/benjaminjob",
+        "https://www.linkedin.com/in/chrisjenx",
+        "https://uk.linkedin.com/in/raven-white-5aa05384"
+      ]
+    },
+    {
+      "@id": "#geek-society",
+      "@type": "organization",
+      "name": "Geek Society",
+      "description": "Historically attested University of Plymouth student society, repeatedly named in alumni profiles and listed in a 2018 fresher's booklet.",
+      "confidence": "Medium",
+      "source": [
+        "https://uk.linkedin.com/in/charlotte-wotton-9a8868118",
+        "https://uk.linkedin.com/in/jamesroberts12",
+        "https://uk.linkedin.com/in/mattcopp",
+        "https://uk.linkedin.com/in/joseph-kellaway-604a22128",
+        "https://www.readkong.com/page/medsoc-2018-fresher-s-booklet-7259962",
+        "https://gigakitianamcewan.wordpress.com/2018/11/27/researching-uni-options/"
+      ],
+      "doesNotEstablish": "#termisoc"
+    },
+    {
+      "@id": "#matt-farrell-games-overlap",
+      "@type": "schema:Observation",
+      "name": "Matt Farrell listed both TermiSoc and Games Society",
+      "description": "Matt Farrell's LinkedIn record lists TermiSoc and Games Society among University of Plymouth activities and records him as TermiSoc chair and later treasurer from 2014 to 2017.",
+      "subject": "#matt-farrell",
+      "supports": ["#termisoc", "#games-society"],
+      "evidenceType": "retrospective self-reported alumni record",
+      "confidence": "Medium",
+      "source": "https://uk.linkedin.com/in/matt-h-farrell",
+      "doesNotEstablish": "A formal TermiSoc control, founding, sponsorship, funding, or partnership relationship with Games Society or its MTG activities."
+    },
+    {
+      "@id": "#matt-farrell",
+      "@type": "Person",
+      "name": "Matt Farrell",
+      "affiliation": ["#termisoc", "#games-society"]
+    },
+    {
+      "@id": "#mikey-legg-games-overlap",
+      "@type": "schema:Observation",
+      "name": "Mikey Legg listed both TermiSoc and Gaming Society",
+      "description": "Mikey Legg's LinkedIn record lists Termisoc and Gaming Society among University of Plymouth activities for 2014 to 2018.",
+      "subject": "#mikey-legg",
+      "supports": ["#termisoc", "#games-society"],
+      "evidenceType": "retrospective self-reported alumni record",
+      "confidence": "Medium",
+      "source": "https://uk.linkedin.com/in/mlegg",
+      "doesNotEstablish": "A formal organisational connection."
+    },
+    {
+      "@id": "#mikey-legg",
+      "@type": "Person",
+      "name": "Mikey Legg",
+      "affiliation": ["#termisoc", "#games-society"]
+    },
+    {
+      "@id": "#christopher-jenkins-societies",
+      "@type": "schema:Observation",
+      "name": "TermiSoc and Robotics Society listed separately",
+      "description": "Christopher Jenkins's LinkedIn record lists Termisoc (Computing Society) and Robotics Society among University of Plymouth activities during 2007 to 2011.",
+      "supports": ["#termisoc", "#robotics-society"],
+      "evidenceType": "retrospective self-reported alumni record",
+      "confidence": "Medium",
+      "source": "https://www.linkedin.com/in/chrisjenx",
+      "doesNotEstablish": "A formal connection between TermiSoc and Robotics Society."
+    }
+  ]
+}
