@@ -1,4 +1,4 @@
-# site-TermiWiki
+# TermiWiki
 
 Standalone source and build output for the historical TermiSoc Wiki.
 
