@@ -35,3 +35,31 @@ The evidence supports three layers: a current official UoP Computer Society/Comp
 - [ ] TODO: Locate archived UPSU society listings or fresher's booklets for Geek Society, CompSoc, and Robotics Society across 2005–2020.
 - [ ] TODO: Search Wayback Machine and Facebook URL variants for Geek Society Plymouth, Plymouth Geek Society, RoboSoc Plymouth, and Plymouth University Robotics Society.
 - [ ] TODO: Determine whether Geek Society was an umbrella society, successor/rebrand, or separate society.
+## Outreach follow-up
+
+The first three outreach introductions have been used for James Roberts, Charlotte Wotton, and Matthew Copperwaite. The remaining candidates are ordered by usefulness to the current TermiSoc, RoboSoc, and Geek Society investigation. Direct outreach is not available; these tasks therefore require a mutual introduction or another permission-based route:
+
+1. [ ] TODO: Seek an introduction to [Matt Farrell](https://uk.linkedin.com/in/matt-h-farrell) about the TermiSoc-to-Geek-Society transition, committee roles, and the 2016–2017 reorganisation.
+2. [ ] TODO: Seek an introduction to [Christopher Jenkins](https://www.linkedin.com/in/chrisjenx) about the relationship between TermiSoc and Robotics Society during 2007–2011.
+3. [ ] TODO: Seek an introduction to [Elly Kensington](https://uk.linkedin.com/in/ellykensington) about her TermiSoc Treasurer role, RoboSoc involvement, and how the societies worked together during 2012–2016.
+4. [ ] TODO: Seek an introduction to [Milutin Manojlovic](https://uk.linkedin.com/in/milutinmanojlovic) about his RoboSoc Treasurer role, TermiSoc involvement, and activities during 2012–2016.
+5. [ ] TODO: Seek an introduction to [James Woodland](https://uk.linkedin.com/in/james-woodland) about the Geek Society esports section and its organisational relationship in 2019–2020.
+6. [ ] TODO: Seek an introduction to [Ryan Smith](https://uk.linkedin.com/in/theindieg) about his Robotics Society chairmanship, activities, and links with other societies during 2013–2018.
+7. [ ] TODO: Seek an introduction to [Raven White](https://uk.linkedin.com/in/raven-white-5aa05384) about Robotics Society activities and committee members from 2011–2018.
+8. [ ] TODO: Seek an introduction to [Jake Shaw-Sutton](https://uk.linkedin.com/in/jake-shaw-sutton) about Robotics Society activities, competitions, and projects from 2013–2017.
+9. [ ] TODO: Seek an introduction to [Vitaliy Martynets](https://ch.linkedin.com/in/vitaliymartynets) about RoboSoc activities, projects, and competitions from 2013–2016.
+10. [ ] TODO: Seek an introduction to [Benjamin Job](https://fr.linkedin.com/in/benjaminjob) about RoboSoc activities, competitions, and participants from 2018–2022.
+11. [ ] TODO: Seek an introduction to [Aaron Newman](https://uk.linkedin.com/in/aaron-newman-tech) about TermiSoc computing and security activities from 2012–2013.
+12. [ ] TODO: Recheck [Joseph Kellaway](https://uk.linkedin.com/in/josephkellaway-604a22128) using an updated profile link or another public source.
+13. [ ] TODO: Identify additional alumni with specific public references to TermiSoc, Robotics Society, RoboSoc, Geek Society, or the esports section, and identify possible mutual contacts for permission-based introductions.
+## Connected-profile follow-up notes
+
+These contacts were identified from contributor-supplied LinkedIn connection screenshots and existing TermiWiki records. They are recorded as possible permission-based contacts; a LinkedIn connection does not by itself establish historical society membership.
+
+- [ ] TODO: If an approved contact route is available, ask **Richard Gibson** ([LinkedIn](https://uk.linkedin.com/in/richard-gibson-a75a38117)) about TermiSoc at Plymouth during 2013–2017, including activities, committees, events, and links with RoboSoc and Geek Society. Existing research gives this lead **High** confidence for a TermiSoc association.
+- [ ] TODO: Consider **Roy Tucker** via the connected LinkedIn profile. His existing page is tagged as a TermiSoc member and executive, treasurer, and secretary. Ask about his dates and roles, activities, committees, and links to later societies. The screenshot shows Ross Bearman and Nick Charlton as mutual connections. The exact dates and roles remain **Unverified**.
+- [ ] TODO: Ask **Joshua Hutchinson** ([LinkedIn](https://www.linkedin.com/in/joshua-hutchinson-178046251/)) about current CompSoc records, alumni, and committee archives. His current CompSoc association is **High** confidence, but this does not establish historical TermiSoc membership.
+- [ ] TODO: If the profile identity is confirmed, ask **Jack Hardaker** ([LinkedIn](https://www.linkedin.com/in/jack-hardaker-630bb581/)) whether he was involved with Plymouth computing or technology societies and what activities, people, or records he recalls. TermiSoc relevance is currently **Low/Unverified**.
+- [ ] TODO: Treat [QKitty](https://www.linkedin.com/in/qkitty/) as a possible public-profile match for the Slack display name `quantum_kitty`. The username match is useful but does not independently prove that the LinkedIn and Slack accounts are the same person or establish society involvement. **Low/Unverified**.
+
+Suggested questions for the strongest leads are preserved in `research/evidence/2026-09-18_linkedin-connected-candidate-screenshots.md`. The Slack/QKitty identity assessment is preserved in `research/evidence/2026-09-18_slack-termisoc-people-matches.md`.

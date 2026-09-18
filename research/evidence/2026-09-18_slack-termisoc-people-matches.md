@@ -13,6 +13,16 @@ confidence: Mixed
 
 The display names transcribed from the 11:11 Slack member-list screenshots were compared with existing pages in `source/TermiPeople/`. The comparison used page titles, filenames, and documented aliases. A display-name match is not treated as independent identity proof without an account ID, profile URL, or corroborating public evidence.
 
+## Contributor-confirmed mappings
+
+| Slack display name | Contributor identification | Existing archive relationship | Assessment |
+| --- | --- | --- | --- |
+| `ben` | Ben A'Lee | [[../../source/TermiPeople/ben_a_lee|Ben A'Lee]] | Contributor-confirmed; consistent with the existing historical page. **Medium** |
+| `ross` | Ross Bearman | [[../../source/TermiPeople/ross_bearman|Ross Bearman]] | Contributor-confirmed; consistent with the existing historical page and independent LinkedIn evidence. **High** |
+| `hexdoll` | Gemma Peter | [[../../source/TermiPeople/gemma_peter|Gemma Peter]] | Contributor-confirmed; consistent with the documented HexDoll alias and Facebook link. **High** |
+| `pixelchu` | Christa “PixelChu” Briggs | [[../../research/people/2026-09-17_pixelchu-facebook-identity-lead|PixelChu identity lead]] | Contributor-confirmed; existing research and people records use **Christa “PixelChu” Briggs**. **Medium** |
+| `roboteernat` | Nathaniel Poate | [[../../source/TermiPeople/nathaniel_poate|Nathaniel Poate]] | Contributor-confirmed; the existing people page uses **Nathaniel Poate**. **Medium** |
+
 ## Strong alias or name matches
 
 | Slack display name | Candidate page | Assessment |
@@ -33,16 +43,20 @@ The display names transcribed from the 11:11 Slack member-list screenshots were 
 | `rich` | [[../../source/TermiPeople/rich_jeffery|Rich Jeffery]] | Contributor confirms that `rich` is `MooseBlaster`, the documented alias. **Medium; contributor-confirmed, not independently verified from Slack account metadata** |
 | `siddy` | [[../../source/TermiPeople/siddharth_vadgama|Siddharth Vadgama]] | Similar to the documented `siddv` alias, but not an exact match. **Low** |
 
+## New public-profile candidate
+
+| Slack display name | Public profile | Assessment |
+| --- | --- | --- |
+| `quantum_kitty` | [LinkedIn — QKitty](https://www.linkedin.com/in/qkitty/) | Exact or near-exact username match supplied by the contributor. This is a useful identity lead, but it does not independently prove that the LinkedIn account is the Slack account or establish TermiSoc involvement. **Low/Unverified** |
 ## Ambiguous or currently unmatched names
 
 The following display names do not have a sufficiently specific existing-page match from the local comparison:
 
-- `ben` - several Ben pages exist, including Ben A'Lee, Ben Haysom, and Ben Jason Gilchriest.
-- `chris.s` - several Chris pages exist.
-- `josh` - several Josh or Joshua pages exist.
-- `ross` - more than one Ross page exists.
-- `sam` - more than one Sam page exists.
-- `cull`, `danielsgroves`, `Hannah`, `hexdoll`, `Jam`, `joeofloath`, `pixelchu`, `quantum_kitty`, `roboteernat`, and `Lonney` - no sufficiently specific local match was established.
+- `chris.s`, `josh`, `sam`, `cull`, `danielsgroves`, `Hannah`, `Jam`, `joeofloath`, and `Lonney` - no sufficiently specific local match was established.
+
+## Name-spelling note
+
+The contributor has confirmed that existing people pages are authoritative for spelling. The confirmed spellings are **Christa “PixelChu” Briggs** and **Nathaniel Poate**; supplied variants are retained only as search or identification hints.
 
 ## Interpretation
 

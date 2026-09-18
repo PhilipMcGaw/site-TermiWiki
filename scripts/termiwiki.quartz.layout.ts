@@ -1,8 +1,50 @@
+import { h } from "preact"
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import type { QuartzComponent } from "./quartz/components/types"
+import type { QuartzComponent, QuartzComponentProps } from "./quartz/components/types"
 import { TermiWikiJsonLd } from "./termiwiki.jsonld"
 
+
+const TERMIWIKI_HEADER_IMAGES = [
+  "weare_weblogo.png",
+  "termisoc.jpg",
+  "65844_10152461917525074_817374787_n.jpg",
+  "615931_10152195877165074_987885237_o.jpg",
+  "542615_10152302664355074_989924364_n.jpg",
+  "479328_10152055366690074_2056026744_o.jpg",
+  "460087_10151475387955074_417911951_o.jpg",
+  "379205_10152442176810074_750501862_n.jpg",
+  "20798976_10154959119336448_7379237143040990885_n.jpg",
+  "18718_10152341836850074_1430501665_n.jpg",
+  "149148_10152302653015074_976103367_n.jpg",
+  "14695479_10207669916130450_5718896470646384330_n.jpg",
+  "1174627_10153183525930074_2028283492_n.jpg",
+]
+
+const TermiWikiRandomHeader: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+  if (fileData.slug !== "index" && fileData.slug !== "start") return null
+
+  const imagePaths = TERMIWIKI_HEADER_IMAGES.map((name) => `/Media/headers/${name}`)
+  const imageList = JSON.stringify(imagePaths)
+
+  return h("figure", { class: "termisoc-random-header" }, [
+    h("img", {
+      src: imagePaths[0],
+      alt: "Random TermiSoc header image",
+      width: 1000,
+      height: 600,
+      loading: "eager",
+      decoding: "async",
+      "data-termisoc-header-images": imageList,
+    }),
+    h("figcaption", { class: "sr-only" }, "Random TermiSoc header image"),
+    h("script", {
+      dangerouslySetInnerHTML: {
+        __html: `(() => { const image = document.currentScript?.previousElementSibling?.previousElementSibling; if (!image) return; const images = ${imageList}; image.src = images[Math.floor(Math.random() * images.length)]; })()`,
+      },
+    }),
+  ])
+}
 const TermiWikiStyles: QuartzComponent = () => null
 TermiWikiStyles.css = `
   /*
@@ -197,6 +239,20 @@ TermiWikiStyles.css = `
     border: 1px solid var(--retro-border);
   }
 
+
+  .termisoc-random-header {
+    margin: 0 0 1rem;
+    border: 1px solid var(--retro-border);
+    background: var(--retro-panel-light);
+  }
+
+  .termisoc-random-header img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 600px;
+    object-fit: cover;
+  }
   @media (max-width: 700px) {
     html,
     body {
@@ -230,7 +286,7 @@ export const sharedPageComponents: SharedLayout = {
 }
 
 export const defaultContentPageLayout: PageLayout = {
-  beforeBody: [Component.ArticleTitle(), Component.ContentMeta(), Component.TagList()],
+  beforeBody: [Component.ArticleTitle(), Component.ContentMeta(), Component.TagList(), TermiWikiRandomHeader],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),

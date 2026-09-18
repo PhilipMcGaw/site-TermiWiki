@@ -6,7 +6,7 @@ created: 2024-01-04
 tags:
   - "termisoc"
 ---
-<!-- DokuWiki macro preserved: {{gallery> .headers?random&nocache&=1&1000x600 | Random TermiSoc Header Image}} -->
+<!-- Random TermiSoc header rendered by the TermiWiki Quartz layout component. -->
 
 ![[Media/termisoc-logo.jpg| Termisoc Keyboard Logo]]
 
@@ -28,14 +28,14 @@ This site is an archive of historical TermiSoc and a place to record the newer C
 
 Everything you might want to know, and probably a lot you don't, will be like taking a trip down a broken EEPROM.
 
-- were TermiSoc? - About the Society
+- [Who were TermiSoc?](termisoc.md) - About the Society
 - [Abridged History](the_abridged_history.md) - The story of TermiSoc (1991-2004)
 - [Prehistory](prehistory.md) - History before the Wiki's existence.
 - [Posthistory](posthistory.md) - Later history and revivals after TermiSoc closed
 
 - [termiexec](Glossary/termiexec.md) - Historical executive committees
 - [termimember](Glossary/termimember.md) - Historical membership
-- [People](people.md) - Never-members that affected our lives 
+- [People](people.md) - Never-members that affected our lives
 - [Glossary](glossary.md) - Terms and phrases created by TermiSoc
 
 - [Projects](projects.md) - What we've done, and what we're going to do
@@ -44,7 +44,7 @@ Everything you might want to know, and probably a lot you don't, will be like ta
 - [database](quotes.md) - Incriminating evidence
 - [Images](Glossary/header_images.md) - Header Images that TermiSoc has used in the past.
 
-Do you have memories you'd rather let somebody else remember, forget or enjoy? Add it to the Wiki today! 
+Do you have memories you'd rather let somebody else remember, forget or enjoy? Add it to the Wiki today!
 
 # Robosoc
 
@@ -54,7 +54,7 @@ https://robosoc.org/ -- Welcome to the Official website of the robotics society,
 
 # CompSoc — today’s computing community
 
-https://www.upsu.com/societies/compsoc/ 
+https://www.upsu.com/societies/compsoc/
 ## The Computer Society is a dynamic community dedicated to inspiring innovation, collaboration, and creativity among students.
 
 CompSoc is the current University of Plymouth computing society, with its own committee and current programme of activity.

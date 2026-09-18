@@ -11,6 +11,12 @@ tags:
 
 Use the `TODO` and `ROADMAP` markers below for open preservation and verification actions. Tick an item when complete; the Better TODO Tree extension will continue to find the marker while the checkbox records its status.
 
+## Social and people-index checks
+
+- [ ] TODO: During the next Facebook and wider social-media sweep, compare the [TermiWiki people index](https://labbook.skippy.org.uk/doku.php/sites/termiwiki/people) with local people pages and record any missing or changed links.
+- [ ] TODO: During the same sweep, review the [TermiWiki start page](https://labbook.skippy.org.uk/doku.php/sites/termiwiki/start) against the ingested local material, checking names, dates, links, and source provenance.
+- [ ] TODO: Audit all pages beneath the [TermiWiki namespace](https://labbook.skippy.org.uk/doku.php/sites/termiwiki/), using the contributor browser or an export: enumerate pages, compare them with local `source/` and `research/` records, inventory every attachment and media file, preserve missing files with provenance, and record inaccessible or duplicate material.
+
 ## Wayback recovery
 
 - [ ] TODO: Recover or corroborate the compressed-error captures for Andrew Gill, Chris Morris, Philip McGaw, Seth Kneller, and Dan Cosser. See [member-page research record](sources/2006-2009_termisoc_member_pages.md).
