@@ -61,7 +61,9 @@ echo "==> Generating static site"
 rm -rf "$SITE_DIR"
 (
     cd "$QUARTZ_BUILD_DIR"
-node ./quartz/bootstrap-cli.mjs build \
+    # The local JSON-LD transformer must run in the main process. Quartz's
+    # worker-pool mode serialises built-in plugins but silently omits it.
+    node ./quartz/bootstrap-cli.mjs build --concurrency 1 \
         --directory "$STAGE_DIR" \
         --output "$SITE_DIR"
 )

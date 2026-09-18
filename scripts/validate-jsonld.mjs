@@ -14,7 +14,9 @@
 import { readFile, readdir, stat } from "node:fs/promises"
 import { join, relative } from "node:path"
 
-const SITE_ROOT = new URL("../site/", import.meta.url)
+const SITE_ROOT = process.argv[2]
+  ? new URL(`file://${process.argv[2].replace(/\/$/, "")}/`)
+  : new URL("../site/", import.meta.url)
 const EXPECTED_CONTEXT = "https://schema.org"
 const errors = []
 let htmlFiles = 0
@@ -64,6 +66,7 @@ function validateSchema(file, schema, index) {
 
 async function validateFile(file) {
   htmlFiles += 1
+  if (file.endsWith("/404.html")) return
   const html = await readFile(file, "utf8")
   const matches = [...html.matchAll(/<script\b[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)]
 

@@ -1,6 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import type { QuartzComponent } from "./quartz/components/types"
+import { TermiWikiJsonLd } from "./termiwiki.jsonld"
 
 const TermiWikiStyles: QuartzComponent = () => null
 TermiWikiStyles.css = `
@@ -224,7 +225,7 @@ TermiWikiStyles.css = `
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [TermiWikiStyles],
+  afterBody: [TermiWikiStyles, TermiWikiJsonLd],
   footer: Component.Footer(),
 }
 

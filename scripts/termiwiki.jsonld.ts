@@ -1,4 +1,5 @@
-import type { QuartzTransformerPlugin } from "./quartz/plugins/types"
+import { h } from "preact"
+import type { QuartzComponent, QuartzComponentProps } from "./quartz/components/types"
 import type { QuartzPluginData } from "./quartz/plugins/vfile"
 
 type JsonLd = Record<string, unknown>
@@ -39,17 +40,25 @@ function pageUrl(baseUrl: string, slug: string | undefined): string {
   return !slug || slug === "index" ? `${base}/` : `${base}/${slug}`
 }
 
-function externalLinks(fileData: QuartzPluginData): string[] {
-  const links = fileData.externalLinks
-  return Array.isArray(links)
-    ? links.filter((link): link is string => typeof link === "string" && /^https?:\/\//.test(link))
-    : []
+function externalLinks(tree: unknown): string[] {
+  const links = new Set<string>()
+  const visit = (node: unknown): void => {
+    if (typeof node !== "object" || node === null) return
+    const element = node as HastNode
+    if (element.type === "element" && element.tagName === "a" && typeof element.properties?.href === "string") {
+      if (/^https?:\/\//.test(element.properties.href)) links.add(element.properties.href)
+    }
+    for (const child of element.children ?? []) visit(child)
+  }
+  visit(tree)
+  return [...links]
 }
 
 function profileLinks(links: string[]): string[] {
   return links.filter((link) => {
     try {
-      return PROFILE_HOSTS.has(new URL(link).hostname.replace(/^www\./, ""))
+      const hostname = new URL(link).hostname.replace(/^www\./, "")
+      return [...PROFILE_HOSTS].some((host) => hostname === host || hostname.endsWith(`.${host}`))
     } catch {
       return false
     }
@@ -60,7 +69,7 @@ function serialise(data: JsonLd): string {
   return JSON.stringify(data).replace(/</g, "\\u003c")
 }
 
-function schemaForPage(fileData: QuartzPluginData, baseUrl: string): JsonLd | undefined {
+function schemaForPage(fileData: QuartzPluginData, baseUrl: string, links: string[]): JsonLd | undefined {
   const slug = fileData.slug
   if (!slug || slug === "404") return undefined
 
@@ -72,7 +81,6 @@ function schemaForPage(fileData: QuartzPluginData, baseUrl: string): JsonLd | un
   const description =
     asString(frontmatter.socialDescription) ?? asString(frontmatter.description) ?? asString(fileData.description)
   const tags = asStringArray(frontmatter.tags)
-  const links = externalLinks(fileData)
   const site: JsonLd = {
     "@type": "WebSite",
     "@id": `${pageUrl(baseUrl, "index")}#website`,
@@ -116,50 +124,19 @@ function schemaForPage(fileData: QuartzPluginData, baseUrl: string): JsonLd | un
 }
 
 /**
- * Captures external Markdown links after Quartz has rendered them, then emits
- * conservative per-page Schema.org JSON-LD directly into the transformed HTML.
+ * Emits conservative per-page Schema.org JSON-LD as a Quartz component.
  *
- * Quartz's `externalResources().additionalHead` is for static head resources;
- * it is not a per-page callback. Injecting the JSON-LD into the transformed
- * HAST tree keeps the data page-specific while avoiding an invalid resource hook.
- * JSON-LD script elements are valid in the document body as well as the head.
+ * It cannot be injected into Quartz's transformed Markdown tree: that tree is
+ * converted to Preact, which escapes or removes script content. Rendering this
+ * component directly retains valid JSON in a script element. JSON-LD scripts
+ * are valid in the document body as well as the head.
  */
-export const TermiWikiJsonLd = (baseUrl: string): QuartzTransformerPlugin => () => ({
-  name: "TermiWikiJsonLd",
-  htmlPlugins() {
-    return [
-      () => (tree, file) => {
-        const links = new Set<string>()
-        const visit = (node: unknown): void => {
-          if (typeof node !== "object" || node === null) return
-          const element = node as HastNode
-          if (element.type === "element" && element.tagName === "a" && typeof element.properties?.href === "string") {
-            const href = element.properties.href
-            if (/^https?:\/\//.test(href)) links.add(href)
-          }
-          for (const child of element.children ?? []) visit(child)
-        }
-        visit(tree)
-        file.data.externalLinks = [...links]
+export const TermiWikiJsonLd: QuartzComponent = ({ fileData, cfg, tree }: QuartzComponentProps) => {
+  const schema = schemaForPage(fileData, cfg.baseUrl ?? "", externalLinks(tree))
+  if (!schema) return null
 
-        const schema = schemaForPage(file.data, baseUrl)
-        if (!schema) return
-
-        const root = tree as HastNode
-        root.children ??= []
-        root.children.push({
-          type: "element",
-          tagName: "script",
-          properties: { type: "application/ld+json" },
-          children: [{ type: "text", value: serialise(schema) }],
-        })
-      },
-    ]
-  },
-})
-
-declare module "vfile" {
-  interface DataMap {
-    externalLinks?: string[]
-  }
+  return h("script", {
+    type: "application/ld+json",
+    dangerouslySetInnerHTML: { __html: serialise(schema) },
+  })
 }
