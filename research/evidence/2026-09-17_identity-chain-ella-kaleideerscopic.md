@@ -17,6 +17,11 @@ This record preserves online-account evidence supplied or discovered during the 
 - Steam username supplied: `sylenyx` / `kaleideerscopic`
 - Association context: CompSoc Discord
 - Identity status: candidate account cluster; real-world identity not independently established in this record.
+- Reported display name: Ella. **Confidence: Unverified**.
+- Reported pronouns: she/her. **Confidence: Unverified**; treat as self-description only if directly shown in the profile.
+- Discord membership date: 2 December 2023. **Confidence: Unverified**.
+- CompSoc Discord membership date: 6 February 2026. **Confidence: Unverified**.
+- Listed roles: none reported. **Confidence: Unverified**; the original profile view was not supplied.
 
 ## Supplied evidence
 

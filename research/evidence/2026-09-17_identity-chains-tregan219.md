@@ -17,6 +17,9 @@ This record preserves online-account evidence gathered during the TermiSoc/CompS
 - Name observed: Terry / Terry Regan
 - Historical/location evidence observed: Coventry, UK (2014); later Plymouth-related evidence.
 - Current identity status: candidate identity supported by multiple cross-platform matches; further corroboration required before treating all accounts as one person.
+- Discord roles: none reported for the CompSoc account. **Confidence: Unverified**; the original profile view was not supplied.
+- Discord membership date: 23 January 2016. **Confidence: Unverified**.
+- CompSoc Discord membership date: 7 July 2026. **Confidence: Unverified**.
 
 ## Accounts supplied as evidence
 
