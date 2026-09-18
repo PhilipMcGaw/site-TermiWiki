@@ -11,6 +11,14 @@ tags:
 
 Use the `TODO` and `ROADMAP` markers below for open preservation and verification actions. Tick an item when complete; the Better TODO Tree extension will continue to find the marker while the checkbox records its status.
 
+## GitHub-tracked tasks
+
+These open GitHub issues are the repository's detailed task records. Keep the actionable index here in sync with them; the issue remains the place for implementation/research detail.
+
+- [ ] TODO: Create the TermiSoc favicon and site icon set. See [Issue #1](https://github.com/PhilipMcGaw/site-TermiWiki/issues/1).
+- [ ] TODO: Retrieve and preserve the TermiSoc `termisoc.org` domain registration certificate from the Facebook group. See [Issue #2](https://github.com/PhilipMcGaw/site-TermiWiki/issues/2).
+- [ ] TODO: Update Ben A’Lee to his current name, **Ben Eskola**, including current-name references while preserving appropriate historical references. See [Issue #3](https://github.com/PhilipMcGaw/site-TermiWiki/issues/3).
+
 ## Social and people-index checks
 
 - [ ] TODO: During the next Facebook and wider social-media sweep, compare the [TermiWiki people index](https://labbook.skippy.org.uk/doku.php/sites/termiwiki/people) with local people pages and record any missing or changed links.
