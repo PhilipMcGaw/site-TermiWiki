@@ -22,6 +22,7 @@ These open GitHub issues are the repository's detailed task records. Keep the ac
 ## Social and people-index checks
 
 - [ ] TODO: During the next Facebook and wider social-media sweep, compare the [TermiWiki people index](https://labbook.skippy.org.uk/doku.php/sites/termiwiki/people) with local people pages and record any missing or changed links.
+- [ ] TODO: After direct evidence has been consolidated for existing people pages, triage the deferred [Facebook mutual-connection lead queue](leads/2026-09-19_facebook-mutual-connection-leads.md). Do not treat mutual connections as evidence of membership or office.
 - [ ] TODO: During the same sweep, review the [TermiWiki start page](https://labbook.skippy.org.uk/doku.php/sites/termiwiki/start) against the ingested local material, checking names, dates, links, and source provenance.
 - [ ] TODO: Audit all pages beneath the [TermiWiki namespace](https://labbook.skippy.org.uk/doku.php/sites/termiwiki/), using the contributor browser or an export: enumerate pages, compare them with local `source/` and `research/` records, inventory every attachment and media file, preserve missing files with provenance, and record inaccessible or duplicate material.
 
@@ -33,7 +34,7 @@ These open GitHub issues are the repository's detailed task records. Keep the ac
 - [ ] TODO: Download and assess `Schemetutorial08.pdf`, `tsoc304.pdf`, and the 2007 LAN documents, recording checksums and provenance before publication. See [Wayback candidates research record](sources/2000-2011_termisoc_wayback_resource_candidates.md).
 - [ ] TODO: Compare archived Constitution and Security Policy files against local copies before preserving any duplicates.
 - [ ] TODO: Match archived executive portraits against existing people pages before adding media.
-- [ ] TODO: Retrieve and assess the remaining surviving TermiSoc Facebook group file: `LAN Information.docx`. `Termi Coding 1.zip` and `PATW - 2013.pdf` are preserved and catalogued as research-only. See [Facebook files and events inventory](sources/2026-09-18_termisoc-facebook-files-and-events.md).
+- [x] TODO: Retrieve and assess the three surviving TermiSoc Facebook group files. `Termi Coding 1.zip`, `PATW - 2013.pdf`, and `LAN Information.docx` are preserved and catalogued as research-only. See [Facebook files and events inventory](sources/2026-09-18_termisoc-facebook-files-and-events.md).
 - [ ] TODO: Corroborate the exact date, venue and outcome of the First 24 Hour LAN announced for October 2014. See [2014 flyer evidence](evidence/2026-09-19_matt-farrell-2014-termisoc-material/README.md).
 
 ## GitHub preservation

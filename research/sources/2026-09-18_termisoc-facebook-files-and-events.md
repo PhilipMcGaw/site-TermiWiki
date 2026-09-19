@@ -43,6 +43,12 @@ The authenticated download was preserved on 19 September 2026 at `research/media
 
 The poster advertises a Plymouth University local heat at the Babbage Building, room BGB 005/002, at 18:30 on 6 March 2013. It invites students and young professionals aged 18-26 to give a 10-minute engineering or technology presentation, with a £150 local prize. Its metadata records The IET as author and a modification date of 9 January 2013. This corroborates the group-post description and resolves `PATW` as **Present Around The World**. It demonstrates circulation of an external IET opportunity in the group, not TermiSoc organisation or ownership. The original remains research-only pending IET reuse permission.
 
+## Retrieved attachment: `LAN Information.docx`
+
+The authenticated download was preserved on 19 September 2026 at `research/media/2026-09-19_termisoc-facebook-files/LAN Information.docx`; SHA-256: `51581106c71747161f0aeac903d9ac9fc1b5dae42de0a1d9099942cf9a39e0cc`. Its two pages rendered cleanly and confirm a TermiSoc LAN from 12:00 Saturday 21 March to 12:00 Sunday 22 March 2015. The document provides entry prices, rules, safety and technical roles, a tournament schedule, and a concurrent Magic: The Gathering prerelease, but does not name a venue.
+
+It directly corroborates the relevant 2015 executive roles and supports a new research-only [March 2015 LAN record](../events/2026-09-19_termisoc-march-2015-lan.md). The original remains outside `source/` pending a decision on privacy, provenance, and reuse permission.
+
 ## Direct evidence: past events
 
 The group’s Past events list contained:
@@ -75,8 +81,8 @@ This is a dated retrospective statement consistent with the archive and LinkedIn
 
 ## Open questions
 
-- [ ] TODO: Retrieve, checksum and inspect the remaining listed attachment: `LAN Information.docx`. `Termi Coding 1.zip` and `PATW - 2013.pdf` were retrieved and documented as research-only on 19 September 2026; do not place any attachment in `source/Media/` without a publication decision and provenance.
-- [ ] TODO: Compare `LAN Information.docx` with the 2015 committee and LAN-event records before creating or revising a published event page.
+- [x] TODO: Retrieve, checksum and inspect the three listed attachments. `Termi Coding 1.zip`, `PATW - 2013.pdf`, and `LAN Information.docx` were retrieved and documented as research-only on 19 September 2026; do not place any attachment in `source/Media/` without a publication decision and provenance.
+- [x] TODO: Compare `LAN Information.docx` with the 2015 committee and LAN-event records before creating or revising a published event page. It corroborates the 21-22 March 2015 LAN and the relevant named executive roles; the event record remains research-only pending a publication decision.
 - [x] TODO: Determine the full expansion and context of `PATW` from the PDF itself before describing it in published material. The file is an IET **Present Around The World** poster, circulated in the group for a 6 March 2013 Plymouth University local heat; it is not evidence of a TermiSoc-organised event.
 - [ ] TODO: Continue the uncaptioned photo-stream retrieval, retaining Facebook IDs, uploader names, hashes, and upload context before attempting identification or publication.
 
@@ -86,4 +92,4 @@ This is a dated retrospective statement consistent with the archive and LinkedIn
 - **High:** the two Voodoo events are displayed as member shares, not verified society-organised events.
 - **High:** the Elly Kensington image, its Facebook ID, visible subject matter, dimensions, and SHA-256 were directly retrieved.
 - **High:** the contents and integrity of the preserved `Termi Coding 1.zip` copy, as described above.
-- **Unverified:** `LAN Information.docx` content and all remaining reuse/publication rights.
+- **Unverified:** all attachment reuse/publication rights, and the March 2015 LAN venue and outcome.

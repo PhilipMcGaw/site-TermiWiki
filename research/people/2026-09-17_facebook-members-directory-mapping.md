@@ -28,11 +28,11 @@ The visible directory, contributor list, and initial member sections matched the
 | Nathaniel Poate | [Nathaniel Poate](../../source/TermiPeople/nathaniel_poate.md) | Exact name |
 | Rich Jeffery | [Rich Jeffery](../../source/TermiPeople/rich_jeffery.md) | Exact name |
 | Chris Hunt | [Chris Hunt](../../source/TermiPeople/chris_hunt.md) | Exact name |
-| Edward Mccaughan | [Edward Mccaughan](../../source/TermiPeople/edward_mccaughan.md) | Exact name |
+| Edward Mccaughan | [Edward Mccaughan](../../source/TermiPeople/edward_mccaughan.md) | Exact name; the project maintainer confirms the Facebook profile `edwardmccaughan` is the historical **MadScientist** identity recorded in the 2007 TermiSoc profile. |
 | Carl Notman | [Carl Notman](../../source/TermiPeople/carl_notman.md) | Exact name |
 | Daniel Cosser | [Dan Cosser](../../source/TermiPeople/dan_cosser.md) | Given-name variant |
 | Eleanor Kate Milner | [Eleanor Milner](../../source/TermiPeople/eleanor_milner.md) | Exact name with middle name; profile identifies her as a former TermiSoc member |
-| Sarah McPhee | [Sarah McPhee](../../source/TermiPeople/sarah_mcphee.md) | Exact name |
+| Sarah McPhee | [Sarah McPhee](../../source/TermiPeople/sarah_mcphee.md) | Exact name; the project maintainer confirms `sjmcphee` is Sarah McPhee and describes her as TermiSoc-adjacent. Her separate 2010–11 TermiSoc candidate statement records prior Treasurer and Social Secretary service; retain that as a distinct historical document rather than inferring offices from the Facebook profile. |
 | Thomas Sturges-Allard | [Thomas Sturges-Allard](../../source/TermiPeople/thomas_sturges-allard.md) | Exact name |
 | Roy Tucker | [Roy Tucker](../../source/TermiPeople/roy_tucker.md) | Exact name |
 | Craig Norman | [Craig Norman](../../source/TermiPeople/craig_norman.md) | Exact name |
@@ -40,6 +40,14 @@ The visible directory, contributor list, and initial member sections matched the
 | Siddharth Vadgama | [Siddharth Vadgama](../../source/TermiPeople/siddharth_vadgama.md) | Named as a mutual connection; independently has a relevant 2013 group-file upload |
 
 The directory identifies Paul Bland and Alex Charrett as group administrators. It identifies Alex McLean and Aaron Trevena among the leading contributors shown in the interface. These are interface roles at retrieval time, not evidence of their historical TermiSoc officer roles.
+
+## Project-maintainer familiarity confirmation
+
+On 19 September 2026, the project maintainer confirmed personal familiarity with the following displayed group members: **Benjamin Eskola, Nathaniel Poate, Sarah McPhee, Daniel Cosser, Chris Hunt, Aimee Spencer, Rich Jeffery, Edward McCaughan, Carl Notman, Gemma Peter,** and **Siddharth Vadgama**. This strengthens the identity handling for the first, third through fifth, and seventh through twelfth names above; it does not add a historical office, membership date, or permission to publish current-profile details.
+
+The same confirmation records **Cull de Sac** as a person known to the maintainer, but does not supply a name bridge to a historical TermiWiki record. Retain that display name as an unresolved alias unless and until a separate identity bridge is provided.
+
+The current profile descriptions shown in the interface (such as occupation, university affiliation, or follower count) are deliberately not transcribed: they are not necessary for the archive’s historical claims.
 
 ## Continuation check
 

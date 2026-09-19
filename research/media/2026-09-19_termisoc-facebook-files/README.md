@@ -41,7 +41,16 @@ The editable IET poster advertises a Plymouth University local heat at the Babba
 
 This is evidence that the opportunity was circulated in the TermiSoc group, not evidence that TermiSoc organised the competition or owns the poster. It remains in research pending an IET reuse/publication decision.
 
+## `LAN Information.docx`
+
+The document was supplied from the authenticated download on 19 September 2026. Its stable provenance is [Eleanor Kate Milner's group post](https://www.facebook.com/groups/termisoc/permalink/10152781190523785/), which describes it as the official information for that weekend's LAN.
+
+| Local file | Size | SHA-256 | Validation |
+| --- | ---: | --- | --- |
+| `LAN Information.docx` | 21,398 bytes | `51581106c71747161f0aeac903d9ac9fc1b5dae42de0a1d9099942cf9a39e0cc` | two pages rendered and visually reviewed on 19 September 2026 |
+
+The document gives a 12:00 Saturday 21 March to 12:00 Sunday 22 March 2015 schedule, entry prices, safety and technical arrangements, tournament timetable, and concurrent Magic: The Gathering prerelease. It does not name the venue. Its contents are described in the [March 2015 LAN research record](../../events/2026-09-19_termisoc-march-2015-lan.md). It remains research-only pending a publication decision and confirmation of any reuse rights.
+
 ## Follow-up
 
-- Retrieve, hash and inspect `LAN Information.docx` from the same Files tab.
 - Establish whether Jamie Woods or another appropriate rights holder can clarify the coding-lab material's reuse conditions before considering public publication.
