@@ -78,9 +78,10 @@ contains no TermiSoc or University of Plymouth evidence. Live voyage and
 location data were not copied into the repository.
 
 The handle [@zourzouvillys on Instagram](https://www.instagram.com/zourzouvillys)
-was supplied as another current-profile link. The public retrieval layer could
-not read the Instagram profile, so its ownership and contents remain
-**Unverified** in this record. No private content or posts were accessed.
+is linked from Theo's own `zrz.io` footer. That makes the link **High
+confidence as a first-party social-profile reference**, even though the public
+retrieval layer could not read the Instagram profile itself. Its biography and
+posts therefore remain unverified here; no private content was accessed.
 
 No reliable public Facebook profile was identified in this pass. The LinkedIn
 profile is the useful social-profile option; no outreach was attempted.
