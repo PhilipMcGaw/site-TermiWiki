@@ -92,6 +92,7 @@ The certificate may provide unusually precise documentary evidence for the early
 ### Required work
 
 - [ ] TODO: Re-open the relevant TermiSoc Facebook group.
+- [ ] TODO: Use an authorised authenticated browser session; if no such session is available, record the access blocker and leave the issue open.
 - [ ] TODO: Locate the photograph/scan of the `termisoc.org` registration certificate.
 - [ ] TODO: Preserve the original image if Facebook permits retrieval at useful quality.
 - [ ] TODO: Record the Facebook group and post provenance.
@@ -116,6 +117,12 @@ The certificate may provide unusually precise documentary evidence for the early
 - [ ] TODO: Preserve the original source image alongside any transcription where licensing/access conditions permit.
 - [ ] TODO: Record confidence and any illegible/ambiguous fields.
 - [ ] TODO: Add a cross-reference from the relevant TermiSoc timeline/history page.
+
+### Online issue synchronisation and closure
+
+- [ ] TODO: Update GitHub Issue #2 online with the retrieval result, source URL, capture date, provenance, evidence path, transcription, confidence, and unresolved questions.
+- [ ] TODO: Keep GitHub Issue #2 open while the original or higher-resolution certificate remains unretrieved, inaccessible, or insufficiently checked.
+- [ ] TODO: Close GitHub Issue #2 online only after the evidence record and any supported timeline update have been reviewed and the remaining issue criteria are satisfied.
 
 ### Important provenance rule
 
