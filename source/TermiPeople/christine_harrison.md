@@ -13,7 +13,7 @@ tags:
 
 Christine Harrison is documented in the surviving TermiSoc material as a participant in later media and social projects. She helped with the first **LOGin** podcast, recorded at Rich Jeffery's flat in May 2007, and provided research input for the **Back to Pong** pilot.[^1][^2]
 
-The available material does not yet establish her committee role, course, dates of study, alias, or later identity. Exact-name web searches did not produce a reliable public match, so those details remain open research questions.
+The available material does not yet establish her committee role, course, dates of study, or alias. The project maintainer has confirmed the later Facebook identity of this historical Christine Harrison; the current-profile link and associated personal information are retained in the private research record rather than published here.
 
 ## Sources
 

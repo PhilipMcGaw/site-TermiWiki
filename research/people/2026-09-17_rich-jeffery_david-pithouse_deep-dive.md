@@ -82,7 +82,7 @@ Source:
 
 This independently corroborates the modern identity **Rich Jeffery → `mooseblaster`**.
 
-The project maintainer reports that the Facebook profile [chrissey.harrison](https://www.facebook.com/chrissey.harrison) visibly states that its holder is married to [Rich Jeffery](https://www.facebook.com/rich.jeffery), corroborating the relationship to Rich / `mooseblaster`. This is a private research relationship lead only; the profile's current relationship-date detail is deliberately omitted. It is not used to infer a TermiSoc role, publish personal relationship information, or identify the historical Christine Harrison record without further corroboration.
+The project maintainer confirms that the Facebook profile [chrissey.harrison](https://www.facebook.com/chrissey.harrison) is the historical **Christine Harrison** recorded in TermiSoc material, and reports that the profile visibly states that its holder is married to [Rich Jeffery](https://www.facebook.com/rich.jeffery). This is a private research identity and relationship record only; the profile's current relationship-date detail is deliberately omitted. It is not used to infer a TermiSoc role or publish personal relationship information.
 
 ### Historical hostname mapping
 
