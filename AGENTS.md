@@ -234,6 +234,7 @@ After making changes:
 - Do not rewrite history or force-push unless explicitly requested.
 - Avoid unrelated formatting churn.
 - When a task calls for a pull request, use a dedicated branch and keep the PR limited to the requested work.
+- For requested repository changes, commit and push the validated focused work by default. Treat this as the normal hand-off unless the user explicitly requests a local-only change or push is unavailable. Do not include unrelated work, force-push, rewrite history, or expose credentials; report any push limitation clearly.
 - Before updating an existing GitHub file, obtain its current blob SHA and update from that version to avoid overwriting concurrent changes.
 
 ## Important safety rule
