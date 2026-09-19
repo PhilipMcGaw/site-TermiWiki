@@ -20,6 +20,7 @@ Being followed by TermiSoc is evidence of a public account relationship at the t
 
 | X account | Visible display name | Person | Basis |
 | --- | --- | --- | --- |
+| [@edwardmccaughan](https://x.com/edwardmccaughan) | Ed McCaughan | [[../../source/TermiPeople/edward_mccaughan\|Edward McCaughan]] | Project-maintainer confirmation of the abbreviated display name; Edward McCaughan is independently documented as Projects Officer (2006–2007) and Assistant Technical Officer (2007). |
 | [@siddvee](https://x.com/siddvee) | Siddharth Vadgama | [[../../source/TermiPeople/siddharth_vadgama\|Siddharth Vadgama]] | Exact full name; person already independently documented as TermiSoc Chairman. |
 | [@nickcharlton](https://x.com/nickcharlton) | Nick Charlton | [[../../source/TermiPeople/nick_charlton\|Nick Charlton]] | Exact full name; person already independently documented as TermiSoc Safety Officer and Tech Officer. |
 | [@rossbearman](https://x.com/rossbearman) | Ross Bearman | [[../../source/TermiPeople/ross_bearman\|Ross Bearman]] | Exact full name; person has an existing historical record and independently documented TermiSoc association. |
@@ -27,6 +28,8 @@ Being followed by TermiSoc is evidence of a public account relationship at the t
 | [@danbjorn](https://x.com/danbjorn) | Daniel Cosser | [[../../source/TermiPeople/dan_cosser\|Dan Cosser]] | Exact visible full name with the existing page's Daniel/Dan given-name variant. |
 | [@harryetee](https://x.com/harryetee) | Harriet Eldred | [[../../source/TermiPeople/harriet_eldred\|Harriet Eldred]] | Exact full name; person independently records Termisoc among University of Plymouth activities. |
 | [@thisisthechris](https://x.com/thisisthechris) | Chris Hunt | [[../../source/TermiPeople/chris_hunt\|Chris Hunt]] | Exact full name and the same distinctive handle already appears as the public GitHub account on the people page. |
+
+The project maintainer additionally identifies `@danbjorn` as **Dan Bjorn**. This is retained as the public account name/alias alongside the independently documented historical name Daniel Cosser.
 
 ## Additional supported account associations
 
@@ -52,7 +55,7 @@ On 19 September 2026, the authenticated followers view at <https://x.com/TermiSo
 
 | X account | Visible display name | Assessment |
 | --- | --- | --- |
-| [@christa_ux](https://x.com/christa_ux) | Christa | The project maintainer identifies this as **PixelChu / Christa Briggs**. This establishes a project-maintainer account-to-person bridge, but no independent TermiSoc connection was visible in this pass. |
+| [@christa_ux](https://x.com/christa_ux) | Christa | The project maintainer identifies this as **PixelChu / Christa Briggs**. The project maintainer also identifies [@pixelchu](https://x.com/pixelchu) as her public X account. These establish user-confirmed account-to-person bridges, but no independent TermiSoc connection was visible in this pass. |
 | [@WKDWalkaboutWed](https://x.com/WKDWalkaboutWed) | WKD Walkabout Wednesday | UPSU student-night organisation account. |
 | [@PlymJedi](https://x.com/PlymJedi) | Plymouth Jedi | University of Plymouth-related society account. |
 | [@MLHacks](https://x.com/MLHacks) | Major League Hacking | Student hackathon organisation. |
@@ -74,7 +77,7 @@ On 19 September 2026, the authenticated followers view at <https://x.com/TermiSo
 | [@PwC_UK_Careers](https://x.com/PwC_UK_Careers) | PwC UK Careers | Organisation account. |
 | [@WholeClo](https://x.com/WholeClo) | WholeClo.com | Organisation account. |
 
-The following accounts merit cautious follow-up only because their visible names or account context intersect with existing research: **@christa_ux**, **@peristarbuck**, **@warren4welfare**, and **@Leigh_LbR**. The project maintainer has identified `@christa_ux`; none of these accounts has sufficient independent evidence for a TermiSoc-person association at present.
+The following accounts merit cautious follow-up only because their visible names or account context intersect with existing research: **@christa_ux**, **@peristarbuck**, **@warren4welfare**, and **@Leigh_LbR**. The project maintainer has identified `@christa_ux` and `@pixelchu` as Christa “PixelChu” Briggs; none of the listed accounts has sufficient independent evidence for a TermiSoc-person association at present.
 
 ## Handling
 
