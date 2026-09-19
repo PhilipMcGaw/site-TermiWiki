@@ -18,6 +18,7 @@ confidence: high for LinkedIn candidate exclusion; medium-high for RIPE biograph
 ## Strong candidate
 
 - [James Hickman — LinkedIn](https://uk.linkedin.com/in/james-hickman), Greater Plymouth area, with a public profile showing a University of Plymouth-area connection. A supplied education view places the profile at Ivybridge Community College (1997–2003), the University of Leeds (2003–06), and the University of Warwick (2009–13). This is not consistent with the RIPE biography's 1972 birth year and earlier University of Plymouth Computing and Informatics history, so this LinkedIn profile is treated as a likely same-name false match.
+- [James Hickman — probable LinkedIn profile](https://www.linkedin.com/in/hickmanj/), supplied by the project maintainer as the profile associated with the RIPE biography candidate. Direct public retrieval returned a LinkedIn cache miss during this pass, so the profile contents were not independently re-read here.
 - [RIPE NCC biography — James Hickman](https://www.ripe.net/membership/gm/meetings/november-2010/arbiter-appointments/), which identifies James Hickman as born in 1972, educated in Computing and Informatics at the University of Plymouth, and later employed in rail IT, OmniSky, and PSINet/Telstra-related work.
 - [RIPE NCC arbiter profile](https://www.ripe.net/about-us/legal/arbitration/list-of-arbiters/), which repeats the University of Plymouth, rail, OmniSky, and network-infrastructure biography.
 
@@ -31,10 +32,13 @@ No comparably credible public Facebook profile was identified in the search. No 
 
 The RIPE biography is the strongest modern identity lead yet found for one of the early TermiSoc founders. The public source establishes a coherent James Hickman identity associated with Plymouth Computing and Informatics, but it does not mention TermiSoc or the “Simkin” alias. Direct outreach should therefore request confirmation and archival material rather than assume the identity is settled.
 
+The supplied `hickmanj` URL is now the preferred contact-profile lead for that RIPE candidate. It should not be confused with the previously rejected `james-hickman` LinkedIn profile.
+
 ## Unresolved questions
 
 - [x] TODO: Compare the visible LinkedIn education dates with the early TermiSoc chronology; the profile is a likely false match and is excluded.
-- [ ] TODO: Locate a professional or social profile belonging to the RIPE-biography James Hickman, rather than relying on the unrelated LinkedIn result.
+- [x] TODO: Locate a professional or social profile belonging to the RIPE-biography James Hickman, rather than relying on the unrelated LinkedIn result; `hickmanj` is the maintainer-supplied candidate.
+- [x] TODO: Record the maintainer-supplied probable LinkedIn profile for the RIPE-biography James Hickman; direct page verification remains limited by LinkedIn cache access.
 - [ ] TODO: Seek confirmation that this James Hickman is the historical “Simkin” Hickman before expanding the curated person page.
 - [ ] TODO: If contact is appropriate, ask about early TermiSoc, Cadmus, Hades, Area51, and the original “Group of Three”.
 
