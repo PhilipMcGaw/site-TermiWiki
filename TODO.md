@@ -457,12 +457,12 @@ For every source:
 
 **URL:** `https://www.reddit.com/r/lanparty/comments/11g0hn/not_amazingly_large_but_the_biggest_lan_weve_ever/`
 
-- [ ] TODO: Retrieve post and comments where accessible.
-- [ ] TODO: Record author, date, title, and context.
-- [ ] TODO: Determine whether it explicitly identifies a TermiSoc event.
-- [ ] TODO: Extract event date/location/organiser information only where stated.
-- [ ] TODO: Cross-reference Reddit community archaeology.
-- [ ] TODO: Preserve useful screenshots/media if needed.
+- [x] TODO: Retrieve post and comments where accessible.
+- [x] TODO: Record author, date, title, and context; the accessible page exposed a relative age rather than an exact timestamp.
+- [x] TODO: Determine whether it explicitly identifies a TermiSoc event.
+- [x] TODO: Extract event date/location/organiser information only where stated.
+- [x] TODO: Cross-reference Reddit community archaeology.
+- [x] TODO: Preserve useful screenshots/media if needed; the linked Imgur album remains region-blocked and is recorded as a separate preservation lead.
 
 ### 8.8 Steam Community — TermiSoc discussions search
 
