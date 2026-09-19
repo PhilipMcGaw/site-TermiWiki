@@ -21,7 +21,7 @@ tags:
 ---
 # Ben "MartianSpider/bma" Eskola
 
-Previously known as Ben Dent, then Ben A'Lee. The historic page filename and source references retain the latter surname.
+Born Ben Dent, he adopted Ben A'Lee by deed poll while at university and now uses the married surname Eskola. The historic page filename and source references retain the latter historical surname.
 
 ## Positions Held
 - 2010–present — Honorary Member

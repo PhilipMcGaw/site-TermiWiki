@@ -19,18 +19,20 @@ The page title and visible site identity both read **“Benjamin Eskola”**. It
 also attributes the site to “Benjamin Eskola” and gives the `eskola.uk` email address.
 The site describes its owner as a software engineer based in London.
 
-On 19 September 2026, the project maintainer additionally confirmed the name
-sequence **Ben Dent → Ben A'Lee → Ben Eskola**. This is a project-maintainer
-identity assertion, distinct from the public website evidence for the current name.
+On 19 September 2026, the project maintainer additionally confirmed that **Dent**
+is Ben's birth surname; he adopted **A'Lee** by deed poll while at university; and
+**Eskola** is his married surname. The surname is shared with his wife, Sara Eskola.
+This is a project-maintainer identity assertion, distinct from the public website
+evidence for the current name.
 
 ## Interpretation
 
 This is direct, current, first-person publication evidence for the spelling
 **Benjamin Eskola**. The project maintainer's identity bridge establishes that this
-is the same TermiSoc participant represented historically as **Ben Dent** and then
-**Ben A'Lee**. The public person page should therefore use *Ben Eskola* while
-retaining the historical names in quotations, source titles, URLs, and filenames
-where necessary for provenance and discoverability.
+is the same TermiSoc participant born **Ben Dent**, then known at university as
+**Ben A'Lee**, and now **Ben Eskola**. The public person page should therefore use
+*Ben Eskola* while retaining the historical names in quotations, source titles, URLs,
+and filenames where necessary for provenance and discoverability.
 
 ## Corroboration
 
@@ -44,11 +46,11 @@ where necessary for provenance and discoverability.
 
 ## Open questions
 
-None for the spelling of the current public name. The exact personal circumstances
-and date of the name change are not needed for the archive and have not been sought.
+No corroborating public record for the deed-poll or marriage detail has been sought;
+the project-maintainer assertion is sufficient for internal identity provenance.
 
 ## Publication impact
 
-The curated page title and heading use *Ben Eskola*; its identity note has been
-updated to preserve the supplied historical sequence. The remaining *Ben A'Lee*
-references are historical or provenance-bearing references that should remain intact.
+The curated page title and heading use *Ben Eskola*; its identity note now preserves
+the supplied history without naming a spouse. The remaining *Ben A'Lee* references
+are historical or provenance-bearing references that should remain intact.
