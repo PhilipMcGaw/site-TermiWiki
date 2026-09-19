@@ -39,14 +39,10 @@ The challenge was subsequently cleared through ordinary browser interaction, and
 
 The listing states that the community was created on **26 August 2012** and is public. It displays historical posts by named Reddit accounts, including `u/siddv`, `u/nickcharlton`, `u/danbjorn`, `u/thisisthechris`, `u/Sayyan`, and `u/conrad_w`.
 
-## Direct post evidence
+The post-level findings above are the canonical summaries for the directly inspected Reddit posts. They replace an earlier duplicate list in this record; the separate listing evidence below is retained only where it adds posts that were not inspected individually.
 
-- [NovemberLAN — 17/11/2012](https://www.reddit.com/r/a:t5_2uv1z/comments/1254q6/novemberlan_17112012/) by `u/siddv`: announces a second LAN of the term in the Main Hall, lists planned tournaments and games, and discusses food and equipment arrangements.
-- [Freshers' LAN Party — 06/10/2012](https://www.reddit.com/r/a:t5_2uv1z/comments/z3lk8/freshers_lan_party_06102012/) by `u/siddv`: announces a 6 October LAN at Sherwell Church, with meals/drinks, tournaments, ticket pricing, bring-your-own equipment, and a Facebook event link.
-- [Started Planning the web tutorial. What would you want to see in it?](https://www.reddit.com/r/a:t5_2uv1z/comments/10fa1e/started_planning_the_web_tutorial_what_would_you/) by `u/thisisthechris`: asks for preferences covering HTML basics, web history, and related topics.
-- [People should use IRC more.](https://www.reddit.com/r/a:t5_2uv1z/comments/z4pyg/people_should_use_irc_more/) by `u/danbjorn`: describes IRC as populated largely by former TermiSoc people and points readers to `chat.termisoc.org`.
-- [termibot is now on GitHub!](https://www.reddit.com/r/a:t5_2uv1z/comments/z515y/termibot_is_now_on_github/) by `u/nickcharlton`: links to `https://github.com/termisoc/termibot`.
-- [Hurrah! A TermiSoc subreddit.](https://www.reddit.com/r/a:t5_2uv1z/comments/z3fll/hurrah_a_termisoc_subreddit/) by `u/nickcharlton`: describes the subreddit as a place to post links, discuss matters, and potentially vote on events and talks.
+### Additional listing evidence
+
 - [A few pictures from the Freshers' LAN.](https://www.reddit.com/r/a:t5_2uv1z/comments/11okoj/a_few_pictures_from_the_freshers_lan/) is displayed by the listing as a separate historical post by `u/siddv` with an Imgur link; the linked media was not retrieved during this pass.
 - [Can't connect to Steam; told you guys could help](https://www.reddit.com/r/a:t5_2uv1z/comments/10l4ny/cant_connect_to_steam_told_you_guys_could_help/) by `u/conrad_w`: records a request for help with Steam connectivity.
 
@@ -63,7 +59,7 @@ The `u/siddv` posts are consistent with the separately documented Siddharth Vadg
 - [ ] TODO: Work through the complete historical listing and preserve each useful post's exact URL, author, date, title, and relevant body text.
 - [ ] TODO: Recover exact Reddit timestamps and comments for the listed posts where direct pages are accessible.
 - [ ] TODO: Retrieve the Imgur/Freshers' LAN media only if it is necessary, permissible, and not already preserved elsewhere.
-- [ ] TODO: Deduplicate the LAN, tutorial, IRC, and TermiBot evidence against existing research records.
+- [x] TODO: Deduplicate the LAN, tutorial, IRC, and TermiBot evidence against existing research records; see the audit record below.
 - [ ] TODO: Record deleted or inaccessible posts separately rather than inferring their contents.
 - [x] TODO: Resume the systematic pass after the Reddit JavaScript challenge was cleared through ordinary browser interaction.
 
@@ -73,7 +69,7 @@ The linked album <https://imgur.com/a/g13b2> was opened from the Freshers' LAN R
 
 ## Publication impact
 
-This record should be cross-referenced from the relevant LAN, tutorial, IRC, and TermiBot research records. Curated pages should cite the individual Reddit post URLs for claims derived from them.
+This record should be cross-referenced from the relevant LAN, tutorial, IRC, and TermiBot research records. Curated pages should cite the individual Reddit post URLs for claims derived from them. The cross-source audit is recorded in [`research/decisions/2026-09-19_evidence-deduplication-audit.md`](../decisions/2026-09-19_evidence-deduplication-audit.md).
 
 ## Confidence
 

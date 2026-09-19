@@ -212,7 +212,7 @@ The supplied link redirects to the public **TermiSoc: Plymouth University Comput
 - [ ] TODO: Revisit the Freshers' LAN Imgur album `https://imgur.com/a/g13b2` if permitted regional access becomes available; the current UK session reports that the content is unavailable in the region.
 - [ ] TODO: Link curated facts back to the evidence record.
 - [x] TODO: Cross-reference any GitHub repositories discovered during the Reddit archaeology.
-- [ ] TODO: Deduplicate evidence already captured elsewhere in the repository.
+- [x] TODO: Deduplicate evidence already captured elsewhere in the repository; the Reddit/source audit is recorded in `research/decisions/2026-09-19_evidence-deduplication-audit.md`.
 - [ ] TODO: Treat Reddit posts as evidence of what was posted by the relevant account/community, not automatically as independent confirmation of every claim contained in a post.
 - [ ] TODO: Record deleted, inaccessible, or ambiguous material as such rather than filling gaps from inference.
 
