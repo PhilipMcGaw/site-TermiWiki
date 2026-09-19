@@ -78,7 +78,7 @@ The GitHub connector cannot directly inspect the PNG because it is a binary asse
 ## 2. Retrieve TermiSoc Facebook domain registration certificate
 
 **GitHub Issue:** #2 — Next pass: retrieve TermiSoc Facebook domain registration certificate  
-**Status:** ☐ Open — certificate image recovered; transcription/corroboration and GitHub follow-up remain outstanding
+**Status:** ☐ Open — Facebook retrieval and transcription are complete; corroboration, timeline cross-reference, and GitHub follow-up remain outstanding
 **Type:** Historical primary-source retrieval
 
 ### Objective
@@ -117,6 +117,8 @@ The certificate may provide unusually precise documentary evidence for the early
 - [ ] TODO: Update GitHub Issue #2 online with the retrieval result, source URL, capture date, provenance, evidence path, transcription, confidence, and unresolved questions.
 - [ ] TODO: Keep GitHub Issue #2 open while the original or higher-resolution certificate remains unretrieved, inaccessible, or insufficiently checked.
 - [ ] TODO: Close GitHub Issue #2 online only after the evidence record and any supported timeline update have been reviewed and the remaining issue criteria are satisfied.
+
+**Outreach status:** Alex Charrett has already been contacted through the recorded outreach route and is listed as awaiting response. A reply may provide a higher-resolution/original scan or clarification, but the repository does not need to wait for a reply before completing its own evidence review.
 
 ### Important provenance rule
 
@@ -280,34 +282,34 @@ The user has a Steam account, so this source should be revisited from an authent
 
 ### Required work
 
-- [ ] TODO: Revisit the TermiSoc Steam Community.
-- [ ] TODO: Record retrieval date and exact source URLs.
-- [ ] TODO: Determine whether historical discussions remain accessible.
-- [ ] TODO: If authentication is required, revisit from the user's desktop/Steam environment.
-- [ ] TODO: Catalogue useful discussions/posts.
+- [x] TODO: Revisit the TermiSoc Steam Community.
+- [x] TODO: Record retrieval date and exact source URLs.
+- [x] TODO: Determine whether historical discussions remain accessible; no active topics were visible.
+- [x] TODO: If authentication is required, revisit from the user's desktop/Steam environment.
+- [x] TODO: Catalogue useful announcements/posts.
 - [ ] TODO: Extract evidence for:
-  - [ ] TODO: people/usernames;
-  - [ ] TODO: dates;
+  - [x] TODO: people/usernames as displayed;
+  - [x] TODO: dates;
   - [ ] TODO: committee or organiser identities;
-  - [ ] TODO: LAN/gaming activity;
-  - [ ] TODO: events;
-  - [ ] TODO: competitions;
+  - [x] TODO: LAN/gaming activity;
+  - [x] TODO: events;
+  - [x] TODO: competitions;
   - [ ] TODO: projects;
-  - [ ] TODO: society announcements;
-  - [ ] TODO: links to websites/repositories;
+  - [x] TODO: society announcements;
+  - [x] TODO: links to websites/repositories;
   - [ ] TODO: screenshots/files/media;
-  - [ ] TODO: chronology/membership evidence.
-- [ ] TODO: Record author/user identity exactly as displayed.
+  - [x] TODO: chronology/membership evidence where directly stated.
+- [x] TODO: Record author/user identity exactly as displayed.
 - [ ] TODO: Where a Steam username can be connected to a real person, require corroborating evidence rather than relying on username similarity alone.
 - [ ] TODO: Preserve useful screenshots/media in `research/media/` where appropriate.
-- [ ] TODO: Preserve exact URLs and discussion titles.
-- [ ] TODO: Record publication dates and any relevant quoted context.
-- [ ] TODO: Check whether discussions point to other sources already present in the repository.
+- [x] TODO: Preserve exact URLs and announcement titles.
+- [x] TODO: Record publication dates and relevant quoted context.
+- [x] TODO: Check whether announcements point to other sources already present in the repository.
 - [ ] TODO: Deduplicate existing evidence.
 - [ ] TODO: Record inaccessible/private/deleted content explicitly.
 - [ ] TODO: Add curated person/event/project cross-references only where evidence supports them.
 
-**Research confidence:** Source existence is established; individual claims remain to be assessed.
+**Research confidence:** High for the Steam group metadata and directly displayed announcements; Medium for the interpretation of planned events as evidence of wider gaming activity; Unverified for attendance, event completion, and real-person identity bridges. Membership is awaiting approval for a possible later member-only review. See `research/sources/2026-09-19_termisoc-steam-community.md`.
 
 ---
 
@@ -465,10 +467,10 @@ For every source:
 
 **URL:** `https://steamcommunity.com/groups/termisoc/discussions/search/`
 
-- [ ] TODO: Search historical discussions.
-- [ ] TODO: Record useful thread URLs/titles.
-- [ ] TODO: Record authors, dates, events, and relevant content.
-- [ ] TODO: Cross-reference Issue #6.
+- [x] TODO: Search historical discussions; no active topics were visible.
+- [x] TODO: Record useful announcement URLs/titles.
+- [x] TODO: Record authors, dates, events, and relevant content from the three visible announcements.
+- [x] TODO: Cross-reference Issue #6.
 - [ ] TODO: Avoid duplicating material already captured from the main Steam group.
 
 ### 8.9 UPSU — TermiSoc Risk Assessment
@@ -664,6 +666,6 @@ These are useful after completing the individual items.
 - [ ] TODO: **#2 — Facebook domain registration certificate** (image recovered; review and corroboration outstanding)
 - [ ] TODO: **#4 — Reddit community**
 - [ ] TODO: **#5 — URLM domain history**
-- [ ] TODO: **#6 — Steam Community**
+- [ ] TODO: **#6 — Steam Community** (initial authenticated review recorded; identity and archive follow-up outstanding)
 - [ ] TODO: **#7 — Siddharth Vadgama TermiSoc project page**
 - [ ] TODO: **#8 — Outstanding research-source retrieval queue**

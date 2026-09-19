@@ -55,4 +55,6 @@ The recovered image directly establishes that the displayed invoice records `TER
 - [ ] TODO: Corroborate the “first registration” wording against contemporaneous domain records, archived pages, or independent records.
 - [ ] TODO: Review the transcription and evidence record before any timeline update or publication.
 
+The outreach tracker records that **Alex Charrett has already been contacted** and that a reply is awaited. This is an optional corroboration route for a higher-resolution/original scan or clarification; it is not a prerequisite for completing the repository's own evidence review.
+
 **Confidence:** High for the post provenance and fields directly legible in the recovered image; Medium for the interpretation that this invoice represents the first registration; Unverified for the original scan resolution and any legal interpretation of the named recipient. The recovered image is research evidence for the fields visibly displayed on the invoice. Alex Charrett's “first registration” wording remains an attributed claim, not an independently verified conclusion.

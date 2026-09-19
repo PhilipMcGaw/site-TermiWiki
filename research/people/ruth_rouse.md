@@ -10,10 +10,11 @@ retrieved: 2026-09-17
 
 - The existing TermiWiki profile identifies Ruth Rouse with the alias **Loupie** and links to a Facebook profile using that name.
 - The project owner reports that Ruth Rouse formerly used the domain `loupie.co.uk` and was known as Loupie.
+- On 19 September 2026, the public Steam profile at <https://steamcommunity.com/id/LoopyLoupie> displayed the account URL/name **LoopyLoupie** and the profile name **Ruth**, with location **London, City of, United Kingdom (Great Britain)**. The profile listed one visible Steam group, American McGee's Alice; it did not list TermiSoc, so this is identity corroboration rather than Steam evidence of TermiSoc membership.
 
 ## Confidence
 
-**Medium** for the Ruth Rouse / Loupie association and the former-domain attribution. The alias is already present in the existing profile, but the domain attribution is currently based on project-owner testimony rather than an independently recovered historical page.
+**High** for the public Steam account displaying `LoopyLoupie` and `Ruth`; **Medium** for the broader Ruth Rouse / Loupie association and former-domain attribution. The Steam profile does not independently establish historical TermiSoc membership.
 
 ## Open questions
 

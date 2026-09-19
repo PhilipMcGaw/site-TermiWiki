@@ -16,6 +16,12 @@ The official TermiSoc account followed both [PlymouthGameSoc (@PlymUniGameSoc)](
 
 Following is evidence of a public account relationship at the time of inspection, not evidence of when it began, joint committee membership, or event co-hosting.
 
+## Steam membership overlap
+
+On 19 September 2026, the public Steam profile [pixelchu](https://steamcommunity.com/id/pixelchu_x) displayed both **TermiSoc** and **Plymouth University Gaming Society** in its group list. The TermiSoc group member page also displayed `pixelchu` as an administrator, while the Plymouth University Gaming Society group is a separate later group founded on 1 September 2015. This is direct account-level overlap between the two group memberships at retrieval.
+
+The overlap is a useful relationship lead, not proof that the two societies were the same organisation, had shared governance, or formally partnered. The Steam profile did not display a real name in the reviewed public view; the separate identity lead for **Christa “PixelChu” Briggs** is recorded independently.
+
 ## PlymouthGameSoc
 
 ### Account evidence
