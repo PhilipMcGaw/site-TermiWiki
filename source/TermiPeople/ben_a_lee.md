@@ -21,7 +21,7 @@ tags:
 ---
 # Ben "MartianSpider/bma" Eskola
 
-Formerly known as Ben A'Lee; the historic page filename and source references retain that earlier surname.
+Previously known as Ben Dent, then Ben A'Lee. The historic page filename and source references retain the latter surname.
 
 ## Positions Held
 - 2010–present — Honorary Member
@@ -70,4 +70,3 @@ Bytemark virtual machine (User-Mode Linux) running Debian GNU/Linux; 80MB RAM, 4
 - [Historical wiki - Subvert](http://wiki.subvert.org.uk/)[^1]
 
 [^1]: Debian Sources, *Ikiwiki users*, which lists Ben A'Lee's homepage and wiki at these addresses, retrieved 17 September 2026. https://sources.debian.org/src/ikiwiki/3.20130904.1~bpo70%2B1/doc/ikiwikiusers.mdwn
-
