@@ -15,9 +15,10 @@
 9. Record unresolved questions and useful next searches so another contributor can continue the investigation.
 10. Do not store private model chain-of-thought.
 11. Use concise, reproducible research notes rather than conversational transcripts.
-12. At the end of every lookup, save the research result before reporting completion, including source and retrieval details, direct evidence, interpretation, unresolved questions, and an explicit `High`, `Medium`, `Low`, or `Unverified` confidence level for each material conclusion.
-13. New editorial prose MUST use British English and the project house style.
-14. Historical quotations MUST retain their original wording except where an explicit editorial note explains a necessary transcription correction.
+12. Store restricted, research-only media beneath `research/media/`. Private correspondence or private-group captures require the project maintainer's explicit approval, must remain outside `source/`, and need a concise provenance and access record.
+13. At the end of every lookup, save the research result before reporting completion, including source and retrieval details, direct evidence, interpretation, unresolved questions, and an explicit `High`, `Medium`, `Low`, or `Unverified` confidence level for each material conclusion.
+14. New editorial prose MUST use British English and the project house style.
+15. Historical quotations MUST retain their original wording except where an explicit editorial note explains a necessary transcription correction.
 
 ## Suggested record structure
 

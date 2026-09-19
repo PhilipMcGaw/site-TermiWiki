@@ -35,13 +35,14 @@ The Facebook post corroborates the visible invoice details, but it is a later re
 
 ## Privacy and handling
 
-The scan contains a named billing recipient, postal address, and invoice/payment-reference details. The unredacted scan is retained as **research-only** evidence. On 18 September 2026, the project contributor explicitly authorised a redacted public derivative; it conceals the recipient, address, invoice/payment references and remittance stub while retaining the issuer, domain, date range and $70 charge. Do not publish the unredacted preview.
+The scan contains a named billing recipient, postal address, and invoice/payment-reference details. The unredacted scan is retained as **research-only** evidence. Its canonical restricted-media copy is at `research/media/2026-09-17_network-solutions-termisoc-org-invoice/termisoc_org_network_solutions_invoice_unredacted_preview.jpg`. On 18 September 2026, the project contributor explicitly authorised a redacted public derivative; it conceals the recipient, address, invoice/payment references and remittance stub while retaining the issuer, domain, date range and $70 charge. Do not publish the unredacted preview.
 
 ## File manifest
 
 | File | SHA-256 | Status |
 | --- | --- | --- |
 | `termisoc_org_network_solutions_invoice_preview.jpg` | `43bb95b6acdae3b86a3904f4df385c8396a13a322eedda8fff35975add0d320e` | Research-only 350 × 451 px preview |
+| `research/media/2026-09-17_network-solutions-termisoc-org-invoice/termisoc_org_network_solutions_invoice_unredacted_preview.jpg` | `43bb95b6acdae3b86a3904f4df385c8396a13a322eedda8fff35975add0d320e` | Canonical restricted-media copy; unredacted 350 × 451 px preview |
 | `source/Media/termisoc_org_network_solutions_invoice_1999_redacted.jpg` | `5485b7f0d8902459127faf5c725dcec51e66c776e08ed15ef932126b6e2abca2` | Public redacted 350 × 451 px derivative |
 
 ## Unresolved questions

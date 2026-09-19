@@ -9,11 +9,12 @@ The repository contains a canonical Obsidian vault, a separate research corpus, 
 ## Repository structure
 
 - `source/` — canonical Obsidian vault and curated historical content.
-- `source/media/` — referenced images and other media. **All media MUST be placed here.**
+- `source/media/` — public media referenced by the curated Obsidian vault and generated site.
 - `source/TermiPeople/` — individual people profiles.
 - `source/Glossary/` — glossary and terminology pages.
 - `research/` — shared research corpus, evidence, source records, investigations, leads, and research logs. This is deliberately separate from the Obsidian vault.
 - `research/evidence/` — individual documentary evidence records.
+- `research/media/` — restricted, research-only media that MUST NOT be embedded in `source/` or generated output.
 - `research/sources/` — source and archive records, including provenance and access information.
 - `research/people/` — person identification and association research before or alongside publication.
 - `research/organisations/` — organisations, societies, groups, and their relationships.
@@ -136,7 +137,7 @@ This is primarily a historical archive. Apply source criticism:
 - Preserve external archive links when they are evidence for historical claims.
 - Do not remove media merely because it appears old or unused without checking references.
 - Do not change media filenames casually; existing Markdown and historical references may depend on them.
-- New local media references MUST use the `source/media/` location and its corresponding Obsidian path, e.g. `![[media/example.jpg]]`.
+- New public local-media references MUST use the `source/media/` location and its corresponding Obsidian path, e.g. `![[media/example.jpg]]`. Research-only material is referenced from research records and is not published.
 
 ## Scripts and build system
 

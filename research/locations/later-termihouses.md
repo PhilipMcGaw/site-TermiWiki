@@ -12,7 +12,7 @@ publication_status: research-only
 
 ## Access and handling
 
-The project maintainer supplied private Facebook Messenger and private-group screenshots on 19 September 2026. They contain correspondence and member information, so they are **not copied into this repository**. The project maintainer retains the original image collection.
+The project maintainer supplied private Facebook Messenger and private-group screenshots on 19 September 2026, and explicitly approved their retention as restricted research media. The files are stored under `research/media/` and indexed in [[../evidence/2026-09-19_matt-farrell-later-termihouses/README|the restricted media record]]. They are not source assets and must not be included in generated output.
 
 This note is a privacy-minimised index of the historical claims that need later corroboration. It is not evidence for publication in `source/`.
 
