@@ -70,6 +70,13 @@ engineering work. It contains no TermiSoc or University of Plymouth evidence,
 so it belongs in the modern identity context rather than the historical
 membership record.
 
+The linked [Eelyos site](https://eelyos.com/), checked on **19 September 2026**,
+is titled **“S/V Eelyos & Theo Zourzouvillys”** and describes the vessel as a
+Spindrift 43. Its navigation links back to `zrz.io` as “About Theo”. This is
+strong current identity corroboration for the full-name match, but the site
+contains no TermiSoc or University of Plymouth evidence. Live voyage and
+location data were not copied into the repository.
+
 No reliable public Facebook profile was identified in this pass. The LinkedIn
 profile is the useful social-profile option; no outreach was attempted.
 
