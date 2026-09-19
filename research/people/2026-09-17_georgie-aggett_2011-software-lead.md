@@ -29,6 +29,11 @@ This is a materially better lead than the earlier exact-name searches, which pro
 
 It does **not** establish Georgie Aggett as a TermiSoc member. The post does not mention TermiSoc, and the connection should not be upgraded by association with Nick.
 
+The project maintainer subsequently confirmed that **Georgie Aggett and
+Georgie Mann are the same person**. This resolves the name ambiguity in the
+legacy person page, but it does not add independent evidence to the 2011 post
+or change its provenance.
+
 The other two testers named in the same post are **Chris Hunt** and **Luke Davies**. Both are potentially useful person-discovery leads because they share the same contemporaneous software-development context. This does not, by itself, establish either person's TermiSoc involvement.
 
 ## Corroboration
@@ -45,4 +50,8 @@ Nick Charlton is independently documented as a University of Plymouth student fr
 
 ## Publication impact
 
-Keep Georgie Aggett as an unresolved person lead. The evidence supports a dated association with Nick Charlton's software project, not TermiSoc membership. Any future TermiSoc claim should be based on separate documentary evidence or explicitly attributed firsthand recollection.
+Keep Georgie Aggett as a research target for fuller biography and first-hand
+recollection. The name equivalence is now confirmed by the project maintainer;
+the dated software-project association remains sourced to Nick Charlton's
+2011 post, and any additional TermiSoc claim should be based on separate
+documentary evidence or explicitly attributed first-hand recollection.
