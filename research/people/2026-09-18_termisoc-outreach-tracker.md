@@ -41,6 +41,7 @@ This is a continuation log for historical-archive contact work. It records only 
 | Nick Charlton | Deferred for now. |
 | Ben Eskola | Deferred for now. |
 | Jamie Woods | Previously contacted; do not repeat until there is a reason to follow up. |
+| Paul \"Fletch\" Fletcher | Strong LinkedIn candidate identified, but outreach deferred until October 2026 at the contributor's request. See the [LinkedIn search record](2026-09-19_paul-fletcher-linkedin-search.md). |
 
 ## Follow-up discipline
 
