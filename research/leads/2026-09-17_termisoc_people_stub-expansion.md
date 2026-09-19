@@ -54,7 +54,7 @@ For each stub:
 
 ## Next targets
 
-- [ ] TODO: Investigate Paul Fletcher using University of Plymouth dates, professional biographies, and historical TermiSoc references.
+- [ ] TODO: Investigate Paul Fletcher using University of Plymouth dates, professional biographies, and historical TermiSoc references. **Deferred until October 2026 at the project maintainer's request; do not advance sooner.**
 - [ ] TODO: Investigate Marcus Adams using the Wipro LinkedIn profile and Plymouth alumni traces.
 - [ ] TODO: Search early-history names James Hickman, Marcus Adams, Paul Fletcher, Andrew Burridge, Jeff Powell, and Alex McLean as a connected cohort.
 - [ ] TODO: Search later-era stubs using aliases and distinctive project names from the TermiSoc wiki.
