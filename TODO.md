@@ -126,7 +126,7 @@ Until the original image has been retrieved and inspected, the Facebook certific
 ## 3. Update Ben A’Lee to his new last name
 
 **GitHub Issue:** #3 — Update Ben A’Lee to his new last name  
-**Status:** ☐ Open  
+**Status:** ☑ Complete
 **Type:** Person/identity maintenance
 
 ### Objective
@@ -135,21 +135,21 @@ Update the TermiWiki person record and relevant references so that Ben A’Lee i
 
 ### Required work
 
-- [ ] TODO: Locate the existing Ben A’Lee person record in `source/`.
-- [ ] TODO: Confirm the current spelling: **Ben Eskola**.
-- [ ] TODO: Update the current/person-facing name to **Ben Eskola**.
-- [ ] TODO: Preserve **Ben A’Lee** as a historical/previous name where it is needed to identify contemporary sources.
-- [ ] TODO: Search the repository for references to:
-  - [ ] TODO: `Ben A’Lee`;
-  - [ ] TODO: `Ben A'Lee`;
-  - [ ] TODO: `Ben Alee`;
-  - [ ] TODO: other obvious formatting variants.
-- [ ] TODO: Update references that should point to the current person record.
-- [ ] TODO: Do not rewrite historical quotations, source titles, filenames, or documentary text merely to modernise the name.
-- [ ] TODO: Where a source used the historical surname, retain the source's wording and make the identity relationship explicit in the curated record.
-- [ ] TODO: Check backlinks/cross-references and generated navigation after the change.
-- [ ] TODO: Record the identity/name change with appropriate provenance if the repository already contains evidence for it.
-- [ ] TODO: Avoid introducing unsupported biographical claims.
+- [x] TODO: Locate the existing Ben A’Lee person record in `source/`.
+- [x] TODO: Confirm the current spelling: **Ben Eskola**.
+- [x] TODO: Update the current/person-facing name to **Ben Eskola**.
+- [x] TODO: Preserve **Ben A’Lee** as a historical/previous name where it is needed to identify contemporary sources.
+- [x] TODO: Search the repository for references to:
+  - [x] TODO: `Ben A’Lee`;
+  - [x] TODO: `Ben A'Lee`;
+  - [x] TODO: `Ben Alee`;
+  - [x] TODO: other obvious formatting variants.
+- [x] TODO: Update references that should point to the current person record.
+- [x] TODO: Do not rewrite historical quotations, source titles, filenames, or documentary text merely to modernise the name.
+- [x] TODO: Where a source used the historical surname, retain the source's wording and make the identity relationship explicit in the curated record.
+- [x] TODO: Check backlinks/cross-references and generated navigation after the change.
+- [x] TODO: Record the identity/name change with appropriate provenance if the repository already contains evidence for it.
+- [x] TODO: Avoid introducing unsupported biographical claims.
 
 **Current name:** Ben Eskola  
 **Historical source name:** Ben A’Lee
@@ -654,7 +654,7 @@ These are useful after completing the individual items.
 ### Desktop / local-checkout work
 
 - [ ] TODO: **#1 — Favicon/site icon implementation**
-- [ ] TODO: **#3 — Ben Eskola name update**
+- [x] TODO: **#3 — Ben Eskola name update**
 
 ### Research / browser-access work
 
