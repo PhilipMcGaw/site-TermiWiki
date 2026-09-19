@@ -55,6 +55,14 @@ site: it identifies him by name and provides his present engineering,
 writing, and biographical material. It is the appropriate current web link for
 the person record.
 
+The site's [`llms.txt`](https://zrz.io/llms.txt), checked on **19 September
+2026**, is useful as a machine-readable site index. It explicitly describes
+`zrz.io` as Theo Zourzouvillys's personal site and lists his Blueprints and
+Engineering Field Notes, including the JSON indexes for both collections. It
+does not add TermiSoc, University of Plymouth, Rachel Andrew, or other
+historical student-period details; the site's `/about` page remains the useful
+source for those retrospective biographical and network references.
+
 No reliable public Facebook profile was identified in this pass. The LinkedIn
 profile is the useful social-profile option; no outreach was attempted.
 
