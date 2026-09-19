@@ -41,17 +41,19 @@ On **19 September 2026**, public searches were run for `Georgie Aggett`,
 `teddilybear`.
 
 - [Georgina Aggett (teddilybear) — Pinterest](https://uk.pinterest.com/teddilybear/)
-  is an exact-name and exact-handle match. It is useful corroboration for the
-  historical identifier, but it does not expose TermiSoc or Plymouth evidence.
+  presents an exact-name and exact-handle match in search results, but the
+  visible profile does not provide enough evidence to confirm that it belongs
+  to the TermiSoc Georgie. It remains an unverified lead and does not expose
+  TermiSoc or Plymouth evidence.
 - Several public LinkedIn profiles named Georgie Mann were found. The indexed
   results place them in Cambridge, Cranleigh, or St Albans/Reading and do not
   establish a Plymouth or TermiSoc connection. They should not be merged with
   Georgie Aggett on name similarity alone.
 - No credible public Facebook profile was identified.
 
-**Assessment:** the Pinterest result is a **Medium–High identity lead** because
-the unusual historical handle matches exactly. The LinkedIn and Facebook
-search remains unresolved.
+**Assessment:** the Pinterest result is **Unverified**. The unusual handle is
+worth retaining as a search lead, but it must not be used as identity
+confirmation. The LinkedIn and Facebook search remains unresolved.
 
 The other two testers named in the same post are **Chris Hunt** and **Luke Davies**. Both are potentially useful person-discovery leads because they share the same contemporaneous software-development context. This does not, by itself, establish either person's TermiSoc involvement.
 
