@@ -111,7 +111,9 @@ Rules:
 - Keep `tags` as a YAML list and avoid duplicate tags.
 - Do not invent `created` dates. Use the documented source date where known; otherwise leave the existing value alone.
 - Use Obsidian wikilinks for local media and content where that is already the repository convention, e.g. `![[media/example.jpg]]`.
-- All newly added media MUST be stored under `source/media/`.
+- Public media referenced by `source/` MUST be stored under `source/media/`.
+- Research-only media MUST be stored under `research/media/`, with a research record identifying its provenance, access boundary, and checksum where practical. It MUST NOT be embedded in `source/` or generated output.
+- Private correspondence, private-group captures, and personal material may be retained in `research/media/` only with the project maintainer's explicit approval. Keep it out of `source/`, minimise unnecessary personal data, and record a concise evidence summary rather than treating a screenshot as publication-ready text.
 - Use ordinary Markdown links for external websites and archived sources.
 - Use **Markdown footnotes for references and citations**. Keep source URLs inside the footnotes rather than using inline reference URLs in the prose. Footnotes SHOULD identify the source, date, and document or page title sufficiently for historical source criticism.
 - Ordinary internal navigation links and local media links MAY use Obsidian wikilinks; these are not source citations.
