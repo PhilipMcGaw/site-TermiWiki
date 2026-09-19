@@ -77,6 +77,11 @@ strong current identity corroboration for the full-name match, but the site
 contains no TermiSoc or University of Plymouth evidence. Live voyage and
 location data were not copied into the repository.
 
+The handle [@zourzouvillys on Instagram](https://www.instagram.com/zourzouvillys)
+was supplied as another current-profile link. The public retrieval layer could
+not read the Instagram profile, so its ownership and contents remain
+**Unverified** in this record. No private content or posts were accessed.
+
 No reliable public Facebook profile was identified in this pass. The LinkedIn
 profile is the useful social-profile option; no outreach was attempted.
 
