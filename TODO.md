@@ -43,27 +43,27 @@ The repository also contains historical references to `media/weare_weblogo.png` 
 
 ### Required work
 
-- [ ] Pull/update the local desktop repository checkout before processing the binary asset.
-- [ ] Inspect `source/Media/branding/termisoc_profile_image.png` at full resolution.
-- [ ] Confirm that the artwork survives reduction to favicon dimensions without losing its identifying features.
-- [ ] Generate `favicon.ico` containing appropriate legacy sizes, as supported by the chosen tooling.
-- [ ] Generate 16×16 PNG icon.
-- [ ] Generate 32×32 PNG icon.
-- [ ] Generate 180×180 Apple touch icon.
-- [ ] Generate 192×192 PNG icon.
-- [ ] Generate 512×512 PNG icon.
-- [ ] Generate a maskable 512×512 icon if the source artwork and padding make this appropriate.
-- [ ] Add/update `site.webmanifest` as required by the Quartz/site architecture.
-- [ ] Verify the existing Quartz `Plugin.Favicon()` configuration and use the supported Quartz mechanism rather than hand-editing generated `site/` output.
-- [ ] Add the appropriate favicon/web-app declarations through the source/configuration layer used by this repository.
-- [ ] Ensure paths are correct in the generated site.
-- [ ] Test the generated site locally.
-- [ ] Check browser tab/favicon behaviour.
-- [ ] Check Apple touch icon behaviour if practical.
-- [ ] Check manifest/icon paths directly.
-- [ ] Confirm that the favicon implementation is independent of any future redesign of TermiSoc artwork.
-- [ ] Record the implementation and verification result in GitHub Issue #1.
-- [ ] Close Issue #1 only after implementation and local verification are complete.
+- [ ] TODO: Pull/update the local desktop repository checkout before processing the binary asset.
+- [ ] TODO: Inspect `source/Media/branding/termisoc_profile_image.png` at full resolution.
+- [ ] TODO: Confirm that the artwork survives reduction to favicon dimensions without losing its identifying features.
+- [ ] TODO: Generate `favicon.ico` containing appropriate legacy sizes, as supported by the chosen tooling.
+- [ ] TODO: Generate 16×16 PNG icon.
+- [ ] TODO: Generate 32×32 PNG icon.
+- [ ] TODO: Generate 180×180 Apple touch icon.
+- [ ] TODO: Generate 192×192 PNG icon.
+- [ ] TODO: Generate 512×512 PNG icon.
+- [ ] TODO: Generate a maskable 512×512 icon if the source artwork and padding make this appropriate.
+- [ ] TODO: Add/update `site.webmanifest` as required by the Quartz/site architecture.
+- [ ] TODO: Verify the existing Quartz `Plugin.Favicon()` configuration and use the supported Quartz mechanism rather than hand-editing generated `site/` output.
+- [ ] TODO: Add the appropriate favicon/web-app declarations through the source/configuration layer used by this repository.
+- [ ] TODO: Ensure paths are correct in the generated site.
+- [ ] TODO: Test the generated site locally.
+- [ ] TODO: Check browser tab/favicon behaviour.
+- [ ] TODO: Check Apple touch icon behaviour if practical.
+- [ ] TODO: Check manifest/icon paths directly.
+- [ ] TODO: Confirm that the favicon implementation is independent of any future redesign of TermiSoc artwork.
+- [ ] TODO: Record the implementation and verification result in GitHub Issue #1.
+- [ ] TODO: Close Issue #1 only after implementation and local verification are complete.
 
 ### Provenance / implementation note
 
@@ -89,31 +89,31 @@ The certificate may provide unusually precise documentary evidence for the early
 
 ### Required work
 
-- [ ] Re-open the relevant TermiSoc Facebook group.
-- [ ] Locate the photograph/scan of the `termisoc.org` registration certificate.
-- [ ] Preserve the original image if Facebook permits retrieval at useful quality.
-- [ ] Record the Facebook group and post provenance.
-- [ ] Record the retrieval/capture date.
-- [ ] Record the post author/account where available.
-- [ ] Record any visible post date, caption, comments, or surrounding context that helps establish provenance.
-- [ ] Preserve the image as research evidence under `research/evidence/` or the appropriate evidence subtree.
-- [ ] Do not treat the Facebook image as established evidence until the actual image has been retrieved and checked.
-- [ ] Transcribe certificate fields exactly as shown.
-- [ ] Determine, where legible:
-  - [ ] precise domain registration date;
-  - [ ] domain name;
-  - [ ] registrant;
-  - [ ] registrar;
-  - [ ] registration/expiry dates;
-  - [ ] nameservers;
-  - [ ] certificate/reference number;
-  - [ ] any other relevant documentary fields.
-- [ ] Distinguish text read directly from the certificate from interpretation or reconstruction.
-- [ ] Compare the certificate against existing TermiSoc timeline entries and other domain evidence.
-- [ ] Update the historical timeline only if the recovered evidence supports the change.
-- [ ] Preserve the original source image alongside any transcription where licensing/access conditions permit.
-- [ ] Record confidence and any illegible/ambiguous fields.
-- [ ] Add a cross-reference from the relevant TermiSoc timeline/history page.
+- [ ] TODO: Re-open the relevant TermiSoc Facebook group.
+- [ ] TODO: Locate the photograph/scan of the `termisoc.org` registration certificate.
+- [ ] TODO: Preserve the original image if Facebook permits retrieval at useful quality.
+- [ ] TODO: Record the Facebook group and post provenance.
+- [ ] TODO: Record the retrieval/capture date.
+- [ ] TODO: Record the post author/account where available.
+- [ ] TODO: Record any visible post date, caption, comments, or surrounding context that helps establish provenance.
+- [ ] TODO: Preserve the image as research evidence under `research/evidence/` or the appropriate evidence subtree.
+- [ ] TODO: Do not treat the Facebook image as established evidence until the actual image has been retrieved and checked.
+- [ ] TODO: Transcribe certificate fields exactly as shown.
+- [ ] TODO: Determine, where legible:
+  - [ ] TODO: precise domain registration date;
+  - [ ] TODO: domain name;
+  - [ ] TODO: registrant;
+  - [ ] TODO: registrar;
+  - [ ] TODO: registration/expiry dates;
+  - [ ] TODO: nameservers;
+  - [ ] TODO: certificate/reference number;
+  - [ ] TODO: any other relevant documentary fields.
+- [ ] TODO: Distinguish text read directly from the certificate from interpretation or reconstruction.
+- [ ] TODO: Compare the certificate against existing TermiSoc timeline entries and other domain evidence.
+- [ ] TODO: Update the historical timeline only if the recovered evidence supports the change.
+- [ ] TODO: Preserve the original source image alongside any transcription where licensing/access conditions permit.
+- [ ] TODO: Record confidence and any illegible/ambiguous fields.
+- [ ] TODO: Add a cross-reference from the relevant TermiSoc timeline/history page.
 
 ### Important provenance rule
 
@@ -135,21 +135,21 @@ Update the TermiWiki person record and relevant references so that Ben A’Lee i
 
 ### Required work
 
-- [ ] Locate the existing Ben A’Lee person record in `source/`.
-- [ ] Confirm the current spelling: **Ben Eskola**.
-- [ ] Update the current/person-facing name to **Ben Eskola**.
-- [ ] Preserve **Ben A’Lee** as a historical/previous name where it is needed to identify contemporary sources.
-- [ ] Search the repository for references to:
-  - [ ] `Ben A’Lee`;
-  - [ ] `Ben A'Lee`;
-  - [ ] `Ben Alee`;
-  - [ ] other obvious formatting variants.
-- [ ] Update references that should point to the current person record.
-- [ ] Do not rewrite historical quotations, source titles, filenames, or documentary text merely to modernise the name.
-- [ ] Where a source used the historical surname, retain the source's wording and make the identity relationship explicit in the curated record.
-- [ ] Check backlinks/cross-references and generated navigation after the change.
-- [ ] Record the identity/name change with appropriate provenance if the repository already contains evidence for it.
-- [ ] Avoid introducing unsupported biographical claims.
+- [ ] TODO: Locate the existing Ben A’Lee person record in `source/`.
+- [ ] TODO: Confirm the current spelling: **Ben Eskola**.
+- [ ] TODO: Update the current/person-facing name to **Ben Eskola**.
+- [ ] TODO: Preserve **Ben A’Lee** as a historical/previous name where it is needed to identify contemporary sources.
+- [ ] TODO: Search the repository for references to:
+  - [ ] TODO: `Ben A’Lee`;
+  - [ ] TODO: `Ben A'Lee`;
+  - [ ] TODO: `Ben Alee`;
+  - [ ] TODO: other obvious formatting variants.
+- [ ] TODO: Update references that should point to the current person record.
+- [ ] TODO: Do not rewrite historical quotations, source titles, filenames, or documentary text merely to modernise the name.
+- [ ] TODO: Where a source used the historical surname, retain the source's wording and make the identity relationship explicit in the curated record.
+- [ ] TODO: Check backlinks/cross-references and generated navigation after the change.
+- [ ] TODO: Record the identity/name change with appropriate provenance if the repository already contains evidence for it.
+- [ ] TODO: Avoid introducing unsupported biographical claims.
 
 **Current name:** Ben Eskola  
 **Historical source name:** Ben A’Lee
@@ -182,33 +182,33 @@ The supplied link redirects to the public **TermiSoc: Plymouth University Comput
 
 ### Required work
 
-- [ ] Revisit the Reddit community.
-- [ ] Record the canonical/current URL and the supplied historical URL.
-- [ ] Record retrieval date.
-- [ ] Confirm the community title and creation date from the source where possible.
-- [ ] Work through posts systematically rather than only collecting the currently visible examples.
-- [ ] Identify posts that provide evidence for:
-  - [ ] people/members;
-  - [ ] committee roles;
-  - [ ] society events;
-  - [ ] Freshers activity;
-  - [ ] LAN parties;
-  - [ ] IRC activity;
-  - [ ] web tutorials;
-  - [ ] software/projects;
-  - [ ] `termibot`;
-  - [ ] links to other TermiSoc resources;
-  - [ ] dates and chronology;
-  - [ ] relationships to Computing & Gaming Society or later Geek Society activity.
-- [ ] Preserve useful posts with their exact Reddit URL.
-- [ ] Record post author, date, title, and relevant body/context where available.
-- [ ] Preserve screenshots or other media where they are important evidence and permissible.
-- [ ] Store research-only captures under `research/media/`.
-- [ ] Link curated facts back to the evidence record.
-- [ ] Cross-reference any GitHub repositories discovered during the Reddit archaeology.
-- [ ] Deduplicate evidence already captured elsewhere in the repository.
-- [ ] Treat Reddit posts as evidence of what was posted by the relevant account/community, not automatically as independent confirmation of every claim contained in a post.
-- [ ] Record deleted, inaccessible, or ambiguous material as such rather than filling gaps from inference.
+- [ ] TODO: Revisit the Reddit community.
+- [ ] TODO: Record the canonical/current URL and the supplied historical URL.
+- [ ] TODO: Record retrieval date.
+- [ ] TODO: Confirm the community title and creation date from the source where possible.
+- [ ] TODO: Work through posts systematically rather than only collecting the currently visible examples.
+- [ ] TODO: Identify posts that provide evidence for:
+  - [ ] TODO: people/members;
+  - [ ] TODO: committee roles;
+  - [ ] TODO: society events;
+  - [ ] TODO: Freshers activity;
+  - [ ] TODO: LAN parties;
+  - [ ] TODO: IRC activity;
+  - [ ] TODO: web tutorials;
+  - [ ] TODO: software/projects;
+  - [ ] TODO: `termibot`;
+  - [ ] TODO: links to other TermiSoc resources;
+  - [ ] TODO: dates and chronology;
+  - [ ] TODO: relationships to Computing & Gaming Society or later Geek Society activity.
+- [ ] TODO: Preserve useful posts with their exact Reddit URL.
+- [ ] TODO: Record post author, date, title, and relevant body/context where available.
+- [ ] TODO: Preserve screenshots or other media where they are important evidence and permissible.
+- [ ] TODO: Store research-only captures under `research/media/`.
+- [ ] TODO: Link curated facts back to the evidence record.
+- [ ] TODO: Cross-reference any GitHub repositories discovered during the Reddit archaeology.
+- [ ] TODO: Deduplicate evidence already captured elsewhere in the repository.
+- [ ] TODO: Treat Reddit posts as evidence of what was posted by the relevant account/community, not automatically as independent confirmation of every claim contained in a post.
+- [ ] TODO: Record deleted, inaccessible, or ambiguous material as such rather than filling gaps from inference.
 
 **Research confidence:** The community/source identity is established; individual historical claims require source-by-source assessment.
 
@@ -230,28 +230,28 @@ Recover and assess historical information about `termisoc.org` from URLM, partic
 
 ### Required work
 
-- [ ] Revisit the URLM page.
-- [ ] Preserve the exact source URL.
-- [ ] Record retrieval date.
-- [ ] Attempt retrieval from the user's other computer/browser if the current environment cannot access it.
-- [ ] Record whether the page is live, partially accessible, redirected, blocked, or unavailable.
-- [ ] Capture any historical:
-  - [ ] domain/registration dates;
-  - [ ] hosting information;
-  - [ ] IP addresses;
-  - [ ] nameservers;
-  - [ ] site title;
-  - [ ] site description;
-  - [ ] historical metadata;
-  - [ ] linked/referenced pages;
-  - [ ] indications of the site's active period.
-- [ ] Preserve screenshots or source captures where useful.
-- [ ] If the original page is unavailable, search for archived copies or other historical web sources that reproduce the information.
-- [ ] Clearly distinguish URLM's own historical data from later third-party reconstruction.
-- [ ] Compare dates/IPs/nameservers against other TermiSoc infrastructure evidence.
-- [ ] Avoid treating a current DNS/hosting result as evidence of historical infrastructure without a dated source.
-- [ ] Add useful evidence to `research/`.
-- [ ] Cross-reference the relevant domain/site timeline entries.
+- [ ] TODO: Revisit the URLM page.
+- [ ] TODO: Preserve the exact source URL.
+- [ ] TODO: Record retrieval date.
+- [ ] TODO: Attempt retrieval from the user's other computer/browser if the current environment cannot access it.
+- [ ] TODO: Record whether the page is live, partially accessible, redirected, blocked, or unavailable.
+- [ ] TODO: Capture any historical:
+  - [ ] TODO: domain/registration dates;
+  - [ ] TODO: hosting information;
+  - [ ] TODO: IP addresses;
+  - [ ] TODO: nameservers;
+  - [ ] TODO: site title;
+  - [ ] TODO: site description;
+  - [ ] TODO: historical metadata;
+  - [ ] TODO: linked/referenced pages;
+  - [ ] TODO: indications of the site's active period.
+- [ ] TODO: Preserve screenshots or source captures where useful.
+- [ ] TODO: If the original page is unavailable, search for archived copies or other historical web sources that reproduce the information.
+- [ ] TODO: Clearly distinguish URLM's own historical data from later third-party reconstruction.
+- [ ] TODO: Compare dates/IPs/nameservers against other TermiSoc infrastructure evidence.
+- [ ] TODO: Avoid treating a current DNS/hosting result as evidence of historical infrastructure without a dated source.
+- [ ] TODO: Add useful evidence to `research/`.
+- [ ] TODO: Cross-reference the relevant domain/site timeline entries.
 
 **Research confidence:** Unverified until the historical URLM material is successfully retrieved and assessed.
 
@@ -277,32 +277,32 @@ The user has a Steam account, so this source should be revisited from an authent
 
 ### Required work
 
-- [ ] Revisit the TermiSoc Steam Community.
-- [ ] Record retrieval date and exact source URLs.
-- [ ] Determine whether historical discussions remain accessible.
-- [ ] If authentication is required, revisit from the user's desktop/Steam environment.
-- [ ] Catalogue useful discussions/posts.
-- [ ] Extract evidence for:
-  - [ ] people/usernames;
-  - [ ] dates;
-  - [ ] committee or organiser identities;
-  - [ ] LAN/gaming activity;
-  - [ ] events;
-  - [ ] competitions;
-  - [ ] projects;
-  - [ ] society announcements;
-  - [ ] links to websites/repositories;
-  - [ ] screenshots/files/media;
-  - [ ] chronology/membership evidence.
-- [ ] Record author/user identity exactly as displayed.
-- [ ] Where a Steam username can be connected to a real person, require corroborating evidence rather than relying on username similarity alone.
-- [ ] Preserve useful screenshots/media in `research/media/` where appropriate.
-- [ ] Preserve exact URLs and discussion titles.
-- [ ] Record publication dates and any relevant quoted context.
-- [ ] Check whether discussions point to other sources already present in the repository.
-- [ ] Deduplicate existing evidence.
-- [ ] Record inaccessible/private/deleted content explicitly.
-- [ ] Add curated person/event/project cross-references only where evidence supports them.
+- [ ] TODO: Revisit the TermiSoc Steam Community.
+- [ ] TODO: Record retrieval date and exact source URLs.
+- [ ] TODO: Determine whether historical discussions remain accessible.
+- [ ] TODO: If authentication is required, revisit from the user's desktop/Steam environment.
+- [ ] TODO: Catalogue useful discussions/posts.
+- [ ] TODO: Extract evidence for:
+  - [ ] TODO: people/usernames;
+  - [ ] TODO: dates;
+  - [ ] TODO: committee or organiser identities;
+  - [ ] TODO: LAN/gaming activity;
+  - [ ] TODO: events;
+  - [ ] TODO: competitions;
+  - [ ] TODO: projects;
+  - [ ] TODO: society announcements;
+  - [ ] TODO: links to websites/repositories;
+  - [ ] TODO: screenshots/files/media;
+  - [ ] TODO: chronology/membership evidence.
+- [ ] TODO: Record author/user identity exactly as displayed.
+- [ ] TODO: Where a Steam username can be connected to a real person, require corroborating evidence rather than relying on username similarity alone.
+- [ ] TODO: Preserve useful screenshots/media in `research/media/` where appropriate.
+- [ ] TODO: Preserve exact URLs and discussion titles.
+- [ ] TODO: Record publication dates and any relevant quoted context.
+- [ ] TODO: Check whether discussions point to other sources already present in the repository.
+- [ ] TODO: Deduplicate existing evidence.
+- [ ] TODO: Record inaccessible/private/deleted content explicitly.
+- [ ] TODO: Add curated person/event/project cross-references only where evidence supports them.
 
 **Research confidence:** Source existence is established; individual claims remain to be assessed.
 
@@ -324,26 +324,26 @@ The identity behind `siddv` has been independently corroborated as **Siddharth V
 
 ### Required work
 
-- [ ] Retrieve the exact page.
-- [ ] Record retrieval date.
-- [ ] Record the page title.
-- [ ] Capture the complete accessible text.
-- [ ] Capture relevant images.
-- [ ] Capture outbound links.
-- [ ] Record visible publication/update dates.
-- [ ] Record project descriptions and technical details.
-- [ ] Record explicit references to TermiSoc, society roles, events, people, projects, or infrastructure.
-- [ ] Preserve a source capture under `research/` or the appropriate evidence location.
-- [ ] Preserve the exact URL as provenance.
-- [ ] Determine whether the page is a current page, archived page, migrated page, or reconstructed copy.
-- [ ] Compare the page's claims against existing TermiWiki evidence.
-- [ ] Attribute claims specifically to this page.
-- [ ] Do not treat author identity as proof of every statement on the page.
-- [ ] Add cross-references to Siddharth Vadgama's person record where appropriate.
-- [ ] Add project/event references only where supported by the page or corroborating evidence.
-- [ ] Record unavailable images, broken links, or incomplete recovery.
-- [ ] If the page is unavailable, attempt appropriate web archives and preserve the failure state/provenance.
-- [ ] Record confidence for each significant extracted fact.
+- [ ] TODO: Retrieve the exact page.
+- [ ] TODO: Record retrieval date.
+- [ ] TODO: Record the page title.
+- [ ] TODO: Capture the complete accessible text.
+- [ ] TODO: Capture relevant images.
+- [ ] TODO: Capture outbound links.
+- [ ] TODO: Record visible publication/update dates.
+- [ ] TODO: Record project descriptions and technical details.
+- [ ] TODO: Record explicit references to TermiSoc, society roles, events, people, projects, or infrastructure.
+- [ ] TODO: Preserve a source capture under `research/` or the appropriate evidence location.
+- [ ] TODO: Preserve the exact URL as provenance.
+- [ ] TODO: Determine whether the page is a current page, archived page, migrated page, or reconstructed copy.
+- [ ] TODO: Compare the page's claims against existing TermiWiki evidence.
+- [ ] TODO: Attribute claims specifically to this page.
+- [ ] TODO: Do not treat author identity as proof of every statement on the page.
+- [ ] TODO: Add cross-references to Siddharth Vadgama's person record where appropriate.
+- [ ] TODO: Add project/event references only where supported by the page or corroborating evidence.
+- [ ] TODO: Record unavailable images, broken links, or incomplete recovery.
+- [ ] TODO: If the page is unavailable, attempt appropriate web archives and preserve the failure state/provenance.
+- [ ] TODO: Record confidence for each significant extracted fact.
 
 **Important constraint:** Do not reconstruct the contents of this page from other Siddharth sources if the page itself cannot be recovered.
 
@@ -363,264 +363,264 @@ Systematically retrieve the outstanding historical sources identified during Ter
 
 For every source:
 
-- [ ] Record exact URL.
-- [ ] Record retrieval date.
-- [ ] Record whether the source is accessible.
-- [ ] Preserve useful original material where practical.
-- [ ] Record title, author, date, platform, and context.
-- [ ] Extract only historically relevant material.
-- [ ] Cross-reference people, organisations, events, projects, domains, and chronology.
-- [ ] Deduplicate against existing `research/` material.
-- [ ] Preserve uncertainty and source limitations.
-- [ ] If inaccessible, record the failure and attempt an appropriate archive or alternate historical copy.
-- [ ] Do not treat the URL's existence alone as evidence of the historical claim it was expected to contain.
+- [ ] TODO: Record exact URL.
+- [ ] TODO: Record retrieval date.
+- [ ] TODO: Record whether the source is accessible.
+- [ ] TODO: Preserve useful original material where practical.
+- [ ] TODO: Record title, author, date, platform, and context.
+- [ ] TODO: Extract only historically relevant material.
+- [ ] TODO: Cross-reference people, organisations, events, projects, domains, and chronology.
+- [ ] TODO: Deduplicate against existing `research/` material.
+- [ ] TODO: Preserve uncertainty and source limitations.
+- [ ] TODO: If inaccessible, record the failure and attempt an appropriate archive or alternate historical copy.
+- [ ] TODO: Do not treat the URL's existence alone as evidence of the historical claim it was expected to contain.
 
 ### 8.1 SlideServe — “Who Are We?”
 
 **URL:** `https://www.slideserve.com/hedwig/who-are-we-powerpoint-ppt-presentation`
 
-- [ ] Retrieve presentation.
-- [ ] Record presentation title.
-- [ ] Record presenter/author.
-- [ ] Record visible date.
-- [ ] Capture slide titles.
-- [ ] Capture images/graphics relevant to TermiSoc.
-- [ ] Extract substantive references to TermiSoc, Plymouth University, people, events, technology, or society structure.
-- [ ] Preserve source provenance.
+- [ ] TODO: Retrieve presentation.
+- [ ] TODO: Record presentation title.
+- [ ] TODO: Record presenter/author.
+- [ ] TODO: Record visible date.
+- [ ] TODO: Capture slide titles.
+- [ ] TODO: Capture images/graphics relevant to TermiSoc.
+- [ ] TODO: Extract substantive references to TermiSoc, Plymouth University, people, events, technology, or society structure.
+- [ ] TODO: Preserve source provenance.
 
 ### 8.2 Arduino Forum — South West UK
 
 **URL:** `https://forum.arduino.cc/t/south-west-uk/92569`
 
-- [ ] Retrieve the thread.
-- [ ] Record thread title, author(s), dates, and replies.
-- [ ] Identify any TermiSoc/person/project references.
-- [ ] Preserve quoted context where needed to understand a claim.
-- [ ] Check whether the thread links to TermiSoc infrastructure or projects.
+- [ ] TODO: Retrieve the thread.
+- [ ] TODO: Record thread title, author(s), dates, and replies.
+- [ ] TODO: Identify any TermiSoc/person/project references.
+- [ ] TODO: Preserve quoted context where needed to understand a claim.
+- [ ] TODO: Check whether the thread links to TermiSoc infrastructure or projects.
 
 ### 8.3 DCGLUG mailing-list archive — msg00526
 
 **URL:** `https://www.dcglug.org.uk/archive-Nov00-May01/msg00526.html`
 
-- [ ] Retrieve message.
-- [ ] Record sender, date, subject, and thread context.
-- [ ] Preserve relevant quoted text.
-- [ ] Identify TermiSoc/person/domain/technology references.
-- [ ] Determine whether the date establishes useful pre-/early-TermiSoc chronology or contextual background.
-- [ ] Preserve archive provenance.
+- [ ] TODO: Retrieve message.
+- [ ] TODO: Record sender, date, subject, and thread context.
+- [ ] TODO: Preserve relevant quoted text.
+- [ ] TODO: Identify TermiSoc/person/domain/technology references.
+- [ ] TODO: Determine whether the date establishes useful pre-/early-TermiSoc chronology or contextual background.
+- [ ] TODO: Preserve archive provenance.
 
 ### 8.4 Nick Charlton — TermiSoc Python tutorial repository
 
 **URL:** `https://github.com/nickcharlton/termisoc-python-tutorial`
 
-- [ ] Retrieve repository metadata.
-- [ ] Record owner.
-- [ ] Record repository creation/commit dates where available.
-- [ ] Inspect README and relevant files.
-- [ ] Identify TermiSoc-specific wording.
-- [ ] Record authors/contributors.
-- [ ] Record tutorial/event context.
-- [ ] Preserve useful source paths and commit provenance.
-- [ ] Cross-reference Nick Charlton's person record and TermiSoc tutorial evidence.
-- [ ] Do not infer society membership solely from repository ownership without supporting context.
+- [ ] TODO: Retrieve repository metadata.
+- [ ] TODO: Record owner.
+- [ ] TODO: Record repository creation/commit dates where available.
+- [ ] TODO: Inspect README and relevant files.
+- [ ] TODO: Identify TermiSoc-specific wording.
+- [ ] TODO: Record authors/contributors.
+- [ ] TODO: Record tutorial/event context.
+- [ ] TODO: Preserve useful source paths and commit provenance.
+- [ ] TODO: Cross-reference Nick Charlton's person record and TermiSoc tutorial evidence.
+- [ ] TODO: Do not infer society membership solely from repository ownership without supporting context.
 
 ### 8.5 SlideServe — MySQL and PHP tutorial
 
 **URL:** `https://www.slideserve.com/matteo/mysql-and-php-tutorial-powerpoint-ppt-presentation`
 
-- [ ] Retrieve presentation.
-- [ ] Record title, presenter, and date.
-- [ ] Capture slide titles and relevant content.
-- [ ] Identify any explicit TermiSoc/tutorial/event references.
-- [ ] Preserve relevant images and provenance.
+- [ ] TODO: Retrieve presentation.
+- [ ] TODO: Record title, presenter, and date.
+- [ ] TODO: Capture slide titles and relevant content.
+- [ ] TODO: Identify any explicit TermiSoc/tutorial/event references.
+- [ ] TODO: Preserve relevant images and provenance.
 
 ### 8.6 Mattsi-Jansky — Termibot repository
 
 **URL:** `https://github.com/Mattsi-Jansky/termibot`
 
-- [ ] Retrieve repository metadata.
-- [ ] Inspect README and source history.
-- [ ] Record owner and contributors.
-- [ ] Record creation/commit dates.
-- [ ] Identify explicit TermiSoc references.
-- [ ] Compare with the Reddit `termibot` lead.
-- [ ] Preserve relevant commits/files and authorship evidence.
-- [ ] Cross-reference TermiSoc software/project records.
+- [ ] TODO: Retrieve repository metadata.
+- [ ] TODO: Inspect README and source history.
+- [ ] TODO: Record owner and contributors.
+- [ ] TODO: Record creation/commit dates.
+- [ ] TODO: Identify explicit TermiSoc references.
+- [ ] TODO: Compare with the Reddit `termibot` lead.
+- [ ] TODO: Preserve relevant commits/files and authorship evidence.
+- [ ] TODO: Cross-reference TermiSoc software/project records.
 
 ### 8.7 Reddit — LAN party discussion
 
 **URL:** `https://www.reddit.com/r/lanparty/comments/11g0hn/not_amazingly_large_but_the_biggest_lan_weve_ever/`
 
-- [ ] Retrieve post and comments where accessible.
-- [ ] Record author, date, title, and context.
-- [ ] Determine whether it explicitly identifies a TermiSoc event.
-- [ ] Extract event date/location/organiser information only where stated.
-- [ ] Cross-reference Reddit community archaeology.
-- [ ] Preserve useful screenshots/media if needed.
+- [ ] TODO: Retrieve post and comments where accessible.
+- [ ] TODO: Record author, date, title, and context.
+- [ ] TODO: Determine whether it explicitly identifies a TermiSoc event.
+- [ ] TODO: Extract event date/location/organiser information only where stated.
+- [ ] TODO: Cross-reference Reddit community archaeology.
+- [ ] TODO: Preserve useful screenshots/media if needed.
 
 ### 8.8 Steam Community — TermiSoc discussions search
 
 **URL:** `https://steamcommunity.com/groups/termisoc/discussions/search/`
 
-- [ ] Search historical discussions.
-- [ ] Record useful thread URLs/titles.
-- [ ] Record authors, dates, events, and relevant content.
-- [ ] Cross-reference Issue #6.
-- [ ] Avoid duplicating material already captured from the main Steam group.
+- [ ] TODO: Search historical discussions.
+- [ ] TODO: Record useful thread URLs/titles.
+- [ ] TODO: Record authors, dates, events, and relevant content.
+- [ ] TODO: Cross-reference Issue #6.
+- [ ] TODO: Avoid duplicating material already captured from the main Steam group.
 
 ### 8.9 UPSU — TermiSoc Risk Assessment
 
 **URL:** `https://www.upsu.com/resources/Termisoc/Risk-Assessment/`
 
-- [ ] Retrieve document.
-- [ ] Record title and document metadata.
-- [ ] Record date/version if present.
-- [ ] Preserve society name and committee/organiser information.
-- [ ] Extract events, activities, facilities, or responsibilities described.
-- [ ] Preserve documentary provenance.
-- [ ] Compare against other UPSU TermiSoc records.
+- [ ] TODO: Retrieve document.
+- [ ] TODO: Record title and document metadata.
+- [ ] TODO: Record date/version if present.
+- [ ] TODO: Preserve society name and committee/organiser information.
+- [ ] TODO: Extract events, activities, facilities, or responsibilities described.
+- [ ] TODO: Preserve documentary provenance.
+- [ ] TODO: Compare against other UPSU TermiSoc records.
 
 ### 8.10 UPSU — TermiSoc Society Development Plan
 
 **URL:** `https://www.upsu.com/resources/Termisoc/Society-Development-Plan/`
 
-- [ ] Retrieve document.
-- [ ] Record title and date/version.
-- [ ] Record named officers/committee members.
-- [ ] Extract aims, activities, membership, events, and development plans.
-- [ ] Preserve exact society terminology.
-- [ ] Compare with timeline/person evidence.
+- [ ] TODO: Retrieve document.
+- [ ] TODO: Record title and date/version.
+- [ ] TODO: Record named officers/committee members.
+- [ ] TODO: Extract aims, activities, membership, events, and development plans.
+- [ ] TODO: Preserve exact society terminology.
+- [ ] TODO: Compare with timeline/person evidence.
 
 ### 8.11 DCGLUG mailing-list archive — msg00076
 
 **URL:** `https://www.dcglug.org.uk/archive-Nov00-May01/msg00076.html`
 
-- [ ] Retrieve message.
-- [ ] Record sender/date/subject.
-- [ ] Preserve relevant thread context.
-- [ ] Identify TermiSoc-related people, domains, projects, or technical context.
-- [ ] Compare with other DCGLUG messages.
+- [ ] TODO: Retrieve message.
+- [ ] TODO: Record sender/date/subject.
+- [ ] TODO: Preserve relevant thread context.
+- [ ] TODO: Identify TermiSoc-related people, domains, projects, or technical context.
+- [ ] TODO: Compare with other DCGLUG messages.
 
 ### 8.12 PhilipMcGaw.com — Arduino Pro Micro serial issues
 
 **URL:** `https://philipmcgaw.com/serial-issues-with-the-arduino-pro-micro/`
 
-- [ ] Retrieve the page.
-- [ ] Record publication/update date.
-- [ ] Determine whether the page contains historical TermiSoc context, personal/project chronology, or technical evidence relevant to the archaeology.
-- [ ] Preserve only the TermiSoc-relevant evidence.
-- [ ] Avoid treating a personal technical article as society evidence unless it explicitly provides that connection.
+- [ ] TODO: Retrieve the page.
+- [ ] TODO: Record publication/update date.
+- [ ] TODO: Determine whether the page contains historical TermiSoc context, personal/project chronology, or technical evidence relevant to the archaeology.
+- [ ] TODO: Preserve only the TermiSoc-relevant evidence.
+- [ ] TODO: Avoid treating a personal technical article as society evidence unless it explicitly provides that connection.
 
 ### 8.13 SlideServe — Introduction to Linux
 
 **URL:** `https://www.slideserve.com/natan/introduction-to-linux-powerpoint-ppt-presentation`
 
-- [ ] Retrieve presentation.
-- [ ] Record title, presenter, date, and slide structure.
-- [ ] Identify explicit TermiSoc/tutorial/event references.
-- [ ] Preserve relevant source material.
+- [ ] TODO: Retrieve presentation.
+- [ ] TODO: Record title, presenter, date, and slide structure.
+- [ ] TODO: Identify explicit TermiSoc/tutorial/event references.
+- [ ] TODO: Preserve relevant source material.
 
 ### 8.14 Fortnox GitHub account
 
 **URL:** `https://github.com/Fortnox`
 
-- [ ] Determine why this account was identified as a TermiSoc research lead.
-- [ ] Inspect historically relevant repositories.
-- [ ] Record repository owners, dates, contributors, and TermiSoc references.
-- [ ] Do not assume organisational or personal identity from the username alone.
-- [ ] Preserve exact repository URLs for useful evidence.
+- [ ] TODO: Determine why this account was identified as a TermiSoc research lead.
+- [ ] TODO: Inspect historically relevant repositories.
+- [ ] TODO: Record repository owners, dates, contributors, and TermiSoc references.
+- [ ] TODO: Do not assume organisational or personal identity from the username alone.
+- [ ] TODO: Preserve exact repository URLs for useful evidence.
 
 ### 8.15 Nick Charlton — “The Digital Peninsula’s First Web Unconference”
 
 **URL:** `https://nickcharlton.net/posts/the-digital-peninsulas-first-web-unconference`
 
-- [ ] Retrieve article.
-- [ ] Record publication date and author.
-- [ ] Extract references to TermiSoc, Plymouth, society members, events, or related web activity.
-- [ ] Preserve exact wording/context for significant historical claims.
-- [ ] Cross-reference Nick Charlton's person record and event chronology.
+- [ ] TODO: Retrieve article.
+- [ ] TODO: Record publication date and author.
+- [ ] TODO: Extract references to TermiSoc, Plymouth, society members, events, or related web activity.
+- [ ] TODO: Preserve exact wording/context for significant historical claims.
+- [ ] TODO: Cross-reference Nick Charlton's person record and event chronology.
 
 ### 8.16 UPSU — TermiSoc Code of Conduct
 
 **URL:** `https://www.upsu.com/resources/Termisoc/Code-of-Conduct/`
 
-- [ ] Retrieve document.
-- [ ] Record date/version if present.
-- [ ] Record named officers/committee members if present.
-- [ ] Extract society structure, membership, conduct, and activity context.
-- [ ] Preserve documentary provenance.
-- [ ] Compare with Risk Assessment and Model Constitution.
+- [ ] TODO: Retrieve document.
+- [ ] TODO: Record date/version if present.
+- [ ] TODO: Record named officers/committee members if present.
+- [ ] TODO: Extract society structure, membership, conduct, and activity context.
+- [ ] TODO: Preserve documentary provenance.
+- [ ] TODO: Compare with Risk Assessment and Model Constitution.
 
 ### 8.17 UPSU — TermiSoc Model Constitution
 
 **URL:** `https://www.upsu.com/resources/Termisoc/Model-Constitution/`
 
-- [ ] Retrieve document.
-- [ ] Record title/date/version.
-- [ ] Record named officers/committee members.
-- [ ] Extract formal society aims, structure, membership, and governance information.
-- [ ] Preserve exact terminology.
-- [ ] Cross-reference people and timeline evidence.
+- [ ] TODO: Retrieve document.
+- [ ] TODO: Record title/date/version.
+- [ ] TODO: Record named officers/committee members.
+- [ ] TODO: Extract formal society aims, structure, membership, and governance information.
+- [ ] TODO: Preserve exact terminology.
+- [ ] TODO: Cross-reference people and timeline evidence.
 
 ### 8.18 WellOrder — Alternative time formats
 
 **URL:** `https://wiki.wellorder.net/wiki/alternative-time-formats/`
 
-- [ ] Retrieve page.
-- [ ] Determine why it is relevant to the TermiSoc evidence set.
-- [ ] Record any TermiSoc-specific reference, author identity, date, or linked material.
-- [ ] Do not infer relevance from a generic technical page if no explicit TermiSoc connection is present.
+- [ ] TODO: Retrieve page.
+- [ ] TODO: Determine why it is relevant to the TermiSoc evidence set.
+- [ ] TODO: Record any TermiSoc-specific reference, author identity, date, or linked material.
+- [ ] TODO: Do not infer relevance from a generic technical page if no explicit TermiSoc connection is present.
 
 ### 8.19 TermiSoc — termi repository README
 
 **URL:** `https://github.com/termisoc/termi/blob/master/README`
 
-- [ ] Retrieve repository and README.
-- [ ] Record organisation/repository ownership.
-- [ ] Record creation/commit history where useful.
-- [ ] Extract explicit TermiSoc/project references.
-- [ ] Record contributors/authors.
-- [ ] Preserve source paths and commit provenance.
-- [ ] Cross-reference the TermiSoc software/project record.
+- [ ] TODO: Retrieve repository and README.
+- [ ] TODO: Record organisation/repository ownership.
+- [ ] TODO: Record creation/commit history where useful.
+- [ ] TODO: Extract explicit TermiSoc/project references.
+- [ ] TODO: Record contributors/authors.
+- [ ] TODO: Preserve source paths and commit provenance.
+- [ ] TODO: Cross-reference the TermiSoc software/project record.
 
 ### 8.20 DCGLUG mailing-list archive — msg00248
 
 **URL:** `https://www.dcglug.org.uk/archive-Nov00-May01/msg00248.html`
 
-- [ ] Retrieve message.
-- [ ] Record sender/date/subject/thread.
-- [ ] Extract relevant people, domain, technical, or community references.
-- [ ] Compare with other archived messages.
+- [ ] TODO: Retrieve message.
+- [ ] TODO: Record sender/date/subject/thread.
+- [ ] TODO: Extract relevant people, domain, technical, or community references.
+- [ ] TODO: Compare with other archived messages.
 
 ### 8.21 DCGLUG mailing-list archive — msg00079
 
 **URL:** `https://www.dcglug.org.uk/archive-Nov00-May01/msg00079.html`
 
-- [ ] Retrieve message.
-- [ ] Record sender/date/subject/thread.
-- [ ] Extract relevant people, domain, technical, or community references.
-- [ ] Compare with other archived messages.
+- [ ] TODO: Retrieve message.
+- [ ] TODO: Record sender/date/subject/thread.
+- [ ] TODO: Extract relevant people, domain, technical, or community references.
+- [ ] TODO: Compare with other archived messages.
 
 ### 8.22 Lonney GitHub account
 
 **URL:** `https://github.com/Lonney`
 
-- [ ] Determine why the account is a TermiSoc research lead.
-- [ ] Inspect historically relevant repositories.
-- [ ] Record repository dates, authorship, and explicit TermiSoc references.
-- [ ] Do not infer real-world identity from username alone.
-- [ ] Preserve useful repository provenance.
+- [ ] TODO: Determine why the account is a TermiSoc research lead.
+- [ ] TODO: Inspect historically relevant repositories.
+- [ ] TODO: Record repository dates, authorship, and explicit TermiSoc references.
+- [ ] TODO: Do not infer real-world identity from username alone.
+- [ ] TODO: Preserve useful repository provenance.
 
 ### 8.23 Netsplit — Plymouth IRC channel history
 
 **URL:** `https://netsplit.de/channels/?chat=plymouth`
 
-- [ ] Retrieve channel information/history.
-- [ ] Determine what historical Plymouth IRC evidence is available.
-- [ ] Record channel names, dates, networks, and relevant historical metadata.
-- [ ] Identify explicit TermiSoc/Termi-related references if present.
-- [ ] Cross-reference TermiSoc IRC evidence already present in the repository.
-- [ ] Preserve the distinction between general Plymouth IRC activity and evidence specifically attributable to TermiSoc.
+- [ ] TODO: Retrieve channel information/history.
+- [ ] TODO: Determine what historical Plymouth IRC evidence is available.
+- [ ] TODO: Record channel names, dates, networks, and relevant historical metadata.
+- [ ] TODO: Identify explicit TermiSoc/Termi-related references if present.
+- [ ] TODO: Cross-reference TermiSoc IRC evidence already present in the repository.
+- [ ] TODO: Preserve the distinction between general Plymouth IRC activity and evidence specifically attributable to TermiSoc.
 
 ### Queue completion criteria
 
@@ -638,29 +638,29 @@ Issue #8 should remain open until each source has been classified as one of:
 
 These are useful after completing the individual items.
 
-- [ ] Search the repository for newly discovered person names and usernames before creating duplicate person records.
-- [ ] Search existing evidence before adding duplicate source captures.
-- [ ] Update the historical timeline only from evidence that has an explicit provenance trail.
-- [ ] Check whether newly recovered sources change the confidence level of existing timeline entries.
-- [ ] Preserve contradictions rather than silently choosing one source.
-- [ ] Maintain explicit separation between contemporary source wording and modern editorial interpretation.
-- [ ] Ensure research-only media is not embedded into curated/public `source/` pages.
-- [ ] Regenerate Quartz output only after source/configuration changes are complete.
-- [ ] Review generated output for broken links after substantial archaeology updates.
-- [ ] Keep GitHub issues and this TODO file aligned when task scope/status changes.
+- [ ] TODO: Search the repository for newly discovered person names and usernames before creating duplicate person records.
+- [ ] TODO: Search existing evidence before adding duplicate source captures.
+- [ ] TODO: Update the historical timeline only from evidence that has an explicit provenance trail.
+- [ ] TODO: Check whether newly recovered sources change the confidence level of existing timeline entries.
+- [ ] TODO: Preserve contradictions rather than silently choosing one source.
+- [ ] TODO: Maintain explicit separation between contemporary source wording and modern editorial interpretation.
+- [ ] TODO: Ensure research-only media is not embedded into curated/public `source/` pages.
+- [ ] TODO: Regenerate Quartz output only after source/configuration changes are complete.
+- [ ] TODO: Review generated output for broken links after substantial archaeology updates.
+- [ ] TODO: Keep GitHub issues and this TODO file aligned when task scope/status changes.
 
 ## Current priority grouping
 
 ### Desktop / local-checkout work
 
-- [ ] **#1 — Favicon/site icon implementation**
-- [ ] **#3 — Ben Eskola name update**
+- [ ] TODO: **#1 — Favicon/site icon implementation**
+- [ ] TODO: **#3 — Ben Eskola name update**
 
 ### Research / browser-access work
 
-- [ ] **#2 — Facebook domain registration certificate**
-- [ ] **#4 — Reddit community**
-- [ ] **#5 — URLM domain history**
-- [ ] **#6 — Steam Community**
-- [ ] **#7 — Siddharth Vadgama TermiSoc project page**
-- [ ] **#8 — Outstanding research-source retrieval queue**
+- [ ] TODO: **#2 — Facebook domain registration certificate**
+- [ ] TODO: **#4 — Reddit community**
+- [ ] TODO: **#5 — URLM domain history**
+- [ ] TODO: **#6 — Steam Community**
+- [ ] TODO: **#7 — Siddharth Vadgama TermiSoc project page**
+- [ ] TODO: **#8 — Outstanding research-source retrieval queue**
