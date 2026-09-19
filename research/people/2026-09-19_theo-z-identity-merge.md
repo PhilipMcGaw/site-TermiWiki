@@ -63,6 +63,13 @@ does not add TermiSoc, University of Plymouth, Rachel Andrew, or other
 historical student-period details; the site's `/about` page remains the useful
 source for those retrospective biographical and network references.
 
+The [current `/now` page](https://zrz.io/now), updated **18 August 2026**,
+adds modern identity corroboration: it names Theo's work at Clerk and links to
+the open-source `laredo` and `lplex` projects, alongside his continuing marine
+engineering work. It contains no TermiSoc or University of Plymouth evidence,
+so it belongs in the modern identity context rather than the historical
+membership record.
+
 No reliable public Facebook profile was identified in this pass. The LinkedIn
 profile is the useful social-profile option; no outreach was attempted.
 
