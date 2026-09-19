@@ -43,7 +43,7 @@ The repository also contains historical references to `media/weare_weblogo.png` 
 
 ### Required work
 
-- [ ] TODO: Pull/update the local desktop repository checkout before processing the binary asset.
+- [x] TODO: Pull/update the local desktop repository checkout before processing the binary asset.
 - [x] TODO: Inspect `source/Media/branding/termisoc_profile_image.png` at full resolution.
 - [x] TODO: Confirm that the artwork survives reduction to favicon dimensions without losing its identifying features.
 - [x] TODO: Generate `favicon.ico` containing appropriate legacy sizes, as supported by the chosen tooling.
