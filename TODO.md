@@ -209,6 +209,7 @@ The supplied link redirects to the public **TermiSoc: Plymouth University Comput
 - [x] TODO: Record post author, date, title, and relevant body/context where available.
 - [ ] TODO: Preserve screenshots or other media where they are important evidence and permissible.
 - [ ] TODO: Store research-only captures under `research/media/`.
+- [ ] TODO: Revisit the Freshers' LAN Imgur album `https://imgur.com/a/g13b2` if permitted regional access becomes available; the current UK session reports that the content is unavailable in the region.
 - [ ] TODO: Link curated facts back to the evidence record.
 - [x] TODO: Cross-reference any GitHub repositories discovered during the Reddit archaeology.
 - [ ] TODO: Deduplicate evidence already captured elsewhere in the repository.
