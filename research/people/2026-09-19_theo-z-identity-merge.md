@@ -50,6 +50,11 @@ identify Theo Zourzouvillys, and should not be treated as his current personal
 site. The domain remains useful only as a historical identity clue because
 older technical records associate Theo with `crazygreek.co.uk` email addresses.
 
+By contrast, [zrz.io](https://zrz.io/) is Theo Zourzouvillys’s current personal
+site: it identifies him by name and provides his present engineering,
+writing, and biographical material. It is the appropriate current web link for
+the person record.
+
 No reliable public Facebook profile was identified in this pass. The LinkedIn
 profile is the useful social-profile option; no outreach was attempted.
 
