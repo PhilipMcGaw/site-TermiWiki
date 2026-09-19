@@ -1,6 +1,6 @@
 ---
 type: research-record
-status: lead
+status: merged-in-source
 subject: "Theo Z and Theo Zourzouvillys identity comparison"
 date: 2026-09-19
 source_type: repository-and-public-web-research
@@ -56,9 +56,9 @@ profiles do not explicitly mention TermiSoc or University of Plymouth.
 
 - [ ] TODO: Check archived TermiSoc pages for an email address, photograph, or
   other identifier that directly joins “Theo Z” to “Theo Zourzouvillys”.
-- [ ] TODO: Decide whether `theo_z.md` should become an alias/redirect to the
-  fuller `theo_zourzouvillys.md` page after reviewing the historical source
-  wording.
+- [x] TODO: Merge `theo_z.md` into the fuller `theo_zourzouvillys.md` page;
+  retain the former path as a compatibility stub and use the full page as the
+  canonical identity record.
 - [ ] TODO: Avoid copying modern employment or location details into the
   curated person page unless they become relevant and publication is justified.
 

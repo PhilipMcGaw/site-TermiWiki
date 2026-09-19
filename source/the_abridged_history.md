@@ -57,7 +57,7 @@ tags:
   - "james_swainsbury"
   - "sam_burrage"
   - "ian_christian"
-  - "theo_z"
+  - "theo_zourzouvillys"
   - "ryan_smith"
   - "jared_somerville"
   - "alex"
@@ -262,14 +262,14 @@ After lowering the membership to Â£1 and a good 40 members joining up, a few g
 ## 2002
 Everything kinda died, I left for my placement and lucky Ian 'pookey' Christian took over the running of the TermiSoc Boxes. In 2002 the exec stood as (without an AGM)
 - [Christian](TermiPeople/ian_christian.md) - President
-- [Z](TermiPeople/theo_z.md) - Secretary 
+- [Z](TermiPeople/theo_zourzouvillys.md) - Secretary
 
 Area51 and Esra died in this time, brought back to life by Pookey and Theo. Not much really happened, people got signed up a few pounds was made, some pints were drunk and a few websites were created.
 
 Now heres where it starts to get interesting again. Chap called Ryan Smith signed up in the first year and saw the 'potential' of TermiSoc. So during 2002 a new exec was formed
 - [Smith](TermiPeople/ryan_smith.md) - President
 - [Christian](TermiPeople/ian_christian.md) - Head Technical Officer
-- [Z](TermiPeople/theo_z.md) - Secretary 
+- [Z](TermiPeople/theo_zourzouvillys.md) - Secretary
 
 ## 2003
 Not much more happened, the server kept ticking over until September 2003 which bought in a new exec (without an AGM once again!)
