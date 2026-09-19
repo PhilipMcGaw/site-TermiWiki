@@ -45,6 +45,8 @@ The group and related profiles are useful leads for identifying later members an
 - [Mattsi Jansky](https://www.linkedin.com/in/mjjansky/)
 - [Danbjorn](https://www.linkedin.com/in/danbjorn/)
 
+See [[termisoc_on_twitter]] for the preserved public account timeline and photo-post archive.
+
 ## 2014 activity
 
 A contemporary flyer lists [[TermiPeople/matt_farrell|Matt Farrell]] as Chairman and [[TermiPeople/jacob_gathercole|Jacob Gathercole]] as Treasurer. It describes workshops, socials, hackathons, projects, LAN parties jointly with GameSoc and movie nights.[^10] A second flyer announced a [[first_24_hour_lan_2014|First 24 Hour LAN]] for October 2014. The announcement is evidence of the planned event, rather than confirmation that it took place.[^11]

@@ -60,3 +60,13 @@ The matching profile does not visibly state TermiSoc affiliation, but the exact 
 Targeted public searches for Robbie Rowe, Lucy Farrell and George Coveney alongside Plymouth University and TermiSoc produced either no result or clearly unrelated profiles. A targeted Facebook-domain search returned no indexed profile pages for the three names.
 
 This is a negative identity check only. It does not disprove any historical role and does not justify associating any of the same-name profiles with TermiSoc.
+
+### George Coveney LinkedIn and Facebook re-check — 19 September 2026
+
+A follow-up signed-in LinkedIn search checked the remaining exact-name and spelling-variant results. The profile at <https://www.linkedin.com/in/georgecaveney/> shows University of the West of England, Bristol rather than the University of Plymouth; it is excluded. The `george-coveney-28920a241` result now returns LinkedIn's “This page doesn’t exist” page. The spelling variant <https://www.linkedin.com/in/george-coveny-29921569/> identifies a Hong Kong/UNSW profile and is excluded. These checks leave no defensible public LinkedIn match.
+
+A signed-in Facebook people search returned several exact-name accounts. One plausible account is already the exact-name member associated with the historical TermiSoc-group evidence, but its profile exposes no public education, location, or historical-society detail. It is therefore retained only as the existing private historical-group bridge, not a public identity confirmation. No contact or connection action was taken.
+
+### Simon Aspinall LinkedIn and Facebook check — 19 September 2026
+
+Matt Farrell’s recollection names Simon Aspinall as 2013–14 chairman. A signed-in LinkedIn people search returned numerous same-name results, none visibly connected to Plymouth or TermiSoc. A corresponding signed-in Facebook people search likewise returned multiple same-name accounts without a public University of Plymouth or society connection. No public identity bridge was established and no contact action was taken.
