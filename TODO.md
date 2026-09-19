@@ -164,7 +164,7 @@ Update the TermiWiki person record and relevant references so that Ben A’Lee i
 ## 4. Review and archive the TermiSoc Reddit community
 
 **GitHub Issue:** #4 — Review and archive TermiSoc Reddit community  
-**Status:** ☐ Open  
+**Status:** ☑ Core page review complete; poster/archive follow-up remains
 **Type:** Historical web/community archaeology
 
 ### Source
@@ -344,12 +344,12 @@ The identity behind `siddv` has been independently corroborated as **Siddharth V
 - [x] TODO: Determine whether the page is a current page, archived page, migrated page, or reconstructed copy.
 - [x] TODO: Compare the page's claims against existing TermiWiki evidence.
 - [x] TODO: Attribute claims specifically to this page.
-- [ ] TODO: Do not treat author identity as proof of every statement on the page.
-- [ ] TODO: Add cross-references to Siddharth Vadgama's person record where appropriate.
-- [ ] TODO: Add project/event references only where supported by the page or corroborating evidence.
-- [ ] TODO: Record unavailable images, broken links, or incomplete recovery.
-- [ ] TODO: If the page is unavailable, attempt appropriate web archives and preserve the failure state/provenance.
-- [ ] TODO: Record confidence for each significant extracted fact.
+- [x] TODO: Do not treat author identity as proof of every statement on the page; the research record distinguishes direct first-person evidence from interpretation.
+- [x] TODO: Add cross-references to Siddharth Vadgama's person record where appropriate.
+- [x] TODO: Add project/event references only where supported by the page or corroborating evidence; existing external-evidence links attribute the claims.
+- [x] TODO: Record unavailable images, broken links, or incomplete recovery; accessible image paths are recorded and binary preservation remains an explicit follow-up.
+- [x] TODO: If the page is unavailable, attempt appropriate web archives and preserve the failure state/provenance; the live page was available with HTTP 200, so this branch was not required.
+- [x] TODO: Record confidence for each significant extracted fact.
 
 **Important constraint:** Do not reconstruct the contents of this page from other Siddharth sources if the page itself cannot be recovered.
 
@@ -668,5 +668,5 @@ These are useful after completing the individual items.
 - [ ] TODO: **#4 — Reddit community**
 - [ ] TODO: **#5 — URLM domain history**
 - [ ] TODO: **#6 — Steam Community** (initial authenticated review recorded; identity and archive follow-up outstanding)
-- [ ] TODO: **#7 — Siddharth Vadgama TermiSoc project page**
+- [x] TODO: **#7 — Siddharth Vadgama TermiSoc project page** (live page recovered and documented; poster/archive follow-up remains in the research record)
 - [ ] TODO: **#8 — Outstanding research-source retrieval queue**
