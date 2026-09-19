@@ -21,6 +21,7 @@ This page is just a stub, please expand it.
 - [https://controlledfrenzy.co.uk](https://controlledfrenzy.co.uk)
 - [GitHub - Chris Hunt](https://github.com/thisisthechris) - Public code profile
 - [Facebook — Christopher Hunt](https://www.facebook.com/thisisthechris)
+- [LinkedIn — Chris Hunt](https://www.linkedin.com/in/thisisthechris/) - Public professional profile
  
 Positions Held
 - 2010–present — President
