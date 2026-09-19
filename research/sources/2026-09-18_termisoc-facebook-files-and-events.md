@@ -27,7 +27,21 @@ The Files tab listed three attachments:
 | `LAN Information.docx` | Document | 18 March 2015, 14:20 | Eleanor Kate Milner | [Facebook post](https://www.facebook.com/groups/termisoc/permalink/10152781190523785/) |
 | `PATW - 2013.pdf` | PDF | 20 February 2013, 01:10 | Siddharth Vadgama | [Facebook post](https://www.facebook.com/groups/termisoc/permalink/10151326159388785/) |
 
-The `Termi Coding 1.zip` post is headed “Files for Termi coding lab”. Its visible comments date to 26 October 2015, and establish that the archive was intended as a coding-lab resource. This does not, without inspecting the archive, establish its contents or licence.
+The `Termi Coding 1.zip` post is headed “Files for Termi coding lab”. Its visible comments date to 26 October 2015, and establish that the archive was intended as a coding-lab resource.
+
+## Retrieved attachment: `Termi Coding 1.zip`
+
+On 19 September 2026, the contributor supplied an authenticated-download copy of `Termi Coding 1.zip`. The original is retained, research-only, at `research/media/2026-09-19_termisoc-facebook-files/Termi Coding 1.zip`; its SHA-256 is `fea615bc8dc546c3177ad6205a2b1339de8f93f18d918f10dc90d3c3cb51938e`. ZIP integrity validation passed.
+
+The archive contains `Task 1.txt` (100,000 bytes of numeric input data) and `Termisoc coding challenges.docx`. The Word document defines three challenges: analyse number frequencies and recurring strings in the supplied data; find the 10,001st prime; and sum multiples of 3 or 5 below 1,000. This confirms the archive's coding-lab purpose. The files were inspected as data only and were not executed.
+
+The original remains outside `source/` because the Facebook submission field does not establish authorship, copyright, or permission to republish the task material. See the [research-media manifest](../media/2026-09-19_termisoc-facebook-files/README.md) for the inventory and provenance.
+
+## Retrieved attachment: `PATW - 2013.pdf`
+
+The authenticated download was preserved on 19 September 2026 at `research/media/2026-09-19_termisoc-facebook-files/PATW - 2013.pdf`; SHA-256: `613f69e77ba9bfe203cba9c28345694632231b7569273a10839c95208941f2a3`. It is a one-page, editable **Institution of Engineering and Technology (IET) Present Around The World** poster, not a TermiSoc-authored document.
+
+The poster advertises a Plymouth University local heat at the Babbage Building, room BGB 005/002, at 18:30 on 6 March 2013. It invites students and young professionals aged 18-26 to give a 10-minute engineering or technology presentation, with a £150 local prize. Its metadata records The IET as author and a modification date of 9 January 2013. This corroborates the group-post description and resolves `PATW` as **Present Around The World**. It demonstrates circulation of an external IET opportunity in the group, not TermiSoc organisation or ownership. The original remains research-only pending IET reuse permission.
 
 ## Direct evidence: past events
 
@@ -61,9 +75,9 @@ This is a dated retrospective statement consistent with the archive and LinkedIn
 
 ## Open questions
 
-- [ ] TODO: Download the three listed attachments using the contributor’s authenticated browser, calculate checksums, inspect their contents, and store only appropriately preservable copies under `source/media/` with provenance.
+- [ ] TODO: Retrieve, checksum and inspect the remaining listed attachment: `LAN Information.docx`. `Termi Coding 1.zip` and `PATW - 2013.pdf` were retrieved and documented as research-only on 19 September 2026; do not place any attachment in `source/Media/` without a publication decision and provenance.
 - [ ] TODO: Compare `LAN Information.docx` with the 2015 committee and LAN-event records before creating or revising a published event page.
-- [ ] TODO: Determine the full expansion and context of `PATW` from the PDF itself before describing it in published material.
+- [x] TODO: Determine the full expansion and context of `PATW` from the PDF itself before describing it in published material. The file is an IET **Present Around The World** poster, circulated in the group for a 6 March 2013 Plymouth University local heat; it is not evidence of a TermiSoc-organised event.
 - [ ] TODO: Continue the uncaptioned photo-stream retrieval, retaining Facebook IDs, uploader names, hashes, and upload context before attempting identification or publication.
 
 ## Confidence
@@ -71,4 +85,5 @@ This is a dated retrospective statement consistent with the archive and LinkedIn
 - **High:** the three filenames, types, submission metadata, group post permalinks, and the three displayed past-event entries were directly visible in the signed-in group view.
 - **High:** the two Voodoo events are displayed as member shares, not verified society-organised events.
 - **High:** the Elly Kensington image, its Facebook ID, visible subject matter, dimensions, and SHA-256 were directly retrieved.
-- **Unverified:** the attachments’ contents, authorship beyond the Facebook submitter field, and reuse/publication rights.
+- **High:** the contents and integrity of the preserved `Termi Coding 1.zip` copy, as described above.
+- **Unverified:** `LAN Information.docx` content and all remaining reuse/publication rights.
