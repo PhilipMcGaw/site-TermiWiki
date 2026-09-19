@@ -34,7 +34,7 @@ The RIPE biography is the strongest modern identity lead yet found for one of th
 
 The supplied `hickmanj` URL is now the preferred contact-profile lead for that RIPE candidate. It should not be confused with the previously rejected `james-hickman` LinkedIn profile.
 
-The project maintainer supplied a view of the `hickmanj` profile showing **University of Plymouth, BSc (Hons), Computing & Informatics, 1991–1995**, with the activities statement **“President of Terminal Society”**. This directly connects the modern profile to the historical society and resolves the identity gap. The screenshot is not retained in the repository; the profile URL and observed details are recorded as provenance.
+The project maintainer supplied a view of the `hickmanj` profile showing **University of Plymouth, BSc (Hons), Computing & Informatics, 1991–1995**, with the activities statement **“President of Terminal Society”**. “Terminal Society” is the full expansion of **TermiSoc**, so this directly connects the modern profile to the historical society and resolves the identity gap. The screenshot is not retained in the repository; the profile URL and observed details are recorded as provenance.
 
 ## Unresolved questions
 
