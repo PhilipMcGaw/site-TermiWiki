@@ -41,6 +41,15 @@ surname:
   director of Associated Networks (UK) Limited from 4 December 2002 to 15
   April 2004, matching the TermiSoc page’s 2002–2003 period.
 
+## Current domain status
+
+The current [crazygreek.co.uk](https://crazygreek.co.uk/) homepage, checked on
+**19 September 2026**, presents a generic “Tech, Hacks, Gadgets & Software
+Talk” blog with recent password-hacking and emulator posts. It does not
+identify Theo Zourzouvillys, and should not be treated as his current personal
+site. The domain remains useful only as a historical identity clue because
+older technical records associate Theo with `crazygreek.co.uk` email addresses.
+
 No reliable public Facebook profile was identified in this pass. The LinkedIn
 profile is the useful social-profile option; no outreach was attempted.
 
@@ -56,6 +65,9 @@ profiles do not explicitly mention TermiSoc or University of Plymouth.
 
 - [ ] TODO: Check archived TermiSoc pages for an email address, photograph, or
   other identifier that directly joins “Theo Z” to “Theo Zourzouvillys”.
+- [ ] TODO: Check historical captures of `crazygreek.co.uk` before citing the
+  domain as Theo’s former website rather than only as an associated email
+  identity.
 - [x] TODO: Merge `theo_z.md` into the fuller `theo_zourzouvillys.md` page;
   retain the former path as a compatibility stub and use the full page as the
   canonical identity record.
