@@ -19,6 +19,7 @@ The user supplied the Facebook profile link on 17 September 2026 and identified 
 
 - The user explicitly identified the linked profile as Christa “PixelChu” Briggs.
 - A search of the current TermiWiki source found no existing page or prior research record using `PixelChu`, `Pixel Chu`, or `Christa Briggs`.
+- On 19 September 2026, the project maintainer further identified the public X account [@christa_ux](https://x.com/christa_ux) as **PixelChu / Christa Briggs**. This confirms the spelling already used by the Facebook identity lead.
 
 ## Interpretation
 

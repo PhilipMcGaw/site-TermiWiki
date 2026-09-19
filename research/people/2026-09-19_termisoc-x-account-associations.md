@@ -44,10 +44,41 @@ Being followed by TermiSoc is evidence of a public account relationship at the t
 
 ## Organisation and community accounts
 
-The following are not person identities but are useful relationship evidence: [@PlymUniGameSoc](https://x.com/PlymUniGameSoc), [@hackathonPlym](https://x.com/hackathonPlym), [@excompsci](https://x.com/excompsci), [@PlymUni](https://x.com/PlymUni), and [@upsu](https://x.com/upsu). The @hackathonPlym profile identifies its manager as [@andy0cretan0](https://x.com/andy0cretan0); this supports a public event-organiser lead but does not identify an individual TermiSoc member.
+The following are not person identities but are useful relationship evidence: [@PlymUniGameSoc](https://x.com/PlymUniGameSoc), [@hackathonPlym](https://x.com/hackathonPlym), [@excompsci](https://x.com/excompsci), [@PlymUni](https://x.com/PlymUni), [@upsu](https://x.com/upsu), [@hacksocnotts](https://x.com/hacksocnotts), [@StudentHack](https://x.com/StudentHack), [@Raspberry_Pi](https://x.com/Raspberry_Pi), [@youngrewired](https://x.com/youngrewired), [@openNASA](https://x.com/openNASA), and [@SpaceApps](https://x.com/SpaceApps). The @hackathonPlym profile identifies its manager as [@andy0cretan0](https://x.com/andy0cretan0); this supports a public event-organiser lead but does not identify an individual TermiSoc member.
+
+## Followers — rendered initial window
+
+On 19 September 2026, the authenticated followers view at <https://x.com/TermiSoc/followers> rendered the following initial set. This is an observation of the current display, **not a complete follower export**, and it does not establish historical membership or when an account followed TermiSoc.
+
+| X account | Visible display name | Assessment |
+| --- | --- | --- |
+| [@christa_ux](https://x.com/christa_ux) | Christa | The project maintainer identifies this as **PixelChu / Christa Briggs**. This establishes a project-maintainer account-to-person bridge, but no independent TermiSoc connection was visible in this pass. |
+| [@WKDWalkaboutWed](https://x.com/WKDWalkaboutWed) | WKD Walkabout Wednesday | UPSU student-night organisation account. |
+| [@PlymJedi](https://x.com/PlymJedi) | Plymouth Jedi | University of Plymouth-related society account. |
+| [@MLHacks](https://x.com/MLHacks) | Major League Hacking | Student hackathon organisation. |
+| [@warren4welfare](https://x.com/warren4welfare) | James Warren | Student-election account; no TermiSoc bridge visible. |
+| [@at_tmp](https://x.com/at_tmp) | Emily Williamson | Student-housing account; no TermiSoc bridge visible. |
+| [@chloee_millss](https://x.com/chloee_millss) | Chloe Mills | Student-election account; no TermiSoc bridge visible. |
+| [@peristarbuck](https://x.com/peristarbuck) | Peri Starbuck | Possible surname lead alongside Stewart Starbuck, but no identity or TermiSoc relationship is established. |
+| [@kev2480](https://x.com/kev2480) | Kev Borrill | Public professional profile; no TermiSoc bridge visible. |
+| [@PlymUniGameSoc](https://x.com/PlymUniGameSoc) | PlymouthGameSoc | Organisation relationship lead. |
+| [@HPSOCPLYM](https://x.com/HPSOCPLYM) | Harry Potter Soc | University society account. |
+| [@arkham777](https://x.com/arkham777) | imran ahmed | No TermiSoc bridge visible. |
+| [@K9ineUK](https://x.com/K9ineUK) | Deric Toms | No TermiSoc bridge visible. |
+| [@plymnightline](https://x.com/plymnightline) | Plymouth Nightline | Student-support organisation. |
+| [@PlymUniSport](https://x.com/PlymUniSport) | Sporting Excellence | University sport account. |
+| [@CEEWithPlymUni](https://x.com/CEEWithPlymUni) | CEEwithPlymUni | University clinical account. |
+| [@Leigh_LbR](https://x.com/Leigh_LbR) | Leigh Brooks | No TermiSoc bridge visible. |
+| [@pmbsolutions](https://x.com/pmbsolutions) | PMB Solutions | Organisation account. |
+| [@InspiringFutur](https://x.com/InspiringFutur) | Inspiring Futures | University engagement organisation. |
+| [@PwC_UK_Careers](https://x.com/PwC_UK_Careers) | PwC UK Careers | Organisation account. |
+| [@WholeClo](https://x.com/WholeClo) | WholeClo.com | Organisation account. |
+
+The following accounts merit cautious follow-up only because their visible names or account context intersect with existing research: **@christa_ux**, **@peristarbuck**, **@warren4welfare**, and **@Leigh_LbR**. The project maintainer has identified `@christa_ux`; none of these accounts has sufficient independent evidence for a TermiSoc-person association at present.
 
 ## Handling
 
 - Keep this as research-only association evidence unless a public people page has a clear historical reason to include the account.
 - Do not use the following list to infer dates, private contact details, or membership beyond the independently documented evidence.
+- Treat the rendered follower window as a partial, time-specific display rather than a stable or complete roster.
 - Review timeline interactions individually before using any post to establish an event, committee activity or personal relationship.

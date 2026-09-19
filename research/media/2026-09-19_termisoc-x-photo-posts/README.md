@@ -12,7 +12,7 @@ publication_status: research-only
 
 This collection preserves the **20 public image renditions** rendered by the authenticated X Photos view for `@TermiSoc` on 19 September 2026, plus the account's public profile image. Each file was retrieved from the X media URL exposed by the corresponding authenticated page, then SHA-256 checked locally.
 
-These are X-delivered **medium-resolution renditions** (approximately 600 pixels wide), not asserted full-resolution originals. They are retained here because the user identified a risk that the social-media material could be purged. They remain research-only: do not embed, copy or publish them in `source/` without individual relevance, rights and privacy review.
+These are X-delivered **medium-resolution renditions** (approximately 600 pixels wide), not asserted full-resolution originals. They are retained here because the user identified a risk that the social-media material could be purged. The project maintainer subsequently authorised their public use on [[../../../source/termisoc_on_twitter]]; the public copies live separately in `source/Media/x_termisoc/`. This collection remains the hashed provenance copy.
 
 ## Source manifest
 
