@@ -12,7 +12,7 @@ tags:
 
 ## Relationship with TermiSoc
 
-In February 2017, TermiSoc chairman Matt Farrell announced that TermiSoc was merging into Geek Soc. The announcement directed TermiSoc members to the Geek Soc annual general meeting and to the Students' Union membership arrangements for the merged membership.[^1]
+In February 2017, TermiSoc announced that it was merging into Geek Soc and that it was no longer going forward as a separate society. The announcement directed members to the Geek Soc annual general meeting, offered paid TermiSoc members free Geek Soc membership, and described a proposed Tech Officer role responsible for LANs, equipment and online servers such as Minecraft.[^1]
 
 This makes Geek Society an important part of the history of TermiSoc's final transition. The available evidence does not establish that Geek Society was simply a renamed TermiSoc; it is better described as the society into which TermiSoc merged in 2017.
 

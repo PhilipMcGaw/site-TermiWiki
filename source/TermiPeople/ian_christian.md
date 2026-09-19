@@ -40,6 +40,6 @@ Ian's middle initial is 'P' but it does not stand for 'Pookey', it stands for 'P
 
 ## Sources
 
-[^1]: Ian P. Christian, TermiSoc Facebook-group post, date not visible in the retrieved result; self-description transcribed from the authenticated group on 17 September 2026.
+[^1]: Ian P. Christian, TermiSoc Facebook-group post, 28 May 2007; self-description transcribed from the authenticated group on 18 September 2026.
 [^2]: [[../president|TermiSoc President list]], retained legacy executive record.
 [^3]: [[../the_abridged_history|The Abridged History]], 2002 section, retained legacy historical account.

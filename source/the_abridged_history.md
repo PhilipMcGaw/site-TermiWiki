@@ -199,7 +199,13 @@ The CS open-access staff usage of flux disappeared again after the summer of 199
 At some time through the year, Tiley left the University, never to be seen again. As such Pete took on the role of PR for the rest of the year.
 
 ## 1999
-![[Media/domain.jpg|termisoc.org]]The 1999 AGM produced:
+![[Media/domain.jpg|termisoc.org]]
+
+![Redacted Network Solutions invoice for a two-year termisoc.org registration, 1999–2001](Media/termisoc_org_network_solutions_invoice_1999_redacted.jpg)
+
+The public copy of the surviving Network Solutions/InterNIC invoice records a **$70.00** two-year registration for `TERMISOC.ORG`, dated **18 July 1999** for the period **1999–2001**. Personal address, recipient and payment-reference details have been redacted.[^domain-invoice]
+
+The 1999 AGM produced:
 - [Childs](TermiPeople/ross_childs.md) - President
 - [Pettigrew](TermiPeople/richard_pettigrew.md) - Secretary
 - [Ellams](TermiPeople/david_ellams.md) - Treasurer
@@ -216,6 +222,8 @@ The most notable success of this exec was the purchase and setting up of the ter
 The & Cornwall Linux Users' Group was founded in November 1999 ([https://www.dcglug.org.uk](https://www.dcglug.org.uk)) and hosted on [Area51](area51_server.md)). Always community-minded that we are.
 
 The two notable changes in the exec during this time was the resignation of Jock, to be replaced by John 'Blindio' Murtha. And the departing of the University by Scott. It was decided that the projects role should be demised and the training and PR roles combined. Thus for the rest of the term, Marc was the PR & Training Officer.
+
+[^domain-invoice]: Redacted derivative of a Network Solutions/InterNIC invoice supplied via the authenticated TermiSoc Facebook group. The surviving original is a 350 × 451 px preview retained as research-only evidence because it includes personal and payment information. Retrieved 17–18 September 2026; the group post by Alex Charrett is dated 9 September 2016. The invoice supports the 1999 registration evidence but does not independently prove this was the domain’s first registration.
 
 ## 2000
 The 2000 AGM brought forth:

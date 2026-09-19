@@ -52,7 +52,7 @@ By 26 October 2016, the official TermiSoc Facebook group described itself as the
 This is direct evidence that CGS was the operating name at that point. The formal process and exact date of the re-brand remain unconfirmed. A later November 2016 group post and the December 2016 LAN event also use the CGS name.[^9]
 ## TermiSoc and Geek Society
 
-TermiSoc and Geek Society were separate societies until the final period of TermiSoc's history. On 22 February 2017, TermiSoc chairman Matt Farrell announced that TermiSoc was merging into Geek Soc. The announcement directed members to the Geek Soc annual general meeting and to the Students' Union arrangements for joining the society.[^1]
+TermiSoc and Geek Society were separate societies until the final period of TermiSoc's history. In a February 2017 announcement, TermiSoc said that it was no longer going forward and had merged into Geek Soc. The announcement directed members to Geek Soc's annual general meeting, said that paid TermiSoc members would receive free membership, and described a proposed Geek Soc Tech Officer role responsible for LANs, equipment and online servers such as Minecraft.[^1]
 
 The available evidence therefore supports recording **Geek Society as the society into which TermiSoc merged**, rather than treating Geek Society as simply an alternative name for TermiSoc. Geek Society continued to appear in University of Plymouth society listings in 2018.[^2]
 

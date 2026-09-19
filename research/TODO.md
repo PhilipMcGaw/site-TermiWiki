@@ -16,7 +16,7 @@ Use the `TODO` and `ROADMAP` markers below for open preservation and verificatio
 These open GitHub issues are the repository's detailed task records. Keep the actionable index here in sync with them; the issue remains the place for implementation/research detail.
 
 - [ ] TODO: Create the TermiSoc favicon and site icon set. See [Issue #1](https://github.com/PhilipMcGaw/site-TermiWiki/issues/1).
-- [ ] TODO: Retrieve and preserve the TermiSoc `termisoc.org` domain registration certificate from the Facebook group. See [Issue #2](https://github.com/PhilipMcGaw/site-TermiWiki/issues/2).
+- [ ] TODO: Obtain a higher-resolution scan of the TermiSoc `termisoc.org` Network Solutions registration invoice from the Facebook group or its original holder. A research-only preview and dated group-post provenance are preserved. See [Issue #2](https://github.com/PhilipMcGaw/site-TermiWiki/issues/2).
 - [ ] TODO: Update Ben A’Lee to his current name, **Ben Eskola**, including current-name references while preserving appropriate historical references. See [Issue #3](https://github.com/PhilipMcGaw/site-TermiWiki/issues/3).
 
 ## Social and people-index checks
@@ -33,6 +33,7 @@ These open GitHub issues are the repository's detailed task records. Keep the ac
 - [ ] TODO: Download and assess `Schemetutorial08.pdf`, `tsoc304.pdf`, and the 2007 LAN documents, recording checksums and provenance before publication. See [Wayback candidates research record](sources/2000-2011_termisoc_wayback_resource_candidates.md).
 - [ ] TODO: Compare archived Constitution and Security Policy files against local copies before preserving any duplicates.
 - [ ] TODO: Match archived executive portraits against existing people pages before adding media.
+- [ ] TODO: Retrieve and assess the three surviving TermiSoc Facebook group files: `Termi Coding 1.zip`, `LAN Information.docx`, and `PATW - 2013.pdf`. See [Facebook files and events inventory](sources/2026-09-18_termisoc-facebook-files-and-events.md).
 
 ## GitHub preservation
 

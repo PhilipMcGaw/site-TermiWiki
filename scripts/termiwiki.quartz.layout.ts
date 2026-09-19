@@ -31,8 +31,7 @@ const TermiWikiRandomHeader: QuartzComponent = ({ fileData }: QuartzComponentPro
     h("img", {
       src: imagePaths[0],
       alt: "Random TermiSoc header image",
-      width: 1000,
-      height: 600,
+      style: { display: "block", width: "100%", height: "auto" },
       loading: "eager",
       decoding: "async",
       "data-termisoc-header-images": imageList,
