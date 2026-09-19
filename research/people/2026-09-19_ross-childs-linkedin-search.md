@@ -29,20 +29,31 @@ The candidate profile was then inspected by the project maintainer. It lists [We
 
 The second UK candidate, [Ross Childs — St. Columba's College](https://uk.linkedin.com/in/ross-childs-a465908), was also inspected by the project maintainer. Its education details place the university period in Leeds. That provides no positive link to Plymouth, TermiSoc, or Flux and is inconsistent with the documented historical chronology, so this profile is also treated as a likely same-name false match.
 
+### Public Rockstar corroboration
+
+Further public searching found two independent professional/game-history references to a Ross Childs at Rockstar:
+
+- [Rockstar Games' official *Red Dead Online* credits](https://www.rockstargames.com/de/reddeadonline/thankyou) list **Ross Childs — Associate Director: Software Engineering, Rockstar San Diego**.
+- [MobyGames' Ross Childs entry](https://www.mobygames.com/person/65515/ross-childs/) indexes the same name against Rockstar Games credits, including *Grand Theft Auto: The Trilogy — The Definitive Edition*.
+
+These results align materially better with the supplied Facebook profile and with the historical TermiSoc person's technical and gaming context than the two UK LinkedIn candidates. They still do not independently prove that the Rockstar employee is the 1996–98 TermiSoc member, because neither public source mentions TermiSoc, Plymouth, or “Rictus”. The working assessment is therefore **strong candidate / not yet conclusively proven**.
+
 ## Interpretation
 
-The Three UK profile was initially a plausible lead only because it was a UK technology profile under the exact name Ross Childs. The school and early-career details now make it a likely false match. The other visible profiles have no stronger connection in the indexed material.
+The Three UK and St. Columba's College profiles were initially plausible only because they used the exact name Ross Childs. Their school and early-career details make them likely false matches. The Rockstar San Diego references provide a substantially stronger US-based candidate, but the identity bridge to TermiSoc remains unresolved.
 
 This search adds a set of candidate URLs for future comparison, but it does not add publishable biographical evidence about Ross Childs.
 
 ## Unresolved questions
 
 - [x] TODO: Compare the leading candidate against the available historical chronology; the West Hatch/London timeline is inconsistent with the Plymouth TermiSoc chronology.
-- [ ] TODO: Compare any remaining candidate profile against independently supplied identity details or a direct response from Ross; do not infer identity from name, location, or profession alone.
+- [x] TODO: Compare the second UK candidate against the available historical chronology; the Leeds education timeline is inconsistent with the Plymouth TermiSoc chronology.
+- [x] TODO: Compare public US-based Ross Childs evidence; Rockstar Games and MobyGames provide a strong candidate but no direct TermiSoc link.
+- [ ] TODO: Seek direct confirmation or an additional independent source linking the Rockstar Ross Childs to Plymouth TermiSoc or the “Rictus” alias.
 - [ ] TODO: Re-run a public search for `Rictus` and Ross Childs if a distinctive modern username, employer, or location becomes available.
 
 ## Confidence
 
 - **High:** LinkedIn exposes multiple same-name candidates and no indexed result directly connects one to TermiSoc.
 - **High:** The Three UK and St. Columba's College profiles are likely same-name false matches based on their school, university, and early-career timelines, compared with the documented Plymouth chronology.
-- **Unverified:** The identity of the historical Ross “Rictus” Childs on LinkedIn.
+- **Medium–High:** The Rockstar San Diego Ross Childs is the strongest modern identity candidate found, supported by official Rockstar credits and an independent MobyGames index, but the TermiSoc identity link remains unverified.
