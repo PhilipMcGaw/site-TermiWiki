@@ -45,6 +45,10 @@ The group and related profiles are useful leads for identifying later members an
 - [Mattsi Jansky](https://www.linkedin.com/in/mjjansky/)
 - [Danbjorn](https://www.linkedin.com/in/danbjorn/)
 
+## 2014 activity
+
+A contemporary flyer lists [[TermiPeople/matt_farrell|Matt Farrell]] as Chairman and [[TermiPeople/jacob_gathercole|Jacob Gathercole]] as Treasurer. It describes workshops, socials, hackathons, projects, LAN parties jointly with GameSoc and movie nights.[^10] A second flyer announced a [[first_24_hour_lan_2014|First 24 Hour LAN]] for October 2014. The announcement is evidence of the planned event, rather than confirmation that it took place.[^11]
+
 ## Computing & Gaming Society re-brand
 
 By 26 October 2016, the official TermiSoc Facebook group described itself as the group for the **Computing & Gaming Society (CGS), formerly TermiSoc**. It listed [[TermiPeople/jacob_gathercole|Jacob Gathercole]] as Chairman, [[TermiPeople/rachael_tordoff|Rachael Tordoff]] as Secretary, [[TermiPeople/matt_farrell|Matt Farrell]] as Treasurer, and Chris Brown as Safety Officer.[^9]
@@ -79,3 +83,5 @@ See [[robotics_society]] for the evidence and current status.
 [^7]: University of Plymouth Students' Union, *Freshers Week 22: Societies Fair*, 2022, listing "Robotics (RoboSoc)", <https://www.upsu.com/ents/event/14716/>.
 [^8]: TermiSoc LinkedIn group description, retrieved 17 September 2026. The public description states that TermiSoc was the Plymouth University Computing and Technology Society, formerly the Computing Society, established in 1991, and offered member facilities. [LinkedIn group](https://www.linkedin.com/groups/5101011/)
 [^9]: TermiSoc Facebook-group description, 26 October 2016, transcription supplied by the project maintainer on 17 September 2026; and Matt Farrell, “Computing & Gaming Society”, TermiSoc Facebook group, 11 November 2016, transcription supplied by the project maintainer on 17 September 2026.
+[^10]: TermiSoc committee flyer, supplied by Matt Farrell, 19 September 2026.
+[^11]: TermiSoc, “First 24 Hour LAN” flyer, supplied by Matt Farrell, 19 September 2026.

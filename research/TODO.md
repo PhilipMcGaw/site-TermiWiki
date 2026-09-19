@@ -34,6 +34,7 @@ These open GitHub issues are the repository's detailed task records. Keep the ac
 - [ ] TODO: Compare archived Constitution and Security Policy files against local copies before preserving any duplicates.
 - [ ] TODO: Match archived executive portraits against existing people pages before adding media.
 - [ ] TODO: Retrieve and assess the three surviving TermiSoc Facebook group files: `Termi Coding 1.zip`, `LAN Information.docx`, and `PATW - 2013.pdf`. See [Facebook files and events inventory](sources/2026-09-18_termisoc-facebook-files-and-events.md).
+- [ ] TODO: Corroborate the exact date, venue and outcome of the First 24 Hour LAN announced for October 2014. See [2014 flyer evidence](evidence/2026-09-19_matt-farrell-2014-termisoc-material/README.md).
 
 ## GitHub preservation
 

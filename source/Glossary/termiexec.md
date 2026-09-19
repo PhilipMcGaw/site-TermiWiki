@@ -109,6 +109,18 @@ tags:
 [^termiexec-2015-photo]: TermiSoc, “Meet your Execs!” graphic, posted by Jamie Woods to the TermiSoc Facebook group, 22 March 2015. Image supplied by the project maintainer and published with permission.
 
 ### 2014 - 2015
+![[Media/termisoc_2014_committee_flyer.jpg]]
+
+*A contemporaneous TermiSoc flyer lists this committee. It is undated, so the exact start and end dates of the offices remain to be established.[^termiexec-2014-flyer]*
+
+- Chairman — [Matt Farrell](../TermiPeople/matt_farrell.md)
+- Treasurer — [Jacob Gathercole](../TermiPeople/jacob_gathercole.md)
+- Secretary — Robbie Rowe
+- Social Secretary — Lucy Farrell
+- Health and Safety — George Coveney
+
+[^termiexec-2014-flyer]: TermiSoc committee flyer, supplied by Matt Farrell, 19 September 2026.
+
 ### 2013 - 2014
 ### 2012 - 2013
 ### 2011 - 2012

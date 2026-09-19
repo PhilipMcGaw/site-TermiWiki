@@ -42,6 +42,7 @@ The absence of search results is not evidence that TermiHouse 1 did not exist. L
 ## Related repository material
 
 - `research/AGENTS.md` — research-corpus provenance rules.
+- `research/locations/later-termihouses.md` — privacy-minimised evidence index for the later numbered groups.
 - `research/sources/2000-2011_termisoc_wayback_resource_candidates.md`
 - `research/sources/2004-2009_termisoc_archived_web_pages.md`
 - `research/sources/2005-2010_termisoc_external_profiles_and_media.md`

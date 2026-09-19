@@ -39,3 +39,9 @@ No source pages were changed in this pass. This record does not infer roles, dat
 - [ ] Create a minimal Joshua Dawson people page only if the project maintainer wants his public LinkedIn profile included.
 - [ ] Continue with the remaining 2013 tagged-photo names, beginning with Elly Kensington.
 - [ ] Seek historical, non-social sources for Mike Jones, Robbie Rowe, George Coveney, and Chris Brown before making people pages.
+
+## Public web re-check — 19 September 2026
+
+Targeted public searches for Robbie Rowe, Lucy Farrell and George Coveney alongside Plymouth University and TermiSoc produced either no result or clearly unrelated profiles. A targeted Facebook-domain search returned no indexed profile pages for the three names.
+
+This is a negative identity check only. It does not disprove any historical role and does not justify associating any of the same-name profiles with TermiSoc.
