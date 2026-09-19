@@ -1,6 +1,6 @@
 ---
 type: research-record
-status: strong-lead
+status: corroborated
 subject: "James Hickman / Simkin — public profile search"
 date: 2026-09-19
 source_type: public-professional-profile-search
@@ -34,16 +34,18 @@ The RIPE biography is the strongest modern identity lead yet found for one of th
 
 The supplied `hickmanj` URL is now the preferred contact-profile lead for that RIPE candidate. It should not be confused with the previously rejected `james-hickman` LinkedIn profile.
 
+The project maintainer supplied a view of the `hickmanj` profile showing **University of Plymouth, BSc (Hons), Computing & Informatics, 1991–1995**, with the activities statement **“President of Terminal Society”**. This directly connects the modern profile to the historical society and resolves the identity gap. The screenshot is not retained in the repository; the profile URL and observed details are recorded as provenance.
+
 ## Unresolved questions
 
 - [x] TODO: Compare the visible LinkedIn education dates with the early TermiSoc chronology; the profile is a likely false match and is excluded.
 - [x] TODO: Locate a professional or social profile belonging to the RIPE-biography James Hickman, rather than relying on the unrelated LinkedIn result; `hickmanj` is the maintainer-supplied candidate.
 - [x] TODO: Record the maintainer-supplied probable LinkedIn profile for the RIPE-biography James Hickman; direct page verification remains limited by LinkedIn cache access.
-- [ ] TODO: Seek confirmation that this James Hickman is the historical “Simkin” Hickman before expanding the curated person page.
+- [x] TODO: Confirm that this James Hickman is the historical “Simkin” Hickman; the supplied profile directly names the Terminal Society presidency and matches the Plymouth course dates.
 - [ ] TODO: If contact is appropriate, ask about early TermiSoc, Cadmus, Hades, Area51, and the original “Group of Three”.
 
 ## Confidence
 
 - **High:** The public RIPE biography establishes a James Hickman born in 1972 with University of Plymouth Computing and Informatics history and a matching technical career.
 - **High:** The LinkedIn profile found in search is a likely false match based on its 1997–2013 education timeline.
-- **Medium–High:** This is the historical TermiSoc James “Simkin” Hickman; the name, age, Plymouth education, and technical context align, but no source yet names TermiSoc directly.
+- **High:** The supplied `hickmanj` profile identifies the historical James “Simkin” Hickman through the matching Plymouth Computing & Informatics dates and the explicit Terminal Society presidency.
