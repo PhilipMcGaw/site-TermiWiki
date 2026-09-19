@@ -83,6 +83,12 @@ confidence as a first-party social-profile reference**, even though the public
 retrieval layer could not read the Instagram profile itself. Its biography and
 posts therefore remain unverified here; no private content was accessed.
 
+The project maintainer also compared the public portrait on [Theo's LinkedIn
+profile](https://www.linkedin.com/in/zourzouvillys/) with the portrait on
+`zrz.io` and reports that they show the same person. This is recorded as
+**Medium–High confidence** visual corroboration supplied by the maintainer,
+not as an independently image-forensically verified conclusion.
+
 No reliable public Facebook profile was identified in this pass. The LinkedIn
 profile is the useful social-profile option; no outreach was attempted.
 
