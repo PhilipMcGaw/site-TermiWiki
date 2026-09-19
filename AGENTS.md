@@ -55,7 +55,7 @@ Agents MUST:
 - treat existing research records as evidence to inspect, not as unquestionable conclusions;
 - preserve provenance and distinguish direct evidence from interpretation;
 - record important new discoveries in `research/` so that other contributors and models can continue the investigation;
-- avoid putting transient chain-of-thought, private conversation context, credentials, or personal data into the repository;
+- avoid putting transient chain-of-thought
 - record concise research conclusions, source references, unresolved questions, and useful next actions rather than private reasoning traces;
 - use Git history as the audit trail for substantive research changes;
 - avoid overwriting another contributor's work and obtain the current file version before updating a shared file;

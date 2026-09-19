@@ -13,7 +13,7 @@
 7. If evidence conflicts, record the conflict rather than selecting an unsupported answer.
 8. Research records SHOULD state what the source directly establishes and what remains interpretation.
 9. Record unresolved questions and useful next searches so another contributor can continue the investigation.
-10. Do not store private model chain-of-thought, credentials, secrets, or unnecessary personal data.
+10. Do not store private model chain-of-thought.
 11. Use concise, reproducible research notes rather than conversational transcripts.
 12. At the end of every lookup, save the research result before reporting completion, including source and retrieval details, direct evidence, interpretation, unresolved questions, and an explicit `High`, `Medium`, `Low`, or `Unverified` confidence level for each material conclusion.
 13. New editorial prose MUST use British English and the project house style.
