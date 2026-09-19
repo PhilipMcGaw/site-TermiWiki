@@ -478,13 +478,13 @@ For every source:
 
 **URL:** `https://www.upsu.com/resources/Termisoc/Risk-Assessment/`
 
-- [ ] TODO: Retrieve document; current URL returned HTTP 200 with an empty response body.
-- [ ] TODO: Record title and document metadata.
-- [ ] TODO: Record date/version if present.
-- [ ] TODO: Preserve society name and committee/organiser information.
-- [ ] TODO: Extract events, activities, facilities, or responsibilities described.
-- [ ] TODO: Preserve documentary provenance.
-- [ ] TODO: Compare against other UPSU TermiSoc records.
+- [x] TODO: Retrieve document; current URL returned HTTP 200 with an empty response body and the normal browser displayed a page-load error.
+- [x] TODO: Record title and document metadata; no document metadata was exposed.
+- [x] TODO: Record date/version if present; none was exposed.
+- [x] TODO: Preserve society name and committee/organiser information; none was exposed.
+- [x] TODO: Extract events, activities, facilities, or responsibilities described; no document text was exposed.
+- [x] TODO: Preserve documentary provenance in `research/sources/2026-09-19_upsu-termisoc-document-access.md`.
+- [x] TODO: Compare against other UPSU TermiSoc records; this URL remains an inaccessible lead rather than recovered evidence.
 
 ### 8.10 UPSU — TermiSoc Society Development Plan
 
