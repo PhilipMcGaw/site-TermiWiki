@@ -17,6 +17,24 @@ confidence: High
 - **Retrieved:** 2026-09-19
 - **Access:** Public listing was visible without signing in. Individual post pages were exposed as stable Reddit URLs, although some direct page fetches returned cache misses during this pass.
 
+### Follow-up browser check
+
+On 19 September 2026, the supplied URL was reopened through the authenticated-capable in-app browser. Reddit displayed the public community listing and several post summaries without requiring a login, but the resulting URL included a Reddit JavaScript challenge token. No challenge was solved or bypassed. The visible listing confirmed the community title and exposed, among others, the Hackathon post by `u/broomi`, the NovemberLAN post by `u/siddv`, the Freshers' LAN image post by `u/siddv`, and the already recorded historical links for `u/conrad_w` and `u/thisisthechris`.
+
+This follow-up adds access-state evidence only; it does not claim a complete post-by-post review. Further retrieval should resume only after the browser challenge has been cleared through ordinary user interaction, if Reddit presents one.
+
+The challenge was subsequently cleared through ordinary browser interaction, and individual post pages became readable. The follow-up review directly inspected:
+
+- [Exeter run Hackathon](https://www.reddit.com/r/a:t5_2uv1z/comments/1n679k/exeter_run_hackathon_that_we_would_love_you_guys/), by `u/broomi`: an Exeter University hackathon organiser says the competition was being opened to other universities and asks the TermiSoc president/committee to check their emails. `u/danbjorn` replies that he had sent the link to the mailing list; `u/broomi` says he reached the events officer/VP; `u/danbjorn` identifies himself as ex-TermiSoc and says he remains interested in computing societies.
+- [NovemberLAN — 17/11/2012](https://www.reddit.com/r/a:t5_2uv1z/comments/1254q6/novemberlan_17112012/), by `u/siddv`: confirms a second LAN of the term in the campus Main Hall, with bring-your-own PC/console arrangements, food planning, and Urban Terror, Trackmania, Dawn of War, Street Fighter, Armegatron, Starcraft, C&C Generals, and Red Alert 2 listed.
+- [Started Planning the web tutorial](https://www.reddit.com/r/a:t5_2uv1z/comments/10fa1e/started_planning_the_web_tutorial_what_would_you/), by `u/thisisthechris`: proposes a web tutorial and invites input from the Facebook group. Comments suggest a beginner-first format, web history, responsive design, Bootstrap/jQuery, version control, and getting attendees to publish a site; another comment recalls earlier HTML and PHP teaching by TermiSoc members.
+- [People should use IRC more](https://www.reddit.com/r/a:t5_2uv1z/comments/z4pyg/people_should_use_irc_more/), by `u/danbjorn`: directs readers to `termisoc` on `chat.termisoc.org` and says the channel was populated mostly by former TermiSoc people. Comments by `u/siddv`, `u/nickcharlton`, `u/danbjorn`, and deleted accounts discuss IRC clients, shell access, connection problems, and the preference for a flowing conversation over Facebook threads.
+- [Freshers' LAN Party — 06/10/2012](https://www.reddit.com/r/a:t5_2uv1z/comments/z3lk8/freshers_lan_party_06102012/), by `u/siddv`: announces the first LAN of the year at Sherwell Church from 10:30am to 9pm, with £5 admission or £4 for TermiSoc members, meals and drinks, PC and console tournaments, and a Facebook event link. The listed games include Urban Terror, Rune, Trackmania, Dawn of War, Starcraft, Team Fortress 2, and Street Fighter. Comments include `u/Sayyan`, `u/danbjorn`, `u/siddv`, and `u/brapbrapbrapbrap`; one deleted commenter says they may attend.
+- [termibot is now on GitHub!](https://www.reddit.com/r/a:t5_2uv1z/comments/z515y/termibot_is_now_on_github/), by `u/nickcharlton`: links directly to <https://github.com/termisoc/termibot>. A deleted-account comment says “Patches welcome!” and questions whether it can be run.
+- [Plymouth Reddit Halloween meetup!](https://www.reddit.com/r/a:t5_2uv1z/comments/zoe6y/plymouth_reddit_halloween_meetup/), posted by a deleted account: links to the Plymouth Reddit Gifts meetup listing. `u/danbjorn` explicitly says he first thought TermiSoc had organised it, which distinguishes the meetup from a TermiSoc event; `u/Noxfag` discusses the wider Plymouth Reddit community.
+- [[Project Plug] Moby-Dick Big Read](https://www.reddit.com/r/a:t5_2uv1z/comments/10343x/project_plug_mobydick_big_read/), by `u/thisisthechris`: links to `mobydickbigread.com`. A follow-up comment says the poster had built the site and automated daily audio-chapter releases using Python, Google Docs, and SoundCloud; `u/danbjorn` notes the RSS feed and audio-book context.
+- [Hurrah! A TermiSoc subreddit.](https://www.reddit.com/r/a:t5_2uv1z/comments/z3fll/hurrah_a_termisoc_subreddit/), by `u/nickcharlton`: announces the subreddit as an alternative to Facebook for links and discussion, with possible voting on events and talks. Comments by `u/siddv` and `u/Sayyan` discuss publicising it through Facebook, custom CSS, and anonymous or multiple Reddit accounts.
+
 ## Direct community evidence
 
 The listing states that the community was created on **26 August 2012** and is public. It displays historical posts by named Reddit accounts, including `u/siddv`, `u/nickcharlton`, `u/danbjorn`, `u/thisisthechris`, `u/Sayyan`, and `u/conrad_w`.
@@ -47,6 +65,7 @@ The `u/siddv` posts are consistent with the separately documented Siddharth Vadg
 - [ ] TODO: Retrieve the Imgur/Freshers' LAN media only if it is necessary, permissible, and not already preserved elsewhere.
 - [ ] TODO: Deduplicate the LAN, tutorial, IRC, and TermiBot evidence against existing research records.
 - [ ] TODO: Record deleted or inaccessible posts separately rather than inferring their contents.
+- [x] TODO: Resume the systematic pass after the Reddit JavaScript challenge was cleared through ordinary browser interaction.
 
 ## Publication impact
 
