@@ -434,11 +434,11 @@ For every source:
 
 **URL:** `https://www.slideserve.com/matteo/mysql-and-php-tutorial-powerpoint-ppt-presentation`
 
-- [ ] TODO: Retrieve presentation.
-- [ ] TODO: Record title, presenter, and date.
-- [ ] TODO: Capture slide titles and relevant content.
-- [ ] TODO: Identify any explicit TermiSoc/tutorial/event references.
-- [ ] TODO: Preserve relevant images and provenance.
+- [x] TODO: Retrieve presentation.
+- [x] TODO: Record title and presenter; the date remains unresolved.
+- [x] TODO: Capture slide titles and relevant content.
+- [x] TODO: Identify explicit TermiSoc/tutorial/event references.
+- [x] TODO: Preserve relevant source provenance.
 
 ### 8.6 Mattsi-Jansky — Termibot repository
 
@@ -478,7 +478,7 @@ For every source:
 
 **URL:** `https://www.upsu.com/resources/Termisoc/Risk-Assessment/`
 
-- [ ] TODO: Retrieve document.
+- [ ] TODO: Retrieve document; current URL returned HTTP 200 with an empty response body.
 - [ ] TODO: Record title and document metadata.
 - [ ] TODO: Record date/version if present.
 - [ ] TODO: Preserve society name and committee/organiser information.
@@ -490,7 +490,7 @@ For every source:
 
 **URL:** `https://www.upsu.com/resources/Termisoc/Society-Development-Plan/`
 
-- [ ] TODO: Retrieve document.
+- [ ] TODO: Retrieve document; current URL returned HTTP 200 with an empty response body.
 - [ ] TODO: Record title and date/version.
 - [ ] TODO: Record named officers/committee members.
 - [ ] TODO: Extract aims, activities, membership, events, and development plans.
@@ -501,11 +501,11 @@ For every source:
 
 **URL:** `https://www.dcglug.org.uk/archive-Nov00-May01/msg00076.html`
 
-- [ ] TODO: Retrieve message.
-- [ ] TODO: Record sender/date/subject.
-- [ ] TODO: Preserve relevant thread context.
-- [ ] TODO: Identify TermiSoc-related people, domains, projects, or technical context.
-- [ ] TODO: Compare with other DCGLUG messages.
+- [x] TODO: Retrieve message.
+- [x] TODO: Record sender/date/subject.
+- [x] TODO: Preserve relevant thread context.
+- [x] TODO: Identify TermiSoc-related people, domains, projects, or technical context.
+- [x] TODO: Compare with other DCGLUG messages.
 
 ### 8.12 PhilipMcGaw.com — Arduino Pro Micro serial issues
 
@@ -550,7 +550,7 @@ For every source:
 
 **URL:** `https://www.upsu.com/resources/Termisoc/Code-of-Conduct/`
 
-- [ ] TODO: Retrieve document.
+- [ ] TODO: Retrieve document; current URL returned HTTP 200 with an empty response body.
 - [ ] TODO: Record date/version if present.
 - [ ] TODO: Record named officers/committee members if present.
 - [ ] TODO: Extract society structure, membership, conduct, and activity context.
@@ -561,7 +561,7 @@ For every source:
 
 **URL:** `https://www.upsu.com/resources/Termisoc/Model-Constitution/`
 
-- [ ] TODO: Retrieve document.
+- [ ] TODO: Retrieve document; current URL returned HTTP 200 with an empty response body.
 - [ ] TODO: Record title/date/version.
 - [ ] TODO: Record named officers/committee members.
 - [ ] TODO: Extract formal society aims, structure, membership, and governance information.
@@ -593,19 +593,19 @@ For every source:
 
 **URL:** `https://www.dcglug.org.uk/archive-Nov00-May01/msg00248.html`
 
-- [ ] TODO: Retrieve message.
-- [ ] TODO: Record sender/date/subject/thread.
-- [ ] TODO: Extract relevant people, domain, technical, or community references.
-- [ ] TODO: Compare with other archived messages.
+- [x] TODO: Retrieve message.
+- [x] TODO: Record sender/date/subject/thread.
+- [x] TODO: Extract relevant people, domain, technical, or community references.
+- [x] TODO: Compare with other archived messages.
 
 ### 8.21 DCGLUG mailing-list archive — msg00079
 
 **URL:** `https://www.dcglug.org.uk/archive-Nov00-May01/msg00079.html`
 
-- [ ] TODO: Retrieve message.
-- [ ] TODO: Record sender/date/subject/thread.
-- [ ] TODO: Extract relevant people, domain, technical, or community references.
-- [ ] TODO: Compare with other archived messages.
+- [x] TODO: Retrieve message.
+- [x] TODO: Record sender/date/subject/thread.
+- [x] TODO: Extract relevant people, domain, or technical references.
+- [x] TODO: Compare with other archived messages.
 
 ### 8.22 Lonney GitHub account
 
