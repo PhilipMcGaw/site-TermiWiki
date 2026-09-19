@@ -33,6 +33,7 @@ This is a continuation log for historical-archive contact work. It records only 
 | Marcus \"Samwise\" Adams | [Facebook group profile](https://www.facebook.com/groups/2342018784/user/738077564/) | Technical officer across several early executive periods | Contacted | Await response. |
 | Chris \"nanohead\" Morris | [Facebook](https://www.facebook.com/MORRISTHEMAGNIFICENT) | 2005–06 Treasurer and mid-2000s society history | Message sent 19 September 2026 | Await response; ask about photos, files, newsletters, committee notes, and other archive holders. |
 | Aimee Spencer | [Facebook](https://www.facebook.com/Skwishee) | TermiSoc member-directory identity lead and possible historical archive source | Message sent 19 September 2026 | Await response; ask about photos, files, events, recollections, and other archive holders. |
+| Christopher \"ThisIsTheChris\" Hunt | [Facebook](https://www.facebook.com/thisisthechris) | 2007–11 member, Safety Officer, President, and later society history | Message sent 19 September 2026 | Await response; ask about committee material, projects, photographs, files, and other archive holders. |
 
 ## Deferred
 
