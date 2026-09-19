@@ -14,7 +14,7 @@ confidence: medium
 
 On 19 September 2026, the project maintainer identified the Facebook profile <https://www.facebook.com/talikowski> as belonging to someone involved with the Students’ Union as an officer during the **UPSU Radio** and **UPSU Webcam** period.
 
-The supplied wording uses both “USPU” and “UPSU”; this record retains **UPSU** where referring to the University of Plymouth Students’ Union, but does not assume the spelling resolves the person's formal office title. No name, tenure, dates, or documentary evidence for the involvement has yet been supplied.
+**UPSU** is the correct name for the University of Plymouth Students’ Union. This does not resolve the person's formal office title. No name, tenure, dates, or documentary evidence for the involvement has yet been supplied.
 
 ## Archive significance
 
