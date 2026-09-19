@@ -1,20 +1,20 @@
 ---
 type: research-lead
 status: active
-subject: "Facebook profile talikowski — UPSU Radio and UPSU Webcam lead"
+subject: "Kris Talikowski — UPSU Radio and UPSU Webcam lead"
 date: 2026-09-19
 source_type: firsthand-recollection
 publication_status: research-only
 confidence: medium
 ---
 
-# `talikowski` — UPSU Radio and UPSU Webcam lead
+# Kris Talikowski — UPSU Radio and UPSU Webcam lead
 
 ## Project-maintainer testimony
 
-On 19 September 2026, the project maintainer identified the Facebook profile <https://www.facebook.com/talikowski> as belonging to someone involved with the Students’ Union as an officer during the **UPSU Radio** and **UPSU Webcam** period.
+On 19 September 2026, the project maintainer identified the Facebook profile <https://www.facebook.com/talikowski> as **Kris Talikowski**, who was involved with the Students’ Union as an officer during the **UPSU Radio** and **UPSU Webcam** period.
 
-**UPSU** is the correct name for the University of Plymouth Students’ Union. This does not resolve the person's formal office title. No name, tenure, dates, or documentary evidence for the involvement has yet been supplied.
+**UPSU** is the correct name for the University of Plymouth Students’ Union. This does not resolve Kris Talikowski's formal office title, tenure, dates, or documentary evidence for the involvement.
 
 ## Archive significance
 
