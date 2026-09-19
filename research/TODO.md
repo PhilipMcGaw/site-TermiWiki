@@ -24,6 +24,7 @@ These open GitHub issues are the repository's detailed task records. Keep the ac
 - [ ] TODO: During the next Facebook and wider social-media sweep, compare the [TermiWiki people index](https://labbook.skippy.org.uk/doku.php/sites/termiwiki/people) with local people pages and record any missing or changed links.
 - [ ] TODO: After direct evidence has been consolidated for existing people pages, triage the deferred [Facebook mutual-connection lead queue](leads/2026-09-19_facebook-mutual-connection-leads.md). Do not treat mutual connections as evidence of membership or office.
 - [ ] TODO: During the same sweep, review the [TermiWiki start page](https://labbook.skippy.org.uk/doku.php/sites/termiwiki/start) against the ingested local material, checking names, dates, links, and source provenance.
+- [ ] TODO: Corroborate the UPSU-side history of the 2004–05 [UPSU Radio](../source/upsu_radio.md) project and determine whether **UPSU Webcam** has surviving dated material. See the [`talikowski` lead](people/2026-09-19_talikowski-upsu-radio-webcam-lead.md).
 - [ ] TODO: Audit all pages beneath the [TermiWiki namespace](https://labbook.skippy.org.uk/doku.php/sites/termiwiki/), using the contributor browser or an export: enumerate pages, compare them with local `source/` and `research/` records, inventory every attachment and media file, preserve missing files with provenance, and record inaccessible or duplicate material.
 
 ## Wayback recovery

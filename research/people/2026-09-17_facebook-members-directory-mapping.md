@@ -32,7 +32,7 @@ The visible directory, contributor list, and initial member sections matched the
 | Carl Notman | [Carl Notman](../../source/TermiPeople/carl_notman.md) | Exact name |
 | Daniel Cosser | [Dan Cosser](../../source/TermiPeople/dan_cosser.md) | Given-name variant |
 | Eleanor Kate Milner | [Eleanor Milner](../../source/TermiPeople/eleanor_milner.md) | Exact name with middle name; profile identifies her as a former TermiSoc member |
-| Sarah McPhee | [Sarah McPhee](../../source/TermiPeople/sarah_mcphee.md) | Exact name; the project maintainer confirms `sjmcphee` is Sarah McPhee and describes her as TermiSoc-adjacent. Her separate 2010–11 TermiSoc candidate statement records prior Treasurer and Social Secretary service; retain that as a distinct historical document rather than inferring offices from the Facebook profile. |
+| Sarah McPhee | [Sarah McPhee](../../source/TermiPeople/sarah_mcphee.md) | Exact name; the project maintainer confirms `sjmcphee` is Sarah McPhee and an intrinsic TermiSoc participant. Her separate 2010–11 TermiSoc candidate statement records prior Treasurer and Social Secretary service; retain that as a distinct historical document rather than inferring offices from the Facebook profile. |
 | Thomas Sturges-Allard | [Thomas Sturges-Allard](../../source/TermiPeople/thomas_sturges-allard.md) | Exact name |
 | Roy Tucker | [Roy Tucker](../../source/TermiPeople/roy_tucker.md) | Exact name |
 | Craig Norman | [Craig Norman](../../source/TermiPeople/craig_norman.md) | Exact name |

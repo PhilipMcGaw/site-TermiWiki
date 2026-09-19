@@ -119,7 +119,7 @@ Source: Sarah McPhee LinkedIn profile.
 
 URL: https://uk.linkedin.com/in/sarah-mcphee-9b179769
 
-Confidence: **Medium** for University of Plymouth identity/chronology; **Unverified** for TermiSoc membership from independent public evidence in this pass.
+Confidence: **Medium** for University of Plymouth identity/chronology from this LinkedIn pass. Separately, the preserved 2010–11 TermiSoc candidate statement and the project maintainer's confirmation establish Sarah McPhee as an intrinsic TermiSoc participant; this LinkedIn result is not the evidence for that conclusion.
 
 ### Gemma Peter
 

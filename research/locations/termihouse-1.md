@@ -19,7 +19,7 @@ The exact term is heavily contaminated by unrelated modern uses of `Termihouse`,
 
 No directly relevant documentary evidence was located in the web search.
 
-On 19 September 2026, the project maintainer supplied a further **firsthand identification**: the person using the Facebook profile [Honduran.Hobo](https://www.facebook.com/Honduran.Hobo) lived in **TermiHouse 1**, despite not being a TermiSoc member. This is useful evidence that the house was not necessarily a members-only household. It does not identify the person's name, address, dates of residence, other occupants, or the house's formal relationship to TermiSoc; retain it as private research testimony rather than a public biographical claim.
+On 19 September 2026, the project maintainer supplied a further **firsthand identification**: **Gareth Newton**, using the Facebook profile [Honduran.Hobo](https://www.facebook.com/Honduran.Hobo), lived in **TermiHouse 1**, despite not being a TermiSoc member. This is useful evidence that the house was not necessarily a members-only household. It does not establish an address, dates of residence, other occupants, or the house's formal relationship to TermiSoc; retain it as private research testimony rather than a public biographical claim.
 
 The search did, however, recover independent evidence that TermiSoc had a substantial student computing community at Plymouth. A 2011 *Register* forum contribution by Keith Langmead describes himself as having been the main sysadmin for the SU computing society, identifies it as TermiSoc, and says the society had three Linux servers stored in a university building basement. This is relevant background to the TermiSoc environment but does **not** establish a TermiHouse connection. Source: https://forums.theregister.com/forum/all/2011/06/14/sysadmin_it_disasters/ retrieved 2026-09-17.
 
@@ -54,6 +54,6 @@ The absence of search results is not evidence that TermiHouse 1 did not exist. L
 ## Confidence
 
 - **TermiHouse 1 is a valid research target:** Unverified from public documentary evidence in this search; the subject was supplied as a research lead by the project owner.
-- **Honduran.Hobo lived in TermiHouse 1 and was not a TermiSoc member:** Medium — project-maintainer firsthand identification, pending independently preserved contemporary evidence.
+- **Gareth Newton / Honduran.Hobo lived in TermiHouse 1 and was not a TermiSoc member:** Medium — project-maintainer firsthand identification, pending independently preserved contemporary evidence.
 - **A TermiHouse 1 public documentary record was found:** Low/negative result — no relevant record located in the searches performed.
 - **TermiSoc had student infrastructure and an active community at Plymouth:** High, based on the independent sources above; this is contextual evidence only and is not evidence for TermiHouse 1.
