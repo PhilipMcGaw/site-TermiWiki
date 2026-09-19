@@ -10,12 +10,14 @@ confidence: High for same-person assessment
 
 ## Repository evidence
 
-The repository contains two person pages:
+The repository now has one canonical person page:
 
-- [[source/TermiPeople/theo_z|Theo Z]], a stub used by the historical narrative.
 - [[source/TermiPeople/theo_zourzouvillys|Theo Zourzouvillys]], which records
   2002–2003 Secretary, describes him as “The Crazy Greek”, and notes that he
   helped revive Area51 and Esra.
+
+The former `source/TermiPeople/theo_z.md` stub was removed after its internal
+links were updated; `Theo Z` remains an alias on the canonical page.
 
 The 2002 sections of [[source/the_abridged_history|the abridged history]] name
 “Z” as Secretary and describe Ian Christian and Theo bringing Area51 and Esra
@@ -107,9 +109,8 @@ profiles do not explicitly mention TermiSoc or University of Plymouth.
 - [ ] TODO: Check historical captures of `crazygreek.co.uk` before citing the
   domain as Theo’s former website rather than only as an associated email
   identity.
-- [x] TODO: Merge `theo_z.md` into the fuller `theo_zourzouvillys.md` page;
-  retain the former path as a compatibility stub and use the full page as the
-  canonical identity record.
+- [x] TODO: Merge `theo_z.md` into the fuller `theo_zourzouvillys.md` page and
+  remove the duplicate stub after updating internal links.
 - [ ] TODO: Avoid copying modern employment or location details into the
   curated person page unless they become relevant and publication is justified.
 
