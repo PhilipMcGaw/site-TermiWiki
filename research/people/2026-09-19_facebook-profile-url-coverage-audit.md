@@ -25,7 +25,7 @@ in the supplied list and is counted once below.
 | <https://www.facebook.com/profile.php?id=1077677661> | Recorded in the authenticated member-directory research as the display name “Cull de Sac”. | Unverified as a bridge to a historical person |
 | <https://www.facebook.com/MORRISTHEMAGNIFICENT> | The project maintainer confirms this is Chris “nanohead” Morris; the link is now recorded on [[../../source/TermiPeople/chris_morris|Chris Morris's]] curated page. | High |
 | <https://www.facebook.com/edwardmccaughan> | Recorded in the Facebook member-directory mapping as Edward McCaughan / MadScientist, but not as a link on his curated page. | High for the historical identity mapping |
-| <https://www.facebook.com/Skwishee> | No matching URL or handle was found in the checked repository paths. | Unverified |
+| <https://www.facebook.com/Skwishee> | The project maintainer identifies this profile as **Aimee Spencer**. No curated Aimee Spencer person page currently exists. | High for the supplied identity bridge; historical TermiSoc link not established here |
 
 ## Interpretation and next steps
 
@@ -34,6 +34,7 @@ McPhee and Siddharth Vadgama are already directly linked in `source/`.
 Carl Notman, Rich Jeffery, and Edward McCaughan have repository evidence that
 should be reviewed before deciding whether to add public links to their
 curated pages. The numeric profile remains an unresolved “Cull de Sac” alias,
-and `Skwishee` still needs an independent identity bridge.
+and `Skwishee` is now identified as Aimee Spencer, although no curated person
+page currently exists for her.
 
 No current-profile details or private Facebook content were transcribed.
