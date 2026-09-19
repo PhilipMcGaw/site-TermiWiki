@@ -87,6 +87,18 @@ At the end of every research lookup, save a concise record in the appropriate `r
 
 When recording future work, follow-up research, unresolved mapping, or other actionable items, use the TODO Tree markers configured in `termiwiki.code-workspace`: `TODO`, `ROADMAP`, `FIXME`, `BUG`, `HACK`, `XXX`, or `NOTE`, as appropriate. Prefer Markdown task checkboxes, for example `- [ ] TODO: verify this source` and `- [x] TODO: verify this source` when complete. Keep actionable items in the appropriate research or project-tracking page, rather than embedding them in historical source text. Do not use an unconfigured synonym such as `ACTION` when a TODO Tree marker is suitable.
 
+## Task tracking and GitHub Issues
+
+The repository uses both `TODO.md` and GitHub Issues for project task tracking.
+
+- `TODO.md` is the portable repository-level working queue. It MUST remain useful when working offline, from another computer, or without GitHub access.
+- GitHub Issues are used for discussion, task history, and coordination. Where a TODO item has a corresponding issue, the issue number and status SHOULD be kept aligned with `TODO.md`.
+- Before starting substantial work, check `TODO.md`. If GitHub is available, consult the corresponding GitHub Issue for discussion, history, and additional context.
+- When completing work covered by a GitHub Issue, update the repository TODO item and the issue as appropriate. If GitHub is unavailable, the local TODO state remains sufficient to continue the work and can be synchronised later.
+- Do not close a GitHub Issue merely because research has started. Close it only when its stated completion criteria have been satisfied and, where applicable, the result has been verified.
+- When creating a new research task, prefer adding it to `TODO.md` and create a GitHub Issue when discussion, tracking, or collaboration would benefit from one.
+- Do not duplicate the full contents of GitHub Issues in `AGENTS.md`; use issue numbers and `TODO.md` as the task-level references.
+
 ## Markdown and front matter
 
 Use Markdown compatible with Obsidian and Quartz.
