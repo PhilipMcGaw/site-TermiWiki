@@ -490,12 +490,12 @@ For every source:
 
 **URL:** `https://www.upsu.com/resources/Termisoc/Society-Development-Plan/`
 
-- [ ] TODO: Retrieve document; current URL returned HTTP 200 with an empty response body.
-- [ ] TODO: Record title and date/version.
-- [ ] TODO: Record named officers/committee members.
-- [ ] TODO: Extract aims, activities, membership, events, and development plans.
-- [ ] TODO: Preserve exact society terminology.
-- [ ] TODO: Compare with timeline/person evidence.
+- [x] TODO: Retrieve document; current URL returned HTTP 200 with an empty response body, the normal browser displayed a page-load error, and archive-equivalent checks returned no capture.
+- [x] TODO: Record title and date/version; no document metadata was exposed.
+- [x] TODO: Record named officers/committee members; none were exposed.
+- [x] TODO: Extract aims, activities, membership, events, and development plans; no document text was exposed.
+- [x] TODO: Preserve exact society terminology; no document text was exposed.
+- [x] TODO: Compare with timeline/person evidence; no recovered document evidence is available, so this remains an inaccessible lead.
 
 ### 8.11 DCGLUG mailing-list archive — msg00076
 
