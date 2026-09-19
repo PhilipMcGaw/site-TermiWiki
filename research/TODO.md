@@ -16,7 +16,7 @@ Use the `TODO` and `ROADMAP` markers below for open preservation and verificatio
 These open GitHub issues are the repository's detailed task records. Keep the actionable index here in sync with them; the issue remains the place for implementation/research detail.
 
 - [ ] TODO: Create the TermiSoc favicon and site icon set. See [Issue #1](https://github.com/PhilipMcGaw/site-TermiWiki/issues/1).
-- [ ] TODO: Obtain a higher-resolution scan of the TermiSoc `termisoc.org` Network Solutions registration invoice from the Facebook group or its original holder. A research-only preview and dated group-post provenance are preserved. See [Issue #2](https://github.com/PhilipMcGaw/site-TermiWiki/issues/2).
+- [ ] TODO: Review and independently corroborate the TermiSoc `termisoc.org` Network Solutions registration invoice recovered from the Facebook group. A 637 × 820 research-only rendition, checksums, and dated post provenance are preserved. See [Issue #2](https://github.com/PhilipMcGaw/site-TermiWiki/issues/2) and the [follow-up record](archaeology/2026-09-19_issue-2-facebook-domain-certificate-follow-up.md).
 - [x] TODO: Update Ben A’Lee to his current name, **Ben Eskola**, including current-name references while preserving appropriate historical references. See [Issue #3](https://github.com/PhilipMcGaw/site-TermiWiki/issues/3) and the [current-name verification](people/2026-09-19_ben-eskola-current-name-verification.md).
 
 ## Social and people-index checks
