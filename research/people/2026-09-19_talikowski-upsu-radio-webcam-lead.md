@@ -16,6 +16,12 @@ On 19 September 2026, the project maintainer identified the Facebook profile <ht
 
 **UPSU** is the correct name for the University of Plymouth Students’ Union. This does not resolve Kris Talikowski's formal office title, tenure, dates, or documentary evidence for the involvement.
 
+## Public-profile corroboration
+
+Kris Talikowski's public [LinkedIn profile](https://www.linkedin.com/in/talikowski/) was reviewed on 19 September 2026. It visibly identifies **Kris Talikowski** and records study at the **University of Plymouth from 2003 to 2004**. This independently corroborates the profile-holder identity and places him at Plymouth immediately before the 2004–05 UPSU Radio negotiations documented in the TermiSoc material.
+
+The LinkedIn profile does **not** visibly mention UPSU Radio, UPSU Webcam, a Students’ Union office, or dates of any such office. It therefore cannot by itself corroborate the reported involvement; it only strengthens the identity and period context.
+
 ## Archive significance
 
 The existing TermiSoc record states that UPSU Radio emerged in 2004–05 as an internet radio-station idea to be run by the Student Union and hosted by TermiSoc. It records that TermiSoc demonstrated a working station soon after negotiations began, before distancing itself from the project because of administrative and cost disputes.[^upsu-radio]
