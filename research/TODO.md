@@ -9,15 +9,22 @@ tags:
 
 # Research TODO
 
-Use the `TODO` and `ROADMAP` markers below for open preservation and verification actions. Tick an item when complete; the Better TODO Tree extension will continue to find the marker while the checkbox records its status.
+`research/TODO.md` is the **single source of truth for actionable research and preservation work**. It is intentionally repository-based so task state is available and synchronisable from every client. GitHub Issues are optional supporting records for longer descriptions, discussion, and provenance; their state does not override the checkbox state here.
+
+Use the `TODO` and `ROADMAP` markers below for open preservation and verification actions. Tick an item when complete; the Better TODO Tree extension will continue to find the marker while the checkbox records its authoritative status.
 
 ## GitHub-tracked tasks
 
-These open GitHub issues are the repository's detailed task records. Keep the actionable index here in sync with them; the issue remains the place for implementation/research detail.
+These entries correspond to GitHub issues where a detailed task record is useful. Keep the checkbox here authoritative; do not infer completion from GitHub issue state alone.
 
-- [ ] TODO: Create the TermiSoc favicon and site icon set. See [Issue #1](https://github.com/PhilipMcGaw/site-TermiWiki/issues/1).
+- [x] TODO: Create the TermiSoc favicon and site icon set. See [Issue #1](https://github.com/PhilipMcGaw/site-TermiWiki/issues/1).
 - [ ] TODO: Review and independently corroborate the TermiSoc `termisoc.org` Network Solutions registration invoice recovered from the Facebook group. A 637 × 820 research-only rendition, checksums, and dated post provenance are preserved. See [Issue #2](https://github.com/PhilipMcGaw/site-TermiWiki/issues/2) and the [follow-up record](archaeology/2026-09-19_issue-2-facebook-domain-certificate-follow-up.md).
 - [x] TODO: Update Ben A’Lee to his current name, **Ben Eskola**, including current-name references while preserving appropriate historical references. See [Issue #3](https://github.com/PhilipMcGaw/site-TermiWiki/issues/3) and the [current-name verification](people/2026-09-19_ben-eskola-current-name-verification.md).
+- [ ] TODO: Review and archive the TermiSoc Reddit community and preserve useful posts, links, images, people, events, and other historical evidence. See [Issue #4](https://github.com/PhilipMcGaw/site-TermiWiki/issues/4).
+- [ ] TODO: Revisit the URLM historical record for `termisoc.org`, including registration, hosting, nameserver, site-title, and activity evidence. See [Issue #5](https://github.com/PhilipMcGaw/site-TermiWiki/issues/5).
+- [ ] TODO: Review and archive the TermiSoc Steam Community discussions, including people, dates, LAN/gaming activity, links, projects, screenshots, files, and other useful evidence. See [Issue #6](https://github.com/PhilipMcGaw/site-TermiWiki/issues/6).
+- [ ] TODO: Retrieve and archive `siddv.net/projects/termisoc/`, preserving the page's own provenance and comparing its claims with existing evidence. See [Issue #7](https://github.com/PhilipMcGaw/site-TermiWiki/issues/7).
+- [ ] TODO: Retrieve and archive the outstanding TermiSoc research-source queue recorded in Issue #8, preserving exact URLs, retrieval dates, provenance, and useful historical evidence. See [Issue #8](https://github.com/PhilipMcGaw/site-TermiWiki/issues/8).
 
 ## Social and people-index checks
 
