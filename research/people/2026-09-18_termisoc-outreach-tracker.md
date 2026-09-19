@@ -31,6 +31,8 @@ This is a continuation log for historical-archive contact work. It records only 
 | Aaron Trevena | [Facebook group profile](https://www.facebook.com/groups/2342018784/user/585265378/) | 1997 treasurer and early rebuild period | Contacted; responded | No useful retained material reported; do not pursue unless a new specific lead emerges. |
 | Gareth Alden | [Facebook](https://www.facebook.com/gareth.alden) | 1997 PR officer; Freshers' publicity and membership material | Contacted as an unconfirmed profile match | Await confirmation of identity before associating any response with the historical person. |
 | Marcus \"Samwise\" Adams | [Facebook group profile](https://www.facebook.com/groups/2342018784/user/738077564/) | Technical officer across several early executive periods | Contacted | Await response. |
+| Chris \"nanohead\" Morris | [Facebook](https://www.facebook.com/MORRISTHEMAGNIFICENT) | 2005–06 Treasurer and mid-2000s society history | Message sent 19 September 2026 | Await response; ask about photos, files, newsletters, committee notes, and other archive holders. |
+| Aimee Spencer | [Facebook](https://www.facebook.com/Skwishee) | TermiSoc member-directory identity lead and possible historical archive source | Message sent 19 September 2026 | Await response; ask about photos, files, events, recollections, and other archive holders. |
 
 ## Deferred
 
