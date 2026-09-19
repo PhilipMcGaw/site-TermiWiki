@@ -385,34 +385,34 @@ For every source:
 
 **URL:** `https://www.slideserve.com/hedwig/who-are-we-powerpoint-ppt-presentation`
 
-- [ ] TODO: Retrieve presentation.
-- [ ] TODO: Record presentation title.
-- [ ] TODO: Record presenter/author.
-- [ ] TODO: Record visible date.
-- [ ] TODO: Capture slide titles.
-- [ ] TODO: Capture images/graphics relevant to TermiSoc.
-- [ ] TODO: Extract substantive references to TermiSoc, Plymouth University, people, events, technology, or society structure.
-- [ ] TODO: Preserve source provenance.
+- [x] TODO: Retrieve presentation.
+- [x] TODO: Record presentation title.
+- [x] TODO: Record presenter/author as displayed by SlideServe.
+- [ ] TODO: Record the presentation year; only `Jan 09` was recovered confidently.
+- [x] TODO: Capture the visible slide/transcript content relevant to TermiSoc.
+- [ ] TODO: Capture images/graphics relevant to TermiSoc if needed and permitted.
+- [x] TODO: Extract substantive references to TermiSoc, Plymouth University, people, events, technology, or society structure.
+- [x] TODO: Preserve source provenance.
 
 ### 8.2 Arduino Forum — South West UK
 
 **URL:** `https://forum.arduino.cc/t/south-west-uk/92569`
 
-- [ ] TODO: Retrieve the thread.
-- [ ] TODO: Record thread title, author(s), dates, and replies.
-- [ ] TODO: Identify any TermiSoc/person/project references.
-- [ ] TODO: Preserve quoted context where needed to understand a claim.
-- [ ] TODO: Check whether the thread links to TermiSoc infrastructure or projects.
+- [x] TODO: Retrieve the thread.
+- [x] TODO: Record thread title, author(s), dates, and replies.
+- [x] TODO: Identify the TermiSoc, Arduino, and mailing-list references.
+- [x] TODO: Preserve quoted context where needed to understand the claim.
+- [x] TODO: Check whether the thread links to TermiSoc infrastructure or projects.
 
 ### 8.3 DCGLUG mailing-list archive — msg00526
 
 **URL:** `https://www.dcglug.org.uk/archive-Nov00-May01/msg00526.html`
 
-- [ ] TODO: Retrieve message.
-- [ ] TODO: Record sender, date, subject, and thread context.
-- [ ] TODO: Preserve relevant quoted text.
-- [ ] TODO: Identify TermiSoc/person/domain/technology references.
-- [ ] TODO: Determine whether the date establishes useful pre-/early-TermiSoc chronology or contextual background.
+- [x] TODO: Retrieve message.
+- [x] TODO: Record sender, date, subject, and thread context.
+- [x] TODO: Preserve relevant quoted context.
+- [x] TODO: Identify TermiSoc/person/domain/technology references.
+- [x] TODO: Determine whether the date establishes useful pre-/early-TermiSoc chronology or contextual background.
 - [ ] TODO: Preserve archive provenance.
 
 ### 8.4 Nick Charlton — TermiSoc Python tutorial repository
