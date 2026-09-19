@@ -24,7 +24,7 @@ GitHub Issues remain the authoritative place for issue discussion and implementa
 ## 1. Create TermiSoc favicon and site icon set
 
 **GitHub Issue:** #1 — Create TermiSoc favicon and site icon set  
-**Status:** ☐ Open — implementation and verification outstanding  
+**Status:** ☐ Open — local implementation complete; live browser and GitHub follow-up outstanding
 **Type:** Desktop/repository implementation
 
 ### Objective
@@ -44,24 +44,24 @@ The repository also contains historical references to `media/weare_weblogo.png` 
 ### Required work
 
 - [ ] TODO: Pull/update the local desktop repository checkout before processing the binary asset.
-- [ ] TODO: Inspect `source/Media/branding/termisoc_profile_image.png` at full resolution.
-- [ ] TODO: Confirm that the artwork survives reduction to favicon dimensions without losing its identifying features.
-- [ ] TODO: Generate `favicon.ico` containing appropriate legacy sizes, as supported by the chosen tooling.
-- [ ] TODO: Generate 16×16 PNG icon.
-- [ ] TODO: Generate 32×32 PNG icon.
-- [ ] TODO: Generate 180×180 Apple touch icon.
-- [ ] TODO: Generate 192×192 PNG icon.
-- [ ] TODO: Generate 512×512 PNG icon.
-- [ ] TODO: Generate a maskable 512×512 icon if the source artwork and padding make this appropriate.
-- [ ] TODO: Add/update `site.webmanifest` as required by the Quartz/site architecture.
-- [ ] TODO: Verify the existing Quartz `Plugin.Favicon()` configuration and use the supported Quartz mechanism rather than hand-editing generated `site/` output.
-- [ ] TODO: Add the appropriate favicon/web-app declarations through the source/configuration layer used by this repository.
-- [ ] TODO: Ensure paths are correct in the generated site.
-- [ ] TODO: Test the generated site locally.
+- [x] TODO: Inspect `source/Media/branding/termisoc_profile_image.png` at full resolution.
+- [x] TODO: Confirm that the artwork survives reduction to favicon dimensions without losing its identifying features.
+- [x] TODO: Generate `favicon.ico` containing appropriate legacy sizes, as supported by the chosen tooling.
+- [x] TODO: Generate 16×16 PNG icon.
+- [x] TODO: Generate 32×32 PNG icon.
+- [x] TODO: Generate 180×180 Apple touch icon.
+- [x] TODO: Generate 192×192 PNG icon.
+- [x] TODO: Generate 512×512 PNG icon.
+- [x] TODO: Generate a maskable 512×512 icon if the source artwork and padding make this appropriate.
+- [x] TODO: Add/update `site.webmanifest` as required by the Quartz/site architecture.
+- [x] TODO: Verify the existing Quartz `Plugin.Favicon()` configuration and use the supported Quartz mechanism rather than hand-editing generated `site/` output.
+- [x] TODO: Add the appropriate favicon/web-app declarations through the source/configuration layer used by this repository.
+- [x] TODO: Ensure paths are correct in the generated site.
+- [x] TODO: Test the generated site locally.
 - [ ] TODO: Check browser tab/favicon behaviour.
 - [ ] TODO: Check Apple touch icon behaviour if practical.
-- [ ] TODO: Check manifest/icon paths directly.
-- [ ] TODO: Confirm that the favicon implementation is independent of any future redesign of TermiSoc artwork.
+- [x] TODO: Check manifest/icon paths directly.
+- [x] TODO: Confirm that the favicon implementation is independent of any future redesign of TermiSoc artwork.
 - [ ] TODO: Record the implementation and verification result in GitHub Issue #1.
 - [ ] TODO: Close Issue #1 only after implementation and local verification are complete.
 
@@ -69,7 +69,9 @@ The repository also contains historical references to `media/weare_weblogo.png` 
 
 The GitHub connector cannot directly inspect the PNG because it is a binary asset. This task therefore needs a normal desktop/repository checkout for image processing and local verification.
 
-**Evidence confidence:** High for the selected repository path and historical profile/Twitter artwork identity; implementation status remains incomplete.
+**Implementation note:** `scripts/deploy_termiwiki.sh` now generates the icon set and manifest from the selected master artwork, while `scripts/termiwiki.quartz.config.ts` adds the corresponding document-head declarations. The local build was run with `DEPLOY_ENABLED=0`; it parsed 299 Markdown files and emitted 766 files. The generated ICO contains 16, 32, 48, and 256-pixel PNG entries. Live browser-tab and Apple-touch behaviour still require a browser/device check, and GitHub Issue #1 has not been updated from this checkout.
+
+**Evidence confidence:** High for the selected repository path, historical profile/Twitter artwork identity, generated assets, and local build verification; live browser/device behaviour remains unverified.
 
 ---
 

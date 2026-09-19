@@ -1,5 +1,20 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { h } from "preact"
+
+const TermiWikiIconLinks = () => ({
+  name: "TermiWikiIconLinks",
+  externalResources: () => ({
+    additionalHead: [
+      h("link", { rel: "shortcut icon", href: "/favicon.ico" }),
+      h("link", { rel: "icon", type: "image/png", sizes: "16x16", href: "/static/favicon-16.png" }),
+      h("link", { rel: "icon", type: "image/png", sizes: "32x32", href: "/static/favicon-32.png" }),
+      h("link", { rel: "apple-touch-icon", sizes: "180x180", href: "/static/apple-touch-icon.png" }),
+      h("link", { rel: "manifest", href: "/static/site.webmanifest" }),
+      h("meta", { name: "theme-color", content: "#1e1714" }),
+    ],
+  }),
+})
 
 const config: QuartzConfig = {
   configuration: {
@@ -59,6 +74,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      TermiWikiIconLinks(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
