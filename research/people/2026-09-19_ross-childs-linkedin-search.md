@@ -38,6 +38,10 @@ Further public searching found two independent professional/game-history referen
 
 These results align materially better with the supplied Facebook profile and with the historical TermiSoc person's technical and gaming context than the two UK LinkedIn candidates. They still do not independently prove that the Rockstar employee is the 1996–98 TermiSoc member, because neither public source mentions TermiSoc, Plymouth, or “Rictus”. The working assessment is therefore **strong candidate / not yet conclusively proven**.
 
+### Authorised Facebook observation
+
+The project maintainer supplied a view of Ross Childs's Facebook profile and explicitly approved recording this minimal personal detail in research: the profile displays **“Lives in Carlsbad, California”**. The screenshot itself is not retained in the repository. This location is corroborating identity context, not independent proof of the TermiSoc connection.
+
 ## Interpretation
 
 The Three UK and St. Columba's College profiles were initially plausible only because they used the exact name Ross Childs. Their school and early-career details make them likely false matches. The Rockstar San Diego references provide a substantially stronger US-based candidate, but the identity bridge to TermiSoc remains unresolved.
@@ -57,3 +61,4 @@ This search adds a set of candidate URLs for future comparison, but it does not 
 - **High:** LinkedIn exposes multiple same-name candidates and no indexed result directly connects one to TermiSoc.
 - **High:** The Three UK and St. Columba's College profiles are likely same-name false matches based on their school, university, and early-career timelines, compared with the documented Plymouth chronology.
 - **Medium–High:** The Rockstar San Diego Ross Childs is the strongest modern identity candidate found, supported by official Rockstar credits and an independent MobyGames index, but the TermiSoc identity link remains unverified.
+- **Medium–High:** The authorised Facebook profile observation is consistent with the Rockstar San Diego candidate, but remains user-supplied profile evidence rather than independent historical corroboration.
