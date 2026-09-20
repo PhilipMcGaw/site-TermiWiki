@@ -1,0 +1,43 @@
+---
+type: evidence-record
+status: preserved
+subject: "User-supplied LAN-party photographs, 2010"
+date: 2026-09-20
+source_type: user-supplied-original-photographs
+publication_status: research-only
+confidence: mixed
+---
+
+# User-supplied LAN-party photographs, 2010
+
+## Source and handling
+
+The project maintainer supplied 58 original photographs on 20 September 2026 and identified them as photographs from a LAN party. The preserved originals and their checksums are held in the [research-media directory](../media/2026-09-20_user-supplied-lan-party-photographs-2010/README.md). The maintainer has authorised publication of the supplied material, but it is retained as research media and is not embedded in the curated vault or generated site.
+
+The set contains identifiable people. It must not be used to assign names, membership, committee positions, attendance at another event, or ownership of equipment from visual resemblance alone.
+
+## Direct evidence
+
+- Fifty-six files retain embedded camera creation times on 30 January 2010, spanning 13:25:24–21:12:17.
+- Two files (`DSC_3608 2.jpeg` and `DSC_3619 2.jpeg`) instead retain embedded times on 9 July 2010. They were supplied within the same set and described under the same LAN-party provenance, but their relationship to the January event is not established.
+- The January photographs directly show an indoor LAN-style gathering: attendees use computers and laptops at shared tables, with visible cables, displays, peripherals, headphones, and a desktop computer.
+- The images establish a photographed LAN-party gathering as described by the maintainer. They do not, by themselves, establish the venue, organiser, event title, association with TermiSoc, or participant identities.
+
+## Interpretation and relationship to existing research
+
+The January 2010 timestamp predates the existing curated [[termilan_2011|TermiLan 2011]] Facebook album. This evidence must therefore remain a separate, provisionally unnamed 2010 LAN-party record unless a contemporary announcement, venue record, or first-hand testimony links it to a specific TermiSoc event.
+
+The photographs are consistent with the broader evidence for TermiSoc gaming and LAN activity in the early 2010s, but consistency is not identification. No update to `source/` is warranted from these images alone.
+
+## Next steps
+
+- [ ] TODO: Seek a contemporary event announcement, venue booking, album title, or maintainer testimony that identifies the 30 January 2010 gathering.
+- [ ] TODO: Resolve whether the two 9 July 2010 files depict the same event, a second LAN party, or have incorrect camera dates.
+- [ ] TODO: Confirm individual identities and consent before considering any captioned public use.
+
+## Confidence
+
+- **High:** The 58 supplied files, their checksums, and the embedded creation times listed in the media index are preserved.
+- **High:** The January photographs show a LAN-style computing gathering.
+- **Medium:** The maintainer's supplied description associates the entire batch with a LAN party.
+- **Unverified:** The event's formal name, location, organiser, TermiSoc relationship, and participants' identities.
