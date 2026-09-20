@@ -1,0 +1,18 @@
+{
+  "schema": "termiwiki-media-sidecar/v1",
+  "asset": "lan_party_2010/DSC_3608 2.jpeg",
+  "sha256": "a379c1358a6548704df40e5d71154e15be36c93797148485d27852e3fde7c819",
+  "mime_type": "image/jpeg",
+  "captured_on": "2010-07-09",
+  "source": {
+    "platform": "project-maintainer",
+    "supplied": "2026-09-20"
+  },
+  "source_page": "lan_party_2010.md",
+  "asset_index": 15,
+  "description": "Associated LAN-party batch image with a 9 July 2010 embedded camera date; its relationship to the January gathering is unresolved.",
+  "research_record": "research/evidence/2026-09-20_user-supplied-lan-party-photographs-2010.md",
+  "identity_status": "unidentified",
+  "event_status": "association-unresolved",
+  "publication_status": "authorised-by-project-maintainer"
+}

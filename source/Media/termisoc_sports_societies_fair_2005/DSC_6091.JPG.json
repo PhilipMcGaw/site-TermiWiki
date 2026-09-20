@@ -1,0 +1,18 @@
+{
+  "schema": "termiwiki-media-sidecar/v1",
+  "asset": "termisoc_sports_societies_fair_2005/DSC_6091.JPG",
+  "sha256": "868f067d2890dab3b1b44eff37a7d38385e41cd92472e362f0e0fe8bd87d5976",
+  "mime_type": "image/jpeg",
+  "captured_on": "2005-09-29",
+  "source": {
+    "platform": "project-maintainer",
+    "supplied": "2026-09-20"
+  },
+  "source_page": "termisoc_sports_societies_fair_2005.md",
+  "asset_index": 2,
+  "description": "TermiSoc Sports & Societies Fair recruitment stand, Main Hall, table 42; individual identities unresolved.",
+  "research_record": "research/evidence/2026-09-20_termisoc-2005-photograph-batch.md",
+  "event_record": "research/events/2026-09-20_termisoc-sports-societies-fair-2005.md",
+  "identity_status": "unidentified",
+  "publication_status": "authorised-by-project-maintainer"
+}

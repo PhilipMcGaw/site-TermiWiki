@@ -1,0 +1,18 @@
+{
+  "schema": "termiwiki-media-sidecar/v1",
+  "asset": "lan_party_2010/DSC_3644 2.jpeg",
+  "sha256": "d1d5ade9bf9739b990c610764c51739c9f0c893bd57f9879e38cfadcf372041d",
+  "mime_type": "image/jpeg",
+  "captured_on": "2010-01-30",
+  "source": {
+    "platform": "project-maintainer",
+    "supplied": "2026-09-20"
+  },
+  "source_page": "lan_party_2010.md",
+  "asset_index": 36,
+  "description": "Unidentified attendees and computer equipment at a LAN-style gathering.",
+  "research_record": "research/evidence/2026-09-20_user-supplied-lan-party-photographs-2010.md",
+  "identity_status": "unidentified",
+  "event_status": "formal-event-identity-unresolved",
+  "publication_status": "authorised-by-project-maintainer"
+}
