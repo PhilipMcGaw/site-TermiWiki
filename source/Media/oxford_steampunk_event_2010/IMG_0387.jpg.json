@@ -1,0 +1,15 @@
+{
+  "schema": "termiwiki-media-sidecar/v1",
+  "asset": "oxford_steampunk_event_2010/IMG_0387.jpg",
+  "sha256": "f20f4e9806f24192fb263a7b0abd48d6e82b70702c1662b100ce3e314cc2d7f5",
+  "mime_type": "image/jpeg",
+  "dimensions": { "width": 600, "height": 800 },
+  "captured_at": "2010-01-16T12:26:01",
+  "source": { "platform": "project-maintainer", "supplied": "2026-09-20" },
+  "source_page": "oxford_steampunk_event_2010.md",
+  "asset_index": 3,
+  "description": "An unidentified attendee seated indoors, wearing layered necklaces and dark clothing.",
+  "research_record": "research/evidence/2026-09-20_user-supplied-oxford-steampunk-photographs-2010.md",
+  "identity_status": "unidentified",
+  "publication_status": "authorised-by-project-maintainer"
+}

@@ -1,0 +1,15 @@
+{
+  "schema": "termiwiki-media-sidecar/v1",
+  "asset": "oxford_steampunk_event_2010/IMG_0386.jpg",
+  "sha256": "4e434b848637d0690c64694702eacefd20ddcecf698585a509b7d572bae780cb",
+  "mime_type": "image/jpeg",
+  "dimensions": { "width": 600, "height": 800 },
+  "captured_at": "2010-01-16T12:25:54",
+  "source": { "platform": "project-maintainer", "supplied": "2026-09-20" },
+  "source_page": "oxford_steampunk_event_2010.md",
+  "asset_index": 2,
+  "description": "An unidentified seated attendee wearing period-inspired clothing.",
+  "research_record": "research/evidence/2026-09-20_user-supplied-oxford-steampunk-photographs-2010.md",
+  "identity_status": "unidentified",
+  "publication_status": "authorised-by-project-maintainer"
+}

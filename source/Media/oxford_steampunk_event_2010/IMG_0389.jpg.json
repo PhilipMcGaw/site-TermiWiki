@@ -1,0 +1,15 @@
+{
+  "schema": "termiwiki-media-sidecar/v1",
+  "asset": "oxford_steampunk_event_2010/IMG_0389.jpg",
+  "sha256": "85a10524c2a14a0f7ea2c8c96cf90204eb7a8a91d02faf22b36e11d9db53c4e7",
+  "mime_type": "image/jpeg",
+  "dimensions": { "width": 800, "height": 600 },
+  "captured_at": "2010-01-16T14:05:49",
+  "source": { "platform": "project-maintainer", "supplied": "2026-09-20" },
+  "source_page": "oxford_steampunk_event_2010.md",
+  "asset_index": 4,
+  "description": "Sign for Major Tinker's Emporium, including its steampunk-themed description and historical website URL.",
+  "research_record": "research/evidence/2026-09-20_user-supplied-oxford-steampunk-photographs-2010.md",
+  "identity_status": "not-applicable",
+  "publication_status": "authorised-by-project-maintainer"
+}
