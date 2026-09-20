@@ -20,6 +20,8 @@ The batch includes identifiable people. It is retained for research, not embedde
 
 ### Sports & Societies Fair — 29 September 2005
 
+The eleven files in this sequence are associated with the dedicated [TermiSoc Sports & Societies Fair recruitment event record](../events/2026-09-20_termisoc-sports-societies-fair-2005.md).
+
 `DSC_6088.JPG`, `DSC_6091.JPG`, `DSC_6092.JPG`, `DSC_6177.JPG`, `DSC_6179.JPG`, `DSC_6185.JPG`, `DSC_6193.JPG`, `DSC_6321.JPG`, `DSC_6322.JPG`, `DSC_6325.JPG`, and `DSC_6327.JPG` form a sequence dated 29 September 2005.
 
 They directly show a TermiSoc stand with a projection, printed promotional sheets, TermiSoc-branded clothing, and a penguin mascot. The visible materials state:
