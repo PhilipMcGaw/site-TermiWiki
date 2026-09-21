@@ -13,7 +13,7 @@ tags:
 # Oxford steampunk event, January 2010
 
 > [!warning] DRAFT — event identity unresolved
-> This is a small, project-maintainer-supplied photograph set described as a steampunk event in Oxford. It has not yet been matched to a formal event name, venue, organiser, or contemporary listing. The images must not be used to identify attendees or infer a relationship with TermiSoc.
+> This is a small, project-maintainer-supplied photograph set described as a steampunk event in Oxford. The project maintainer has identified Christa Briggs in `IMG_0386.jpg`; that identification is recorded as supplied evidence, not visual inference. The set has not yet been matched to a formal event name, venue, organiser, or contemporary listing, and no relationship with TermiSoc is established.
 
 Four photographs taken on 16 January 2010 record attendees in period-inspired clothing and a sign for “Major Tinker's Emporium”. The sign describes the business as providing “The Very Finest Notions & Trinkets For the Discerning Steampunk”, and records the historical URL `http://tinkers-emporium.synthasite.com`.[^provenance]
 
@@ -22,6 +22,7 @@ Four photographs taken on 16 January 2010 record attendees in period-inspired cl
 ![[Media/oxford_steampunk_event_2010/IMG_0385.jpg]]
 
 ![[Media/oxford_steampunk_event_2010/IMG_0386.jpg]]
+*Christa Briggs, identified by the project maintainer; no curated person page currently exists.*
 
 ![[Media/oxford_steampunk_event_2010/IMG_0387.jpg]]
 
