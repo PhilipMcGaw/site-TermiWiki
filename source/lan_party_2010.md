@@ -102,6 +102,7 @@ Fifty-six photographs have embedded camera timestamps from 30 January 2010, span
 ## Associated 9 July 2010 images
 
 ![[Media/lan_party_2010/DSC_3608 2.jpeg]]
+*[Ruth Rouse](TermiPeople/ruth_rouse.md), identified by the project maintainer; this associated image has a 9 July 2010 timestamp and its event relationship remains unresolved.*
 ![[Media/lan_party_2010/DSC_3619 2.jpeg]]
 *[Philip “Skippy” McGaw](TermiPeople/philip_mcgaw.md), identified by the project maintainer; this associated image has a 9 July 2010 timestamp and its event relationship remains unresolved.*
 
