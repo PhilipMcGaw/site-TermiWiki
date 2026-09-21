@@ -10,3 +10,5 @@ tags:
   - references
 ---
 # Adrian Ward
+
+This page is just a stub, please expand it.
