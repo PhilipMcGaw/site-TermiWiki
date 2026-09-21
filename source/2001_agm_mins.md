@@ -8,11 +8,11 @@ Termisoc AGM 2001 - 22nd March 2001
 
 19:13 Apologies
 
-P.Morris ‘Badger'
-P.Hutchings ‘Brainbug’
-A.Waugh ‘Barney’
-A.Charrett ‘Chas’
-A.McLean ‘Whoosh’
+[P.Morris ‘Badger’](TermiPeople/paul_morris.md)
+[P.Hutchings ‘Brainbug’](TermiPeople/paul_hutchings.md)
+[A.Waugh ‘Barney’](TermiPeople/antony_waugh.md)
+[A.Charrett ‘Chas’](TermiPeople/alex_charrett.md)
+[A.McLean ‘Whoosh’](TermiPeople/alex_mclean.md)
 
 19:14 Members sign in
 
