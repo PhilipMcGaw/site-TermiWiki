@@ -1,3 +1,11 @@
+---
+title: "William Taylor"
+source: web
+tags:
+  - "draft"
+  - "references"
+---
+
 # William Taylor
 
 > [!warning] DRAFT

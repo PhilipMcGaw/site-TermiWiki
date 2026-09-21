@@ -1,3 +1,11 @@
+---
+title: "James Woodland"
+source: web
+tags:
+  - "draft"
+  - "references"
+---
+
 # James Woodland
 
 > [!warning] DRAFT

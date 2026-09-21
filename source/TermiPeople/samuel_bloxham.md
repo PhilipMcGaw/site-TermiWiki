@@ -1,3 +1,11 @@
+---
+title: "Samuel Bloxham"
+source: web
+tags:
+  - "draft"
+  - "references"
+---
+
 # Samuel Bloxham
 
 > [!warning] DRAFT

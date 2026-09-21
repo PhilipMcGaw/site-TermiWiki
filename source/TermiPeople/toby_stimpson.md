@@ -1,3 +1,11 @@
+---
+title: "Toby Stimpson"
+source: web
+tags:
+  - "draft"
+  - "references"
+---
+
 # Toby Stimpson
 
 > [!warning] DRAFT

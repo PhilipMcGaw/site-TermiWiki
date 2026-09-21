@@ -1,3 +1,11 @@
+---
+title: "Ry Crocker"
+source: web
+tags:
+  - "draft"
+  - "references"
+---
+
 # Ry Crocker
 
 > [!warning] DRAFT
