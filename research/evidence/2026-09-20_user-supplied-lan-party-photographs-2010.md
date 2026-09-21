@@ -22,6 +22,7 @@ The set contains identifiable people. It must not be used to assign names, membe
 - Two files (`DSC_3608 2.jpeg` and `DSC_3619 2.jpeg`) instead retain embedded times on 9 July 2010. They were supplied within the same set and described under the same LAN-party provenance, but their relationship to the January event is not established.
 - The January photographs directly show an indoor LAN-style gathering: attendees use computers and laptops at shared tables, with visible cables, displays, peripherals, headphones, and a desktop computer.
 - The images establish a photographed LAN-party gathering as described by the maintainer. They do not, by themselves, establish the venue, organiser, event title, association with TermiSoc, or participant identities.
+- The project maintainer identifies **Gemma Peter** in `DSC_3596.jpeg`. This is a maintainer-supplied identification and is not an inference from visual resemblance; no additional participant identities are established by this update.
 
 ## Interpretation and relationship to existing research
 
@@ -33,11 +34,11 @@ The photographs are consistent with the broader evidence for TermiSoc gaming and
 
 - [ ] TODO: Seek a contemporary event announcement, venue booking, album title, or maintainer testimony that identifies the 30 January 2010 gathering.
 - [ ] TODO: Resolve whether the two 9 July 2010 files depict the same event, a second LAN party, or have incorrect camera dates.
-- [ ] TODO: Confirm individual identities and consent before considering any captioned public use.
+- [ ] TODO: Confirm any additional individual identities and consent before considering further captioned public use. `DSC_3596.jpeg` is separately identified by the project maintainer as Gemma Peter.
 
 ## Confidence
 
 - **High:** The 58 supplied files, their checksums, and the embedded creation times listed in the media index are preserved.
 - **High:** The January photographs show a LAN-style computing gathering.
 - **Medium:** The maintainer's supplied description associates the entire batch with a LAN party.
-- **Unverified:** The event's formal name, location, organiser, TermiSoc relationship, and participants' identities.
+- **Unverified:** The event's formal name, location, organiser, TermiSoc relationship, and the identities of participants other than the maintainer-identified Gemma Peter.
