@@ -13,13 +13,14 @@ tags:
 # Oxford steampunk event, January 2010
 
 > [!warning] DRAFT — event identity unresolved
-> This is a small, project-maintainer-supplied photograph set described as a steampunk event in Oxford. The project maintainer has identified Christa Briggs in `IMG_0386.jpg` and Ben A'Lee (`bma`) in `IMG_0387.jpg`; these identifications are recorded as supplied evidence, not visual inference. The set has not yet been matched to a formal event name, venue, organiser, or contemporary listing, and no relationship with TermiSoc is established.
+> This is a small, project-maintainer-supplied photograph set described as a steampunk event in Oxford. The project maintainer has identified Ross “Sayyan” Bearman in `IMG_0385.jpg`, Christa Briggs in `IMG_0386.jpg`, and Ben A'Lee (`bma`) in `IMG_0387.jpg`; these identifications are recorded as supplied evidence, not visual inference. The set has not yet been matched to a formal event name, venue, organiser, or contemporary listing, and no relationship with TermiSoc is established.
 
 Four photographs taken on 16 January 2010 record attendees in period-inspired clothing and a sign for “Major Tinker's Emporium”. The sign describes the business as providing “The Very Finest Notions & Trinkets For the Discerning Steampunk”, and records the historical URL `http://tinkers-emporium.synthasite.com`.[^provenance]
 
 ## Images
 
 ![[Media/oxford_steampunk_event_2010/IMG_0385.jpg]]
+*[Ross “Sayyan” Bearman](TermiPeople/ross_bearman.md), identified by the project maintainer; the event identity remains unresolved.*
 
 ![[Media/oxford_steampunk_event_2010/IMG_0386.jpg]]
 *Christa Briggs, identified by the project maintainer; no curated person page currently exists.*
