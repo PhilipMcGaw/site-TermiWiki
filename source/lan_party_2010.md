@@ -57,6 +57,7 @@ Fifty-six photographs have embedded camera timestamps from 30 January 2010, span
 ![[Media/lan_party_2010/DSC_3640 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3641 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3642.jpeg]]
+*Carly Mortimer, identified by the project maintainer; no curated person page currently exists and the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3643 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3644 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3645 2.jpeg]]
