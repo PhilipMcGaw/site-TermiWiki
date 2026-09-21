@@ -44,7 +44,9 @@ Fifty-six photographs have embedded camera timestamps from 30 January 2010, span
 ![[Media/lan_party_2010/DSC_3611 2.jpeg]]
 *[Sarah McPhee](TermiPeople/sarah_mcphee.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3613 2.jpeg]]
+*[Philip “Skippy” McGaw](TermiPeople/philip_mcgaw.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3614 2.jpeg]]
+*[Philip “Skippy” McGaw](TermiPeople/philip_mcgaw.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3616.jpeg]]
 ![[Media/lan_party_2010/DSC_3617 2.jpeg]]
 *[Georgie Aggett](TermiPeople/georgie_aggett.md) and [Sarah McPhee](TermiPeople/sarah_mcphee.md), identified by the project maintainer; the event identity remains unresolved.*
@@ -64,7 +66,9 @@ Fifty-six photographs have embedded camera timestamps from 30 January 2010, span
 *Carly Mortimer, identified by the project maintainer; no curated person page currently exists and the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3643 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3644 2.jpeg]]
+*[Philip “Skippy” McGaw](TermiPeople/philip_mcgaw.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3645 2.jpeg]]
+*[Philip “Skippy” McGaw](TermiPeople/philip_mcgaw.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3646 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3647 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3648 2.jpeg]]
@@ -75,27 +79,31 @@ Fifty-six photographs have embedded camera timestamps from 30 January 2010, span
 ![[Media/lan_party_2010/DSC_3653 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3654 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3657 2.jpeg]]
-*[Sarah McPhee](TermiPeople/sarah_mcphee.md), identified by the project maintainer; the event identity remains unresolved.*
+*[Sarah McPhee](TermiPeople/sarah_mcphee.md) and [Philip “Skippy” McGaw](TermiPeople/philip_mcgaw.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3658 2.jpeg]]
-*[Sarah McPhee](TermiPeople/sarah_mcphee.md), identified by the project maintainer; the event identity remains unresolved.*
+*[Sarah McPhee](TermiPeople/sarah_mcphee.md) and [Philip “Skippy” McGaw](TermiPeople/philip_mcgaw.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3659 2.jpeg]]
 *[Sarah McPhee](TermiPeople/sarah_mcphee.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3660 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3662 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3663 2.jpeg]]
-*[Sarah McPhee](TermiPeople/sarah_mcphee.md), identified by the project maintainer; the event identity remains unresolved.*
+*[Sarah McPhee](TermiPeople/sarah_mcphee.md) and [Philip “Skippy” McGaw](TermiPeople/philip_mcgaw.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3664 2.jpeg]]
+*[Philip “Skippy” McGaw](TermiPeople/philip_mcgaw.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3665 2.jpeg]]
 *[Sarah McPhee](TermiPeople/sarah_mcphee.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3666 2.jpeg]]
+*[Philip “Skippy” McGaw](TermiPeople/philip_mcgaw.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3668 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3669 2.jpeg]]
+*[Philip “Skippy” McGaw](TermiPeople/philip_mcgaw.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3670 2.jpeg]]
 
 ## Associated 9 July 2010 images
 
 ![[Media/lan_party_2010/DSC_3608 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3619 2.jpeg]]
+*[Philip “Skippy” McGaw](TermiPeople/philip_mcgaw.md), identified by the project maintainer; this associated image has a 9 July 2010 timestamp and its event relationship remains unresolved.*
 
 ## Metadata and research status
 
