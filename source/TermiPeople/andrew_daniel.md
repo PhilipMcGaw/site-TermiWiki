@@ -1,3 +1,11 @@
+---
+title: "Andrew Daniel"
+source: web
+tags:
+  - "draft"
+  - "references"
+---
+
 # Andrew Daniel
 
 > [!warning] DRAFT
