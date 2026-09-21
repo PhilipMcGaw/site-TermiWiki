@@ -27,6 +27,7 @@ Fifty-six photographs have embedded camera timestamps from 30 January 2010, span
 ![[Media/lan_party_2010/DSC_3597 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3598 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3599 2.jpeg]]
+*Aimee Spencer, identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3600 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3601.jpeg]]
 ![[Media/lan_party_2010/DSC_3602 2.jpeg]]
