@@ -21,7 +21,7 @@ The images contain identifiable people. They are retained as research media only
 - All four files retain camera creation times on 16 January 2010, between 12:25:46 and 14:05:49.
 - The photographs show people wearing period-inspired formal and steampunk-style clothing in an indoor venue.
 - `IMG_0389.jpg` directly records a sign for “Major Tinker's Emporium”, with the wording “The Very Finest Notions & Trinkets For the Discerning Steampunk” and the URL `http://tinkers-emporium.synthasite.com`.
-- The project maintainer identifies **Ross “Sayyan” Bearman** in `IMG_0385.jpg`, **Christa Briggs** in `IMG_0386.jpg`, and **Ben A'Lee** (`bma`) in `IMG_0387.jpg`. These are maintainer-supplied identifications and are not inferences from visual resemblance; the second attendee in `IMG_0385.jpg` remains unidentified.
+- The project maintainer identifies **Ross “Sayyan” Bearman** in `IMG_0385.jpg`, **Christa “PixelChu” Briggs** in `IMG_0386.jpg`, and **Ben A'Lee** (`bma`) in `IMG_0387.jpg`. These are maintainer-supplied identifications and are not inferences from visual resemblance; the second attendee in `IMG_0385.jpg` remains unidentified.
 
 ## Interpretation
 
@@ -33,7 +33,7 @@ No existing Oxford or steampunk material was found in the repository at preserva
 
 - [ ] TODO: Record the event's formal name, venue, and organiser if the project maintainer can supply them.
 - [ ] TODO: Seek contemporary listings or an archived event page for corroboration.
-- [ ] TODO: Confirm any additional identities and consent before considering further public captioned use. `IMG_0385.jpg`, `IMG_0386.jpg`, and `IMG_0387.jpg` are separately identified by the project maintainer as Ross Bearman, Christa Briggs, and Ben A'Lee, respectively; the second attendee in `IMG_0385.jpg` remains unidentified.
+- [ ] TODO: Confirm any additional identities and consent before considering further public captioned use. `IMG_0385.jpg`, `IMG_0386.jpg`, and `IMG_0387.jpg` are separately identified by the project maintainer as Ross Bearman, Christa “PixelChu” Briggs, and Ben A'Lee, respectively; the second attendee in `IMG_0385.jpg` remains unidentified.
 
 ## Confidence
 
