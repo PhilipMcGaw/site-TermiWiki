@@ -34,6 +34,7 @@ Fifty-six photographs have embedded camera timestamps from 30 January 2010, span
 ![[Media/lan_party_2010/DSC_3602 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3603 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3604 2.jpeg]]
+*[Nick Charlton](TermiPeople/nick_charlton.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3605 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3606 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3607 2.jpeg]]
