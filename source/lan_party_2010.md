@@ -42,11 +42,12 @@ Fifty-six photographs have embedded camera timestamps from 30 January 2010, span
 ![[Media/lan_party_2010/DSC_3610 2.jpeg]]
 *[Georgie Aggett](TermiPeople/georgie_aggett.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3611 2.jpeg]]
+*[Sarah McPhee](TermiPeople/sarah_mcphee.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3613 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3614 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3616.jpeg]]
 ![[Media/lan_party_2010/DSC_3617 2.jpeg]]
-*[Georgie Aggett](TermiPeople/georgie_aggett.md), identified by the project maintainer; the event identity remains unresolved.*
+*[Georgie Aggett](TermiPeople/georgie_aggett.md) and [Sarah McPhee](TermiPeople/sarah_mcphee.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3618 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3621 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3623 2.jpeg]]
@@ -74,13 +75,18 @@ Fifty-six photographs have embedded camera timestamps from 30 January 2010, span
 ![[Media/lan_party_2010/DSC_3653 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3654 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3657 2.jpeg]]
+*[Sarah McPhee](TermiPeople/sarah_mcphee.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3658 2.jpeg]]
+*[Sarah McPhee](TermiPeople/sarah_mcphee.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3659 2.jpeg]]
+*[Sarah McPhee](TermiPeople/sarah_mcphee.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3660 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3662 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3663 2.jpeg]]
+*[Sarah McPhee](TermiPeople/sarah_mcphee.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3664 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3665 2.jpeg]]
+*[Sarah McPhee](TermiPeople/sarah_mcphee.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3666 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3668 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3669 2.jpeg]]
