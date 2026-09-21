@@ -23,7 +23,7 @@ Four photographs taken on 16 January 2010 record attendees in period-inspired cl
 *[Ross “Sayyan” Bearman](TermiPeople/ross_bearman.md), identified by the project maintainer; the event identity remains unresolved.*
 
 ![[Media/oxford_steampunk_event_2010/IMG_0386.jpg]]
-*Christa “PixelChu” Briggs, identified by the project maintainer; no curated person page currently exists.*
+*[Christa “PixelChu” Briggs](TermiPeople/christa_briggs.md), identified by the project maintainer; the event identity remains unresolved.*
 
 ![[Media/oxford_steampunk_event_2010/IMG_0387.jpg]]
 *[Ben A'Lee (`bma`)](TermiPeople/ben_a_lee.md), identified by the project maintainer; the event identity remains unresolved.*

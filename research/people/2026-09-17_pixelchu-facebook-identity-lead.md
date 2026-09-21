@@ -32,4 +32,7 @@ This is a useful identity lead for cross-linking when a TermiSoc-related post, p
 
 ## Publication impact
 
-None. This is a user-provided identity lead, not yet enough on its own for a public biography.
+A draft curated page now records the maintainer-confirmed identity bridge as
+[[../../source/TermiPeople/christa_briggs|Christa “PixelChu” Briggs]]. The page
+does not assert a precise TermiSoc role or membership period; those remain
+research questions.
