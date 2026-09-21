@@ -1,3 +1,11 @@
+---
+title: "Charlotte Wotton"
+source: web
+tags:
+  - "draft"
+  - "references"
+---
+
 # Charlotte Wotton
 
 > [!warning] DRAFT
