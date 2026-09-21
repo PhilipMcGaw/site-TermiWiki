@@ -36,7 +36,9 @@ Fifty-six photographs have embedded camera timestamps from 30 January 2010, span
 ![[Media/lan_party_2010/DSC_3604 2.jpeg]]
 *[Nick Charlton](TermiPeople/nick_charlton.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3605 2.jpeg]]
+*[Dan “Danbjorn” Cosser](TermiPeople/dan_cosser.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3606 2.jpeg]]
+*[Dan “Danbjorn” Cosser](TermiPeople/dan_cosser.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3607 2.jpeg]]
 *[Ruth Rouse](TermiPeople/ruth_rouse.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3610 2.jpeg]]
