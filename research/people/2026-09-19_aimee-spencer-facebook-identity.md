@@ -19,8 +19,11 @@ confidence: High
 
 The project maintainer identifies the Facebook profile `Skwishee` as **Aimee
 Spencer**. This is a public-profile identity bridge supplied by the maintainer;
-the repository does not currently contain a curated `Aimee Spencer` person
-page.
+the repository now contains a cautious draft `Aimee Spencer` person page.
+
+The project maintainer also identifies Aimee Spencer in `DSC_3599 2.jpeg`, a
+photograph in the user-supplied 2010 LAN-party set. This is a maintainer-
+supplied identification, not an inference from visual resemblance.
 
 ## Interpretation
 
@@ -33,8 +36,7 @@ page.
 
 ## Unresolved questions
 
-- Determine whether an existing historical source names or describes Aimee
-  Spencer before creating a curated person page.
+- Determine whether a contemporary historical source names or describes Aimee
+  Spencer in a TermiSoc committee, project, event, or publication.
 - Do not transcribe current-profile details or private Facebook content unless
   they are necessary and explicitly approved for the archive.
-
