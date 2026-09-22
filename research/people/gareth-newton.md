@@ -9,23 +9,23 @@ source_type: personal-recollection
 
 ## Identification
 
-Gareth Newton is an identified person associated with the TermiSoc research. The maintainer reports that he was known as **CLB** in some circles.
+Gareth Newton and **CLB are the same person**. CLB is a historical nickname/identifier used by Gareth Newton in the TermiSoc context; it is not a separate person.
 
 ## Alias / nickname
 
-- **CLB** — historical nickname or informal identifier associated with Gareth Newton.
-- Treat this as an alias/handle, not as a preferred name or separate person.
+- **CLB** — historical nickname or informal identifier for Gareth Newton.
+- Treat CLB as an alias/handle for Gareth Newton, not as a separate person.
 - The nickname's expansion is not suitable for promotion as a formal name or source identifier and should not be reproduced in published material.
 
 ## Sources
 
 - **Facebook profile/page share:** https://www.facebook.com/share/1JuuRPmKK3/?mibextid=wwXIfr
-  - Added as a source lead for Gareth Newton.
+  - Source lead for Gareth Newton / CLB.
   - Facebook content was not independently retrieved during this research pass; retain the link for verification when Facebook access is available.
 
 ## Interpretation
 
-References to CLB in historical material may therefore refer to Gareth Newton. Any such identification should be corroborated from the surrounding context rather than assumed solely from the alias.
+Historical references to **CLB** should be treated as references to Gareth Newton. The identity is established by the maintainer's research knowledge; individual historical occurrences can still be corroborated from their surrounding context.
 
 ## Open questions
 
@@ -35,9 +35,9 @@ References to CLB in historical material may therefore refer to Gareth Newton. A
 
 ## Publication impact
 
-Do not create a separate person record for CLB. If corroborated, cross-reference historical occurrences of the alias to Gareth Newton while retaining the distinction between contemporary usage and modern editorial naming.
+Do not create a separate person record for CLB. Where historical material uses CLB, cross-reference it to Gareth Newton while retaining the distinction between the contemporary alias and the modern editorial name.
 
 ## Confidence
 
-- Gareth Newton / CLB identity: **Medium**
+- Gareth Newton = CLB identity: **Established**
 - Specific historical occurrences requiring individual corroboration: **Unverified**
