@@ -127,6 +127,7 @@ Rules:
 - Research-only media MUST be stored under `research/media/`, with a research record identifying its provenance, access boundary, and checksum where practical. It MUST NOT be embedded in `source/` or generated output.
 - Private correspondence, private-group captures, and personal material may be retained in `research/media/` only with the project maintainer's explicit approval. Keep it out of `source/`, minimise unnecessary personal data, and record a concise evidence summary rather than treating a screenshot as publication-ready text.
 - Use ordinary Markdown links for external websites and archived sources.
+- For internal Markdown links, keep the visible link label renderer-safe: avoid putting slash-delimited nicknames, parentheses, or quotation marks inside the linked text. Put the nickname after an em dash or in surrounding prose instead. Quartz's current link renderer can truncate such labels.
 - Use **Markdown footnotes for references and citations**. Keep source URLs inside the footnotes rather than using inline reference URLs in the prose. Footnotes SHOULD identify the source, date, and document or page title sufficiently for historical source criticism.
 - Ordinary internal navigation links and local media links MAY use Obsidian wikilinks; these are not source citations.
 - Do not introduce DokuWiki syntax into newly written content unless preserving an explicit historical source fragment.
