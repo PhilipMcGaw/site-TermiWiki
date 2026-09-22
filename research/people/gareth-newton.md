@@ -17,6 +17,12 @@ Gareth Newton is an identified person associated with the TermiSoc research. The
 - Treat this as an alias/handle, not as a preferred name or separate person.
 - The nickname's expansion is not suitable for promotion as a formal name or source identifier and should not be reproduced in published material.
 
+## Sources
+
+- **Facebook profile/page share:** https://www.facebook.com/share/1JuuRPmKK3/?mibextid=wwXIfr
+  - Added as a source lead for Gareth Newton.
+  - Facebook content was not independently retrieved during this research pass; retain the link for verification when Facebook access is available.
+
 ## Interpretation
 
 References to CLB in historical material may therefore refer to Gareth Newton. Any such identification should be corroborated from the surrounding context rather than assumed solely from the alias.
