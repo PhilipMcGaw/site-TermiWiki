@@ -9,12 +9,15 @@ source_type: personal-recollection
 
 ## Identification
 
-Gareth Newton and **CLB are the same person**. CLB is a historical nickname/identifier used by Gareth Newton in the TermiSoc context; it is not a separate person.
+Gareth Newton and **CLB are the same person**. CLB is a historical nickname/identifier associated with Gareth Newton; it is not a separate person.
+
+Gareth Newton was **not a member of TermiSoc**. He was **TermiSoc-adjacent through TermiHouse 1** and should not be described as a TermiSoc member.
 
 ## TermiHouse
 
-- **Gareth Newton was a resident/member of TermiHouse 1.**
-- This establishes a direct residential connection between Gareth Newton and the early TermiSoc/TermiHouse community.
+- **Gareth Newton was in TermiHouse 1.**
+- This provides a direct historical connection to the wider community around TermiSoc, while not establishing TermiSoc membership.
+- In the archive, describe Gareth as **TermiSoc-adjacent**, rather than as a TermiSoc member.
 
 ## Alias / nickname
 
@@ -28,26 +31,29 @@ Gareth Newton and **CLB are the same person**. CLB is a historical nickname/iden
   - **Confirmed as Gareth Newton's Facebook identity.**
 - **LinkedIn profile:** https://www.linkedin.com/in/gareth-newton-091a47222
   - **Confirmed as Gareth Newton's LinkedIn identity.**
-- **TermiHouse 1 membership/residence:** personal research confirmation.
+- **TermiHouse 1:** personal research confirmation.
   - Gareth Newton was in TermiHouse 1.
+  - This is evidence of his adjacency to the TermiSoc community, not TermiSoc membership.
 
 ## Interpretation
 
-Historical references to **CLB** should be treated as references to Gareth Newton. The identity is established by the maintainer's research knowledge, with the Facebook and LinkedIn identities now confirmed as belonging to the same Gareth Newton.
+Historical references to **CLB** should be treated as references to Gareth Newton. His Facebook and LinkedIn identities are confirmed as belonging to the same Gareth Newton.
 
-His association with **TermiHouse 1** provides an additional historical link to the TermiSoc community.
+His presence in **TermiHouse 1** establishes a historical connection to the wider community around TermiSoc. It does **not** establish that he was a TermiSoc member.
 
 Individual historical occurrences can still be corroborated from their surrounding context.
 
 ## Open questions
 
-- Which surviving TermiSoc records use the CLB identifier?
+- Which surviving records use the CLB identifier?
 - Can the TermiHouse 1 connection be corroborated from surviving records, photographs, addresses, event material, or other contemporary evidence?
-- Are there additional sources establishing his TermiSoc role or period of involvement?
+- Are there sources documenting Gareth's activities or relationships with TermiSoc members without implying membership?
 
 ## Publication impact
 
-Do not create a separate person record for CLB. Where historical material uses CLB, cross-reference it to Gareth Newton while retaining the distinction between the contemporary alias and the modern editorial name.
+Do not create a separate person record for CLB. Where historical material uses CLB, cross-reference it to Gareth Newton while retaining the distinction between the historical alias and the modern editorial name.
+
+Do not describe Gareth Newton as a **TermiSoc member**. Use **TermiSoc-adjacent / TermiHouse 1** where his relationship to the archive needs to be stated.
 
 ## Confidence
 
@@ -55,4 +61,5 @@ Do not create a separate person record for CLB. Where historical material uses C
 - Facebook identity = Gareth Newton: **Confirmed**
 - LinkedIn identity = Gareth Newton: **Confirmed**
 - Gareth Newton in TermiHouse 1: **Confirmed by research**
+- TermiSoc membership: **Not a member**
 - Specific historical occurrences requiring individual corroboration: **Unverified**
