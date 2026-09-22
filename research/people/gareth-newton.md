@@ -20,21 +20,20 @@ Gareth Newton and **CLB are the same person**. CLB is a historical nickname/iden
 ## Sources
 
 - **Facebook profile/page share:** https://www.facebook.com/share/1JuuRPmKK3/?mibextid=wwXIfr
-  - Source lead for Gareth Newton / CLB.
-  - Facebook content was not independently retrieved during this research pass; retain the link for verification when Facebook access is available.
+  - **Confirmed as Gareth Newton's Facebook identity.**
 - **LinkedIn profile:** https://www.linkedin.com/in/gareth-newton-091a47222
-  - Source lead for Gareth Newton.
-  - Profile located via the supplied LinkedIn URL; retain as an identity/source lead for future corroboration of the TermiSoc connection.
+  - **Confirmed as Gareth Newton's LinkedIn identity.**
 
 ## Interpretation
 
-Historical references to **CLB** should be treated as references to Gareth Newton. The identity is established by the maintainer's research knowledge; individual historical occurrences can still be corroborated from their surrounding context.
+Historical references to **CLB** should be treated as references to Gareth Newton. The identity is established by the maintainer's research knowledge, with the Facebook and LinkedIn identities now confirmed as belonging to the same Gareth Newton.
+
+Individual historical occurrences can still be corroborated from their surrounding context.
 
 ## Open questions
 
 - Which surviving TermiSoc records use the CLB identifier?
 - Can those records be tied to Gareth Newton through dates, projects, photographs, usernames, or interactions with known members?
-- Can the LinkedIn profile be corroborated against historical TermiSoc records or other independent sources?
 - Are there additional sources establishing his TermiSoc role or period of involvement?
 
 ## Publication impact
@@ -44,5 +43,6 @@ Do not create a separate person record for CLB. Where historical material uses C
 ## Confidence
 
 - Gareth Newton = CLB identity: **Established**
-- LinkedIn profile as a Gareth Newton source lead: **Supplied / not independently verified**
+- Facebook identity = Gareth Newton: **Confirmed**
+- LinkedIn identity = Gareth Newton: **Confirmed**
 - Specific historical occurrences requiring individual corroboration: **Unverified**
