@@ -13,7 +13,7 @@ tags:
 # LAN party, January 2010
 
 > [!warning] DRAFT — event identity unresolved
-> The project maintainer described this set as photographs from a LAN party and has identified Gemma Peter in `DSC_3596.jpeg`. That identification is recorded as maintainer-supplied evidence, not as an inference from visual resemblance. The images otherwise establish a LAN-style computing gathering, but not its formal name, venue, organiser, or TermiSoc relationship.
+> The project maintainer described this set as photographs from a LAN party and has identified Gemma “HexDoll/Gem” Peter in `DSC_3595 2.jpeg` and `DSC_3596.jpeg`. Those identifications are recorded as maintainer-supplied evidence, not as inferences from visual resemblance. The images otherwise establish a LAN-style computing gathering, but not its formal name, venue, organiser, or TermiSoc relationship.
 
 Fifty-six photographs have embedded camera timestamps from 30 January 2010, spanning 13:25:24–21:12:17. Two associated images carry 9 July 2010 timestamps and are included separately below because their relationship to the January gathering remains unresolved.[^provenance]
 
@@ -21,9 +21,9 @@ Fifty-six photographs have embedded camera timestamps from 30 January 2010, span
 
 ![[Media/lan_party_2010/DSC_3593 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3595 2.jpeg]]
-*Gemma Peter, identified by the project maintainer; the event identity remains unresolved.*
+*[Gemma “HexDoll/Gem” Peter](TermiPeople/gemma_peter.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3596.jpeg]]
-*Gemma Peter, identified by the project maintainer; the event identity remains unresolved.*
+*[Gemma “HexDoll/Gem” Peter](TermiPeople/gemma_peter.md), identified by the project maintainer; the event identity remains unresolved.*
 ![[Media/lan_party_2010/DSC_3597 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3598 2.jpeg]]
 ![[Media/lan_party_2010/DSC_3599 2.jpeg]]
