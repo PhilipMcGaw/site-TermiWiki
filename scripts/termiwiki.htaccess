@@ -1,5 +1,17 @@
 RewriteEngine On
 
+# This is a preservation archive. Do not let a host-level PageSpeed module
+# rewrite image URLs or serve partial optimised variants of public originals.
+<IfModule pagespeed_module>
+    ModPagespeed Off
+</IfModule>
+
+<IfModule mod_headers.c>
+    <FilesMatch "\.(jpe?g|png|gif|webp|avif)$">
+        Header set Cache-Control "no-transform"
+    </FilesMatch>
+</IfModule>
+
 DirectoryIndex index.html
 
 # Serve /page-name from page-name.html while keeping the URL extensionless.
