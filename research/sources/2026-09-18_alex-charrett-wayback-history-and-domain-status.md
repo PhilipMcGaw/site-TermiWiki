@@ -20,7 +20,12 @@ Alex Charrett supplied three public Internet Archive links on 18 September 2026.
 - [Chas' Recent History of TermiSoc, captured 3 February 1999](https://web.archive.org/web/19990203112152/http://area51.upsu.plym.ac.uk/termisoc/history3.htm)
 - [TermiSoc: A WikiHistory main page, captured 15 January 2006](https://web.archive.org/web/20060115234034/http://wiki.termisoc.org/index.php/Main_Page)
 
+On 26 September 2026, the project maintainer supplied a screenshot of the earlier Messenger exchange with the account named Alex Charrett. The screenshot shows Alex saying that he still has the paper invoice, that a scan is in the comments of the Facebook post, that he may have a backup, and that the Internet Archive has useful material. He asks who currently has the domain because he has lost track. The screenshot also shows the three archive URLs listed above. The earlier exchange's calendar date is not visible in the screenshot; a later “Yesterday” divider appears before the email-address exchange, consistent with the separately recorded invoice email received on 25 September 2026. The screenshot itself is not retained in the repository; this concise summary records its research relevance without preserving private correspondence.
+
 ## Direct evidence
+
+- The supplied Messenger screenshot directly shows the account named Alex Charrett making the statements summarised above and sharing the archive URLs. It does not independently verify that he still holds the paper invoice, that the Facebook comments contain a scan, that a backup exists, or who controls the domain.
+- A fresh attempt on 26 September 2026 to open the three exact Internet Archive URLs through the available web retrieval interface failed for all three. Exact-timestamp searches returned no results. This is an access limitation of this lookup, not evidence that the captures are unavailable; the two 1999 pages were previously retrieved directly, as recorded above.
 
 The 1999 *Early History* capture identifies the original 1991 “Group Of Three” as James Hickman, Marcus Adams and Paul Fletcher, and records Hades as the first TermiSoc bulletin-board system. It also describes Area51 and Flux BBS as emerging in the 1994 period.
 
@@ -33,3 +38,15 @@ A public WHOIS lookup on 18 September 2026 shows that `termisoc.org` remains reg
 ## Interpretation
 
 The 1999 captures strengthen the early-history timeline but remain retrospective narratives, not records created at the 1991 founding. The current WHOIS record supports continuous present registration but not ownership continuity.
+
+## Confidence by conclusion
+
+- **High:** The supplied screenshot visibly contains the described messages and archive URLs.
+- **Medium:** The messages were sent by Alex Charrett; attribution relies on the displayed Messenger account name and conversation context, not independently verified account ownership.
+- **Unverified:** The physical invoice's present location, the scan's presence in Facebook comments, the existence of a backup, and current domain control.
+- **High:** The three links identify the cited Internet Archive capture timestamps and target URLs; current retrieval was blocked by the web interface in this pass.
+
+## Unresolved questions
+
+- [ ] TODO: If the Facebook post/comments or Alex's backup becomes accessible, retrieve the scan with its original provenance and compare it with the email attachment already preserved in the invoice evidence record.
+- [ ] TODO: Verify current domain control only through reliable registrar or DNS evidence; Alex's uncertainty is not evidence of ownership or transfer.
