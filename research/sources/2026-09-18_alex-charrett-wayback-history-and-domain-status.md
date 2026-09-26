@@ -25,7 +25,7 @@ On 26 September 2026, the project maintainer supplied a screenshot of the earlie
 ## Direct evidence
 
 - The supplied Messenger screenshot directly shows the account named Alex Charrett making the statements summarised above and sharing the archive URLs. It does not independently verify that he still holds the paper invoice, that the Facebook comments contain a scan, that a backup exists, or who controls the domain.
-- A fresh attempt on 26 September 2026 to open the three exact Internet Archive URLs through the available web retrieval interface failed for all three. Exact-timestamp searches returned no results. This is an access limitation of this lookup, not evidence that the captures are unavailable; the two 1999 pages were previously retrieved directly, as recorded above.
+- Attempts on 26 September 2026 to open the three exact Internet Archive URLs through the available web retrieval interface failed for all three. Exact-timestamp searches returned no results. The project maintainer subsequently supplied the same three URLs separately, clarifying that the two 1999 links are distinct captures: `history3.htm` at `19990203112152` and `history1.htm` at `19990203095732`. Retrying each canonical URL separately still failed in the web interface. This is an access limitation of this lookup, not evidence that the captures are unavailable; the two 1999 pages were previously retrieved directly, as recorded above.
 
 The 1999 *Early History* capture identifies the original 1991 “Group Of Three” as James Hickman, Marcus Adams and Paul Fletcher, and records Hades as the first TermiSoc bulletin-board system. It also describes Area51 and Flux BBS as emerging in the 1994 period.
 
