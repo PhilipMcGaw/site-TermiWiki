@@ -25,5 +25,7 @@ A DCLUG archive preserves a February 2010 message with the subject “plymouth g
 
 These sources support the existence of an active Plymouth Geeks community by 2010–2012. They do not establish its founders, full membership, the origin of the logo, or whether it was formally connected to the later University of Plymouth Geek Society.
 
+The historical description above presents Plymouth Geeks as involving former and current TermiSoc members. A review of its public X account found direct cross-promotion with TermiSoc, including posts about TermiSoc LAN parties and a DCLUG meeting. This supports interaction between the communities, but does not independently establish shared membership or that Plymouth Geeks was “TermiSoc without the university connection”. The curated profile and selected posts are preserved in [[plymouth_geeks_on_twitter]].
+
 [^2]: DCLUG archive, “Re: [LUG] plymouth geeks meetup on the 18th of feb?”, 14 February 2010, retrieved 17 September 2026. https://www.dcglug.org.uk/archive/2010/02/msg00493.html
 [^3]: Ask MetaFilter, “Tell me why I should be excited to move to Plymouth, England”, 4 March 2012, retrieved 17 September 2026. https://ask.metafilter.com/209727/Tell-me-why-I-should-be-excited-about-moving-to-Plymouth
