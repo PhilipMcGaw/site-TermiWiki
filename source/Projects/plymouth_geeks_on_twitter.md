@@ -5,6 +5,8 @@ tags:
   - projects
   - social-media
   - twitter
+aliases:
+  - ../plymouth_geeks_on_twitter
 ---
 
 # Plymouth Geeks on Twitter / X

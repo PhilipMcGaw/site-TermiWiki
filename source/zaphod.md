@@ -25,7 +25,7 @@ He also self-claimed how much cooler he was than any other server on PlymNet. In
 
 This server was actually built into an old black 3U rack-mounted cabinet with 7 fans (including 4 just to cool the hard drives!) and glowy blueness… sadly no dual-heads though. Plans to build two motherboards into this case were greatly exaggerated.
 
-Elements of it were the mythical server Kumquat, which was originaly built for [UPSU:Radio](upsu_radio.md).
+Elements of it were the mythical server Kumquat, which was originaly built for [UPSU:Radio](Projects/upsu_radio.md).
 
 However, something dawned on us a couple of days before we were to install it: Zaphod wasn't much better than [Arthur](arthur.md) specs-wise. When you're installing a new server, it's always nice to upgrade a machine rather than just replace it for no reason - plus we realised that the cooling would suck due to the monitor having to go on top. So…
 

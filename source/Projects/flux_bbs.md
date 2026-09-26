@@ -6,8 +6,10 @@ created: 2023-01-01
 tags:
   - "termisoc"
   - "projects"
+aliases:
+  - ../flux_bbs
 ---
-![[Media/flux-bbs.jpg| ]]
+![[../Media/flux-bbs.jpg| ]]
 
 The header image is preserved from the archived FluxBBS site. [^flux-header]
 
@@ -38,9 +40,9 @@ Sadly today, [BBS](flux_bbs.md) it's not used as much, I'm not sure what will ha
 ## Alex Charrett's memories
 There was a time when it was very hard to distinguish where TermiSoc ended and Flux began, so interdependent they were. Flux generated many members of TermiSoc, such was the friendly atmosphere and banter on its boards.
 
-It is also quite heavily responsible for the School of Computing Technicians nicknaming the [Lab](Glossary/sun_lab.md) the 'Sun Lounge', such was the number of people using Flux in there (remember this is before free dialup/broadband existed!).
+It is also quite heavily responsible for the School of Computing Technicians nicknaming the [Lab](../Glossary/sun_lab.md) the 'Sun Lounge', such was the number of people using Flux in there (remember this is before free dialup/broadband existed!).
 
-Flux was much loved and it was a sad day for both parties when it had to move away from the [TermiSoc](termisoc.md)'s [systems](systems.md).
+Flux was much loved and it was a sad day for both parties when it had to move away from the [TermiSoc](../termisoc.md)'s [systems](../systems.md).
 
 ## More info
 If you want to learn more or see Flux for yourself, visit its new home over on [https://flux.a-squared.co.uk/](https://flux.a-squared.co.uk/). You can meet some ex-members and their kind. These people know a lot about computers and will even help you out with interesting problems if you're polite about the asking. Please don't feed the sysops, and make sure you're wearing shoes. 

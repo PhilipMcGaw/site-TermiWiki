@@ -11,7 +11,7 @@ tags:
 ---
 # Connecting To IRC With Pidgin
 
-Pidgin is a wonderful Instant Messenger client (it used to be called gAIM until AOL got on their back in 2006), and with some poking, it can fake being an IRC client as well. As it's a client that a lot of people use anyway, this tutorial will walk you through connecting to (and using) [TermiChat](termichat.md) through Pidgin. 
+Pidgin is a wonderful Instant Messenger client (it used to be called gAIM until AOL got on their back in 2006), and with some poking, it can fake being an IRC client as well. As it's a client that a lot of people use anyway, this tutorial will walk you through connecting to (and using) [TermiChat](Projects/termichat.md) through Pidgin.
 
 ## Installation
 - First, if you have not already done so, get the latest version of Pidgin from www.pidgin.im and install it. If you're still using Gaim, upgrade!

@@ -10,7 +10,7 @@ tags:
   - references
   - ed_mccaughan_s
 ---
-This document appears to be the agenda to one of the first [BlueStamp](bluestamp.md) meetings we had towards the middle of our concept and doodlings.
+This document appears to be the agenda to one of the first [BlueStamp](Projects/bluestamp.md) meetings we had towards the middle of our concept and doodlings.
 
 Not sure who's handiwork this is, but it may be McCaughan's.
 

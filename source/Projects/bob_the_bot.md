@@ -11,10 +11,12 @@ tags:
   - "termichat"
   - "ben_a_lee"
   - "termibot"
+aliases:
+  - ../bob_the_bot
 ---
 # Bob the Bot
 
-Formerly the bot in [TermiChat](termichat.md); OFTC nick BobTheBot. Has since been replaced by a lee|bma's creation, [TermiBot](termibot.md).
+Formerly the bot in [TermiChat](termichat.md); OFTC nick BobTheBot. Has since been replaced by a lee|bma's creation, [TermiBot](../termibot.md).
 
 Popular commands
 

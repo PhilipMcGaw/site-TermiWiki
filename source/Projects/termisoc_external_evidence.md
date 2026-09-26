@@ -8,12 +8,14 @@ tags:
   - "sources"
   - "dclug"
   - "projects"
+aliases:
+  - ../termisoc_external_evidence
 ---
 This page records independently hosted material useful for reconstructing TermiSoc history. It distinguishes contemporary material from later recollections and preserves conflicting dates rather than selecting one without further evidence.
 
 ## Origin date: two recorded claims
 
-- [[history|History]] and the local Abridged History place the society's founding in **1991**.
+- [[../history|History]] and the local Abridged History place the society's founding in **1991**.
 - [[siddharth_vadgama|Siddharth Vadgama]]'s later project retrospective says it was **established in 1992**.
 
 Both dates are retained pending an earlier primary record.

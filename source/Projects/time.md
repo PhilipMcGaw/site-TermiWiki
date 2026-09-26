@@ -13,8 +13,10 @@ tags:
   - "ashley_hurd"
   - "alex_veal"
   - "conrad_saunders"
+aliases:
+  - ../time
 ---
-TIME (or TermiSoc Instant Messaging Environment) was an instant messaging client and server system developed by [Smith](TermiPeople/ryan_smith.md) for his final-year project.
+TIME (or TermiSoc Instant Messaging Environment) was an instant messaging client and server system developed by [Smith](../TermiPeople/ryan_smith.md) for his final-year project.
 
 People vaguely recall testing it for him, but it never came to widespread use.
 
@@ -27,9 +29,9 @@ It temporarily ran on Ford before it died.
 A group of second year Computing students have had the go ahead from the TermiSoc committee to start work on a dedicated online meeting/messageing environment for you - TermiSoc's members. The project will be assessed as part of the group's work for this academic year. After completion it is planned that the system is handed over to TermiSoc for future development and maintenance. Negotiations over Intellectual Property Rights are currently underway to help ensure that a complete cutover to TermiSoc is possible.
 
 The students in question are:
-- [Smith](TermiPeople/ryan_smith.md), Project Manager
+- [Smith](../TermiPeople/ryan_smith.md), Project Manager
 - Hurd, Project Coordinator (Documentation)
-- [Veal](TermiPeople/alex.md), Project Coordinator (Communication)
+- [Veal](../TermiPeople/alex.md), Project Coordinator (Communication)
 - Saunders, Technical Coordinator
 
 There are three main feature of this project:

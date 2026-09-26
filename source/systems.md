@@ -24,7 +24,7 @@ Area 51 is the main and new TermiSoc server, on which every member has an accoun
 ## Prot
 Prot - https://prot.termisoc.org
 
-Prot is a dedicated machine for running our popular Eagles BBS based BBS [BBS](flux_bbs.md), as a result of this prot may also be accessed at https://flux.termisoc.org.
+Prot is a dedicated machine for running our popular Eagles BBS based BBS [BBS](Projects/flux_bbs.md), as a result of this prot may also be accessed at https://flux.termisoc.org.
 
 Very few shell accounts exist on this system.
 

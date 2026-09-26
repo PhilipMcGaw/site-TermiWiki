@@ -90,7 +90,7 @@ Details of this time are vague and have taken on almost mystical significance. T
 
 The Society's activities at this time are shrouded in mystery, though there are reports of a great Mud Meet that took place, involving the users of a (now defunct) chat system called Cheeseplants House. People from all over the land congregated in Plymouth. Great flagons of ale were drunk and the partying continued until at least 3, even 4 minutes past eleven.
 
-Around this time, the first Termisoc Bulletin Board System was created. Known as [bbs#Hades](flux_bbs.md), it attracted a moderate clientele, with users from universities across the land. This system was used as a major selling point to new members at the next Freshers Faire (see - Freshers Faire, Fresher, Heat Exhaustion) and a prototype T-Shirt design was produced ('Tell us to go to hell and we'll see you in Hades').
+Around this time, the first Termisoc Bulletin Board System was created. Known as [bbs#Hades](Projects/flux_bbs.md), it attracted a moderate clientele, with users from universities across the land. This system was used as a major selling point to new members at the next Freshers Faire (see - Freshers Faire, Fresher, Heat Exhaustion) and a prototype T-Shirt design was produced ('Tell us to go to hell and we'll see you in Hades').
 
 Sadly, this never went into full-scale production.
 
@@ -107,7 +107,7 @@ The Exec. now stood as follows:
 Through various promotions, the society was able to push its membership into the low twenties, and thus survive being expunged from existence under Union rules.
 
 ### 1993
-Freshers Faire 1993 was an abject failure. Nothing happened - no one actually went to the Fair representing Society. Strangely, word got around that a [BBS](flux_bbs.md) existed here in Plymouth and a small group of users formed.
+Freshers Faire 1993 was an abject failure. Nothing happened - no one actually went to the Fair representing Society. Strangely, word got around that a [BBS](Projects/flux_bbs.md) existed here in Plymouth and a small group of users formed.
 - [Burridge](TermiPeople/andrew_burridge.md) - [President](president.md), [Secretary](secretary.md), [Treasurer](treasurer.md)
 - [Adams](TermiPeople/marcus_adams.md) - Technical Officer
 
@@ -135,7 +135,7 @@ On the back of this mammoth success (over 30 members by the end of the evening) 
 
 The Exec. attended its first Budget Review and convinced the Union to part with sufficient cash to buy a machine of its own. Within months, Termisoc's first machine, [Area51](area51_server.md) was born. a massive 486 DX50 with 8MB of memory, it was a powerful machine (see Falling RAM Prices, Hardware Costs in 1994). Through a strange quirk of fate, the society was never billed for the components, a fact that to this day has never been explained.
 
-The BBS software was changed as was the name: [BBS](flux_bbs.md) was born!
+The BBS software was changed as was the name: [BBS](Projects/flux_bbs.md) was born!
 
 # Chas' More Recent History Of TermiSoc
 ## 1995
@@ -153,7 +153,7 @@ Treasurer - The year starts with [Sloggett](TermiPeople/steve_sloggett.md) as tr
 
 Another position that was the subject of interesting times was that of the 1st [exec#PR Officer](misc_exec.md) - [Kidney](TermiPeople/louise_kidney.md) filled this role for a period of this year, before resigning, leaving the post empty until the AGM.
 
-This exec did get its hands on another server and hence [bbs](flux_bbs.md) got its own machine - Prot as it was known.
+This exec did get its hands on another server and hence [bbs](Projects/flux_bbs.md) got its own machine - Prot as it was known.
 
 However, it did come to pass that in September of 1996, three first years did wander in from the wilderness and make a pain in the arse of themselves.
 
@@ -181,7 +181,7 @@ This new exec put in a budget again and got the money together for a third machi
 
 The 1997 Freshers Fayre was a storming success and 60ish members joined up on that evening alone. The following week a meeting was held in one of the Babbage lecture theatres where members were given booklets on how to use TermiSoc's services and disks containing shareware internet utilities.
 
-After a scare where the connection was in doubt, relations with CS became better than ever and CS started using [Flux](flux_bbs.md) as a method of communication and feedback with the students (TermiSoc and otherwise)
+After a scare where the connection was in doubt, relations with CS became better than ever and CS started using [Flux](Projects/flux_bbs.md) as a method of communication and feedback with the students (TermiSoc and otherwise)
 
 ## 1998
 The 1998 AGM did soon arrive and along with it came a TermiSoc T-Shirt (Shock, Horror).

@@ -17,6 +17,8 @@ tags:
   - gemma_peter
   - christine_harrison
   - media
+aliases:
+  - ../login
 ---
 # LOGin
 
@@ -26,7 +28,7 @@ It was intended to fortnightly show recorded every other Thursday. It is then us
 ## The Concept
 The concept behind the podcast was simple enough - get some geeks in a room and get ranting!
 
-Not to be confused with [Skippy's](TermiPeople/philip_mcgaw.md) 'VodCast' idea (dismissed on the grounds of not owning a video camera, and 'VodCast' being dismissed as a 'silly name' by [Ben A'Lee](TermiPeople/ben_a_lee.md), this idea was spawned whilst [Ben](TermiPeople/ben_a_lee.md), [Rich](TermiPeople/rich_jeffery.md) and [Dan](TermiPeople/dan_cosser.md) were trying to sort out the society paperwork the day before it was meant to be handed in. Talk about procrastination!
+Not to be confused with [Skippy's](../TermiPeople/philip_mcgaw.md) 'VodCast' idea (dismissed on the grounds of not owning a video camera, and 'VodCast' being dismissed as a 'silly name' by [Ben A'Lee](../TermiPeople/ben_a_lee.md), this idea was spawned whilst [Ben](../TermiPeople/ben_a_lee.md), [Rich](../TermiPeople/rich_jeffery.md) and [Dan](../TermiPeople/dan_cosser.md) were trying to sort out the society paperwork the day before it was meant to be handed in. Talk about procrastination!
 
 The podcast revolved around 3 areas:
 - The current things the show's cast were loving and hating;
@@ -35,16 +37,16 @@ The podcast revolved around 3 areas:
 
 Later segments included 'What are we using as a mic stand this week?' and 'Who's pretending to be Dan whilst he's off galavanting about the country?'. There were also one-off segments.
 
-Also, guests are freely invited to join in on the discussion, which included [Chris Morris](TermiPeople/chris_morris.md) and [Gemma Peter](TermiPeople/gemma_peter.md). Alas, no-one was interested enough in the podcast to ask to be a guest from outside TermiSoc.
+Also, guests are freely invited to join in on the discussion, which included [Chris Morris](../TermiPeople/chris_morris.md) and [Gemma Peter](../TermiPeople/gemma_peter.md). Alas, no-one was interested enough in the podcast to ask to be a guest from outside TermiSoc.
 
 # The Podcast
-The first LOGin podcast was recorded on Thursday the 24th of May 2007 in Rich's flat. Apart from hiccups from a low volume and plenty of 'umms' and 'errs' in regard to content, it went rather smoothly. It was presented by [Dan Cosser](TermiPeople/dan_cosser.md), [Rich Jeffery](TermiPeople/rich_jeffery.md) and [Ben A'Lee](TermiPeople/ben_a_lee.md). [Christine Harrison](TermiPeople/christine_harrison.md) also lent a hand.
+The first LOGin podcast was recorded on Thursday the 24th of May 2007 in Rich's flat. Apart from hiccups from a low volume and plenty of 'umms' and 'errs' in regard to content, it went rather smoothly. It was presented by [Dan Cosser](../TermiPeople/dan_cosser.md), [Rich Jeffery](../TermiPeople/rich_jeffery.md) and [Ben A'Lee](../TermiPeople/ben_a_lee.md). [Christine Harrison](../TermiPeople/christine_harrison.md) also lent a hand.
 
 Its intended release was on the weekend of the 25th, but due to a nasty flu that was going around and Rich wandering off somewhere for the weekend, it wasn't released until the 3rd of June. On the same day, the Podcast's website went online, but due to an error with the DNS wasn't widely available until a few days later.
 
 ## Episode 1 - 27th May 2006!
 Podcast 01 - 27th May 2006!
-![[Media/termisoc_login_01.mp3]]
+![[../Media/termisoc_login_01.mp3]]
 
 In this one:
 - This week's Loves and Hates!
@@ -58,14 +60,14 @@ In this one:
 
 All this and more in this first ever… LOGin!
 ## Episode 2
-![[Media/termisoc_login_02.mp3]]
+![[../Media/termisoc_login_02.mp3]]
 ## Episode 3
-![[Media/termisoc_login_03.mp3]]
+![[../Media/termisoc_login_03.mp3]]
 ## Episode 4
-![[Media/termisoc_login_04.mp3]]
+![[../Media/termisoc_login_04.mp3]]
 ## Episode 5 - 10th of September
 Episode 5 was released 10th of September, featuring the usual gang, our sound-man Chris, and a live studio audience!
-![[Media/termisoc_login_05.mp3]]
+![[../Media/termisoc_login_05.mp3]]
 In this episode:
 - Rejection!
 - Googlification!
@@ -101,7 +103,7 @@ Featuring discussion on:
 
 …plus “Loving & Hating”, Tea drinking and now: ‘Today’s Microphone Stand’!
 ## Episode 11 - August 23rd, 2008
-cosser|Dan’s off cycling around the countryside, so instead, it’s just a'lee|Ben A’Lee, [Gemma Peter](TermiPeople/gemma_peter.md) and [Rich Jeffery](TermiPeople/rich_jeffery.md) ranting about IP laws and people’s attitudes towards it.
+cosser|Dan’s off cycling around the countryside, so instead, it’s just a'lee|Ben A’Lee, [Gemma Peter](../TermiPeople/gemma_peter.md) and [Rich Jeffery](../TermiPeople/rich_jeffery.md) ranting about IP laws and people’s attitudes towards it.
 
 The topics in question:
 - Are software patents a good idea for developers and producers to secure their code?

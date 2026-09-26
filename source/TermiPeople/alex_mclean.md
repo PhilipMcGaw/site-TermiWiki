@@ -18,7 +18,7 @@ Alex, circa 1996
 - http://doc.gold.ac.uk/~ma503am/ 
 
 ## Positions Held
-Was treasurer for a year, then technical officer for a couple more years, can't remember when exactly. I think I was head sysop of [bbs](../flux_bbs.md) for some portion of this time too.
+Was treasurer for a year, then technical officer for a couple more years, can't remember when exactly. I think I was head sysop of [bbs](../Projects/flux_bbs.md) for some portion of this time too.
 
 In a TermiSoc Facebook-group post dated 6 October 2011, Alex noted that the society was “20 years old”. This later anniversary statement is consistent with the archive’s recorded 1991 founding year, though it is not direct contemporary founding evidence.[^1]
 

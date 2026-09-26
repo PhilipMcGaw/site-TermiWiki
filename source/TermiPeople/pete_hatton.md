@@ -26,7 +26,7 @@ I did a BSc in Computing and Informatics between 1997 and 2001. I joined TermiSo
 
 Besides looking after the cash for TermiSoc, teaching everyone HTML and making sure everyone got plastered down the pub. I also did the Website rewrite version X, which looks something like what is live now.
 
-Also at the end of my final year, I decided to play with fire and write (Finally) [bbs#FluxWeb](../flux_bbs.md) for [BBS](../flux_bbs.md). http://www.fluxbbs.org
+Also at the end of my final year, I decided to play with fire and write (Finally) [bbs#FluxWeb](../Projects/flux_bbs.md) for [BBS](../Projects/flux_bbs.md). http://www.fluxbbs.org
 
 ## Last Sighting
 Was down in Plymouth in December 2005. These days I'm spotted around Chippenham (Where I work), Bristol, Swindon and Cheltenham (Where burridge|Chas lives) I'm working for the National Milk Records as an Analyst Programmer. 

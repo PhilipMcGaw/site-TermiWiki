@@ -17,5 +17,5 @@ The available material does not yet establish her committee role, course, dates 
 
 ## Sources
 
-[^1]: TermiWiki, [LOGin](../login.md). The page states that Christine Harrison lent a hand with the first podcast, recorded 24 May 2007.
-[^2]: TermiWiki, [Back to Pong](../back_to_pong.md). The page identifies Harrison as providing research input for the pilot.
+[^1]: TermiWiki, [LOGin](../Projects/login.md). The page states that Christine Harrison lent a hand with the first podcast, recorded 24 May 2007.
+[^2]: TermiWiki, [Back to Pong](../Projects/back_to_pong.md). The page identifies Harrison as providing research input for the pilot.

@@ -25,6 +25,6 @@ Projects & Training is Marc's game. Apart from kippers. But that's his little se
 Dave is the Treasurer and is supposed to control our money. In fact, mail him now and ask how much we've (not) got. And he's the TermiSoc resident target. Don't mention Quasar and Capture the Flag to him.
 
 [Scott Grenney](TermiPeople/scott_grenny.md)
-Scott's the PR officer, so he's in control of socials and outings and things. Mail him and say "We want to go to the pub" cos that'd be a good plan. And he's going to be helping with the upkeep of the [Area51 webpages](area51_website.md). With a [carrot](Glossary/think_carrot.md).
+Scott's the PR officer, so he's in control of socials and outings and things. Mail him and say "We want to go to the pub" cos that'd be a good plan. And he's going to be helping with the upkeep of the [Area51 webpages](Projects/area51_website.md). With a [carrot](Glossary/think_carrot.md).
 
 See who else helped run TermiSoc…

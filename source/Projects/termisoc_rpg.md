@@ -8,6 +8,8 @@ tags:
   - "projects"
   - "relation"
   - "references"
+aliases:
+  - ../termisoc_rpg
 ---
 # What is it?
 

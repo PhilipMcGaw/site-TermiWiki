@@ -24,7 +24,7 @@ Steve works as the tresurer of Termisoc, fumbling in financial fiscalaties, mana
 Alex copy number one (with the eyebrows) is the secretary of Termisoc, and as such wears high heels, giggles a lot, can touch type and works part-time for Reed Temping Agencies. Eerie.
 
 [Alex McLean](TermiPeople/alex_mclean.md)
-Alex copy number two is usually found surgically glued to a terminal somewhere in Babbage, fulfilling his role as Technical Officer, which is a good excuse to make sure [Area51](area51_server.md) and [Flux BBS](flux_bbs.md) run smoothly.
+Alex copy number two is usually found surgically glued to a terminal somewhere in Babbage, fulfilling his role as Technical Officer, which is a good excuse to make sure [Area51](area51_server.md) and [Flux BBS](Projects/flux_bbs.md) run smoothly.
 
 See who else helped run TermiSoc… The names and role descriptions on this page are transcribed from an archived UPSU TermiSoc page.[^upsu-1996-97]
 

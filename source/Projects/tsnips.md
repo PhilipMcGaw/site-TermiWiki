@@ -8,6 +8,8 @@ tags:
   - projects
   - relation
   - references
+aliases:
+  - ../tsnips
 ---
 tSNIPS is the TermiSoc Network Integrated Password System being implemented for the TermiSoc servers. It consists of a PostgreSQL-8.1 user database and a collection of applications to manipulate that database.
 

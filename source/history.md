@@ -42,7 +42,7 @@ The rebirth of Termisoc
 
 [Esra](systems.md#esra) replaced with Banana
 
-[Flux BBS](flux_bbs.md) found itself a new home too.
+[Flux BBS](Projects/flux_bbs.md) found itself a new home too.
 pre 2003
 
 October 1999 - Founding of the [DCLUG](Glossary/dclug.md)

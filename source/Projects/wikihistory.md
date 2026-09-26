@@ -8,6 +8,8 @@ tags:
   - "projects"
   - "relation"
   - "references"
+aliases:
+  - ../wikihistory
 ---
 
 The old Termisoc website had no real source of information about the society itself, beyond some poorly maintained pages. The WikiHistory was to be the hub of information about society events, both past and present, along with current and past members. The site also gives us the opportunity to record details of events and socials in a more detailed and permanent manner than the TermiBlog.

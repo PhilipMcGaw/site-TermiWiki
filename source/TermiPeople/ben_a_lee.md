@@ -46,7 +46,7 @@ At the AGM in February 2005, Ben successfully bribed his way into the position o
 The following year, despite wishing to give up the technical role, Ben was voted in as both [Secretary](../secretary.md) and Technical Officer. In 2008 he became President after [[rich_jeffery|Rich Jeffery]] graduated. During a Plymouth Marine Laboratory industrial placement he worked with JavaScript despite having declared an aversion to web programming; refactoring followed, often with extreme prejudice. He was replaced as President at the next AGM and returned for his final year.
 
 ## Last Sighting
-At the time of the source profiles, Ben was reported to spend most of his time in his room, fiddling with computers and listening to U2 or The Sisters of Mercy. Projects mentioned include finishing [TermiHelp](../termihelp.md), writing an operating system, learning C++ and German, experimenting with Python, and installing Debian on as many computers as possible.
+At the time of the source profiles, Ben was reported to spend most of his time in his room, fiddling with computers and listening to U2 or The Sisters of Mercy. Projects mentioned include finishing [TermiHelp](../Projects/termihelp.md), writing an operating system, learning C++ and German, experimenting with Python, and installing Debian on as many computers as possible.
 
 ## Interesting Fact
 Ben has occasionally been known to wear clothing that is not black. Other reported facts are that he never blinks, eats one mouse a week on Tuesdays, is a seasoned Fundie hunter, and collects ageing hardware.

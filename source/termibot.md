@@ -6,7 +6,7 @@ created: 2023-01-02
 ---
 # TermiBot
 
-TermiBot haunts [TermiChat](termichat.md), providing services such as URL shortening and generalised abuse.
+TermiBot haunts [TermiChat](Projects/termichat.md), providing services such as URL shortening and generalised abuse.
 
 ## Author
 

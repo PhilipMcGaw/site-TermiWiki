@@ -93,7 +93,7 @@ The University of Plymouth Robotics Society is the present-day RoboSoc. It welco
 
 ## Historical TermiSoc and CompSoc resources
 
-- [External historical evidence](termisoc_external_evidence.md) — independently hosted DCLUG, Arduino, GitHub, presentation and former-chair material, with source dates and caveats.
+- [External historical evidence](Projects/termisoc_external_evidence.md) — independently hosted DCLUG, Arduino, GitHub, presentation and former-chair material, with source dates and caveats.
 - [TermiSoc’s archived About page (2012)](https://web.archive.org/web/20120901224240/http://termisoc.org/about/) describes the society’s workshops, tutorials, socials, IRC channel, mailing list, wiki and other community services.
 - [TermiSoc’s March 2010 news archive](https://web.archive.org/web/20120902235639/http://termisoc.org/2010/03/) preserves contemporary event notices, including tutorials and the 2010 AGM.
 - [compsoc.org.uk (1998 archive)](https://web.archive.org/web/19981205105645/http://www.compsoc.org.uk/) describes an informal UK-wide network of university computer societies, coordinated initially by Manchester University Computer Society. The [1998–99 TermiSoc executive record](termiexec_1998-1999.md) says its Projects Officer was getting TermiSoc involved in the project.

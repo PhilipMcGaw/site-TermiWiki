@@ -8,6 +8,8 @@ tags:
   - "projects"
   - "relation"
   - "references"
+aliases:
+  - ../termimame
 ---
 # TermiMAME
 
@@ -19,7 +21,7 @@ Here follows a discussion page about possibilities:
 hardware
 
     The actual cabinet
-        [rich](TermiPeople/richard_pettigrew.md)/[skippy](TermiPeople/philip_mcgaw.md)'s plans
+        [rich](../TermiPeople/richard_pettigrew.md)/[skippy](../TermiPeople/philip_mcgaw.md)'s plans
         upright or cocktail cabinet 
     screen size
         what's the minimum size we want to go with and where and for how much 

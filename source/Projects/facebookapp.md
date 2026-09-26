@@ -8,6 +8,8 @@ tags:
   - "projects"
   - "relation"
   - "references"
+aliases:
+  - ../facebookapp
 ---
 # Facebookapp
 

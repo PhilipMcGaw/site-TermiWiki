@@ -13,12 +13,14 @@ tags:
   - chris_hunt
   - chris_jenkins
   - christine_harrison
+aliases:
+  - ../back_to_pong
 ---
 # Back to Pong
 
-**"Back To Pong"** was a concept for a new podcast, recorded a day after a particularly raucous party at [Rich's](TermiPeople/rich_jeffery.md) flat somewhere between 2007 and 2008.
+**"Back To Pong"** was a concept for a new podcast, recorded a day after a particularly raucous party at [Rich's](../TermiPeople/rich_jeffery.md) flat somewhere between 2007 and 2008.
 
-It was a joint effort between [Christopher "chrishunt / Thisisthechris" Hunt](TermiPeople/chris_hunt.md)  [Hunt](TermiPeople/chris_hunt.md), Jenkins|Chris 'cj' Jenkins and [Rich Jeffery](TermiPeople/rich_jeffery.md), with research input by [Harrison](TermiPeople/christine_harrison.md).
+It was a joint effort between [Christopher "chrishunt / Thisisthechris" Hunt](../TermiPeople/chris_hunt.md)  [Hunt](../TermiPeople/chris_hunt.md), Jenkins|Chris 'cj' Jenkins and [Rich Jeffery](../TermiPeople/rich_jeffery.md), with research input by [Harrison](../TermiPeople/christine_harrison.md).
 
 A pilot was recorded but never completed due to some missing items (most importantly, the rules of the podcast themselves).
 ## The pilot script

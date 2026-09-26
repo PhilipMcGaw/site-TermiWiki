@@ -10,7 +10,7 @@ tags:
 ---
 
 [Jon Still](TermiPeople/jon_still.md)
-Jon is the President of TermiSoc. Sits around and moans at people till they do things. Can often be found tinkering with [Area51](area51_server.md) or keeping an eye on [Flux BBS](flux_bbs.md)…
+Jon is the President of TermiSoc. Sits around and moans at people till they do things. Can often be found tinkering with [Area51](area51_server.md) or keeping an eye on [Flux BBS](Projects/flux_bbs.md)…
 
 [Rob Callaghan](TermiPeople/rob_callaghan.md)
 Rob is the Secretary of TermiSoc - he keeps an eye on all the paperwork for us and jumps on people when they're naughty…a dire threat indeed.

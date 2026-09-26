@@ -24,7 +24,7 @@ Mail me at pookey@pookey.co.uk and I'll sort all your problems out!
 
 Hopefully next academic year, that's September 2003 we are going to try to revive Termisoc. So if you have any ideas about what we could offer students at Plymouth University other than the awesome flux ;) and web hosting please email me at moose@termisoc.org! Cheers, Moose.
 
-[bbs#FluxWeb](flux_bbs.md)
+[bbs#FluxWeb](Projects/flux_bbs.md)
 
 If you didn't already know flux is now accessible via your web browsers, just point it to https://flux.termisoc.org/fluxweb. All the usual features are there including Boards, Email and Chat.
 
@@ -34,7 +34,7 @@ TermiSoc Games Server
 
 The lovely people at Fat Chilli (http://www.fatchilli.net) have offered Termisoc a games server. This is a 2.4GHz machine with 1GB of RAM and comes with 10GB of bandwidth per month. For those who care it's also rack-mounted - which makes me happy. Come back later for announcements on organised online gaming events. - Ryan
 
-[TIME](time.md) Project Under Way
+[TIME](Projects/time.md) Project Under Way
 
 A group of second year Computing students have had the go-ahead from the TermiSoc committee to start work on a dedicated online meeting/messaging environment for you - TermiSoc's members… (http://www.termisoc.org/termisoc/timeproject.php)
 
@@ -42,7 +42,7 @@ A group of second year Computing students have had the go-ahead from the TermiSo
 
 March 2004
 
-[CD Library](the_cd_library.md)
+[CD Library](Projects/the_cd_library.md)
 
 We will soon be launching the Termisoc CD Library. This will comprise of a large amount of open-source software including Linux distros, Solaris, oracle and StarOffice. For more information keep watching http://cd.termisoc.org
 
