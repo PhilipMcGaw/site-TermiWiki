@@ -22,6 +22,8 @@ Alex Charrett supplied three public Internet Archive links on 18 September 2026.
 
 On 26 September 2026, the project maintainer supplied a screenshot of the Messenger exchange with the account named Alex Charrett. The screenshot shows Alex saying that he still has the paper invoice, that a scan is in the comments of the Facebook post, that he may have a backup, and that the Internet Archive has useful material. He asks who currently has the domain because he has lost track. The screenshot also shows the three archive URLs listed above. After a “Yesterday” divider, Alex asks for the maintainer's email address so he can send the scan without Facebook compression; the maintainer supplies it. The maintainer reports that this exchange led to Alex emailing the higher-resolution invoice scan, received on 25 September 2026 at 15:43 BST and documented in [[../evidence/2026-09-17_network-solutions-termisoc-org-invoice/README|the invoice evidence record]]. The screenshot shows the lead-in and email-address exchange, not the email or attachment itself. The earlier exchange's calendar date is not visible. The screenshot itself is not retained in the repository; this concise summary records its research relevance without preserving private correspondence.
 
+A second screenshot supplied on 26 September 2026 shows the maintainer sending the three archive URLs to Alex at 10:48 and writing at 10:49, “I think Nick Charlton may hold the domain” and “there is a new comp soc, but they know nothing about termisoc”. These are the maintainer's statements in the conversation, not evidence from Nick Charlton or the current society. The domain-control hypothesis is tracked separately in [[../leads/2026-09-26_termisoc-domain-control-nick-charlton|an unverified lead]]. The screenshot itself is not retained.
+
 ## Direct evidence
 
 - The supplied Messenger screenshot directly shows the account named Alex Charrett making the statements summarised above and sharing the archive URLs. It does not independently verify that he still holds the paper invoice, that the Facebook comments contain a scan, that a backup exists, or who controls the domain.
@@ -44,6 +46,7 @@ The 1999 captures strengthen the early-history timeline but remain retrospective
 - **High:** The supplied screenshot visibly contains the described messages and archive URLs.
 - **Medium:** The messages were sent by Alex Charrett; attribution relies on the displayed Messenger account name and conversation context, not independently verified account ownership.
 - **Unverified:** The physical invoice's present location, the scan's presence in Facebook comments, the existence of a backup, and current domain control.
+- **High:** The second supplied screenshot visibly shows the maintainer making the statements about Nick Charlton and the current CompSoc; **Unverified** as to whether those statements are factually correct.
 - **High:** The three links identify the cited Internet Archive capture timestamps and target URLs; current retrieval was blocked by the web interface in this pass.
 
 ## Unresolved questions
